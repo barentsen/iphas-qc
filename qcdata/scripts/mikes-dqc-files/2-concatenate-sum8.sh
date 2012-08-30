@@ -1,8 +1,11 @@
 #!/bin/bash
 
+# This script will run through Mike's iphas directory and concatenate all 
+# the summary.sum8 files into a single "sum8.concatenated" file
+
 OUTPUT="sum8.concatenated"
 
-# Cope the header line from one of the files
+# Copy the header line from one of the files
 HEADER=`head -n1 "downloaded/apm3.ast.cam.ac.uk/~mike/iphas/aug2010/dqcinfo/summary.sum8"`
 echo $HEADER > $OUTPUT
 
