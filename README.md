@@ -9,4 +9,5 @@ Quality control scripts relating to the IPHAS survey
 
 ### License
 
-Copyright, the authors.
+Copyright, the authors 2012.
+You are required to contact the authors if you wish to use the contents of this repository.
