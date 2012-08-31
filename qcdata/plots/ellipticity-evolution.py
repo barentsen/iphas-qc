@@ -2,7 +2,9 @@ from pylab import *
 import numpy as np
 import pyfits
 
-d = pyfits.getdata("../mikes-dqc-data.fits", 1)
+#d = pyfits.getdata("../mikes-dqc-data.fits", 1)
+d = pyfits.getdata("../mikes-dqc-data-iphas-and-uvex.fits", 1)
+
 
 #for t in d.time:
 #	print t
@@ -33,7 +35,7 @@ for varname in ["years", "n_bad", "n_all", "fractions"]:
 
 
 figure()
-title("How many IPHAS exposures had ellipticity > 0.2?", fontsize=26)
+title("Fraction of IPHAS/UVEX exposures with ellipticity > 0.2", fontsize=24)
 xlabel("Year", fontsize=22)
 ylabel("Fraction [%]", fontsize=22)
 #scatter(t, d.ellipt)
@@ -47,11 +49,12 @@ for i, myyear in enumerate(years):
 		horizontalalignment="center")
 
 ax = axes()
+ax.title.set_y(1.02) # Push title up
 loc = matplotlib.ticker.FixedLocator(years)
 ax.xaxis.set_major_locator(loc)
 
 
 xlim([2002,2013])
 #ylim([0,8])
-savefig("iphas-ellipticity-evolution.png", dpi=120)
+savefig("iphas-uvex-ellipticity-evolution.png", dpi=120)
 show()
