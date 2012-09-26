@@ -1,6 +1,8 @@
 """
 Script to download INT observing logs
 for the purpose of analyzing IPHAS survey observer comments
+
+Copyright, the authors 2012.
 """
 import mechanize
 import datetime

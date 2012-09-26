@@ -10,7 +10,7 @@ csv_byrun = open("logs_byrun.csv", "w")
 
 # CSV headers
 csv_bynight.write("night,observer,temp_avg,hum_avg,lost_weather,lost_technical,lost_other,comments_weather,comments_night\n")
-csv_byrun.write("run,ra,dec,night,observer,temp_avg,hum_avg,lost_weather,lost_technical,lost_other,comments_weather,comments_night,comments_exposure\n")
+csv_byrun.write("run,name,ra,dec,night,observer,temp_avg,hum_avg,lost_weather,lost_technical,lost_other,comments_weather,comments_night,comments_exposure\n")
 
 
 for filename in sorted(os.listdir("downloaded")):
@@ -68,13 +68,14 @@ for filename in sorted(os.listdir("downloaded")):
 		m = re.match("^\s+(\d+).*WFC", line, re.M|re.S)
 		if m:
 			run = m.group(1).strip()
+			name = line[8:25].strip()
 			ra = line[25:36].strip()
 			dec = line[37:48].strip()
 			comments = line[121:].strip().replace('"', '""')
 
 
-			out = "%s,%s,%s,%s,\"%s\",%.1f,%.1f,%s,%s,%s,\"%s\",\"%s\",\"%s\"\n" % \
-					(run, ra, dec, \
+			out = "%s,\"%s\",%s,%s,%s,\"%s\",%.1f,%.1f,%s,%s,%s,\"%s\",\"%s\",\"%s\"\n" % \
+					(run, name, ra, dec, \
 					night, observer, \
 					np.mean(np.array(temp, dtype="float")), \
 					np.mean(np.array(hum, dtype="float")), \

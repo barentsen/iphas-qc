@@ -12,7 +12,7 @@ import pyfits
 
 
 
-d = pyfits.getdata("iphas-fields-observed.fits", 1)
+d = pyfits.getdata("../qcdata/scripts/iphas-fields-observed.fits", 1)
 
 csv_missing = open("1-the-missing.txt", "w")
 csv_horrible = open("2-the-horrible.txt", "w")
