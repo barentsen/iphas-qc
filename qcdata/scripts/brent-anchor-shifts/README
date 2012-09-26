@@ -1,0 +1,8 @@
+With bated breath, I hand over a file that contains the zp shifts that were probably applied to the anchors to 'rationalise' them.  You might like to think
+of them as best-guess running means, that try to deal with nightly distortions
+due to varying standard-field choices, and the uncertainty inherent in the CASU calibration process.  Some of the larger shifts present in this file were inspired by features seen in the results of calibration runs that preceded april_run2.  Also note was taken of ING records of when the mirror was cleaned - it was reasonable to expect the zps to improve in a step-like fashion after a clean.
+ 
+In principle col5-col7 would contain the original zps, while col8-col9 contain the preferred shifted values.  Are the col5-col7 values the same as in finalsol3?  *I think they should be*  You'll see that zp(Ha) is always 3.14 less than zp(r).  Another thing that was done was to make sure zp(r)-zp(i) didn't vary 'excessively'. 
+ 
+It would be interesting to see what the application of these shifts would do to
+stats of the differences between the anchors and their APASS counterparts.  Is there improvement?
