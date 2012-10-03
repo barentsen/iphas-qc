@@ -1,0 +1,433 @@
+r937427.fit is not a target (FLAT)
+r937428.fit is not a target (BIAS)
+r937429.fit is not a target (BIAS)
+r937430.fit is not a target (BIAS)
+r937431.fit is not a target (BIAS)
+r937432.fit is not a target (BIAS)
+r937433.fit is not a target (BIAS)
+r937434.fit is not a target (BIAS)
+r937435.fit is not a target (BIAS)
+r937436.fit is not a target (BIAS)
+r937437.fit is not a target (BIAS)
+r937438.fit is not a target (BIAS)
+r937439.fit is not a target (BIAS)
+r937440.fit is not a target (BIAS)
+r937441.fit is not a target (BIAS)
+r937442.fit is not a target (BIAS)
+r937443.fit is not a target (BIAS)
+r937444.fit is not a target (BIAS)
+r937445.fit is not a target (BIAS)
+r937446.fit is not a target (BIAS)
+r937447.fit is not a target (BIAS)
+r937448.fit is not a target (BIAS)
+r937449.fit is not a target (BIAS)
+r937450.fit is not a target (BIAS)
+r937451.fit is not a target (BIAS)
+r937452.fit is not a target (BIAS)
+r937453.fit is not a target (BIAS)
+r937454.fit is not a target (BIAS)
+r937455.fit is not a target (BIAS)
+r937456.fit is not a target (BIAS)
+r937457.fit is not a target (BIAS)
+r937458.fit is not a target (SKY)
+r937459.fit is not a target (SKY)
+r937460.fit is not a target (SKY)
+r937461.fit is not a target (SKY)
+r937462.fit is not a target (SKY)
+r937463.fit is not a target (SKY)
+r937464.fit is not a target (SKY)
+r937465.fit is not a target (SKY)
+r937466.fit is not a target (SKY)
+r937467.fit is not a target (SKY)
+r937468.fit is not a target (SKY)
+r937469.fit is not a target (SKY)
+r937470.fit is not a target (SKY)
+r937471.fit is not a target (SKY)
+r937472.fit is not a target (SKY)
+r937473.fit is not a target (SKY)
+r937474.fit is not a target (SKY)
+r937475.fit is not a target (SKY)
+r937476.fit is not a target (SKY)
+r937477.fit is not a target (SKY)
+r937478.fit is not a target (SKY)
+r937479.fit is not a target (SKY)
+r937480.fit is not a target (SKY)
+r937481.fit is not a target (SKY)
+r937482.fit is not a target (FOCUS)
+r937483.fit  5.91  1.95 0.077    10.6 from  22 sources of SA110-246 He1
+r937484.fit  7.44  2.46 0.154     9.6 from  10 sources of SA110-246 r
+r937485.fit  0.85  0.28 0.177    23.0 from   9 sources of SA110-246 U
+r937486.fit  7.42  2.45 0.035     8.2 from   6 sources of SA110-246 g
+r937487.fit  5.98  1.97 0.072    11.3 from  28 sources of SA110-246 Ha
+r937488.fit  4.59  1.51 0.050     5.0 from  16 sources of SA110-246 r
+r937489.fit  7.85  2.59 0.084     6.7 from   5 sources of SA110-246 i
+r937490.fit  4.55  1.50 0.108    -2.9 from  11 sources of SA112-250 Ha
+r937491.fit  8.67  2.86 0.128    -3.0 from   4 sources of SA112-250 r
+r937492.fit  4.71  1.55 0.025    -2.1 from  11 sources of SA112-250 i
+r937493.fit  4.81  1.59 0.079     5.2 from  14 sources of SA112-250 He1
+r937494.fit  8.92  2.94 0.083    -2.3 from   4 sources of SA112-250 r
+r937495.fit  4.75  1.57 0.118    51.7 from   8 sources of SA112-250 U
+r937496.fit  6.36  2.10 0.071    -4.1 from   4 sources of SA112-250 g
+r937497.fit is not a target (FOCUS)
+r937498.fit is not a target (FOCUS)
+r937499.fit  8.81  2.91 0.119    32.0 from  60 sources of G24-9 He1
+r937500.fit  7.89  2.60 0.100   158.7 from 214 sources of G24-9 r
+r937501.fit  7.50  2.48 0.074    93.7 from  43 sources of G24-9 U
+r937502.fit  6.84  2.26 0.075   162.9 from 238 sources of G24-9 g
+r937503.fit  5.42  1.79 0.084    48.9 from 197 sources of G24-9 Ha
+r937504.fit  5.69  1.88 0.062   153.7 from 349 sources of G24-9 r
+r937505.fit  6.63  2.19 0.059   207.4 from 343 sources of G24-9 i
+r937506.fit  5.75  1.90 0.069    46.0 from  81 sources of intphas_4923o Ha
+r937507.fit  4.22  1.39 0.123   150.5 from 430 sources of intphas_4923o r
+r937508.fit  5.69  1.88 0.090   126.9 from 296 sources of intphas_4923o i
+r937509.fit  6.12  2.02 0.103    44.1 from 172 sources of intphas_4997o Ha
+r937510.fit  6.06  2.00 0.100   141.7 from 452 sources of intphas_4997o r
+r937511.fit  3.93  1.30 0.105   105.7 from 1094 sources of intphas_4997o i
+r937512.fit  5.77  1.90 0.105    34.1 from 108 sources of intphas_5067 Ha
+r937513.fit  5.75  1.90 0.089   151.7 from 239 sources of intphas_5067 r
+r937514.fit  5.45  1.80 0.073    92.7 from 323 sources of intphas_5067 i
+r937515.fit  4.97  1.64 0.071    42.0 from  99 sources of intphas_5067o Ha
+r937516.fit  4.66  1.54 0.070   143.4 from 328 sources of intphas_5067o r
+r937517.fit  4.19  1.38 0.080    89.0 from 543 sources of intphas_5067o i
+r937518.fit  8.92  2.94 0.258    35.2 from 241 sources of intphas_5102o Ha
+r937519.fit  5.82  1.92 0.099    85.0 from 849 sources of intphas_5102o r
+r937520.fit  4.47  1.48 0.108    56.3 from 1011 sources of intphas_5102o i
+r937521.fit  8.61  2.84 0.199    54.3 from 108 sources of intphas_5163o Ha
+r937522.fit  5.14  1.70 0.124   153.5 from 632 sources of intphas_5163o r
+r937523.fit  4.86  1.60 0.113    71.2 from 710 sources of intphas_5163o i
+r937524.fit  5.78  1.91 0.099    29.3 from 204 sources of intphas_5378 Ha
+r937525.fit  8.44  2.79 0.093   173.7 from 273 sources of intphas_5378 r
+r937526.fit  5.71  1.88 0.100   108.6 from 538 sources of intphas_5378 i
+r937527.fit  5.90  1.95 0.082    45.4 from 163 sources of intphas_5378o Ha
+r937528.fit  4.48  1.48 0.086   155.4 from 936 sources of intphas_5378o r
+r937529.fit  5.26  1.74 0.109   129.5 from 632 sources of intphas_5378o i
+r937530.fit  6.50  2.15 0.107    40.3 from 244 sources of intphas_5428 Ha
+r937531.fit  5.07  1.67 0.103   125.4 from 1117 sources of intphas_5428 r
+r937532.fit  4.89  1.61 0.109    98.2 from 895 sources of intphas_5428 i
+r937533.fit  7.88  2.60 0.123    42.3 from 128 sources of intphas_4997o Ha
+r937534.fit  4.88  1.61 0.116   121.6 from 664 sources of intphas_4997o r
+r937535.fit  7.12  2.35 0.110   124.0 from 335 sources of intphas_4997o i
+r937536.fit  6.40  2.11 0.072    44.8 from 226 sources of intphas_5102o Ha
+r937537.fit  6.33  2.09 0.108   132.9 from 738 sources of intphas_5102o r
+r937538.fit  5.56  1.83 0.122   112.2 from 632 sources of intphas_5102o i
+r937539.fit  6.55  2.16 0.069    50.1 from 109 sources of intphas_5163o Ha
+r937540.fit  6.29  2.08 0.095   154.4 from 346 sources of intphas_5163o r
+r937541.fit  4.39  1.45 0.100   119.2 from 758 sources of intphas_5163o i
+r937542.fit  6.29  2.08 0.089    33.6 from 173 sources of intphas_5378 Ha
+r937543.fit  6.01  1.98 0.103   131.3 from 525 sources of intphas_5378 r
+r937544.fit  5.33  1.76 0.098   111.1 from 620 sources of intphas_5378 i
+r937545.fit  7.08  2.34 0.120    38.0 from 203 sources of intphas_5428 Ha
+r937546.fit  5.55  1.83 0.102    96.5 from 888 sources of intphas_5428 r
+r937547.fit  6.50  2.15 0.117   111.8 from 542 sources of intphas_5428 i
+r937548.fit  6.86  2.26 0.090     4.1 from  12 sources of SA112-250 Ha
+r937549.fit  5.96  1.97 0.029     3.6 from   6 sources of SA112-250 r
+r937550.fit  6.25  2.06 0.019     5.7 from   8 sources of SA112-250 i
+r937551.fit  7.26  2.40 0.056    56.3 from 128 sources of G24-9 Ha
+r937552.fit  7.38  2.44 0.048   109.9 from 205 sources of G24-9 r
+r937553.fit  7.57  2.50 0.047   217.0 from 253 sources of G24-9 i
+r937554.fit  8.54  2.82 0.091    31.4 from  92 sources of intphas_0191 Ha
+r937555.fit  6.94  2.29 0.058   135.7 from 346 sources of intphas_0191 r
+r937556.fit  8.65  2.85 0.073   120.8 from 162 sources of intphas_0191 i
+r937557.fit  7.84  2.59 0.073    25.2 from 101 sources of intphas_0191o Ha
+r937558.fit  8.17  2.70 0.101   131.0 from 222 sources of intphas_0191o r
+r937559.fit  6.23  2.06 0.079    98.3 from 260 sources of intphas_0191o i
+r937560.fit  8.52  2.81 0.041    22.1 from  47 sources of intphas_0192 Ha
+r937561.fit  8.35  2.76 0.099   125.4 from 132 sources of intphas_0192 r
+r937562.fit  6.76  2.23 0.069    95.5 from 173 sources of intphas_0192 i
+r937563.fit  7.95  2.62 0.049    22.7 from  52 sources of intphas_0192o Ha
+r937564.fit  8.66  2.86 0.096   130.2 from 157 sources of intphas_0192o r
+r937565.fit  7.55  2.49 0.094   109.6 from 152 sources of intphas_0192o i
+r937566.fit  7.31  2.41 0.076    24.8 from  64 sources of intphas_0193 Ha
+r937567.fit 10.00  3.30 0.110   136.6 from  99 sources of intphas_0193 r
+r937568.fit  7.75  2.56 0.077   101.9 from 122 sources of intphas_0193 i
+r937569.fit  7.97  2.63 0.064    23.5 from  56 sources of intphas_0193o Ha
+r937570.fit  7.94  2.62 0.066   123.2 from 145 sources of intphas_0193o r
+r937571.fit  7.84  2.59 0.047    98.0 from 133 sources of intphas_0193o i
+r937572.fit  7.82  2.58 0.071    30.1 from 113 sources of intphas_0194 Ha
+r937573.fit  7.87  2.60 0.065   124.8 from 305 sources of intphas_0194 r
+r937574.fit  8.59  2.83 0.068   114.4 from 200 sources of intphas_0194 i
+r937575.fit  8.50  2.81 0.090    29.6 from  98 sources of intphas_0194o Ha
+r937576.fit  9.13  3.01 0.076   121.3 from 234 sources of intphas_0194o r
+r937577.fit  9.06  2.99 0.090    95.1 from 173 sources of intphas_0194o i
+r937578.fit  8.04  2.65 0.066    12.4 from  90 sources of intphas_0195 Ha
+r937579.fit  8.37  2.76 0.046    80.8 from 229 sources of intphas_0195 r
+r937580.fit  8.41  2.78 0.100    46.0 from 169 sources of intphas_0195 i
+r937581.fit  8.39  2.77 0.047    19.1 from  87 sources of intphas_0195o Ha
+r937582.fit  7.87  2.60 0.054    91.2 from 274 sources of intphas_0195o r
+r937583.fit  6.15  2.03 0.060    72.6 from 283 sources of intphas_0195o i
+r937584.fit  7.97  2.63 0.067    20.1 from  34 sources of intphas_0196 Ha
+r937585.fit  7.33  2.42 0.047   102.8 from  91 sources of intphas_0196 r
+r937586.fit  8.42  2.78 0.120    99.6 from  87 sources of intphas_0196 i
+r937587.fit  7.22  2.38 0.074    21.8 from  38 sources of intphas_0196o Ha
+r937588.fit  8.66  2.86 0.090    88.7 from  71 sources of intphas_0196o r
+r937589.fit  8.11  2.68 0.056    86.1 from  73 sources of intphas_0196o i
+r937590.fit  7.68  2.53 0.039    15.9 from  64 sources of intphas_0197 Ha
+r937591.fit  9.00  2.97 0.111    95.0 from 155 sources of intphas_0197 r
+r937592.fit  8.70  2.87 0.071    83.9 from 123 sources of intphas_0197 i
+r937593.fit  7.41  2.45 0.075    15.9 from  64 sources of intphas_0197o Ha
+r937594.fit  8.03  2.65 0.072    93.5 from 182 sources of intphas_0197o r
+r937595.fit  7.56  2.49 0.072    79.4 from 157 sources of intphas_0197o i
+r937596.fit  7.23  2.39 0.073    15.8 from  91 sources of intphas_0198 Ha
+r937597.fit  6.76  2.23 0.052    83.2 from 294 sources of intphas_0198 r
+r937598.fit  6.75  2.23 0.067    70.4 from 244 sources of intphas_0198 i
+r937599.fit  7.10  2.34 0.064    17.9 from 120 sources of intphas_0198o Ha
+r937600.fit  6.67  2.20 0.078    69.1 from 317 sources of intphas_0198o r
+r937601.fit  6.11  2.02 0.084    70.9 from 291 sources of intphas_0198o i
+r937602.fit  6.68  2.20 0.068    16.8 from 146 sources of intphas_0199 Ha
+r937603.fit  5.99  1.98 0.090    97.0 from 486 sources of intphas_0199 r
+r937604.fit  6.14  2.03 0.083    76.5 from 314 sources of intphas_0199 i
+r937605.fit  6.87  2.27 0.080    15.7 from 154 sources of intphas_0199o Ha
+r937606.fit  7.11  2.35 0.071    91.7 from 356 sources of intphas_0199o r
+r937607.fit  8.16  2.69 0.086    82.0 from 201 sources of intphas_0199o i
+r937608.fit  6.61  2.18 0.063    14.9 from  61 sources of intphas_0200 Ha
+r937609.fit  6.37  2.10 0.060    88.1 from 187 sources of intphas_0200 r
+r937610.fit  6.39  2.11 0.086    84.7 from 178 sources of intphas_0200 i
+r937611.fit  7.08  2.34 0.080    20.4 from  63 sources of intphas_0200o Ha
+r937612.fit  6.10  2.01 0.078    90.7 from 191 sources of intphas_0200o r
+r937613.fit  7.36  2.43 0.104    93.7 from 134 sources of intphas_0200o i
+r937614.fit  7.03  2.32 0.059    12.0 from  93 sources of intphas_0203 Ha
+r937615.fit  6.35  2.10 0.063    79.8 from 287 sources of intphas_0203 r
+r937616.fit  5.97  1.97 0.050    71.2 from 237 sources of intphas_0203 i
+r937617.fit  7.31  2.41 0.061    12.1 from  83 sources of intphas_0203o Ha
+r937618.fit  8.54  2.82 0.056    84.6 from 166 sources of intphas_0203o r
+r937619.fit  6.51  2.15 0.108    75.5 from 220 sources of intphas_0203o i
+r937620.fit  7.45  2.46 0.070    17.7 from  80 sources of intphas_0211 Ha
+r937621.fit  8.83  2.91 0.090    95.3 from 177 sources of intphas_0211 r
+r937622.fit  6.38  2.11 0.066    74.0 from 238 sources of intphas_0211 i
+r937623.fit  8.30  2.74 0.067    22.3 from  54 sources of intphas_0211o Ha
+r937624.fit  9.07  2.99 0.060    98.9 from 128 sources of intphas_0211o r
+r937625.fit  7.48  2.47 0.055    94.0 from 161 sources of intphas_0211o i
+r937626.fit  7.48  2.47 0.077     4.4 from  13 sources of Feige110 Ha
+r937627.fit  7.36  2.43 0.077     4.6 from   7 sources of Feige110 r
+r937628.fit  5.90  1.95 0.042     6.8 from   8 sources of Feige110 i
+r937629.fit  7.74  2.55 0.060     7.1 from  14 sources of Feige110 He1
+r937630.fit  5.98  1.97 0.040     4.0 from   8 sources of Feige110 r
+r937631.fit  5.28  1.74 0.333    47.5 from   2 sources of Feige110 U
+r937632.fit  7.39  2.44 0.008    46.8 from   1 sources of Feige110 g
+r937633.fit  8.59  2.83 0.069   136.5 from  35 sources of str82_0307o i
+r937634.fit  8.39  2.77 0.041    53.9 from  31 sources of str82_0307o g
+r937635.fit  7.30  2.41 0.027    99.2 from  32 sources of str82_0307o r
+r937636.fit  6.07  2.00 0.040    21.4 from  28 sources of str82_0307o Ha
+r937637.fit  6.81  2.25 0.045   143.4 from  45 sources of str82_0308 i
+r937638.fit  8.08  2.67 0.058    57.8 from  36 sources of str82_0308 g
+r937639.fit  7.59  2.50 0.025   103.0 from  42 sources of str82_0308 r
+r937640.fit  5.02  1.66 0.041    20.9 from  22 sources of str82_0308 Ha
+r937641.fit  7.02  2.32 0.024   135.3 from  45 sources of str82_0308o i
+r937642.fit  8.27  2.73 0.033    56.0 from  34 sources of str82_0308o g
+r937643.fit  7.04  2.32 0.038   104.4 from  46 sources of str82_0308o r
+r937644.fit  4.50  1.49 0.059    20.9 from  23 sources of str82_0308o Ha
+r937645.fit  6.94  2.29 0.042   139.0 from  47 sources of str82_0312o i
+r937646.fit  9.60  3.17 0.031    43.3 from  31 sources of str82_0312o g
+r937647.fit  8.12  2.68 0.028   108.0 from  41 sources of str82_0312o r
+r937648.fit  7.45  2.46 0.028    23.4 from  31 sources of str82_0312o Ha
+r937649.fit  5.80  1.91 0.035   138.4 from  52 sources of str82_0313 i
+r937650.fit  6.96  2.30 0.035    54.8 from  40 sources of str82_0313 g
+r937651.fit  8.44  2.79 0.069   102.7 from  42 sources of str82_0313 r
+r937652.fit  6.96  2.30 0.066    21.0 from  34 sources of str82_0313 Ha
+r937653.fit  6.13  2.02 0.039   134.1 from  46 sources of str82_0313o i
+r937654.fit  6.90  2.28 0.049    51.7 from  37 sources of str82_0313o g
+r937655.fit  6.35  2.10 0.061   104.4 from  54 sources of str82_0313o r
+r937656.fit  6.25  2.06 0.053    16.6 from  36 sources of str82_0313o Ha
+r937657.fit  6.59  2.17 0.045   143.9 from  32 sources of str82_0314 i
+r937658.fit  6.84  2.26 0.034    45.9 from  30 sources of str82_0314 g
+r937659.fit  6.03  1.99 0.051    95.0 from  35 sources of str82_0314 r
+r937660.fit  5.08  1.68 0.066    15.0 from  24 sources of str82_0314 Ha
+r937661.fit  6.45  2.13 0.023   130.2 from  43 sources of str82_0314o i
+r937662.fit  6.76  2.23 0.034    45.2 from  35 sources of str82_0314o g
+r937663.fit  6.45  2.13 0.054    91.8 from  43 sources of str82_0314o r
+r937664.fit  6.92  2.28 0.062    13.9 from  26 sources of str82_0314o Ha
+r937665.fit  7.14  2.36 0.044   141.1 from  29 sources of str82_0443o i
+r937666.fit  7.71  2.54 0.063    56.8 from  25 sources of str82_0443o g
+r937667.fit  7.47  2.47 0.043   108.8 from  29 sources of str82_0443o r
+r937668.fit  5.47  1.81 0.069    18.3 from  22 sources of str82_0443o Ha
+r937669.fit  6.14  2.03 0.075   144.3 from  53 sources of str82_0447o i
+r937670.fit  8.36  2.76 0.029    56.7 from  28 sources of str82_0447o g
+r937671.fit  7.07  2.33 0.046   108.1 from  47 sources of str82_0447o r
+r937672.fit  5.42  1.79 0.057    16.5 from  27 sources of str82_0447o Ha
+r937673.fit  5.07  1.67 0.053   140.3 from  53 sources of str82_0449o i
+r937674.fit  6.74  2.22 0.078    55.8 from  37 sources of str82_0449o g
+r937675.fit  6.22  2.05 0.042   102.0 from  47 sources of str82_0449o r
+r937676.fit  6.55  2.16 0.041    16.3 from  25 sources of str82_0449o Ha
+r937677.fit  6.06  2.00 0.058   136.8 from  29 sources of str82_0581o i
+r937678.fit  8.36  2.76 0.031    49.8 from  21 sources of str82_0581o g
+r937679.fit  9.11  3.01 0.065    96.8 from  23 sources of str82_0581o r
+r937680.fit  4.22  1.39 0.053    19.7 from  19 sources of str82_0581o Ha
+r937681.fit  8.91  2.94 0.035   115.6 from  23 sources of str82_0582 i
+r937682.fit  8.27  2.73 0.071    51.0 from  25 sources of str82_0582 g
+r937683.fit  9.86  3.25 0.067    99.4 from  25 sources of str82_0582 r
+r937684.fit  4.40  1.45 0.069    55.0 from  17 sources of str82_0582 Ha
+r937685.fit  8.21  2.71 0.052   142.5 from  37 sources of str82_0582o i
+r937686.fit 11.24  3.71 0.047    50.2 from  22 sources of str82_0582o g
+r937687.fit  7.73  2.55 0.030    95.8 from  36 sources of str82_0582o r
+r937688.fit  4.26  1.41 0.072    53.2 from  16 sources of str82_0582o Ha
+r937689.fit  8.21  2.71 0.035   133.3 from  35 sources of str82_0583 i
+r937690.fit 10.04  3.31 0.036    48.8 from  32 sources of str82_0583 g
+r937691.fit  8.77  2.89 0.027   100.1 from  34 sources of str82_0583 r
+r937692.fit  8.18  2.70 0.024    53.4 from  28 sources of str82_0583 Ha
+r937693.fit  8.96  2.96 0.053   135.4 from  27 sources of str82_0583o i
+r937694.fit  7.64  2.52 0.048    47.7 from  32 sources of str82_0583o g
+r937695.fit  6.89  2.27 0.040   102.8 from  33 sources of str82_0583o r
+r937696.fit  7.15  2.36 0.051    16.6 from  28 sources of str82_0583o Ha
+r937697.fit  9.33  3.08 0.095   143.6 from  29 sources of str82_0586 i
+r937698.fit 10.04  3.31 0.076    49.8 from  27 sources of str82_0586 g
+r937699.fit  7.73  2.55 0.065    99.8 from  38 sources of str82_0586 r
+r937700.fit  6.76  2.23 0.045    17.1 from  24 sources of str82_0586 Ha
+r937701.fit  8.42  2.78 0.039   139.2 from  36 sources of str82_0586o i
+r937702.fit 10.23  3.38 0.034    47.9 from  29 sources of str82_0586o g
+r937703.fit  7.81  2.58 0.053    95.0 from  41 sources of str82_0586o r
+r937704.fit  5.39  1.78 0.063    15.9 from  23 sources of str82_0586o Ha
+r937705.fit  8.22  2.71 0.066   137.3 from  21 sources of str82_0587 i
+r937706.fit  7.41  2.45 0.047    52.1 from  22 sources of str82_0587 g
+r937707.fit  6.73  2.22 0.030   103.7 from  27 sources of str82_0587 r
+r937708.fit  4.47  1.48 0.060    16.9 from  22 sources of str82_0587 Ha
+r937709.fit  8.05  2.66 0.051   143.1 from  35 sources of str82_0587o i
+r937710.fit  8.05  2.66 0.050    51.4 from  33 sources of str82_0587o g
+r937711.fit  7.69  2.54 0.049   102.5 from  33 sources of str82_0587o r
+r937712.fit  5.44  1.80 0.073    18.2 from  25 sources of str82_0587o Ha
+r937713.fit  7.33  2.42 0.042     1.8 from  18 sources of Feige22 Ha
+r937714.fit 11.80  3.89 0.027     4.9 from  10 sources of Feige22 r
+r937715.fit  7.69  2.54 0.064     9.1 from  11 sources of Feige22 i
+r937716.fit  5.40  1.78 0.102    11.2 from  24 sources of Feige22 He1
+r937717.fit  7.24  2.39 0.054     8.0 from  12 sources of Feige22 r
+r937718.fit  4.67  1.54 0.120    40.0 from   6 sources of Feige22 U
+r937719.fit  7.87  2.60 0.058     1.3 from  11 sources of Feige22 g
+r937720.fit  4.42  1.46 0.080    29.8 from  23 sources of uvex_0837 He1
+r937721.fit 11.00  3.63 0.048   100.5 from  60 sources of uvex_0837 r
+r937722.fit  4.45  1.47 0.102    41.0 from  17 sources of uvex_0837 U
+r937723.fit  8.54  2.82 0.033    49.1 from  41 sources of uvex_0837 g
+r937724.fit  4.26  1.41 0.081    31.4 from  19 sources of uvex_0837o He1
+r937725.fit  9.23  3.05 0.037    99.8 from  81 sources of uvex_0837o r
+r937726.fit  4.27  1.41 0.129    42.5 from  14 sources of uvex_0837o U
+r937727.fit 10.73  3.54 0.051    52.8 from  26 sources of uvex_0837o g
+r937728.fit  8.90  2.94 0.067    34.7 from  24 sources of uvex_0867 He1
+r937729.fit  7.77  2.56 0.058    95.7 from 138 sources of uvex_0867 r
+r937730.fit  4.36  1.44 0.075    45.7 from  18 sources of uvex_0867 U
+r937731.fit  9.27  3.06 0.084    53.7 from  36 sources of uvex_0867 g
+r937732.fit  9.10  3.00 0.040    32.5 from  29 sources of uvex_0867o He1
+r937733.fit 10.31  3.40 0.063   102.1 from  65 sources of uvex_0867o r
+r937734.fit  4.93  1.63 0.054    40.8 from  26 sources of uvex_0867o U
+r937735.fit  9.05  2.99 0.080    48.3 from  38 sources of uvex_0867o g
+r937736.fit  8.26  2.73 0.047    37.1 from  62 sources of uvex_0779o He1
+r937737.fit  8.68  2.86 0.060   113.5 from 200 sources of uvex_0779o r
+r937738.fit 12.41  4.10 0.053    44.7 from  41 sources of uvex_0779o U
+r937739.fit 11.06  3.65 0.075    58.1 from  99 sources of uvex_0779o g
+r937740.fit  9.70  3.20 0.072    36.6 from  43 sources of uvex_0822o He1
+r937741.fit  7.07  2.33 0.061    59.3 from 310 sources of uvex_0822o r
+r937742.fit  8.85  2.92 0.045    35.7 from  52 sources of uvex_0822o U
+r937743.fit  7.58  2.50 0.062    28.6 from 184 sources of uvex_0822o g
+r937744.fit  8.89  2.93 0.065    32.5 from  44 sources of uvex_0843 He1
+r937745.fit  9.16  3.02 0.054   102.5 from 170 sources of uvex_0843 r
+r937746.fit 10.15  3.35 0.071    43.5 from  41 sources of uvex_0843 U
+r937747.fit  9.54  3.15 0.064    56.2 from 112 sources of uvex_0843 g
+r937748.fit  8.51  2.81 0.053    32.0 from  38 sources of uvex_0952 He1
+r937749.fit  8.68  2.86 0.044   101.6 from 107 sources of uvex_0952 r
+r937750.fit  7.45  2.46 0.038    38.4 from  30 sources of uvex_0952 U
+r937751.fit  7.37  2.43 0.063    52.8 from  73 sources of uvex_0952 g
+r937752.fit  5.76  1.90 0.039    20.1 from  23 sources of Feige22 He1
+r937753.fit  6.93  2.29 0.038    13.9 from  11 sources of Feige22 r
+r937754.fit  0.84  0.28 0.125    47.3 from   7 sources of Feige22 U
+r937755.fit  9.48  3.13 0.045     5.8 from  11 sources of Feige22 g
+r937756.fit  7.51  2.48 0.035     7.9 from  19 sources of Feige22 Ha
+r937757.fit  6.18  2.04 0.039     8.0 from   8 sources of Feige22 r
+r937758.fit  7.99  2.64 0.032    15.4 from  11 sources of Feige22 i
+r937759.fit  8.79  2.90 0.065   154.0 from  32 sources of str82_0846o i
+r937760.fit  6.90  2.28 0.025    55.9 from  35 sources of str82_0846o g
+r937761.fit  7.77  2.56 0.029   110.2 from  34 sources of str82_0846o r
+r937762.fit  7.24  2.39 0.039    26.7 from  34 sources of str82_0846o Ha
+r937763.fit  6.74  2.22 0.048   157.9 from  46 sources of str82_0851 i
+r937764.fit  7.18  2.37 0.020    53.3 from  37 sources of str82_0851 g
+r937765.fit  8.67  2.86 0.030   109.5 from  35 sources of str82_0851 r
+r937766.fit  7.73  2.55 0.044    25.0 from  32 sources of str82_0851 Ha
+r937767.fit  7.17  2.37 0.121   148.2 from  47 sources of str82_0851o i
+r937768.fit  9.37  3.09 0.114    49.5 from  35 sources of str82_0851o g
+r937769.fit  9.72  3.21 0.027    95.2 from  36 sources of str82_0851o r
+r937770.fit  7.14  2.36 0.068    23.2 from  28 sources of str82_0851o Ha
+r937771.fit  7.22  2.38 0.037   149.4 from  36 sources of str82_0852 i
+r937772.fit  7.13  2.35 0.061    50.2 from  37 sources of str82_0852 g
+r937773.fit  9.21  3.04 0.031   106.0 from  33 sources of str82_0852 r
+r937774.fit  5.67  1.87 0.066    24.1 from  25 sources of str82_0852 Ha
+r937775.fit  6.66  2.20 0.036   149.6 from  37 sources of str82_0852o i
+r937776.fit  7.76  2.56 0.029    50.5 from  31 sources of str82_0852o g
+r937777.fit 11.14  3.68 0.048   107.2 from  24 sources of str82_0852o r
+r937778.fit  5.45  1.80 0.038    25.1 from  25 sources of str82_0852o Ha
+r937779.fit  9.08  3.00 0.035   152.3 from  22 sources of str82_0855o i
+r937780.fit  4.62  1.52 0.038    56.2 from  18 sources of str82_0855o g
+r937781.fit  8.69  2.87 0.042   107.2 from  24 sources of str82_0855o r
+r937782.fit  4.46  1.47 0.052    25.6 from  21 sources of str82_0855o Ha
+r937783.fit  8.85  2.92 0.018   154.4 from  26 sources of str82_0856 i
+r937784.fit  9.73  3.21 0.075    53.2 from  23 sources of str82_0856 g
+r937785.fit  7.32  2.42 0.036   106.7 from  37 sources of str82_0856 r
+r937786.fit  7.91  2.61 0.025    24.0 from  30 sources of str82_0856 Ha
+r937787.fit  6.83  2.25 0.028   150.4 from  54 sources of str82_0856o i
+r937788.fit  8.72  2.88 0.037    50.1 from  38 sources of str82_0856o g
+r937789.fit  9.89  3.26 0.044   101.2 from  38 sources of str82_0856o r
+r937790.fit  8.04  2.65 0.041    25.7 from  34 sources of str82_0856o Ha
+r937791.fit  8.21  2.71 0.036   154.2 from  45 sources of str82_0857 i
+r937792.fit  8.22  2.71 0.038    51.1 from  39 sources of str82_0857 g
+r937793.fit  8.41  2.78 0.025   101.7 from  43 sources of str82_0857 r
+r937794.fit  5.35  1.77 0.054    22.7 from  23 sources of str82_0857 Ha
+r937795.fit  9.31  3.07 0.036   135.6 from  26 sources of str82_0857o i
+r937796.fit  4.82  1.59 0.064    47.2 from  23 sources of str82_0857o g
+r937797.fit  9.15  3.02 0.039    92.9 from  32 sources of str82_0857o r
+r937798.fit  5.30  1.75 0.044    19.8 from  24 sources of str82_0857o Ha
+r937799.fit  6.06  2.00 0.037   125.7 from  40 sources of str82_0858 i
+r937800.fit  8.70  2.87 0.050    47.2 from  34 sources of str82_0858 g
+r937801.fit  7.68  2.53 0.041    93.0 from  34 sources of str82_0858 r
+r937802.fit  7.62  2.51 0.035    22.2 from  36 sources of str82_0858 Ha
+r937803.fit  8.54  2.82 0.047   134.3 from  27 sources of str82_0858o i
+r937804.fit  9.21  3.04 0.043    52.1 from  21 sources of str82_0858o g
+r937805.fit  9.14  3.02 0.042   102.9 from  26 sources of str82_0858o r
+r937806.fit  4.97  1.64 0.077    21.8 from  21 sources of str82_0858o Ha
+r937807.fit  5.66  1.87 0.032   138.9 from  38 sources of str82_0859 i
+r937808.fit 10.69  3.53 0.038    45.8 from  22 sources of str82_0859 g
+r937809.fit  8.68  2.86 0.025   101.4 from  30 sources of str82_0859 r
+r937810.fit  1.72  0.57 0.053    25.2 from  19 sources of str82_0859 Ha
+r937811.fit 10.07  3.32 0.029   162.0 from  23 sources of str82_0859o i
+r937812.fit  8.36  2.76 0.026    46.9 from  31 sources of str82_0859o g
+r937813.fit  8.61  2.84 0.037   101.8 from  29 sources of str82_0859o r
+r937814.fit  7.83  2.58 0.052    21.2 from  26 sources of str82_0859o Ha
+r937815.fit  6.30  2.08 0.046   157.1 from  33 sources of str82_0860 i
+r937816.fit  7.15  2.36 0.050    53.1 from  29 sources of str82_0860 g
+r937817.fit  6.82  2.25 0.030    46.3 from  34 sources of str82_0860 r
+r937818.fit  5.08  1.68 0.046    24.8 from  21 sources of str82_0860 Ha
+r937819.fit  4.96  1.64 0.089     7.6 from  14 sources of Feige22 Ha
+r937820.fit 13.17  4.35 0.022     8.3 from   5 sources of Feige22 r
+r937821.fit  5.74  1.89 0.029    13.7 from  12 sources of Feige22 i
+r937822.fit  4.77  1.57 0.038    18.0 from  21 sources of Feige22 He1
+r937823.fit  7.24  2.39 0.015    12.5 from   9 sources of Feige22 r
+r937824.fit  3.88  1.28 0.158    46.5 from   7 sources of Feige22 U
+r937825.fit  8.67  2.86 0.037     4.9 from  11 sources of Feige22 g
+r937826.fit  4.46  1.47 0.085    31.9 from  23 sources of HZ4 He1
+r937827.fit 11.44  3.78 0.090    57.5 from  14 sources of HZ4 r
+r937828.fit  4.92  1.62 0.060    97.7 from  18 sources of HZ4 U
+r937829.fit  7.92  2.61 0.037    73.1 from  19 sources of HZ4 g
+r937830.fit  8.44  2.79 0.038   676.1 from 105 sources of HZ4 Ha
+r937831.fit  7.41  2.45 0.029   105.9 from  28 sources of HZ4 r
+r937832.fit  6.66  2.20 0.027   132.8 from  20 sources of HZ4 i
+r937833.fit is not a target (BIAS)
+r937834.fit is not a target (BIAS)
+r937835.fit is not a target (BIAS)
+r937836.fit is not a target (BIAS)
+r937837.fit is not a target (BIAS)
+r937838.fit is not a target (SKY)
+r937839.fit is not a target (SKY)
+r937840.fit is not a target (SKY)
+r937841.fit is not a target (SKY)
+r937842.fit is not a target (SKY)
+r937843.fit is not a target (SKY)
+r937844.fit is not a target (SKY)
+r937845.fit is not a target (SKY)
+r937846.fit is not a target (SKY)
+r937847.fit is not a target (SKY)
+r937848.fit is not a target (SKY)
+r937849.fit is not a target (SKY)
+r937850.fit is not a target (SKY)
+r937851.fit is not a target (SKY)
+r937852.fit is not a target (SKY)
+r937853.fit is not a target (SKY)
+r937854.fit is not a target (SKY)
+r937855.fit is not a target (SKY)
+r937856.fit is not a target (SKY)
+r937857.fit is not a target (SKY)
+r937858.fit is not a target (SKY)
+r937859.fit is not a target (SKY)
