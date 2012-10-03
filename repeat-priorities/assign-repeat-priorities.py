@@ -5,7 +5,7 @@ import pyfits
 d = pyfits.getdata("../qcdata/scripts/iphas-observations.fits", 1)
 
 
-
+# Hack: allow to check which fields were successfully observed in the most recent runs
 f = open('../qcdata/scripts/gotterdammerung/fields-done-in-fall-2012.txt', 'r')
 fields_done_fall2012 = [l.strip() for l in f.readlines()]
 
@@ -14,15 +14,15 @@ def is_done(field):
 		return True
 	return False
 
-# Output files
-# Priorities: 1 = outside spec, 2 = barely inside spec, 3 = nice to improve
 
+# Priorities: 1 = outside spec, 2 = barely inside spec, 3 = nice to improve
 output = [None, \
 		  open("priority-1.txt", "w"), \
 		  open("priority-2.txt", "w"), \
 		  open("priority-3.txt", "w")]
 
 
+# Writes a field to a given priority list
 def report(priority, field, label):
 	""" Report a field with a given re-observation priority """
 	if is_done(field):
@@ -30,6 +30,7 @@ def report(priority, field, label):
 	output[priority].write("%s\t%s\n" % (field,label))
 
 
+# Loop over all field numbers to check the available observations
 for i in range(1, 7636):
 	fieldname = "%04d" % i
 	for field in [fieldname, fieldname+"o"]:
