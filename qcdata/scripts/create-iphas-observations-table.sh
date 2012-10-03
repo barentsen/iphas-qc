@@ -185,4 +185,4 @@ colmeta -desc "Number of hours of photometric data taken by the Carlsberg Meridi
 colmeta -desc "Number of non-photometric hours that night." hours_nonphot_carlsberg;
 colmeta -desc "Average humidity during the night." -units "percent" hum_avg;
 sort id;' \
-ofmt=fits out=iphas-fields-observed.fits
+ofmt=fits out=iphas-observations.fits
