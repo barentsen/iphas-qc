@@ -110,7 +110,7 @@ suffix1="" \
 icmd2='addcol id_sdss "concat(field, \"_\", substring(dir,6))"' \
 ofmt=fits out=$TMP
 
-# Add the SDSS shifts
+# Add Christine's shifts
 echo "============================"
 echo "Adding in Christine's shifts"
 echo "============================"
@@ -121,6 +121,27 @@ values1="id" values2="id_christine" \
 fixcols="all" suffix1="" suffix2="_christine" \
 icmd2='addcol id_christine "concat(field, \"_\", run)"' \
 ofmt=fits out=$TMP
+
+# Add fieldpair crossmatching results
+echo "============================"
+echo "Adding in fieldpair crossmatching data"
+echo "============================"
+$STILTS tmatch2 in1=$TMP ifmt1=fits \
+in2=fieldpair-crossmatching/fieldpair-info.csv ifmt2=csv \
+matcher=exact join=all1 find=best \
+values1="mercat" values2="file1" \
+fixcols="all" suffix1="" suffix2="_on" \
+icmd2='keepcols "file1 n_01 n_02"' \
+ofmt=fits out=$TMP
+
+$STILTS tmatch2 in1=$TMP ifmt1=fits \
+in2=fieldpair-crossmatching/fieldpair-info.csv ifmt2=csv \
+matcher=exact join=all1 find=best \
+values1="mercat" values2="file2" \
+fixcols="all" suffix1="" suffix2="_off" \
+icmd2='keepcols "file2 n_01 n_02"' \
+ofmt=fits out=$TMP
+
 
 # Add eyeballing info
 #echo "============================"
@@ -139,15 +160,22 @@ echo "============================"
 echo "Gotterdammerung"
 echo "============================"
 $STILTS tcat in=$TMP ifmt=fits \
-icmd='addcol airmass_worst "maximum( array(air_r, air_i, air_ha) )";
-addcol seeing_worst "maximum( array(seeing_r, seeing_i, seeing_ha) )";
-addcol ellipt_worst "maximum( array(ellipt_r, ellipt_i, ellipt_ha) )";
+icmd='addcol airmass_max "maximum( array(air_r, air_i, air_ha) )";
+addcol seeing_max "maximum( array(seeing_r, seeing_i, seeing_ha) )";
+addcol ellipt_max "maximum( array(ellipt_r, ellipt_i, ellipt_ha) )";
+addcol airmass_min "minimum( array(air_r, air_i, air_ha) )";
+addcol seeing_min "minimum( array(seeing_r, seeing_i, seeing_ha) )";
+addcol ellipt_min "minimum( array(ellipt_r, ellipt_i, ellipt_ha) )";
+addcol n_stars_10p_shift "NULL_n_01_on ? n_01_off : n_01_on";
+addcol n_stars_20p_shift "NULL_n_02_on ? n_02_off : n_02_on";
 addcol ra "hmsToDegrees(ra_r)";
 addcol dec "dmsToDegrees(dec_r)";
 addcol is_anchor "anchor == 1";
 addcol is_penultimate_release "anchor == 0 || anchor == 1";' \
-ocmd='keepcols "id anchor field dir n_stars n_stars_gt20 r90p
-seeing_worst ellipt_worst airmass_worst 
+ocmd='keepcols "id anchor field dir n_stars 
+n_stars_gt20 r90p n_stars_10p_shift n_stars_20p_shift
+seeing_max ellipt_max airmass_max
+seeing_min ellipt_min airmass_min 
 fluxr_5sig fluxi_5sig fluxha_5sig 
 zpr zpi zph 
 e_zpr e_zpi e_zpha
@@ -176,9 +204,12 @@ colmeta -desc "Anchor column from FINALSOL3.TXT" anchor;
 colmeta -desc "Number of stars (class=-1 in all bands)." n_stars;
 colmeta -desc "Number of stars fainter than r > 20 (class=-1 in all bands)." n_stars_gt20;
 colmeta -desc "90-percentile of the r magnitudes of stars." r90p;
-colmeta -desc "Worst seeing in either of the three bands." -units "arcsec" seeing_worst;
-colmeta -desc "Worst ellipticity in either of the three bands." ellipt_worst;
-colmeta -desc "Worst airmass in either of the three bands." airmass_worst;
+colmeta -desc "Maximum (worst) seeing of the three single-filter exposures." -units "arcsec" seeing_max;
+colmeta -desc "Maximum (worst) ellipticity of the three single-filter exposures." ellipt_max;
+colmeta -desc "Maximum (worst) airmass of the three single-filter exposures." airmass_max;
+colmeta -desc "Minimum (best) seeing of the three single-filter exposures." -units "arcsec" seeing_min;
+colmeta -desc "Minimum (best) ellipticity of the three single-filter exposures." ellipt_min;
+colmeta -desc "Minimum (best) airmass of the three single-filter exposures." airmass_min;
 colmeta -name time_r -desc "Time of the r-band exposure." time;
 colmeta -desc "Median extinction in r during the night, measured by the Carlsberg Meridian Telescope. : indicates an uncertain value due to the night probably not being photometric. " ext_r_carlsberg;
 colmeta -desc "Number of hours of photometric data taken by the Carlsberg Meridian Telescope that night." hours_phot_carlsberg;
