@@ -28,7 +28,7 @@ def report(priority, field, label):
 	""" Report a field with a given re-observation priority """
 	if is_done(field):
 		return
-	output[priority].write("%s\t%s\n" % (field,label))
+	output[priority].write("intphas_%s\t%s\n" % (field,label))
 
 
 # Loop over all field numbers to check the available observations
@@ -63,24 +63,31 @@ for i in range(1, 7636):
 		# Check for fields with out-of-spec seeing
 		check = d['seeing_max'][c] <= 2.0
 		if check.sum() == 0: 
-			report(2, field, '"seeing > 2.0 in all attempts"')
+			report(2, field, '"seeing > 2.0"')
 			continue
 
 		# Check for fields with out-of-spec elliptiticy
 		check = d['ellipt_max'][c] <= 0.20
 		if check.sum() == 0: 
-			report(2, field, '"ellipt > 0.2 in all attempts"')
+			report(2, field, '"ellipt > 0.2"')
 			continue
 
 		# Check for fields with out-of-spec airmass
 		check = d['airmass_max'][c] <= 2.0
 		if check.sum() == 0: 
-			report(2, field, '"airmass > 2.0 in all attempts"')
+			report(2, field, '"airmass > 2.0"')
 			continue
 
-		spec = (d['seeing_max'][c] <= 2.0) & (d['ellipt_max'][c] <= 0.2) & (d['airmass_max'][c] <= 2.0)
+		# Check for fields with out-of-spec sky
+		check = d['sky_max'][c] < 2000
+		if check.sum() == 0: 
+			report(2, field, '"sky > 2000"')
+			continue
+
+		spec = (d['seeing_max'][c] <= 2.0) & (d['ellipt_max'][c] <= 0.2) \
+				& (d['airmass_max'][c] <= 2.0) & (d['sky_max'][c] < 2000)
 		if spec.sum() == 0: 
-			report(2, field, '"seeing/ellipt/airmass out of spec in all attempts"')
+			report(2, field, '"multiple failures"')
 			continue
 
 
@@ -94,10 +101,9 @@ for i in range(1, 7636):
 			continue
 
 		
-		fraction20 = d['n_stars_gt20'][c] / d['n_stars'][c]
-		check = spec & ( ( fraction20 ) > 0.01 )
+		check = spec & ( d['f_stars_faint'][c] > 10.0 )
 		if check.sum() == 0: 
-			report(3, field, '"Sparse: less than 1% of stellar objects are fainter than r > 20"')
+			report(3, field, '"Sparse: less than 10% of stars at r > 19.5"')
 			continue
 
 		check = spec & (d['r90p'][c] > 19)
@@ -115,7 +121,7 @@ for i in range(1, 7636):
 
 		check = spec & ( d['n_stars_20p_shift'][c] < 100 )
 		if check.sum() == 0: 
-			report(3, field, '"Gain variation: >100 stars shifted by 0.2 mag between on/off fields"')
+			report(3, field, '"Gain var/fringing: >100 stars shifted by 0.2 mag between pairs"')
 			continue
 
 

@@ -160,12 +160,15 @@ echo "============================"
 echo "Gotterdammerung"
 echo "============================"
 $STILTS tcat in=$TMP ifmt=fits \
-icmd='addcol airmass_max "maximum( array(air_r, air_i, air_ha) )";
+icmd='addcol sky_max "round( maximum( array(sky_r, sky_i, sky_ha) ) )";
+addcol airmass_max "maximum( array(air_r, air_i, air_ha) )";
 addcol seeing_max "maximum( array(seeing_r, seeing_i, seeing_ha) )";
 addcol ellipt_max "maximum( array(ellipt_r, ellipt_i, ellipt_ha) )";
+addcol sky_min "round( minimum( array(sky_r, sky_i, sky_ha) ) )";
 addcol airmass_min "minimum( array(air_r, air_i, air_ha) )";
 addcol seeing_min "minimum( array(seeing_r, seeing_i, seeing_ha) )";
 addcol ellipt_min "minimum( array(ellipt_r, ellipt_i, ellipt_ha) )";
+addcol f_stars_faint "roundDecimal(100.0 * n_stars_faint / toFloat(n_stars), 1)";
 addcol n_stars_10p_shift "NULL_n_01_on ? n_01_off : n_01_on";
 addcol n_stars_20p_shift "NULL_n_02_on ? n_02_off : n_02_on";
 addcol ra "hmsToDegrees(ra_r)";
@@ -173,9 +176,10 @@ addcol dec "dmsToDegrees(dec_r)";
 addcol is_anchor "anchor == 1";
 addcol is_penultimate_release "anchor == 0 || anchor == 1";' \
 ocmd='keepcols "id anchor field dir n_stars 
-n_stars_gt20 r90p n_stars_10p_shift n_stars_20p_shift
-seeing_max ellipt_max airmass_max
-seeing_min ellipt_min airmass_min 
+f_stars_faint r90p 
+n_stars_10p_shift n_stars_20p_shift
+seeing_max ellipt_max airmass_max sky_max
+seeing_min ellipt_min airmass_min sky_min
 fluxr_5sig fluxi_5sig fluxha_5sig 
 zpr zpi zph 
 e_zpr e_zpi e_zpha
@@ -201,8 +205,8 @@ colmeta -desc "ha-band zeropoint from FINALSOL3 (or anchor-zp-shifts.asc if give
 colmeta -desc "median(IPHAS_r - SDSS_DR9_r_transformed)" sdss_r;
 colmeta -desc "median(IPHAS_r - SDSS_DR9_i_transformed)" sdss_i;
 colmeta -desc "Anchor column from FINALSOL3.TXT" anchor;
-colmeta -desc "Number of stars (class=-1 in all bands)." n_stars;
-colmeta -desc "Number of stars fainter than r > 20 (class=-1 in all bands)." n_stars_gt20;
+colmeta -desc "Number of stellar objects (class=-1 in all bands)." n_stars;
+colmeta -desc "Percentage of stellar objects fainter than r > 19.5." -units "percent" f_stars_faint;
 colmeta -desc "90-percentile of the r magnitudes of stars." r90p;
 colmeta -desc "Maximum (worst) seeing of the three single-filter exposures." -units "arcsec" seeing_max;
 colmeta -desc "Maximum (worst) ellipticity of the three single-filter exposures." ellipt_max;

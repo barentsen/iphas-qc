@@ -25,7 +25,7 @@ for i in range(len(d)):
 			# Does the observation statisfy the quality constraints?
 			if ( np.all(np.array(l_seeing) < 2.0)
 					and np.all(np.array(l_ellipt) < 1.2)
-					and np.all(np.array(l_sources) > 20) ):
+					and np.all(np.array(l_sources) > 100) ):
 				print myfield
 
 	
