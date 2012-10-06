@@ -29,6 +29,7 @@ def report(priority, field, label):
 	if is_done(field):
 		return
 	output[priority].write("intphas_%s\t%s\n" % (field,label))
+	output[priority].flush()
 
 
 # Loop over all field numbers to check the available observations
@@ -79,13 +80,14 @@ for i in range(1, 7636):
 			continue
 
 		# Check for fields with out-of-spec sky
-		check = d['sky_max'][c] < 2000
-		if check.sum() == 0: 
-			report(2, field, '"sky > 2000"')
-			continue
+		#check = d['sky_max'][c] < 2000
+		#if check.sum() == 0: 
+		#	report(2, field, '"sky > 2000"')
+		#	continue
 
 		spec = (d['seeing_max'][c] <= 2.0) & (d['ellipt_max'][c] <= 0.2) \
-				& (d['airmass_max'][c] <= 2.0) & (d['sky_max'][c] < 2000)
+				& (d['airmass_max'][c] <= 2.0)
+		# & (d['sky_max'][c] < 2000)
 		if spec.sum() == 0: 
 			report(2, field, '"multiple failures"')
 			continue
@@ -101,14 +103,14 @@ for i in range(1, 7636):
 			continue
 
 		
-		check = spec & ( d['f_stars_faint'][c] > 10.0 )
+		check = spec & ( d['f_stars_faint'][c] > 2.0 )
 		if check.sum() == 0: 
-			report(3, field, '"Sparse: less than 10% of stars at r > 19.5"')
+			report(3, field, '"Sparse: less than 2% of stars at r > 19.5"')
 			continue
 
-		check = spec & (d['r90p'][c] > 19)
+		check = spec & (d['r90p'][c] > 18)
 		if check.sum() == 0: 
-			report(3, field, '"Sparse: Q90(r\') < 19"')
+			report(3, field, '"Sparse: Q90(r\') < 18"')
 			continue
 
 
@@ -119,7 +121,7 @@ for i in range(1, 7636):
 		#	report(3, field, '"Gain variation: >50 stars shifted by 0.1 mag between on/off fields"')
 		#	continue
 
-		check = spec & ( d['n_stars_20p_shift'][c] < 100 )
+		check = spec & ( d['n_stars_20p_shift'][c] < 500 )
 		if check.sum() == 0: 
 			report(3, field, '"Gain var/fringing: >100 stars shifted by 0.2 mag between pairs"')
 			continue
@@ -128,9 +130,9 @@ for i in range(1, 7636):
 		""" LARGE CALIBRATION SHIFTS """
 
 		check = spec & ( 
-					(d['sdss_stars'][c] < 50) | ( (abs(d['sdss_r'][c]) < 1.0) & (abs(d['sdss_i'][c]) < 1.0) ) )
+					(d['sdss_stars'][c] < 50) | ( (abs(d['sdss_r'][c]) < 0.75) & (abs(d['sdss_i'][c]) < 0.75) ) )
 		if check.sum() == 0: 
-			report(3, field, '"Suspect: calibration off by >1 mag compared to Sloan DR9"')
+			report(3, field, '"Suspect: calibration off by >0.75 mag compared to Sloan DR9"')
 			continue
 
 		check = spec & (

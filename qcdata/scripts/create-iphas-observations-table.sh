@@ -131,7 +131,7 @@ in2=fieldpair-crossmatching/fieldpair-info.csv ifmt2=csv \
 matcher=exact join=all1 find=best \
 values1="mercat" values2="file1" \
 fixcols="all" suffix1="" suffix2="_on" \
-icmd2='keepcols "file1 n_01 n_02"' \
+icmd2='keepcols "file1 n_matched n_outliers_10p n_outliers_20p"' \
 ofmt=fits out=$TMP
 
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
@@ -139,8 +139,9 @@ in2=fieldpair-crossmatching/fieldpair-info.csv ifmt2=csv \
 matcher=exact join=all1 find=best \
 values1="mercat" values2="file2" \
 fixcols="all" suffix1="" suffix2="_off" \
-icmd2='keepcols "file2 n_01 n_02"' \
+icmd2='keepcols "file2 n_matched n_outliers_10p n_outliers_20p"' \
 ofmt=fits out=$TMP
+
 
 
 # Add eyeballing info
@@ -169,8 +170,11 @@ addcol airmass_min "minimum( array(air_r, air_i, air_ha) )";
 addcol seeing_min "minimum( array(seeing_r, seeing_i, seeing_ha) )";
 addcol ellipt_min "minimum( array(ellipt_r, ellipt_i, ellipt_ha) )";
 addcol f_stars_faint "roundDecimal(100.0 * n_stars_faint / toFloat(n_stars), 1)";
-addcol n_stars_10p_shift "NULL_n_01_on ? n_01_off : n_01_on";
-addcol n_stars_20p_shift "NULL_n_02_on ? n_02_off : n_02_on";
+addcol n_matched "NULL_n_matched_on ? n_matched_off : n_matched_on";
+addcol n_outliers_10p "NULL_n_outliers_10p_on ? n_outliers_10p_off : n_outliers_10p_on";
+addcol n_outliers_20p "NULL_n_outliers_20p_on ? n_outliers_20p_off : n_outliers_20p_on";
+addcol f_outliers_10p "100.0 * n_outliers_10p / toFloat(n_matched)"
+addcol f_outliers_20p "100.0 * n_outliers_20p / toFloat(n_matched)"
 addcol ra "hmsToDegrees(ra_r)";
 addcol dec "dmsToDegrees(dec_r)";
 addcol is_anchor "anchor == 1";
