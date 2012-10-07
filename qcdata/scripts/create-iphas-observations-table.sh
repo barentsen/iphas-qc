@@ -12,7 +12,7 @@ echo "============================"
 echo "Adding in Brent's FINALSOL3"
 echo "============================"
 $STILTS tmatch2 in1=eduardos-catalogues/mercat-info.csv ifmt1=csv \
-in2=FINALSOL3.txt ifmt2=ascii \
+in2=brent-calibration/FINALSOL3.txt ifmt2=ascii \
 matcher=exact join=all1 find=best \
 values1=id values2=id_brent \
 suffix1="" \
@@ -103,7 +103,7 @@ echo "============================"
 echo "Adding in SDSS shifts"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
-in2=sdss/shifts.csv ifmt2=csv \
+in2=sdss/shifts.csv.gz ifmt2=csv \
 matcher=exact join=all1 find=best \
 values1="id" values2="id_sdss" \
 suffix1="" \
@@ -181,7 +181,7 @@ addcol is_anchor "anchor == 1";
 addcol is_penultimate_release "anchor == 0 || anchor == 1";' \
 ocmd='keepcols "id anchor field dir n_stars 
 f_stars_faint r90p 
-n_stars_10p_shift n_stars_20p_shift
+n_outliers_10p n_outliers_20p f_outliers_10p f_outliers_20p	
 seeing_max ellipt_max airmass_max sky_max
 seeing_min ellipt_min airmass_min sky_min
 fluxr_5sig fluxi_5sig fluxha_5sig 

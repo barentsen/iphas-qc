@@ -103,9 +103,9 @@ for i in range(1, 7636):
 			continue
 
 		
-		check = spec & ( d['f_stars_faint'][c] > 2.0 )
+		check = spec & ( d['f_stars_faint'][c] > 0.1 )
 		if check.sum() == 0: 
-			report(3, field, '"Sparse: less than 2% of stars at r > 19.5"')
+			report(3, field, '"Sparse: less than 0.1% of stars at r > 19.5"')
 			continue
 
 		check = spec & (d['r90p'][c] > 18)
@@ -121,9 +121,9 @@ for i in range(1, 7636):
 		#	report(3, field, '"Gain variation: >50 stars shifted by 0.1 mag between on/off fields"')
 		#	continue
 
-		check = spec & ( d['n_stars_20p_shift'][c] < 500 )
+		check = spec & ( d['n_outliers_20p'][c] < 60 )
 		if check.sum() == 0: 
-			report(3, field, '"Gain var/fringing: >100 stars shifted by 0.2 mag between pairs"')
+			report(3, field, '"Gain var/fringing: >80 stars shifted by 0.2 mag between pairs"')
 			continue
 
 
@@ -136,9 +136,9 @@ for i in range(1, 7636):
 			continue
 
 		check = spec & (
-					( d['apass_stars'][c] < 50) | ( (abs(d['apass_r'][c]) < 1.0) & (abs(d['apass_i'][c]) < 1.0) ) )
+					( d['apass_stars'][c] < 50) | ( (abs(d['apass_r'][c]) < 2.0) & (abs(d['apass_i'][c]) < 2.0) ) )
 		if check.sum() == 0: 
-			report(3, field, '"Suspect: calibration off by >1 mag compared to APASS"')
+			report(3, field, '"Suspect: calibration off by >2 mag compared to APASS"')
 			continue
 
 
