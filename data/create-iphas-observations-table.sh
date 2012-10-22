@@ -207,11 +207,15 @@ colmeta -desc "r-band zeropoint from FINALSOL3 (or anchor-zp-shifts.asc if given
 colmeta -desc "i-band zeropoint from FINALSOL3 (or anchor-zp-shifts.asc if given!)" zpi_calib;
 colmeta -desc "ha-band zeropoint from FINALSOL3 (or anchor-zp-shifts.asc if given!)" zph_calib;
 colmeta -desc "median(IPHAS_r - SDSS_DR9_r_transformed)" sdss_r;
-colmeta -desc "median(IPHAS_r - SDSS_DR9_i_transformed)" sdss_i;
+colmeta -desc "median(IPHAS_i - SDSS_DR9_i_transformed)" sdss_i;
+colmeta -desc "median(IPHAS_r - APASS_r_transformed)" apass_r;
+colmeta -desc "median(IPHAS_i - APASS_i_transformed)" apass_i;
 colmeta -desc "Anchor column from FINALSOL3.TXT" anchor;
 colmeta -desc "Number of stellar objects (class=-1 in all bands)." n_stars;
 colmeta -desc "Percentage of stellar objects fainter than r > 19.5." -units "percent" f_stars_faint;
 colmeta -desc "90-percentile of the r magnitudes of stars." r90p;
+colmeta -desc "Number of stellar objects for which the r, i or Ha shifted by >=0.1 mag between same-run on/off-exposures (due to gain variation or fringing)." n_outliers_10p;
+colmeta -desc "Number of stellar objects for which the r, i or Ha shifted by >=0.2 mag between same-run on/off-exposures (due to gain variation or fringing)." n_outliers_20p;
 colmeta -desc "Maximum (worst) seeing of the three single-filter exposures." -units "arcsec" seeing_max;
 colmeta -desc "Maximum (worst) ellipticity of the three single-filter exposures." ellipt_max;
 colmeta -desc "Maximum (worst) airmass of the three single-filter exposures." airmass_max;

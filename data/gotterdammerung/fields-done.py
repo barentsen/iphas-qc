@@ -24,7 +24,7 @@ for i in range(len(d)):
 
 		if len(l_filters) == 3 and l_filters == ['Ha', 'r', 'i']:
 			# Does the observation statisfy the quality constraints?
-			if ( np.all(np.array(l_seeing) < 1.75)
+			if ( np.all(np.array(l_seeing) < 1.8)
 					and np.all(np.array(l_ellipt) < 1.19)
 					and np.all(np.array(l_sky) < 400)
 					and np.all(np.array(l_sources) > 100) ):
