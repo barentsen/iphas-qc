@@ -5,7 +5,8 @@ Quality control scripts relating to the IPHAS survey
 
 ### Contents
 
-* qcdata: quality-control metadata, together with the scripts that collected the information.
+* data: quality-control information, as well as the scripts that collected the information.
+* repeat-priorities: scripts to figure out which fields require a repeat observation.
 
 ### License
 
