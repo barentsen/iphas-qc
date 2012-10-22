@@ -3,9 +3,19 @@ This script assigns re-observation priorities to IPHAS fields.
 """
 from __future__ import division
 import pyfits
+
+# INPUT DATA = table with collated quality information
 d = pyfits.getdata("../data/iphas-observations.fits", 1)
 
 
+# Create output files
+output = [None, \
+		  open("priority-1.txt", "w"), \
+		  open("priority-2.txt", "w"), \
+		  open("priority-3.txt", "w")]
+
+
+# Load file with recently observed fields not reduced by CASU yet
 f = open('../data/gotterdammerung/fields-done-in-fall-2012.txt', 'r')
 fields_done_fall2012 = [l.strip() for l in f.readlines()]
 
@@ -16,14 +26,7 @@ def is_done(field):
 	return False
 
 
-# Create output files
-output = [None, \
-		  open("priority-1.txt", "w"), \
-		  open("priority-2.txt", "w"), \
-		  open("priority-3.txt", "w")]
-
-
-# Writes a field to a given priority list
+# Define the function to write a field to a given priority list
 counter = {}
 def report(priority, field, label):
 	""" Report a field with a given re-observation priority """
@@ -94,7 +97,6 @@ for i in range(1, 7636):
 
 		spec = (d['seeing_max'][c] <= 2.0) & (d['ellipt_max'][c] <= 0.20) \
 				& (d['airmass_max'][c] <= 2.0) & (d['sky_max'][c] < 2000)
-		# & (d['sky_max'][c] < 2000)
 		if spec.sum() == 0: 
 			report(2, field, '"multiple constraints violated"')
 			continue
