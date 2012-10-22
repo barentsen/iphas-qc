@@ -6,7 +6,7 @@ import pyfits
 d = pyfits.getdata("../data/iphas-observations.fits", 1)
 
 
-# Hack: allow to check which fields were successfully observed in the most recent runs
+# Allow to check which fields were successfully observed in the most recent runs
 f = open('../data/gotterdammerung/fields-done-in-fall-2012.txt', 'r')
 fields_done_fall2012 = [l.strip() for l in f.readlines()]
 
@@ -16,7 +16,6 @@ def is_done(field):
 	return False
 
 
-# Priorities: 1 = outside spec, 2 = barely inside spec, 3 = nice to improve
 output = [None, \
 		  open("priority-1.txt", "w"), \
 		  open("priority-2.txt", "w"), \
@@ -87,7 +86,7 @@ for i in range(1, 7636):
 			continue
 
 		# Check for fields with out-of-spec sky
-		check = d['sky_max'][c] < 1500
+		check = d['sky_max'][c] < 500
 		if check.sum() == 0: 
 			report(2, field, '"sky > 1500"')
 			continue
@@ -126,9 +125,9 @@ for i in range(1, 7636):
 			report(3, field, '"n_outliers_20p > 20 (gain variation or fringing)"')
 			continue
 
-		check = spec & ( d['n_outliers_10p'][c] < 200 )
+		check = spec & ( d['n_outliers_10p'][c] < 50 )
 		if check.sum() == 0: 
-			report(3, field, '"n_outliers_10p > 200 (gain variation or fringing)"')
+			report(3, field, '"n_outliers_10p > 50 (gain variation or fringing)"')
 			continue
 
 		""" LARGE CALIBRATION SHIFTS """
