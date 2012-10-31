@@ -49,7 +49,6 @@ addcol zph_calib "(NULL_zph_preferred || anchor == 0) ? zph_brent : zph_preferre
 ofmt=fits out=$TMP
 
 
-
 for FILTER in r i ha; do
 	echo "============================"
 	echo "Adding Mike's DQC data for filter $FILTER"
@@ -71,8 +70,6 @@ for FILTER in r i ha; do
 	ofmt=fits out=$TMP
 done
 
-# Add Carlsberg Meridian Telescope info
-#carlsberg.csv
 
 # Add the observing log info
 echo "============================"
@@ -86,13 +83,14 @@ icmd2='keepcols "run night observer temp_avg hum_avg lost_weather lost_technical
 ocmd="delcols run;" \
 ofmt=fits out=$TMP
 
+
 # Add the Carlsberg Meridian Telescope sky quality data
 echo "============================"
 echo "Adding in Carlsberg Meridian"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
 in2=carlsberg-meridian/carlsberg.csv ifmt2=csv \
-matcher=exact join=all1 find=all \
+matcher=exact join=all1 find=best \
 values1="night" values2="night" \
 fixcols="all" suffix1="" suffix2="_carlsberg" \
 ofmt=fits out=$TMP
@@ -178,7 +176,8 @@ addcol f_outliers_20p "100.0 * n_outliers_20p / toFloat(n_matched)"
 addcol ra "hmsToDegrees(ra_r)";
 addcol dec "dmsToDegrees(dec_r)";
 addcol is_anchor "anchor == 1";
-addcol is_penultimate_release "anchor == 0 || anchor == 1";' \
+addcol is_penultimate_release "anchor == 0 || anchor == 1";
+addcol is_quality_ok "seeing_max < 2.0 & ellipt_max < 0.20 & airmass_max < 2.0 & sky_max < 1500 & f_stars_faint > 10";' \
 ocmd='keepcols "id anchor field dir n_stars 
 f_stars_faint r90p 
 n_outliers_10p n_outliers_20p f_outliers_10p f_outliers_20p	
@@ -199,7 +198,8 @@ comments_weather comments_night comments_exposure
 ra dec
 run_ha run_r run_i
 mercat
-is_anchor is_penultimate_release";
+is_anchor is_penultimate_release
+is_quality_ok";
 colmeta -desc "r-band zeropoint from Eduardo''s mercat header." zpr;
 colmeta -desc "i-band zeropoint from Eduardo''s mercat header." zpi;
 colmeta -desc "ha-band zeropoint from Eduardo''s mercat header." zph;
@@ -227,5 +227,6 @@ colmeta -desc "Median extinction in r during the night, measured by the Carlsber
 colmeta -desc "Number of hours of photometric data taken by the Carlsberg Meridian Telescope that night." hours_phot_carlsberg;
 colmeta -desc "Number of non-photometric hours that night." hours_nonphot_carlsberg;
 colmeta -desc "Average humidity during the night." -units "percent" hum_avg;
+colmeta -desc "Are the various quality indicators (seeing, ellipticity, etc) within spec?" is_quality_ok;
 sort id;' \
 ofmt=fits out=iphas-observations.fits
