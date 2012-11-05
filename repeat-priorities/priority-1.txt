@@ -68,6 +68,8 @@ intphas_3433o	All attempts failed CASU quality checks
 intphas_3438	All attempts failed CASU quality checks
 intphas_3455	f_stars_faint < 10% (sparse)
 intphas_3455o	All attempts failed CASU quality checks
+intphas_3489	Added manually
+intphas_3489o	Added manually
 intphas_3512	ellipt > 0.25
 intphas_3587	seeing > 2.5
 intphas_3587o	f_stars_faint < 10% (sparse)

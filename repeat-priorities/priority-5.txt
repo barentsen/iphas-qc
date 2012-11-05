@@ -133,7 +133,6 @@ intphas_3265o	apass_r > 0.5 or apass_i > 0.5
 intphas_3275	apass_r > 0.5 or apass_i > 0.5
 intphas_3279	apass_r > 0.5 or apass_i > 0.5
 intphas_3279o	apass_r > 0.5 or apass_i > 0.5
-intphas_3489	apass_r > 0.5 or apass_i > 0.5
 intphas_3549	airmass > 1.7
 intphas_3549o	airmass > 1.7
 intphas_3610o	airmass > 1.7

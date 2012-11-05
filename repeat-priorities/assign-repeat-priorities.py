@@ -76,7 +76,7 @@ def print_summary():
 
 # The fields below would normally pass our checks, 
 # but were added manually for various reasons
-add_to_priotity1 = ['3489', '3489o'] # Double images!
+add_to_priority1 = ['3489', '3489o'] # Double images!
 add_to_priority3 = ['3045', '3075', '3079o', '3142o', '3391', '3625o', '3752', '3767o', '3832o', '3857',
 '2704']
 
