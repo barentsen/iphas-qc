@@ -1,0 +1,309 @@
+intphas_0036	f_stars_faint < 10% (sparse)
+intphas_0036o	apass_r > 0.5 or apass_i > 0.5
+intphas_0251o	f_stars_faint < 10% (sparse)
+intphas_0305	f_stars_faint < 10% (sparse)
+intphas_0399	f_stars_faint < 10% (sparse)
+intphas_0401	f_stars_faint < 10% (sparse)
+intphas_0419	f_stars_faint < 10% (sparse)
+intphas_0727o	f_stars_faint < 10% (sparse)
+intphas_0735o	f_stars_faint < 10% (sparse)
+intphas_0792o	f_stars_faint < 10% (sparse)
+intphas_0800o	f_stars_faint < 10% (sparse)
+intphas_0969o	f_stars_faint < 10% (sparse)
+intphas_0972	f_stars_faint < 10% (sparse)
+intphas_1222o	f_stars_faint < 10% (sparse)
+intphas_1227	f_stars_faint < 10% (sparse)
+intphas_1350	sky > 1500
+intphas_1462	f_stars_faint < 10% (sparse)
+intphas_1486	sky > 1500
+intphas_1614	sky > 1500
+intphas_1614o	sky > 1500
+intphas_1668o	f_stars_faint < 10% (sparse)
+intphas_1676	f_stars_faint < 10% (sparse)
+intphas_1746	sky > 1500
+intphas_1817	sky > 1500
+intphas_1820	sky > 1500
+intphas_1859	sky > 1500
+intphas_1859o	sky > 1500
+intphas_1868	sky > 1500
+intphas_1868o	sky > 1500
+intphas_1870	sky > 1500
+intphas_1870o	sky > 1500
+intphas_1872	sky > 1500
+intphas_1872o	sky > 1500
+intphas_1876o	f_stars_faint < 10% (sparse)
+intphas_1877o	f_stars_faint < 10% (sparse)
+intphas_1879	f_stars_faint < 10% (sparse)
+intphas_1879o	f_stars_faint < 10% (sparse)
+intphas_1909o	f_stars_faint < 10% (sparse)
+intphas_1973o	sky > 1500
+intphas_1981	sky > 1500
+intphas_2298	f_stars_faint < 10% (sparse)
+intphas_2354	sky > 1500
+intphas_2354o	sky > 1500
+intphas_2395o	f_stars_faint < 10% (sparse)
+intphas_2462	f_stars_faint < 10% (sparse)
+intphas_2464	f_stars_faint < 10% (sparse)
+intphas_2506	sky > 1500
+intphas_2506o	sky > 1500
+intphas_2509	sky > 1500
+intphas_2509o	sky > 1500
+intphas_2511	sky > 1500
+intphas_2512o	sky > 1500
+intphas_2519	sky > 1500
+intphas_2519o	sky > 1500
+intphas_2522	sky > 1500
+intphas_2522o	sky > 1500
+intphas_2539o	f_stars_faint < 10% (sparse)
+intphas_2619	f_stars_faint < 10% (sparse)
+intphas_2620	f_stars_faint < 10% (sparse)
+intphas_2622o	f_stars_faint < 10% (sparse)
+intphas_2659	f_stars_faint < 10% (sparse)
+intphas_2695o	sky > 1500
+intphas_2702	f_stars_faint < 10% (sparse)
+intphas_2702o	f_stars_faint < 10% (sparse)
+intphas_2708	f_stars_faint < 10% (sparse)
+intphas_2708o	f_stars_faint < 10% (sparse)
+intphas_2710o	f_stars_faint < 10% (sparse)
+intphas_2711	f_stars_faint < 10% (sparse)
+intphas_2711o	f_stars_faint < 10% (sparse)
+intphas_2712	f_stars_faint < 10% (sparse)
+intphas_2712o	f_stars_faint < 10% (sparse)
+intphas_2721	f_stars_faint < 10% (sparse)
+intphas_2724o	f_stars_faint < 10% (sparse)
+intphas_2739	f_stars_faint < 10% (sparse)
+intphas_2739o	f_stars_faint < 10% (sparse)
+intphas_2749	f_stars_faint < 10% (sparse)
+intphas_2792o	f_stars_faint < 10% (sparse)
+intphas_2821	sky > 1500
+intphas_2821o	sky > 1500
+intphas_2823	sky > 1500
+intphas_2823o	sky > 1500
+intphas_2824	sky > 1500
+intphas_2868	f_stars_faint < 10% (sparse)
+intphas_2868o	f_stars_faint < 10% (sparse)
+intphas_2980	f_stars_faint < 10% (sparse)
+intphas_2980o	f_stars_faint < 10% (sparse)
+intphas_2987	f_stars_faint < 10% (sparse)
+intphas_2987o	apass_r > 0.5 or apass_i > 0.5
+intphas_3041	f_stars_faint < 10% (sparse)
+intphas_3145	f_stars_faint < 10% (sparse)
+intphas_3147	f_stars_faint < 10% (sparse)
+intphas_3147o	apass_r > 0.5 or apass_i > 0.5
+intphas_3148	f_stars_faint < 10% (sparse)
+intphas_3148o	f_stars_faint < 10% (sparse)
+intphas_3149	f_stars_faint < 10% (sparse)
+intphas_3149o	f_stars_faint < 10% (sparse)
+intphas_3151o	f_stars_faint < 10% (sparse)
+intphas_3157	f_stars_faint < 10% (sparse)
+intphas_3157o	f_stars_faint < 10% (sparse)
+intphas_3159	apass_r > 0.5 or apass_i > 0.5
+intphas_3159o	f_stars_faint < 10% (sparse)
+intphas_3161	f_stars_faint < 10% (sparse)
+intphas_3161o	f_stars_faint < 10% (sparse)
+intphas_3164	f_stars_faint < 10% (sparse)
+intphas_3164o	f_stars_faint < 10% (sparse)
+intphas_3171	f_stars_faint < 10% (sparse)
+intphas_3171o	f_stars_faint < 10% (sparse)
+intphas_3172	f_stars_faint < 10% (sparse)
+intphas_3174	f_stars_faint < 10% (sparse)
+intphas_3174o	apass_r > 0.5 or apass_i > 0.5
+intphas_3203	f_stars_faint < 10% (sparse)
+intphas_3203o	f_stars_faint < 10% (sparse)
+intphas_3248	f_stars_faint < 10% (sparse)
+intphas_3280	f_stars_faint < 10% (sparse)
+intphas_3280o	apass_r > 0.5 or apass_i > 0.5
+intphas_3288o	f_stars_faint < 10% (sparse)
+intphas_3323o	f_stars_faint < 10% (sparse)
+intphas_3329	sky > 1500
+intphas_3329o	sky > 1500
+intphas_3333	sky > 1500
+intphas_3333o	sky > 1500
+intphas_3335	sky > 1500
+intphas_3335o	sky > 1500
+intphas_3337	sky > 1500
+intphas_3338	sky > 1500
+intphas_3338o	sky > 1500
+intphas_3339	f_stars_faint < 10% (sparse)
+intphas_3343	sky > 1500
+intphas_3343o	sky > 1500
+intphas_3345	sky > 1500
+intphas_3345o	sky > 1500
+intphas_3347	f_stars_faint < 10% (sparse)
+intphas_3425	f_stars_faint < 10% (sparse)
+intphas_3425o	f_stars_faint < 10% (sparse)
+intphas_3434	f_stars_faint < 10% (sparse)
+intphas_3437o	f_stars_faint < 10% (sparse)
+intphas_3443o	f_stars_faint < 10% (sparse)
+intphas_3454	f_stars_faint < 10% (sparse)
+intphas_3454o	f_stars_faint < 10% (sparse)
+intphas_3462o	f_stars_faint < 10% (sparse)
+intphas_3466	sky > 1500
+intphas_3466o	sky > 1500
+intphas_3469	sky > 1500
+intphas_3469o	sky > 1500
+intphas_3471	sky > 1500
+intphas_3471o	sky > 1500
+intphas_3613	f_stars_faint < 10% (sparse)
+intphas_3623	f_stars_faint < 10% (sparse)
+intphas_3628	f_stars_faint < 10% (sparse)
+intphas_3632o	f_stars_faint < 10% (sparse)
+intphas_3637	f_stars_faint < 10% (sparse)
+intphas_3637o	f_stars_faint < 10% (sparse)
+intphas_3639	sky > 1500
+intphas_3639o	sky > 1500
+intphas_3642	sky > 1500
+intphas_3648	f_stars_faint < 10% (sparse)
+intphas_3648o	f_stars_faint < 10% (sparse)
+intphas_3669	apass_r > 0.5 or apass_i > 0.5
+intphas_3669o	f_stars_faint < 10% (sparse)
+intphas_3707o	sky > 1500
+intphas_3708	sky > 1500
+intphas_3708o	sky > 1500
+intphas_3709	sky > 1500
+intphas_3709o	sky > 1500
+intphas_3710	sky > 1500
+intphas_3710o	sky > 1500
+intphas_3712	sky > 1500
+intphas_3712o	sky > 1500
+intphas_3714	sky > 1500
+intphas_3714o	sky > 1500
+intphas_3731	sdss_r > 0.5 or sdss_i > 0.5
+intphas_3731o	sky > 1500
+intphas_3821o	sky > 1500
+intphas_3822	sky > 1500
+intphas_3822o	sky > 1500
+intphas_3824	sky > 1500
+intphas_3824o	sky > 1500
+intphas_3825	sky > 1500
+intphas_3825o	sky > 1500
+intphas_3831	sky > 1500
+intphas_3831o	sky > 1500
+intphas_3915	f_stars_faint < 10% (sparse)
+intphas_3963	sky > 1500
+intphas_3963o	sky > 1500
+intphas_3964	sky > 1500
+intphas_3964o	sky > 1500
+intphas_3966	f_stars_faint < 10% (sparse)
+intphas_4006	f_stars_faint < 10% (sparse)
+intphas_4006o	sky > 1500
+intphas_4008	f_stars_faint < 10% (sparse)
+intphas_4017	f_stars_faint < 10% (sparse)
+intphas_4041	f_stars_faint < 10% (sparse)
+intphas_4055	f_stars_faint < 10% (sparse)
+intphas_4055o	f_stars_faint < 10% (sparse)
+intphas_4066	f_stars_faint < 10% (sparse)
+intphas_4272o	f_stars_faint < 10% (sparse)
+intphas_4359o	f_stars_faint < 10% (sparse)
+intphas_4378o	f_stars_faint < 10% (sparse)
+intphas_4380	f_stars_faint < 10% (sparse)
+intphas_4391	f_stars_faint < 10% (sparse)
+intphas_4393	f_stars_faint < 10% (sparse)
+intphas_4393o	f_stars_faint < 10% (sparse)
+intphas_4420	f_stars_faint < 10% (sparse)
+intphas_4420o	f_stars_faint < 10% (sparse)
+intphas_4630o	sky > 1500
+intphas_4631	sky > 1500
+intphas_4632	sky > 1500
+intphas_4632o	sky > 1500
+intphas_4633	sky > 1500
+intphas_4633o	sky > 1500
+intphas_4634	sky > 1500
+intphas_4634o	sky > 1500
+intphas_4635	sky > 1500
+intphas_4635o	sky > 1500
+intphas_4644	sky > 1500
+intphas_4645	sky > 1500
+intphas_4645o	sky > 1500
+intphas_4646	sky > 1500
+intphas_4646o	sky > 1500
+intphas_4647	sky > 1500
+intphas_4647o	sky > 1500
+intphas_4681	f_stars_faint < 10% (sparse)
+intphas_5069	sky > 1500
+intphas_5069o	sky > 1500
+intphas_5071	sky > 1500
+intphas_5071o	sky > 1500
+intphas_5072	sky > 1500
+intphas_5072o	sky > 1500
+intphas_5074	sky > 1500
+intphas_5077	sky > 1500
+intphas_5077o	sky > 1500
+intphas_5154	f_stars_faint < 10% (sparse)
+intphas_5154o	f_stars_faint < 10% (sparse)
+intphas_5164	f_stars_faint < 10% (sparse)
+intphas_5167	f_stars_faint < 10% (sparse)
+intphas_5167o	f_stars_faint < 10% (sparse)
+intphas_5179	f_stars_faint < 10% (sparse)
+intphas_5179o	f_stars_faint < 10% (sparse)
+intphas_5194	f_stars_faint < 10% (sparse)
+intphas_5210o	f_stars_faint < 10% (sparse)
+intphas_5215o	f_stars_faint < 10% (sparse)
+intphas_5218o	f_stars_faint < 10% (sparse)
+intphas_5399o	f_stars_faint < 10% (sparse)
+intphas_5472	f_stars_faint < 10% (sparse)
+intphas_5624o	f_stars_faint < 10% (sparse)
+intphas_5688	f_stars_faint < 10% (sparse)
+intphas_5688o	f_stars_faint < 10% (sparse)
+intphas_5693	f_stars_faint < 10% (sparse)
+intphas_5789	f_stars_faint < 10% (sparse)
+intphas_5845o	f_stars_faint < 10% (sparse)
+intphas_5846	sky > 1500
+intphas_5849	sky > 1500
+intphas_5849o	sky > 1500
+intphas_5852	f_stars_faint < 10% (sparse)
+intphas_5891	f_stars_faint < 10% (sparse)
+intphas_5898o	sky > 1500
+intphas_5899	sky > 1500
+intphas_5948o	sky > 1500
+intphas_5974	sky > 1500
+intphas_5974o	sky > 1500
+intphas_6238	f_stars_faint < 10% (sparse)
+intphas_6238o	f_stars_faint < 10% (sparse)
+intphas_6364o	f_stars_faint < 10% (sparse)
+intphas_6383o	f_stars_faint < 10% (sparse)
+intphas_6636o	sky > 1500
+intphas_6641	sky > 1500
+intphas_6655	f_stars_faint < 10% (sparse)
+intphas_6680	sky > 1500
+intphas_6684	f_stars_faint < 10% (sparse)
+intphas_6684o	f_stars_faint < 10% (sparse)
+intphas_6687o	f_stars_faint < 10% (sparse)
+intphas_6690	f_stars_faint < 10% (sparse)
+intphas_6690o	f_stars_faint < 10% (sparse)
+intphas_6692	f_stars_faint < 10% (sparse)
+intphas_6695o	f_stars_faint < 10% (sparse)
+intphas_6696o	f_stars_faint < 10% (sparse)
+intphas_6699	f_stars_faint < 10% (sparse)
+intphas_6699o	f_stars_faint < 10% (sparse)
+intphas_6700	f_stars_faint < 10% (sparse)
+intphas_6700o	f_stars_faint < 10% (sparse)
+intphas_6703	f_stars_faint < 10% (sparse)
+intphas_6705	f_stars_faint < 10% (sparse)
+intphas_6713o	f_stars_faint < 10% (sparse)
+intphas_6784	sky > 1500
+intphas_6784o	sky > 1500
+intphas_6891o	f_stars_faint < 10% (sparse)
+intphas_6895o	f_stars_faint < 10% (sparse)
+intphas_7002o	f_stars_faint < 10% (sparse)
+intphas_7050	f_stars_faint < 10% (sparse)
+intphas_7050o	f_stars_faint < 10% (sparse)
+intphas_7058	f_stars_faint < 10% (sparse)
+intphas_7058o	f_stars_faint < 10% (sparse)
+intphas_7063o	f_stars_faint < 10% (sparse)
+intphas_7091	f_stars_faint < 10% (sparse)
+intphas_7091o	f_stars_faint < 10% (sparse)
+intphas_7094	f_stars_faint < 10% (sparse)
+intphas_7094o	f_stars_faint < 10% (sparse)
+intphas_7095	f_stars_faint < 10% (sparse)
+intphas_7097	f_stars_faint < 10% (sparse)
+intphas_7097o	f_stars_faint < 10% (sparse)
+intphas_7100	f_stars_faint < 10% (sparse)
+intphas_7100o	f_stars_faint < 10% (sparse)
+intphas_7102	f_stars_faint < 10% (sparse)
+intphas_7102o	f_stars_faint < 10% (sparse)
+intphas_7103	f_stars_faint < 10% (sparse)
+intphas_7221	sky > 1500
+intphas_7221o	sky > 1500
+intphas_7379o	f_stars_faint < 10% (sparse)
+intphas_7398o	sky > 1500
