@@ -12,6 +12,7 @@ merdir = "/home/gb/tmp/iphas_sep2012_eglez/apm3.ast.cam.ac.uk/~eglez/iphas/newme
 csv = open("mercat-info.csv", "w")
 csv.write("mercat,field,dir,run_r,run_i,run_ha,time" \
             + ",n_stars_r,n_stars_i,n_stars_ha,n_stars"\
+            + ",n_bright_r,n_bright_i,n_bright_ha"\
             + ",n_stars_faint,r90p" \
             + ",zpr,zpi,zph,e_zpr,e_zpi,e_zpha" \
             + ",fluxr_5sig,fluxi_5sig,fluxha_5sig,exp_r,exp_i,exp_ha" \
@@ -88,6 +89,12 @@ for mydir in os.walk(merdir):
             # Keep r magnitudes to compute the percentile below
             r_mags = np.concatenate((r_mags, my_r_mags))
 
+            # Number of bright stars - useful for checking for double images
+            n_bright_r = (p[i].data.field('rApermag3')[c_r] < 18).sum()
+            n_bright_i = (p[i].data.field('iApermag3')[c_i] < 17).sum()
+            n_bright_ha = (p[i].data.field('hApermag3')[c_ha] < 18).sum()
+            
+
         
         # Compute the 90%-percentile of the r magnitude of stars
         if len(r_mags) > 0:
@@ -99,6 +106,7 @@ for mydir in os.walk(merdir):
         # NOTE: field h['EXTINCR'] is missing from Eduardo's files
         csv.write( ("%s,%s,%s,%s,%s,%s,%s," \
                     + "%s,%s,%s,%s," \
+                    + "%s,%s,%s," \
                     + "%s,%.3f," \
                     + "%s,%s,%s,%s,%s,%s," \
                     + "%s,%s,%s,%s,%s,%s," \
@@ -106,6 +114,7 @@ for mydir in os.walk(merdir):
                     (full_filename.partition("eglez/iphas/")[2], \
                     field, rundir, run_r, run_i, run_ha, time, \
                     n_stars_r, n_stars_i, n_stars_ha, n_stars, \
+                    n_bright_r, n_bright_i, n_bright_ha, \
                     n_stars_faint, r90p, \
                     h['MAGZPTR'], h['MAGZPTC1'], h['MAGZPTC2'], \
                     h['MAGZRRR'], h['MAGZRRC1'], h['MAGZRRC2'], \
