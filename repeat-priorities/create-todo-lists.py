@@ -11,7 +11,7 @@ import numpy as np
 
 # Load fields observed successfully recently
 fdone = open('../data/gotterdammerung/fields-done-in-fall-2012.txt', 'r')
-fields_done = [l.strip() for l in fdone.readlines()]
+fields_done = [ ('intphas_%s' % l.strip()) for l in fdone.readlines()]
 
 # Load definition of fields in the format required by the observing scripts
 fields_list = open('fields.txt', 'r').readlines()
