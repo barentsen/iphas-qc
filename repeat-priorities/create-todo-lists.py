@@ -31,10 +31,20 @@ def output_close():
 	for ra in files.keys():
 		files[ra].close()
 
+
+ralog = {}
 def add_field(filename, info):
 	"""Write a field descriptor to the appropriate todo file"""
 	# Obtain Right Ascension from field descriptor
 	ra = re.split("\W+", info)[1]
+
+	# Do not divide on/off exposures over bins
+	myid = info[0:12]
+	if ralog.has_key(myid):
+		ra = ralog[myid]
+	else:
+		ralog[myid] = ra
+
 	files[ra].write(info)
 	rahist[filename].append( int(ra) )
 

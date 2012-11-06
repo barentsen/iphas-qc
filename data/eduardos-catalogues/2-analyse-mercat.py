@@ -90,9 +90,9 @@ for mydir in os.walk(merdir):
             r_mags = np.concatenate((r_mags, my_r_mags))
 
             # Number of bright stars - useful for checking for double images
-            n_bright_r = (p[i].data.field('rApermag3')[c_r] < 18).sum()
-            n_bright_i = (p[i].data.field('iApermag3')[c_i] < 17).sum()
-            n_bright_ha = (p[i].data.field('hApermag3')[c_ha] < 18).sum()
+            n_bright_r = (p[i].data.field('rApermag3')[c_r] < 16).sum()
+            n_bright_i = (p[i].data.field('iApermag3')[c_i] < 15).sum()
+            n_bright_ha = (p[i].data.field('hApermag3')[c_ha] < 16).sum()
             
 
         

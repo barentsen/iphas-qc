@@ -8,6 +8,7 @@ intphas_1286	multiple constraints violated
 intphas_1286o	f_stars_faint < 10% (sparse)
 intphas_1622	multiple constraints violated
 intphas_1622o	sky > 1500
+intphas_1819	f_outliers_20p > 1% (gain variation or fringing)
 intphas_1819o	multiple constraints violated
 intphas_1867	multiple constraints violated
 intphas_1978	multiple constraints violated
@@ -19,6 +20,7 @@ intphas_2130	ellipt > 0.20
 intphas_2204o	multiple constraints violated
 intphas_2260	seeing > 2.0
 intphas_2265	seeing > 2.0
+intphas_2297	f_outliers_20p > 1% (gain variation or fringing)
 intphas_2297o	seeing > 2.0
 intphas_2301	multiple constraints violated
 intphas_2330	multiple constraints violated
@@ -34,6 +36,7 @@ intphas_2517o	multiple constraints violated
 intphas_2536	multiple constraints violated
 intphas_2639o	multiple constraints violated
 intphas_2680	seeing > 2.0
+intphas_2696	f_outliers_20p > 1% (gain variation or fringing)
 intphas_2696o	multiple constraints violated
 intphas_2697	multiple constraints violated
 intphas_2697o	multiple constraints violated
@@ -54,6 +57,7 @@ intphas_2719o	ellipt > 0.20
 intphas_2723	seeing > 2.0
 intphas_2725	seeing > 2.0
 intphas_2727o	seeing > 2.0
+intphas_2736	f_outliers_20p > 1% (gain variation or fringing)
 intphas_2736o	multiple constraints violated
 intphas_2737o	multiple constraints violated
 intphas_2738	multiple constraints violated
@@ -61,7 +65,7 @@ intphas_2738o	f_stars_faint < 10% (sparse)
 intphas_2740o	multiple constraints violated
 intphas_2770	ellipt > 0.20
 intphas_2782o	ellipt > 0.20
-intphas_2853	apass_r > 0.5 or apass_i > 0.5
+intphas_2853	f_outliers_10p > 10% (gain variation or fringing)
 intphas_2853o	multiple constraints violated
 intphas_2873o	ellipt > 0.20
 intphas_2880	ellipt > 0.20
@@ -140,6 +144,7 @@ intphas_3324o	seeing > 2.0
 intphas_3341	seeing > 2.0
 intphas_3344o	seeing > 2.0
 intphas_3346o	seeing > 2.0
+intphas_3349	f_outliers_20p > 1% (gain variation or fringing)
 intphas_3349o	seeing > 2.0
 intphas_3378	seeing > 2.0
 intphas_3380o	seeing > 2.0
@@ -168,7 +173,7 @@ intphas_3650	seeing > 2.0
 intphas_3650o	seeing > 2.0
 intphas_3655	f_stars_faint < 10% (sparse)
 intphas_3655o	seeing > 2.0
-intphas_3668	n_outliers_10p > 200 (gain variation or fringing)
+intphas_3668	f_outliers_20p > 1% (gain variation or fringing)
 intphas_3668o	seeing > 2.0
 intphas_3738o	ellipt > 0.20
 intphas_3752	Added manually
@@ -176,12 +181,13 @@ intphas_3752o	seeing > 2.0
 intphas_3754o	seeing > 2.0
 intphas_3827	seeing > 2.0
 intphas_3827o	seeing > 2.0
-intphas_3829	n_outliers_20p > 50 (gain variation or fringing)
+intphas_3829	f_outliers_20p > 1% (gain variation or fringing)
 intphas_3829o	seeing > 2.0
+intphas_3834	f_outliers_20p > 1% (gain variation or fringing)
 intphas_3834o	seeing > 2.0
 intphas_3853	seeing > 2.0
 intphas_3854	ellipt > 0.20
-intphas_3856	airmass > 1.7
+intphas_3856	f_outliers_20p > 1% (gain variation or fringing)
 intphas_3856o	seeing > 2.0
 intphas_3859o	seeing > 2.0
 intphas_3866	ellipt > 0.20
@@ -217,13 +223,14 @@ intphas_4155o	multiple constraints violated
 intphas_4394	multiple constraints violated
 intphas_4614	multiple constraints violated
 intphas_4664	multiple constraints violated
-intphas_4664o	n_outliers_10p > 200 (gain variation or fringing)
+intphas_4664o	f_outliers_20p > 1% (gain variation or fringing)
 intphas_4670	multiple constraints violated
 intphas_4678o	multiple constraints violated
 intphas_4680	multiple constraints violated
 intphas_4680o	multiple constraints violated
 intphas_4685o	multiple constraints violated
 intphas_4704	multiple constraints violated
+intphas_4704o	f_outliers_20p > 1% (gain variation or fringing)
 intphas_4760	multiple constraints violated
 intphas_4789	multiple constraints violated
 intphas_4789o	multiple constraints violated
@@ -260,7 +267,7 @@ intphas_6770	sky > 1500
 intphas_6770o	multiple constraints violated
 intphas_6772	multiple constraints violated
 intphas_6776	multiple constraints violated
-intphas_6776o	n_outliers_10p > 200 (gain variation or fringing)
+intphas_6776o	f_outliers_20p > 1% (gain variation or fringing)
 intphas_6777	multiple constraints violated
 intphas_6777o	apass_r > 0.5 or apass_i > 0.5
 intphas_6782	multiple constraints violated
@@ -275,3 +282,4 @@ intphas_7197o	multiple constraints violated
 intphas_7220	multiple constraints violated
 intphas_7220o	multiple constraints violated
 intphas_7222	multiple constraints violated
+intphas_7222o	f_outliers_20p > 1% (gain variation or fringing)

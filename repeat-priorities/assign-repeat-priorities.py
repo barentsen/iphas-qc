@@ -151,6 +151,7 @@ for i in range(1, 7636):
 
 		""" GAIN VARIATIONS OR FRINGING PROBLEMS """
 
+		"""
 		check = spec & ( d['n_outliers_20p'][c] < 50 )
 		if check.sum() == 0: 
 			report(3, field, 'n_outliers_20p > 50 (gain variation or fringing)')
@@ -159,6 +160,17 @@ for i in range(1, 7636):
 		check = spec & ( d['n_outliers_10p'][c] < 200 )
 		if check.sum() == 0: 
 			report(3, field, 'n_outliers_10p > 200 (gain variation or fringing)')
+			continue
+		"""
+
+		check = spec & ( d['f_outliers_20p'][c] < 1 )
+		if check.sum() == 0: 
+			report(3, field, 'f_outliers_20p > 1% (gain variation or fringing)')
+			continue
+
+		check = spec & ( d['f_outliers_10p'][c] < 10 )
+		if check.sum() == 0: 
+			report(3, field, 'f_outliers_10p > 10% (gain variation or fringing)')
 			continue
 
 
