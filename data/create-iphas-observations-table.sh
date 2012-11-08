@@ -188,7 +188,8 @@ addcol dec "dmsToDegrees(dec_r)";
 addcol is_anchor "anchor == 1";
 addcol is_penultimate_release "anchor == 0 || anchor == 1";
 addcol is_quality_ok "seeing_max < 2.0 & ellipt_max < 0.20 & airmass_max < 2.0 & sky_max < 1500 & f_stars_faint > 10";' \
-ocmd='keepcols "id anchor field dir n_stars 
+ocmd='addskycoords -inunit deg -outunit deg fk5 galactic ra dec l b;
+keepcols "id anchor field dir n_stars 
 n_bright_ha n_bright_r n_bright_i
 ratio_bright_ha ratio_bright_r ratio_bright_i
 f_stars_faint r90p 
@@ -207,11 +208,13 @@ ext_r_carlsberg hours_phot_carlsberg hours_nonphot_carlsberg
 observer lost_weather lost_technical
 hum_avg 
 comments_weather comments_night comments_exposure 
-ra dec
+ra dec l b
 run_ha run_r run_i
 mercat
 is_anchor is_penultimate_release
 is_quality_ok";
+colmeta -desc "Right Ascension of the r-band exposure." ra;
+colmeta -desc "Declination of the r-band exposure." dec;
 colmeta -desc "r-band zeropoint from Eduardo''s mercat header." zpr;
 colmeta -desc "i-band zeropoint from Eduardo''s mercat header." zpi;
 colmeta -desc "ha-band zeropoint from Eduardo''s mercat header." zph;
