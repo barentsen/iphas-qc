@@ -1,0 +1,135 @@
+r939892.fit is not a target (BIAS)
+r939893.fit is not a target (BIAS)
+r939894.fit is not a target (BIAS)
+r939895.fit is not a target (BIAS)
+r939896.fit is not a target (BIAS)
+r939897.fit is not a target (BIAS)
+r939898.fit is not a target (BIAS)
+r939899.fit is not a target (BIAS)
+r939900.fit is not a target (FLAT)
+r939901.fit is not a target (BIAS)
+r939902.fit is not a target (BIAS)
+r939903.fit is not a target (BIAS)
+r939904.fit is not a target (BIAS)
+r939905.fit is not a target (FLAT)
+r939906.fit is not a target (BIAS)
+r939907.fit is not a target (BIAS)
+r939908.fit is not a target (BIAS)
+r939909.fit is not a target (BIAS)
+r939910.fit is not a target (FLASH)
+r939911.fit is not a target (FLAT)
+r939912.fit is not a target (FLAT)
+r939913.fit is not a target (FLAT)
+r939914.fit is not a target (FLAT)
+r939915.fit is not a target (SKY)
+r939916.fit is not a target (SKY)
+r939917.fit is not a target (SKY)
+r939918.fit is not a target (SKY)
+r939919.fit is not a target (SKY)
+r939920.fit is not a target (SKY)
+r939921.fit is not a target (SKY)
+r939922.fit is not a target (SKY)
+r939923.fit is not a target (SKY)
+r939924.fit is not a target (SKY)
+r939925.fit is not a target (SKY)
+r939926.fit is not a target (SKY)
+r939927.fit is not a target (SKY)
+r939928.fit is not a target (SKY)
+r939929.fit is not a target (SKY)
+r939930.fit is not a target (SKY)
+r939931.fit is not a target (SKY)
+r939932.fit is not a target (SKY)
+r939933.fit is not a target (SKY)
+r939934.fit is not a target (SKY)
+r939935.fit is not a target (SKY)
+r939936.fit is not a target (SKY)
+r939937.fit is not a target (SKY)
+r939938.fit is not a target (SKY)
+r939939.fit is not a target (FOCUS)
+r939940.fit is not a target (FOCUS)
+r939941.fit  3.72  1.23 0.151   357.3 from 3728 sources of NGC6946G
+r939942.fit  3.58  1.18 0.144   691.8 from 2927 sources of NGC6946G
+r939943.fit  3.65  1.20 0.108  3983.9 from 2078 sources of NGC6946G
+r939944.fit  4.33  1.43 0.147  4552.1 from 4188 sources of NGC6946G
+r939945.fit  3.90  1.29 0.110  6767.6 from 2419 sources of NGC6946G
+r939946.fit  6.89  2.27 0.302  1282.6 from 1938 sources of NGC6946G
+r939947.fit  3.14  1.04 0.112  2369.6 from 2325 sources of NGC6946C
+r939949.fit  3.26  1.08 0.096  2830.8 from 2031 sources of NGC6946C
+r939950.fit  2.99  0.99 0.134  6715.0 from 5354 sources of NGC6946F
+r939951.fit  3.19  1.05 0.116  9703.5 from 2748 sources of NGC6946F
+r939952.fit  3.57  1.18 0.129  6206.3 from 1776 sources of NGC6946F
+r939953.fit  3.27  1.08 0.169  9176.8 from 5001 sources of NGC6946E
+r939954.fit  3.95  1.30 0.192  4175.9 from 2365 sources of NGC6946E
+r939955.fit  9.95  3.28 0.349 12667.7 from 328 sources of 260p
+r939956.fit  7.59  2.50 0.249 11012.2 from 337 sources of 260p
+r939957.fit  8.89  2.93 0.281 10768.4 from 316 sources of 260p
+r939958.fit  9.59  3.16 0.259 10607.6 from 280 sources of 260p
+r939959.fit 10.56  3.48 0.351 15927.0 from 282 sources of 260p
+r939960.fit 10.80  3.56 0.406   359.4 from 306 sources of 260p
+r939961.fit 11.83  3.90 0.414 13742.1 from 294 sources of 260p
+r939962.fit 11.45  3.78 0.412 14834.2 from 294 sources of 260p
+r939963.fit  4.87  1.61 0.200  7206.6 from 806 sources of M31A
+r939964.fit  4.55  1.50 0.223  7242.3 from 846 sources of M31A
+r939965.fit  4.70  1.55 0.113  1158.0 from 337 sources of M31A
+r939966.fit  3.95  1.30 0.189  1058.4 from 372 sources of M31B
+r939967.fit  4.93  1.63 0.221  6672.6 from 776 sources of M31B
+r939968.fit  4.21  1.39 0.207  6604.7 from 884 sources of M31B
+r939969.fit  4.39  1.45 0.209  6461.1 from 866 sources of M31C
+r939970.fit  3.83  1.26 0.200  6418.6 from 947 sources of M31C
+r939971.fit  3.97  1.31 0.188   979.4 from 362 sources of M31C
+r939972.fit  3.74  1.23 0.192  5471.7 from 1174 sources of M31C
+r939973.fit  4.03  1.33 0.168   320.1 from 776 sources of M33A
+r939974.fit  3.95  1.30 0.174   318.4 from 788 sources of M33B
+r939975.fit  4.02  1.33 0.160  6615.4 from 745 sources of M33C
+r939976.fit  3.84  1.27 0.175  7224.9 from 812 sources of M33D
+r939977.fit  5.02  1.66 0.153   905.2 from 126 sources of M81A
+r939978.fit  3.84  1.27 0.064   486.0 from 287 sources of G97-42
+r939979.fit  4.66  1.54 0.127   347.9 from 162 sources of G97-42
+r939980.fit  3.15  1.04 0.060   308.7 from 123 sources of G97-42
+r939981.fit  3.61  1.19 0.056   324.6 from  86 sources of G97-42
+r939982.fit  4.44  1.47 0.076 41025.8 from  30 sources of G3-33
+r939983.fit is not a target (FLAT)
+r939984.fit is not a target (FLAT)
+r939985.fit is not a target (FLAT)
+r939986.fit is not a target (FLAT)
+r939987.fit is not a target (FLAT)
+r939988.fit 11.08  3.66 0.044 17051.0 from  33 sources of MABLANK4
+r939990.fit is not a target (FLAT)
+r939991.fit is not a target (FLAT)
+r939992.fit is not a target (FLAT)
+r939993.fit is not a target (FLAT)
+r939994.fit is not a target (FLAT)
+r939995.fit is not a target (FLAT)
+r939996.fit is not a target (FLAT)
+r939997.fit is not a target (FLAT)
+r939998.fit is not a target (FLAT)
+r939999.fit is not a target (FLAT)
+r940000.fit is not a target (FLAT)
+r940001.fit is not a target (FLAT)
+r940002.fit is not a target (FLAT)
+r940003.fit is not a target (FLAT)
+r940004.fit is not a target (BIAS)
+r940005.fit is not a target (BIAS)
+r940006.fit is not a target (BIAS)
+r940007.fit is not a target (BIAS)
+r940008.fit is not a target (BIAS)
+r940009.fit is not a target (BIAS)
+r940010.fit is not a target (BIAS)
+r940011.fit is not a target (BIAS)
+r940012.fit is not a target (BIAS)
+r940013.fit is not a target (BIAS)
+r940014.fit is not a target (BIAS)
+r940015.fit is not a target (BIAS)
+r940016.fit is not a target (BIAS)
+r940017.fit is not a target (BIAS)
+r940018.fit is not a target (BIAS)
+r940019.fit is not a target (BIAS)
+r940020.fit is not a target (BIAS)
+r940021.fit is not a target (BIAS)
+r940022.fit is not a target (BIAS)
+r940023.fit is not a target (BIAS)
+r940024.fit is not a target (BIAS)
+r940025.fit is not a target (BIAS)
+r940026.fit is not a target (BIAS)
+r940027.fit is not a target (BIAS)
+r940028.fit is not a target (BIAS)
