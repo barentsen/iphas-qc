@@ -1,3 +1,7 @@
+"""
+TODO
+- What about very blue/red stars? Do the equations hold?
+"""
 import pyfits
 import numpy as np
 from pylab import *
@@ -79,9 +83,10 @@ subplots_adjust(0.12,0.1,0.95,0.9)
 report("\nr band\n============")
 ax = subplot(211)
 
-xdata = sdss_g - sdss_r
-ydata = iphas_r - sdss_r
-plot_contours(ax, xdata, ydata, [-0.1, 2.6], [-0.35, 0.35])
+c = (iphas_r > 14) & (iphas_r < 17)
+xdata = sdss_g[c] - sdss_r[c]
+ydata = iphas_r[c] - sdss_r[c]
+plot_contours(ax, xdata, ydata, [-0.1, 2.4], [-0.35, 0.35])
 
 # Fit
 fit = sigmaclip_fit(xdata, ydata, 0.5, 30)
@@ -101,9 +106,10 @@ report("\ni band\n============")
 
 ax = subplot(212)
 
-xdata = sdss_r - sdss_i
-ydata = iphas_i - sdss_i
-plot_contours(ax, xdata, ydata, [-0.1, 1.3], [-0.65, 0.15])
+c = (iphas_i > 13) & (iphas_i < 17)
+xdata = sdss_r[c] - sdss_i[c]
+ydata = iphas_i[c] - sdss_i[c]
+plot_contours(ax, xdata, ydata, [-0.1, 1.3], [-0.65, 0.05])
 
 # Fit
 fit = sigmaclip_fit(xdata, ydata, 0.5, 30)

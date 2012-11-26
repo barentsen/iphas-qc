@@ -141,14 +141,41 @@ icmd2='keepcols "file2 n_matched n_outliers_10p n_outliers_20p"' \
 ofmt=fits out=$TMP
 
 
+#echo "============================"
+#echo "Adding in starcount ratios (for detecting double images)"
+#echo "============================"
+#$STILTS tmatch2 in1=$TMP ifmt1=fits \
+#in2=double-image-problem/starcount-ratios.csv ifmt2=csv \
+#matcher=exact join=all1 find=best \
+#values1="id" values2="id" \
+#fixcols="dups" suffix1="" suffix2="_ratio" \
+#ofmt=fits out=$TMP
+
+# Provided cols:
+#n_bright_ha n_bright_r n_bright_i
+#ratio_bright_ha ratio_bright_r ratio_bright_i
+#colmeta -desc "Ratio: n_stars_ha(on-field) / n_stars_ha(off-field); helps to detect images with duplicate stars." ratio_bright_ha;
+#colmeta -desc "Ratio: n_stars_r(on-field) / n_stars_ha(off-field); helps to detect images with duplicate stars." ratio_bright_r;
+#colmeta -desc "Ratio: n_stars_i(on-field) / n_stars_ha(off-field); helps to detect images with duplicate stars." ratio_bright_i;
+
 echo "============================"
-echo "Adding in starcount ratios (for detecting double images)"
+echo "Adding in quality flags (A++, A+, A, B, C)"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
-in2=double-image-problem/starcount-ratios.csv ifmt2=csv \
+in2=quality/quality-flags.csv ifmt2=csv \
 matcher=exact join=all1 find=best \
 values1="id" values2="id" \
-fixcols="dups" suffix1="" suffix2="_ratio" \
+fixcols="dups" suffix1="" suffix2="_qual" \
+ofmt=fits out=$TMP
+
+echo "============================"
+echo "Adding in best field choice"
+echo "============================"
+$STILTS tmatch2 in1=$TMP ifmt1=fits \
+in2=quality/best-fields.csv ifmt2=csv \
+matcher=exact join=all1 find=best \
+values1="id" values2="id" \
+fixcols="dups" suffix1="" suffix2="_qual" \
 ofmt=fits out=$TMP
 
 
@@ -186,16 +213,14 @@ addcol f_outliers_20p "100.0 * n_outliers_20p / toFloat(n_matched)"
 addcol ra "hmsToDegrees(ra_r)";
 addcol dec "dmsToDegrees(dec_r)";
 addcol is_anchor "anchor == 1";
-addcol is_penultimate_release "anchor == 0 || anchor == 1";
-addcol is_quality_ok "seeing_max < 2.0 & ellipt_max < 0.20 & airmass_max < 2.0 & sky_max < 1500 & f_stars_faint > 10";' \
+addcol is_pdr "anchor == 0 || anchor == 1";' \
 ocmd='addskycoords -inunit deg -outunit deg fk5 galactic ra dec l b;
 keepcols "id anchor field dir n_stars 
-n_bright_ha n_bright_r n_bright_i
-ratio_bright_ha ratio_bright_r ratio_bright_i
 f_stars_faint r90p 
 n_outliers_10p n_outliers_20p f_outliers_10p f_outliers_20p	
 seeing_max ellipt_max airmass_max sky_max
 seeing_min ellipt_min airmass_min sky_min
+seeing_r seeing_i seeing_ha
 fluxr_5sig fluxi_5sig fluxha_5sig 
 zpr zpi zph 
 e_zpr e_zpi e_zpha
@@ -211,8 +236,9 @@ comments_weather comments_night comments_exposure
 ra dec l b
 run_ha run_r run_i
 mercat
-is_anchor is_penultimate_release
-is_quality_ok";
+is_anchor is_pdr
+qflag
+is_quality_ok is_best";
 colmeta -desc "Right Ascension of the r-band exposure." ra;
 colmeta -desc "Declination of the r-band exposure." dec;
 colmeta -desc "r-band zeropoint from Eduardo''s mercat header." zpr;
@@ -227,9 +253,6 @@ colmeta -desc "median(IPHAS_r - APASS_r_transformed)" apass_r;
 colmeta -desc "median(IPHAS_i - APASS_i_transformed)" apass_i;
 colmeta -desc "Anchor column from FINALSOL3.TXT" anchor;
 colmeta -desc "Number of stellar objects (class=-1 in all bands)." n_stars;
-colmeta -desc "Ratio: n_stars_ha(on-field) / n_stars_ha(off-field); helps to detect images with duplicate stars." ratio_bright_ha;
-colmeta -desc "Ratio: n_stars_r(on-field) / n_stars_ha(off-field); helps to detect images with duplicate stars." ratio_bright_r;
-colmeta -desc "Ratio: n_stars_i(on-field) / n_stars_ha(off-field); helps to detect images with duplicate stars." ratio_bright_i;
 colmeta -desc "Percentage of stellar objects fainter than r > 19.5." -units "percent" f_stars_faint;
 colmeta -desc "90-percentile of the r magnitudes of stars." r90p;
 colmeta -desc "Number of stellar objects for which the r, i or Ha shifted by >=0.1 mag between same-run on/off-exposures (due to gain variation or fringing)." n_outliers_10p;
@@ -246,5 +269,6 @@ colmeta -desc "Number of hours of photometric data taken by the Carlsberg Meridi
 colmeta -desc "Number of non-photometric hours that night." hours_nonphot_carlsberg;
 colmeta -desc "Average humidity during the night." -units "percent" hum_avg;
 colmeta -desc "Are the various quality indicators (seeing, ellipticity, etc) within spec?" is_quality_ok;
+colmeta -desc "Best data available for the given field?" is_best;
 sort id;' \
 ofmt=fits out=iphas-observations.fits
