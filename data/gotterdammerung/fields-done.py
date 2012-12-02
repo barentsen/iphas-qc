@@ -27,7 +27,7 @@ for i in range(len(d)):
 			if ( np.all(np.array(l_seeing) < 2.0)
 					and np.all(np.array(l_ellipt) < 1.2)
 					and np.all(np.array(l_sky) < 500)
-					and np.all(np.array(l_sources) > 100) ):
+					and np.all(np.array(l_sources) > 40) ):
 				print myfield
 
 	

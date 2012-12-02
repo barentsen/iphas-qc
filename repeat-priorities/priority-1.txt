@@ -1,20 +1,20 @@
-intphas_1807	f_outliers_20p > 1% (gain variation or fringing)
+intphas_1807	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_1807o	All attempts failed CASU quality checks
-intphas_1809	f_outliers_20p > 1% (gain variation or fringing)
+intphas_1809	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_1809o	All attempts failed CASU quality checks
 intphas_1810	All attempts failed CASU quality checks
 intphas_1810o	All attempts failed CASU quality checks
 intphas_1811	All attempts failed CASU quality checks
 intphas_1811o	All attempts failed CASU quality checks
-intphas_1813	f_outliers_20p > 1% (gain variation or fringing)
+intphas_1813	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_1813o	All attempts failed CASU quality checks
 intphas_1815	All attempts failed CASU quality checks
 intphas_1815o	All attempts failed CASU quality checks
 intphas_2279	All attempts failed CASU quality checks
-intphas_2279o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_2279o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_2606	ellipt > 0.25
 intphas_2665	All attempts failed CASU quality checks
-intphas_2665o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_2665o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_2704	Added manually
 intphas_2704o	ellipt > 0.25
 intphas_2707	ellipt > 0.20
@@ -22,18 +22,18 @@ intphas_2707o	ellipt > 0.25
 intphas_2716	ellipt > 0.25
 intphas_2716o	ellipt > 0.25
 intphas_2720	All attempts failed CASU quality checks
-intphas_2720o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_2720o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_2731	All attempts failed CASU quality checks
-intphas_2731o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_2731o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_2748	ellipt > 0.25
-intphas_2748o	f_stars_faint < 10% (sparse)
-intphas_2798	f_outliers_20p > 1% (gain variation or fringing)
+intphas_2748o	f_stars_faint < 15% (sparse)
+intphas_2798	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_2798o	All attempts failed CASU quality checks
-intphas_2811	f_outliers_20p > 1% (gain variation or fringing)
+intphas_2811	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_2811o	All attempts failed CASU quality checks
 intphas_2843	ellipt > 0.25
 intphas_2888	All attempts failed CASU quality checks
-intphas_2888o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_2888o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_2933	All attempts failed CASU quality checks
 intphas_2933o	All attempts failed CASU quality checks
 intphas_2935	All attempts failed CASU quality checks
@@ -41,18 +41,18 @@ intphas_2935o	All attempts failed CASU quality checks
 intphas_2937	All attempts failed CASU quality checks
 intphas_2937o	All attempts failed CASU quality checks
 intphas_2939	All attempts failed CASU quality checks
-intphas_2939o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_2939o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3014	All attempts failed CASU quality checks
-intphas_3014o	f_outliers_20p > 1% (gain variation or fringing)
-intphas_3020	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3014o	f_outliers_20p > 0.5% (gain variation or fringing)
+intphas_3020	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3020o	All attempts failed CASU quality checks
 intphas_3042	All attempts failed CASU quality checks
 intphas_3042o	All attempts failed CASU quality checks
 intphas_3043	All attempts failed CASU quality checks
-intphas_3043o	f_outliers_20p > 1% (gain variation or fringing)
-intphas_3045	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3043o	f_outliers_20p > 0.5% (gain variation or fringing)
+intphas_3045	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3045o	All attempts failed CASU quality checks
-intphas_3062	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3062	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3062o	All attempts failed CASU quality checks
 intphas_3073	ellipt > 0.25
 intphas_3138	All attempts failed CASU quality checks
@@ -60,84 +60,86 @@ intphas_3138o	All attempts failed CASU quality checks
 intphas_3141	seeing > 2.5
 intphas_3141o	All attempts failed CASU quality checks
 intphas_3142	All attempts failed CASU quality checks
-intphas_3142o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3142o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3182	All attempts failed CASU quality checks
-intphas_3182o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3182o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3289	All attempts failed CASU quality checks
-intphas_3289o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3289o	f_outliers_20p > 0.5% (gain variation or fringing)
+intphas_3366	f_stars_faint < 15% (sparse)
 intphas_3366o	ellipt > 0.25
 intphas_3386	All attempts failed CASU quality checks
-intphas_3386o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3386o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3389	All attempts failed CASU quality checks
-intphas_3389o	f_outliers_20p > 1% (gain variation or fringing)
-intphas_3391	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3389o	f_outliers_20p > 0.5% (gain variation or fringing)
+intphas_3391	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3391o	All attempts failed CASU quality checks
-intphas_3392	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3392	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3392o	All attempts failed CASU quality checks
 intphas_3399	All attempts failed CASU quality checks
-intphas_3399o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3399o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3405	seeing > 2.0
 intphas_3405o	All attempts failed CASU quality checks
-intphas_3411	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3411	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3411o	All attempts failed CASU quality checks
 intphas_3433	seeing > 2.0
 intphas_3433o	All attempts failed CASU quality checks
 intphas_3438	All attempts failed CASU quality checks
-intphas_3438o	f_outliers_20p > 1% (gain variation or fringing)
-intphas_3455	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3438o	f_outliers_20p > 0.5% (gain variation or fringing)
+intphas_3455	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3455o	All attempts failed CASU quality checks
 intphas_3489	Added manually
 intphas_3489o	Added manually
 intphas_3512	ellipt > 0.25
 intphas_3587	seeing > 2.5
-intphas_3587o	f_stars_faint < 10% (sparse)
+intphas_3587o	f_outliers_10p > 5% (gain variation or fringing)
 intphas_3603	All attempts failed CASU quality checks
-intphas_3603o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3603o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3625	All attempts failed CASU quality checks
-intphas_3625o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3625o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3652	All attempts failed CASU quality checks
-intphas_3652o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3652o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3659	All attempts failed CASU quality checks
-intphas_3659o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3659o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3697	All attempts failed CASU quality checks
-intphas_3697o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3697o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3715	ellipt > 0.25
 intphas_3719	All attempts failed CASU quality checks
-intphas_3719o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3719o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3734	ellipt > 0.25
 intphas_3735	ellipt > 0.25
 intphas_3749	All attempts failed CASU quality checks
-intphas_3749o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3749o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3767	All attempts failed CASU quality checks
-intphas_3767o	f_outliers_20p > 1% (gain variation or fringing)
-intphas_3768	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3767o	f_outliers_20p > 0.5% (gain variation or fringing)
+intphas_3768	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3768o	All attempts failed CASU quality checks
-intphas_3769	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3769	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3769o	All attempts failed CASU quality checks
-intphas_3770	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3770	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3770o	All attempts failed CASU quality checks
 intphas_3772	ellipt > 0.25
+intphas_3772o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3777	ellipt > 0.25
-intphas_3777o	f_outliers_10p > 10% (gain variation or fringing)
+intphas_3777o	f_outliers_10p > 5% (gain variation or fringing)
 intphas_3801	All attempts failed CASU quality checks
-intphas_3801o	f_outliers_20p > 1% (gain variation or fringing)
-intphas_3807	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3801o	f_outliers_20p > 0.5% (gain variation or fringing)
+intphas_3807	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3807o	All attempts failed CASU quality checks
 intphas_3826	seeing > 2.5
 intphas_3826o	seeing > 2.0
 intphas_3828	ellipt > 0.25
 intphas_3828o	seeing > 2.5
 intphas_3832	All attempts failed CASU quality checks
-intphas_3832o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3832o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3833	All attempts failed CASU quality checks
 intphas_3833o	All attempts failed CASU quality checks
 intphas_3836	All attempts failed CASU quality checks
-intphas_3836o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3836o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3837	All attempts failed CASU quality checks
 intphas_3837o	All attempts failed CASU quality checks
 intphas_3855	All attempts failed CASU quality checks
 intphas_3855o	All attempts failed CASU quality checks
-intphas_3857	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3857	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3857o	All attempts failed CASU quality checks
 intphas_3870	seeing > 2.5
 intphas_3917	seeing > 2.0
@@ -148,11 +150,11 @@ intphas_3960o	sky > 1500
 intphas_3962	All attempts failed CASU quality checks
 intphas_3962o	sky > 1500
 intphas_3978	All attempts failed CASU quality checks
-intphas_3978o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3978o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3989	All attempts failed CASU quality checks
-intphas_3989o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3989o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_3999	All attempts failed CASU quality checks
-intphas_3999o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_3999o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_4000	All attempts failed CASU quality checks
 intphas_4000o	All attempts failed CASU quality checks
 intphas_4001	All attempts failed CASU quality checks
@@ -164,9 +166,9 @@ intphas_4003o	All attempts failed CASU quality checks
 intphas_4004	All attempts failed CASU quality checks
 intphas_4004o	All attempts failed CASU quality checks
 intphas_4013	All attempts failed CASU quality checks
-intphas_4013o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_4013o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_4021	All attempts failed CASU quality checks
-intphas_4021o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_4021o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_4051	seeing > 2.5
 intphas_4051o	seeing > 2.0
 intphas_4059	seeing > 2.0
@@ -175,6 +177,6 @@ intphas_4061	seeing > 2.5
 intphas_4061o	All attempts failed CASU quality checks
 intphas_4065o	seeing > 2.5
 intphas_4070	All attempts failed CASU quality checks
-intphas_4070o	f_outliers_20p > 1% (gain variation or fringing)
+intphas_4070o	f_outliers_20p > 0.5% (gain variation or fringing)
 intphas_4371	All attempts failed CASU quality checks
 intphas_4371o	All attempts failed CASU quality checks
