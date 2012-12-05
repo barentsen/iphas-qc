@@ -83,6 +83,35 @@ icmd2='keepcols "run night observer temp_avg hum_avg lost_weather lost_technical
 ocmd="delcols run;" \
 ofmt=fits out=$TMP
 
+# Add links to the images
+echo "============================"
+echo "Adding in the images     "
+echo "============================"
+$STILTS tmatch2 in1=$TMP ifmt1=fits \
+in2=images/iphas-images.csv ifmt2=csv \
+icmd2='keepcols "run image conf";' \
+matcher=exact join=all1 find=best \
+values1="run_ha" values2="run" \
+ocmd='addcol image_ha "image"; addcol conf_ha "conf"; delcols "run image conf";' \
+ofmt=fits out=$TMP
+
+$STILTS tmatch2 in1=$TMP ifmt1=fits \
+in2=images/iphas-images.csv ifmt2=csv \
+icmd2='keepcols "run image conf";' \
+matcher=exact join=all1 find=best \
+values1="run_r" values2="run" \
+ocmd='addcol image_r "image"; addcol conf_r "conf"; delcols "run image conf";' \
+ofmt=fits out=$TMP
+
+$STILTS tmatch2 in1=$TMP ifmt1=fits \
+in2=images/iphas-images.csv ifmt2=csv \
+icmd2='keepcols "run image conf";' \
+matcher=exact join=all1 find=best \
+values1="run_i" values2="run" \
+ocmd='addcol image_i "image"; addcol conf_i "conf"; delcols "run image conf";' \
+ofmt=fits out=$TMP
+
+
 
 # Add the Carlsberg Meridian Telescope sky quality data
 echo "============================"
@@ -129,7 +158,7 @@ in2=fieldpair-crossmatching/fieldpair-info.csv ifmt2=csv \
 matcher=exact join=all1 find=best \
 values1="mercat" values2="file1" \
 fixcols="all" suffix1="" suffix2="_on" \
-icmd2='keepcols "file1 n_matched n_outliers_10p n_outliers_20p"' \
+icmd2='keepcols "file1 n_matched n_outliers_10p n_outliers_20p f_outliers_10p f_outliers_20p"' \
 ofmt=fits out=$TMP
 
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
@@ -137,7 +166,7 @@ in2=fieldpair-crossmatching/fieldpair-info.csv ifmt2=csv \
 matcher=exact join=all1 find=best \
 values1="mercat" values2="file2" \
 fixcols="all" suffix1="" suffix2="_off" \
-icmd2='keepcols "file2 n_matched n_outliers_10p n_outliers_20p"' \
+icmd2='keepcols "file2 n_matched n_outliers_10p n_outliers_20p f_outliers_10p f_outliers_20p"' \
 ofmt=fits out=$TMP
 
 
@@ -208,20 +237,22 @@ addcol f_stars_faint "roundDecimal(100.0 * n_stars_faint / toFloat(n_stars), 1)"
 addcol n_matched "NULL_n_matched_on ? n_matched_off : n_matched_on";
 addcol n_outliers_10p "NULL_n_outliers_10p_on ? n_outliers_10p_off : n_outliers_10p_on";
 addcol n_outliers_20p "NULL_n_outliers_20p_on ? n_outliers_20p_off : n_outliers_20p_on";
-addcol f_outliers_10p "100.0 * n_outliers_10p / toFloat(n_matched)"
-addcol f_outliers_20p "100.0 * n_outliers_20p / toFloat(n_matched)"
+addcol f_outliers_10p "NULL_f_outliers_10p_on ? roundDecimal(f_outliers_10p_off, 2) : roundDecimal(f_outliers_10p_on, 2)";
+addcol f_outliers_20p "NULL_f_outliers_20p_on ? roundDecimal(f_outliers_20p_off, 2) : roundDecimal(f_outliers_20p_on, 2)";
 addcol ra "hmsToDegrees(ra_r)";
 addcol dec "dmsToDegrees(dec_r)";
 addcol is_anchor "anchor == 1";
-addcol is_pdr "anchor == 0 || anchor == 1";' \
+addcol is_pdr "anchor == 0 || anchor == 1";
+addcol is_offset "field.endsWith(\"o\")";' \
 ocmd='addskycoords -inunit deg -outunit deg fk5 galactic ra dec l b;
 keepcols "id anchor field dir n_stars 
-f_stars_faint r90p 
-n_outliers_10p n_outliers_20p f_outliers_10p f_outliers_20p	
+rmode
+r5sig i5sig h5sig
+n_outliers_10p n_outliers_20p	
+f_outliers_10p f_outliers_20p	
 seeing_max ellipt_max airmass_max sky_max
 seeing_min ellipt_min airmass_min sky_min
 seeing_r seeing_i seeing_ha
-fluxr_5sig fluxi_5sig fluxha_5sig 
 zpr zpi zph 
 e_zpr e_zpi e_zpha
 zpr_calib zpi_calib zph_calib
@@ -235,10 +266,12 @@ hum_avg
 comments_weather comments_night comments_exposure 
 ra dec l b
 run_ha run_r run_i
+image_ha image_r image_i
+conf_ha conf_r conf_i
 mercat
 is_anchor is_pdr
 qflag
-is_quality_ok is_best";
+is_ok is_best";
 colmeta -desc "Right Ascension of the r-band exposure." ra;
 colmeta -desc "Declination of the r-band exposure." dec;
 colmeta -desc "r-band zeropoint from Eduardo''s mercat header." zpr;
@@ -253,10 +286,12 @@ colmeta -desc "median(IPHAS_r - APASS_r_transformed)" apass_r;
 colmeta -desc "median(IPHAS_i - APASS_i_transformed)" apass_i;
 colmeta -desc "Anchor column from FINALSOL3.TXT" anchor;
 colmeta -desc "Number of stellar objects (class=-1 in all bands)." n_stars;
-colmeta -desc "Percentage of stellar objects fainter than r > 19.5." -units "percent" f_stars_faint;
-colmeta -desc "90-percentile of the r magnitudes of stars." r90p;
-colmeta -desc "Number of stellar objects for which the r, i or Ha shifted by >=0.1 mag between same-run on/off-exposures (due to gain variation or fringing)." n_outliers_10p;
-colmeta -desc "Number of stellar objects for which the r, i or Ha shifted by >=0.2 mag between same-run on/off-exposures (due to gain variation or fringing)." n_outliers_20p;
+colmeta -desc "Mode of the r magnitude distribution for those objects which are detected and classified as stellar in all three bands. Used as a proxy for completeness." rmode;
+colmeta -desc "Median r magnitude of stars detected at SNR=5, i.e. where the photometric errors are 0.2 mag." r5sig;
+colmeta -desc "Median i magnitude of stars detected at SNR=5, i.e. where the photometric errors are 0.2 mag." i5sig;
+colmeta -desc "Median H-alpha magnitude of stars detected at SNR=5, i.e. where the photometric errors are 0.2 mag." h5sig;
+colmeta -desc "Fraction of stellar objects for which r/i/Ha shifted by >=0.1 mag between same-run on/off-exposures (typically due to gain variation or fringing)." f_outliers_10p;
+colmeta -desc "Fraction of stellar objects for which r/i/Ha shifted by >=0.2 mag between same-run on/off-exposures (typically due to gain variation or fringing)." f_outliers_20p;
 colmeta -desc "Maximum (worst) seeing of the three single-filter exposures." -units "arcsec" seeing_max;
 colmeta -desc "Maximum (worst) ellipticity of the three single-filter exposures." ellipt_max;
 colmeta -desc "Maximum (worst) airmass of the three single-filter exposures." airmass_max;
@@ -268,7 +303,14 @@ colmeta -desc "Median extinction in r during the night, measured by the Carlsber
 colmeta -desc "Number of hours of photometric data taken by the Carlsberg Meridian Telescope that night." hours_phot_carlsberg;
 colmeta -desc "Number of non-photometric hours that night." hours_nonphot_carlsberg;
 colmeta -desc "Average humidity during the night." -units "percent" hum_avg;
-colmeta -desc "Are the various quality indicators (seeing, ellipticity, etc) within spec?" is_quality_ok;
-colmeta -desc "Best data available for the given field?" is_best;
+colmeta -desc "Filename of the H-alpha image." image_ha;
+colmeta -desc "Filename of the H-alpha confidence map." conf_ha;
+colmeta -desc "Are the various quality indicators (seeing, ellipticity, etc) within spec?" is_ok;
+colmeta -desc "Is it the best data available for the given field?" is_best;
 sort id;' \
 ofmt=fits out=iphas-observations.fits
+
+
+# Recently removed:
+# n_outliers_10p n_outliers_20p 
+# fluxr_5sig fluxi_5sig fluxha_5sig 

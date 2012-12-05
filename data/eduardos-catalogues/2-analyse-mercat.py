@@ -5,6 +5,7 @@ import os
 import pyfits
 import logging
 import numpy as np
+from scipy import stats
 logging.basicConfig(level=logging.INFO)
 
 merdir = "/home/gb/tmp/iphas_sep2012_eglez/apm3.ast.cam.ac.uk/~eglez/iphas/newmerges/"
@@ -13,7 +14,8 @@ csv = open("mercat-info.csv", "w")
 csv.write("mercat,field,dir,run_r,run_i,run_ha,time" \
             + ",n_stars_r,n_stars_i,n_stars_ha,n_stars"\
             + ",n_bright_r,n_bright_i,n_bright_ha"\
-            + ",n_stars_faint,r90p" \
+            + ",n_stars_faint,r90p,rmode" \
+            + ",r5sig,i5sig,h5sig" \
             + ",zpr,zpi,zph,e_zpr,e_zpi,e_zpha" \
             + ",fluxr_5sig,fluxi_5sig,fluxha_5sig,exp_r,exp_i,exp_ha" \
             + ",ext_r,ext_i,ext_ha,air_r,air_i,air_ha\n")
@@ -71,6 +73,8 @@ for mydir in os.walk(merdir):
         n_stars_r, n_stars_i, n_stars_ha, n_stars = 0, 0, 0, 0
         n_stars_faint = 0
         r_mags = np.array([])
+        magnitudes = {'r': np.array([]), 'i': np.array([]), 'h': np.array([])}
+        errors = {'r': np.array([]), 'i': np.array([]), 'h': np.array([])}
         for i in [1,2,3,4]:
             c_r = (p[i].data.field("rClass") == -1)
             c_i = (p[i].data.field("iClass") == -1)
@@ -89,6 +93,11 @@ for mydir in os.walk(merdir):
             # Keep r magnitudes to compute the percentile below
             r_mags = np.concatenate((r_mags, my_r_mags))
 
+            # Put all magnitudes and errors into one array to compute detection limits
+            for myband in ['r', 'i', 'h']:
+                magnitudes[myband] = np.concatenate((magnitudes[myband], p[i].data.field(myband+'Apermag3')))
+                errors[myband] = np.concatenate((errors[myband], p[i].data.field(myband+'Apermag3_err')))
+
             # Number of bright stars - useful for checking for double images
             n_bright_r = (p[i].data.field('rApermag3')[c_r] < 16).sum()
             n_bright_i = (p[i].data.field('iApermag3')[c_i] < 15).sum()
@@ -96,18 +105,33 @@ for mydir in os.walk(merdir):
             
 
         
-        # Compute the 90%-percentile of the r magnitude of stars
+        # Compute the 90%-percentile and mode of the r magnitude distribution
         if len(r_mags) > 0:
             r90p = np.percentile(r_mags, [90])[0]
+            r_mode = stats.mode( r_mags.round(1) )[0][0]
         else:
             r90p = 0.0
+            r_mode = 0.0
+
+        # 5 sigma detection limits
+        limit5sig = {}
+        for myband in ['r', 'i', 'h']:
+            # search for magnitudes where err = 0.20 because 2.5*log(1+1/5) = 0.198
+            c_5sig = ( errors[myband].round(2) == 0.20 ) 
+            if c_5sig.sum() > 0:
+                limit5sig[myband] = np.median( magnitudes[myband][c_5sig] )
+            else:
+                limit5sig[myband] = 0.0
+
+
 
         # Add a row for this field to the CSV file
         # NOTE: field h['EXTINCR'] is missing from Eduardo's files
         csv.write( ("%s,%s,%s,%s,%s,%s,%s," \
                     + "%s,%s,%s,%s," \
                     + "%s,%s,%s," \
-                    + "%s,%.3f," \
+                    + "%s,%.3f,%.1f," \
+                    + "%.2f,%.2f,%.2f," \
                     + "%s,%s,%s,%s,%s,%s," \
                     + "%s,%s,%s,%s,%s,%s," \
                     + "%s,%s,%s,%s,%s,%s\n") % \
@@ -115,7 +139,8 @@ for mydir in os.walk(merdir):
                     field, rundir, run_r, run_i, run_ha, time, \
                     n_stars_r, n_stars_i, n_stars_ha, n_stars, \
                     n_bright_r, n_bright_i, n_bright_ha, \
-                    n_stars_faint, r90p, \
+                    n_stars_faint, r90p, r_mode, \
+                    limit5sig['r'], limit5sig['i'], limit5sig['h'], \
                     h['MAGZPTR'], h['MAGZPTC1'], h['MAGZPTC2'], \
                     h['MAGZRRR'], h['MAGZRRC1'], h['MAGZRRC2'], \
                     h['FLIMREF'], h['FLIMCOM1'], h['FLIMCOM2'], \
