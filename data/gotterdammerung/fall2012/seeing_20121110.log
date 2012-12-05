@@ -32,15 +32,15 @@ r945679.fit  6.32  2.09 0.035   348.5 from  30 sources of sa114 r
 r945680.fit  6.14  2.03 0.032   319.1 from  13 sources of sa114 i
 r945681.fit  6.66  2.20 0.014   316.9 from  28 sources of sa114 g
 r945682.fit  4.36  1.44 0.118   316.7 from  10 sources of sa114 U
-r945683.fit  4.21  1.39 0.057   378.5 from 181 sources of intphas_7175 Ha
-r945684.fit  4.33  1.43 0.072   434.1 from 434 sources of intphas_7175 r
-r945685.fit  3.76  1.24 0.068   467.9 from 473 sources of intphas_7175 i
-r945686.fit  4.59  1.51 0.054   398.2 from 174 sources of intphas_7175o Ha
-r945687.fit  4.11  1.36 0.064   454.0 from 522 sources of intphas_7175o r
-r945688.fit  4.20  1.39 0.078   457.7 from 456 sources of intphas_7175o i
-r945689.fit  4.66  1.54 0.062   405.1 from 316 sources of intphas_7197o Ha
-r945690.fit  4.98  1.64 0.067   465.3 from 759 sources of intphas_7197o r
-r945691.fit  5.11  1.69 0.071   464.5 from 501 sources of intphas_7197o i
+r945683.fit  4.21  1.39 0.057   378.5 from 181 sources of intphas_71!!NOISE!!75 Ha
+r945684.fit  4.33  1.43 0.072   434.1 from 434 sources of intphas_71!!NOISE!!75 r
+r945685.fit  3.76  1.24 0.068   467.9 from 473 sources of intphas_71!!NOISE!!75 i
+r945686.fit  4.59  1.51 0.054   398.2 from 174 sources of intphas_71!!NOISE!!75o Ha
+r945687.fit  4.11  1.36 0.064   454.0 from 522 sources of intphas_71!!NOISE!!75o r
+r945688.fit  4.20  1.39 0.078   457.7 from 456 sources of intphas_71!!NOISE!!75o i
+r945689.fit  4.66  1.54 0.062   405.1 from 316 sources of intphas_71!!NOISE!!97o Ha
+r945690.fit  4.98  1.64 0.067   465.3 from 759 sources of intphas_71!!NOISE!!97o r
+r945691.fit  5.11  1.69 0.071   464.5 from 501 sources of intphas_71!!NOISE!!97o i
 r945692.fit is not a target (BIAS)
 r945693.fit is not a target (BIAS)
 r945694.fit  6.68  2.20 0.072    61.6 from 229 sources of intphas_6671 Ha

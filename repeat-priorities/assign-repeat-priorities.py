@@ -163,14 +163,16 @@ for i in range(1, 7636):
 			continue
 		"""
 
-		check = spec & ( d['f_outliers_20p'][c] < 1 )
+		# CHANGE: was 1% in selection before November run
+		check = spec & ( d['f_outliers_20p'][c] < 0.5 )
 		if check.sum() == 0: 
-			report(3, field, 'f_outliers_20p > 1% (gain variation or fringing)')
+			report(3, field, 'f_outliers_20p > 0.5% (gain variation or fringing)')
 			continue
 
-		check = spec & ( d['f_outliers_10p'][c] < 10 )
+		# CHANGE: was 10% in selection before November round
+		check = spec & ( d['f_outliers_10p'][c] < 5 )
 		if check.sum() == 0: 
-			report(3, field, 'f_outliers_10p > 10% (gain variation or fringing)')
+			report(3, field, 'f_outliers_10p > 5% (gain variation or fringing)')
 			continue
 
 
@@ -180,9 +182,10 @@ for i in range(1, 7636):
 
 		""" SPARSE FIELDS """
 		
-		check = spec & ( d['f_stars_faint'][c] > 10.0 )
+		# CHANGE: was 10% before November run
+		check = spec & ( d['f_stars_faint'][c] > 15.0 )
 		if check.sum() == 0: 
-			report(4, field, 'f_stars_faint < 10% (sparse)')
+			report(4, field, 'f_stars_faint < 15% (sparse)')
 			continue
 
 		check = spec & ( d['n_stars'][c] > 500 )
@@ -212,9 +215,9 @@ for i in range(1, 7636):
 			continue
 
 		# Check for fields with out-of-spec airmass
-		check = d['airmass_max'][c].round(5) <= 1.7
+		check = d['airmass_max'][c].round(5) <= 5.0
 		if check.sum() == 0: 
-			report(5, field, 'airmass > 1.7')
+			report(5, field, 'airmass > 5.0')
 			continue
 
 

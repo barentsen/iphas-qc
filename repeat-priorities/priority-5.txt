@@ -1,41 +1,21 @@
 intphas_0016o	apass_r > 0.5 or apass_i > 0.5
 intphas_0019	apass_r > 0.5 or apass_i > 0.5
-intphas_0460	airmass > 1.7
 intphas_0897	apass_r > 0.5 or apass_i > 0.5
 intphas_1244o	apass_r > 0.5 or apass_i > 0.5
-intphas_1453	apass_r > 0.5 or apass_i > 0.5
 intphas_1474	apass_r > 0.5 or apass_i > 0.5
 intphas_1688o	apass_r > 0.5 or apass_i > 0.5
 intphas_1702o	sdss_r > 0.5 or sdss_i > 0.5
 intphas_1715o	sdss_r > 0.5 or sdss_i > 0.5
-intphas_1818	airmass > 1.7
-intphas_1818o	airmass > 1.7
-intphas_1823	airmass > 1.7
-intphas_1823o	airmass > 1.7
-intphas_1825	airmass > 1.7
-intphas_1825o	airmass > 1.7
-intphas_1881	airmass > 1.7
-intphas_1881o	airmass > 1.7
-intphas_1883	airmass > 1.7
 intphas_1954	apass_r > 0.5 or apass_i > 0.5
 intphas_1955o	apass_r > 0.5 or apass_i > 0.5
 intphas_2000o	apass_r > 0.5 or apass_i > 0.5
 intphas_2091o	apass_r > 0.5 or apass_i > 0.5
 intphas_2092	apass_r > 0.5 or apass_i > 0.5
 intphas_2092o	apass_r > 0.5 or apass_i > 0.5
-intphas_2098	airmass > 1.7
-intphas_2098o	airmass > 1.7
-intphas_2101	airmass > 1.7
-intphas_2101o	airmass > 1.7
-intphas_2105	airmass > 1.7
-intphas_2105o	airmass > 1.7
-intphas_2107	airmass > 1.7
-intphas_2107o	airmass > 1.7
 intphas_2142	apass_r > 0.5 or apass_i > 0.5
 intphas_2142o	apass_r > 0.5 or apass_i > 0.5
 intphas_2159o	apass_r > 0.5 or apass_i > 0.5
 intphas_2160	apass_r > 0.5 or apass_i > 0.5
-intphas_2164o	apass_r > 0.5 or apass_i > 0.5
 intphas_2165	apass_r > 0.5 or apass_i > 0.5
 intphas_2165o	apass_r > 0.5 or apass_i > 0.5
 intphas_2191	apass_r > 0.5 or apass_i > 0.5
@@ -49,9 +29,6 @@ intphas_2290	apass_r > 0.5 or apass_i > 0.5
 intphas_2415	apass_r > 0.5 or apass_i > 0.5
 intphas_2435	apass_r > 0.5 or apass_i > 0.5
 intphas_2435o	apass_r > 0.5 or apass_i > 0.5
-intphas_2466o	apass_r > 0.5 or apass_i > 0.5
-intphas_2468	apass_r > 0.5 or apass_i > 0.5
-intphas_2468o	apass_r > 0.5 or apass_i > 0.5
 intphas_2469	apass_r > 0.5 or apass_i > 0.5
 intphas_2469o	apass_r > 0.5 or apass_i > 0.5
 intphas_2470	apass_r > 0.5 or apass_i > 0.5
@@ -67,8 +44,6 @@ intphas_2496	apass_r > 0.5 or apass_i > 0.5
 intphas_2496o	apass_r > 0.5 or apass_i > 0.5
 intphas_2498	apass_r > 0.5 or apass_i > 0.5
 intphas_2500o	apass_r > 0.5 or apass_i > 0.5
-intphas_2543	airmass > 1.7
-intphas_2543o	airmass > 1.7
 intphas_2858	apass_r > 0.5 or apass_i > 0.5
 intphas_2858o	apass_r > 0.5 or apass_i > 0.5
 intphas_2860	apass_r > 0.5 or apass_i > 0.5
@@ -79,13 +54,8 @@ intphas_2864	sdss_r > 0.5 or sdss_i > 0.5
 intphas_2864o	sdss_r > 0.5 or sdss_i > 0.5
 intphas_2866	apass_r > 0.5 or apass_i > 0.5
 intphas_2866o	apass_r > 0.5 or apass_i > 0.5
-intphas_2871	sdss_r > 0.5 or sdss_i > 0.5
-intphas_2871o	apass_r > 0.5 or apass_i > 0.5
 intphas_2872	sdss_r > 0.5 or sdss_i > 0.5
 intphas_2872o	sdss_r > 0.5 or sdss_i > 0.5
-intphas_2891o	airmass > 1.7
-intphas_2978	apass_r > 0.5 or apass_i > 0.5
-intphas_2978o	apass_r > 0.5 or apass_i > 0.5
 intphas_2989	sdss_r > 0.5 or sdss_i > 0.5
 intphas_2989o	sdss_r > 0.5 or sdss_i > 0.5
 intphas_3013o	apass_r > 0.5 or apass_i > 0.5
@@ -98,13 +68,8 @@ intphas_3117	sdss_r > 0.5 or sdss_i > 0.5
 intphas_3119	sdss_r > 0.5 or sdss_i > 0.5
 intphas_3119o	sdss_r > 0.5 or sdss_i > 0.5
 intphas_3120	apass_r > 0.5 or apass_i > 0.5
-intphas_3132	sdss_r > 0.5 or sdss_i > 0.5
 intphas_3133	apass_r > 0.5 or apass_i > 0.5
 intphas_3134o	apass_r > 0.5 or apass_i > 0.5
-intphas_3135	sdss_r > 0.5 or sdss_i > 0.5
-intphas_3135o	sdss_r > 0.5 or sdss_i > 0.5
-intphas_3160	apass_r > 0.5 or apass_i > 0.5
-intphas_3160o	apass_r > 0.5 or apass_i > 0.5
 intphas_3173	apass_r > 0.5 or apass_i > 0.5
 intphas_3175	apass_r > 0.5 or apass_i > 0.5
 intphas_3175o	apass_r > 0.5 or apass_i > 0.5
@@ -114,17 +79,9 @@ intphas_3192	sdss_r > 0.5 or sdss_i > 0.5
 intphas_3192o	sdss_r > 0.5 or sdss_i > 0.5
 intphas_3196	sdss_r > 0.5 or sdss_i > 0.5
 intphas_3196o	sdss_r > 0.5 or sdss_i > 0.5
-intphas_3234	sdss_r > 0.5 or sdss_i > 0.5
-intphas_3234o	sdss_r > 0.5 or sdss_i > 0.5
 intphas_3265	apass_r > 0.5 or apass_i > 0.5
 intphas_3265o	apass_r > 0.5 or apass_i > 0.5
-intphas_3279	apass_r > 0.5 or apass_i > 0.5
-intphas_3279o	apass_r > 0.5 or apass_i > 0.5
-intphas_3549	airmass > 1.7
-intphas_3549o	airmass > 1.7
-intphas_3610o	airmass > 1.7
 intphas_3758o	apass_r > 0.5 or apass_i > 0.5
-intphas_3784o	apass_r > 0.5 or apass_i > 0.5
 intphas_3794	sdss_r > 0.5 or sdss_i > 0.5
 intphas_3794o	sdss_r > 0.5 or sdss_i > 0.5
 intphas_3795	apass_r > 0.5 or apass_i > 0.5
@@ -133,36 +90,19 @@ intphas_3796	apass_r > 0.5 or apass_i > 0.5
 intphas_3796o	apass_r > 0.5 or apass_i > 0.5
 intphas_3797	apass_r > 0.5 or apass_i > 0.5
 intphas_3797o	apass_r > 0.5 or apass_i > 0.5
-intphas_3843	apass_r > 0.5 or apass_i > 0.5
 intphas_4016o	apass_r > 0.5 or apass_i > 0.5
-intphas_4018	airmass > 1.7
-intphas_4018o	airmass > 1.7
 intphas_4027	apass_r > 0.5 or apass_i > 0.5
 intphas_4027o	apass_r > 0.5 or apass_i > 0.5
-intphas_4311	airmass > 1.7
-intphas_4311o	airmass > 1.7
-intphas_4386	airmass > 1.7
-intphas_4386o	airmass > 1.7
-intphas_4922o	airmass > 1.7
-intphas_4935	airmass > 1.7
-intphas_4935o	airmass > 1.7
-intphas_4937	airmass > 1.7
 intphas_5563o	sdss_r > 0.5 or sdss_i > 0.5
 intphas_5647o	apass_r > 0.5 or apass_i > 0.5
 intphas_5653	sdss_r > 0.5 or sdss_i > 0.5
-intphas_5663	apass_r > 0.5 or apass_i > 0.5
-intphas_5663o	apass_r > 0.5 or apass_i > 0.5
 intphas_6114o	apass_r > 0.5 or apass_i > 0.5
 intphas_6119	apass_r > 0.5 or apass_i > 0.5
 intphas_6141o	sdss_r > 0.5 or sdss_i > 0.5
 intphas_6146o	sdss_r > 0.5 or sdss_i > 0.5
-intphas_6567	sdss_r > 0.5 or sdss_i > 0.5
 intphas_6757o	sdss_r > 0.5 or sdss_i > 0.5
 intphas_6775	apass_r > 0.5 or apass_i > 0.5
 intphas_6775o	apass_r > 0.5 or apass_i > 0.5
-intphas_6779	apass_r > 0.5 or apass_i > 0.5
-intphas_6779o	apass_r > 0.5 or apass_i > 0.5
 intphas_6844o	apass_r > 0.5 or apass_i > 0.5
-intphas_6847	apass_r > 0.5 or apass_i > 0.5
 intphas_6945	apass_r > 0.5 or apass_i > 0.5
 intphas_7549	apass_r > 0.5 or apass_i > 0.5
