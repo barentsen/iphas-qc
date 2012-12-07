@@ -89,26 +89,26 @@ echo "Adding in the images     "
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
 in2=images/iphas-images.csv ifmt2=csv \
-icmd2='keepcols "run image conf";' \
+icmd2='keepcols "run image conf_ha";' \
 matcher=exact join=all1 find=best \
 values1="run_ha" values2="run" \
-ocmd='addcol image_ha "image"; addcol conf_ha "conf"; delcols "run image conf";' \
+ocmd='addcol image_ha "image"; delcols "run image";' \
 ofmt=fits out=$TMP
 
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
 in2=images/iphas-images.csv ifmt2=csv \
-icmd2='keepcols "run image conf";' \
+icmd2='keepcols "run image conf_r";' \
 matcher=exact join=all1 find=best \
 values1="run_r" values2="run" \
-ocmd='addcol image_r "image"; addcol conf_r "conf"; delcols "run image conf";' \
+ocmd='addcol image_r "image"; delcols "run image";' \
 ofmt=fits out=$TMP
 
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
 in2=images/iphas-images.csv ifmt2=csv \
-icmd2='keepcols "run image conf";' \
+icmd2='keepcols "run image conf_i";' \
 matcher=exact join=all1 find=best \
 values1="run_i" values2="run" \
-ocmd='addcol image_i "image"; addcol conf_i "conf"; delcols "run image conf";' \
+ocmd='addcol image_i "image"; delcols "run image";' \
 ofmt=fits out=$TMP
 
 

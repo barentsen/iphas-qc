@@ -28,7 +28,7 @@ else:
 
 # Initialize output table
 out = open('iphas-images.csv', 'w')
-out.write('run,image,conf\n')
+out.write('run,image,conf_ha,conf_r,conf_i\n')
 
 # Confidence maps can have various different filenames
 CONF_NAMES = {'ha': ['Ha_conf.fits', 'Ha_conf.fit', 
@@ -127,10 +127,15 @@ for mydir in os.walk(datadir):
             logging.debug("%s/%s" % (mydir[0], filename))
             image_path = os.path.join(mydir[0], filename)
             conf_path = get_confmap(mydir[0], 'i')
+
+            conf_ha = get_confmap(mydir[0], 'ha')[len(datadir):]
+            conf_r = get_confmap(mydir[0], 'r')[len(datadir):]
+            conf_i = get_confmap(mydir[0], 'i')[len(datadir):]
+
             # Run number is the first part of the filename
             myrun = filename.split('.')[0][1:]
             # Write the details of this image
-            out.write("%s,%s,%s\n" % \
-                     (myrun, image_path[len(datadir):], conf_path[len(datadir):])) 
+            out.write("%s,%s,%s,%s,%s\n" % \
+                     (myrun, image_path[len(datadir):], conf_ha, conf_r, conf_i)) 
 
 out.close()
