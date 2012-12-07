@@ -1,0 +1,82 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 09 27 07:47
+
+TELESCOPE             INT
+DATE                  20100926
+OBSERVER/S            Daniel Lopez
+PROGRAMME             Narrow band Images of M31
+PROPOSAL REF          D
+TELESCOPE OPERATOR    n/a
+SUPPORT ASTRONOMER    n/a
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:12
+EVENING TWILIGHT (UT) 20:23
+MORNING TWILIGHT (UT) 05:44
+SUNRISE (UT)          06:55
+%ILLUM. LUNAR DISK    88
+DARK TIME (HRS)       09:21
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         20:32
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  10.9   88    25.2  29.2  280   772.3   10.9   16.     17.   88     70
+21:00  10.6   85    22.7  26.7  234   772.7   10.6   14.     17.   85     74
+22:00  10.6   94    24.8  27.7  293   773.0   10.6   13.     16.   94     84
+23:00  10.6   87    22.1  24.1  294   773.1   10.6   14.     16.   87     77
+00:00  10.9   84    23.0  25.3  298   773.1   10.9   14.     17.   84     73
+01:00  10.7   85    23.4  28.4  285   772.9   10.7   12.     16.   85     82
+02:00  10.8   80    20.0  26.3  304   772.5   10.8   13.     16.   80     76
+03:00  11.6   80    26.7  29.0  214   772.3   11.6   13.     16.   80     77
+04:00  10.8   83    25.0  26.5  287   772.1   10.8   13.     16.   83     77
+05:00  10.5   81    26.9  29.4  289   771.8   10.5   13.     16.   81     73
+06:00  10.2   79    24.5  28.4  292   771.8   10.2   11.     15.   79     78
+
+TIME LOST weather           05:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloud, humidity.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Open 3 hours, the rest of the night clouds and humidity
+images 759681 and 759685 clouds
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 759663 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:44 1.000  WFC    0.0  180  Halpha                           
+ 759664 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:44 1.000  WFC    0.0  180  Halpha                           
+ 759665 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:45 1.000  WFC    0.0  180  Halpha                           
+ 759666 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:45 1.000  WFC    0.0  180  Halpha                           
+ 759667 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:46 1.000  WFC    0.0  180  Halpha                           
+ 759668 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:46 1.004  WFC    0.0  180  Halpha                           
+ 759669 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:47 1.004  WFC    0.0  180  Halpha                           
+ 759670 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:47 1.000  WFC    0.0  180  Halpha                           
+ 759671 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:47 1.000  WFC    0.0  180  Halpha                           
+ 759672 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:48 1.000  WFC    0.0  180  Halpha                           
+ 759673 Focus run        19:21:28.99 +12:27:49.0  2000.00 20:28 1.043  WFC   20.1  180  Halpha                           
+ 759674 test01           19:21:29.00 +12:27:49.0  2000.00 20:35 1.047  WFC   20.0  180  Halpha                           
+ 759675 test02           19:21:28.99 +12:27:48.9  2000.00 20:38 1.048  WFC   20.1  180  Halpha                           
+ 759676 test03           19:21:29.00 +12:27:49.0  2000.00 20:40 1.049  WFC   20.1  180  Halpha                           
+ 759677 test04           19:21:29.00 +12:27:48.9  2000.00 20:43 1.051  WFC   20.1  180  Halpha                           
+ 759678 test05           19:21:28.99 +12:27:48.9  2000.00 20:46 1.052  WFC   20.1  180  Halpha                           
+ 759679 test06           21:29:33.99 -08:38:29.9  2000.00 23:01 1.281  WFC   20.1  180  Halpha                           
+ 759680 test06            0:42:42.99 +41:13:59.9  2000.00 23:07 1.177  WFC   20.1  180  Halpha                           
+ 759681 M31CENTRE-Ha      0:42:42.99 +41:13:59.9  2000.00 23:41 1.095  WFC 1199.4  180  Halpha                           
+ 759682 test07            0:42:43.00 +41:13:59.9  2000.00 01:49 1.026  WFC   20.2  180  Halpha                           
+ 759683 test08            0:42:43.00 +41:14:00.0  2000.00 01:52 1.027  WFC   30.0  180  Halpha                           
+ 759684 test09            0:42:43.00 +41:14:00.0  2000.00 01:55 1.028  WFC   30.1  180  Halpha                           
+ 759685 M31-CENTER Ha     0:42:43.00 +41:14:00.0  2000.00 02:01 1.035  WFC 1199.4  180  Halpha                           
+ 759687 test10            0:42:43.00 +41:14:00.0  2000.00 04:23 1.252  WFC   29.5  180  Halpha                           
+ 759688 M31-CENTER Ha     0:42:43.00 +41:14:00.0  2000.00 04:28 1.302  WFC 1199.5  180  Halpha                           
+ 759689 M31-CENTER Ha     0:42:42.99 +41:14:00.0  2000.00 04:49 1.382  WFC 1199.4  180  Halpha                           
+ 759690 M31-CENTER Ha     0:42:42.99 +41:13:59.9  2000.00 05:09 1.481  WFC 1199.4  180  Halpha                           
+ 759691 test11            0:42:42.99 +41:14:00.0  2000.00 05:32 1.551  WFC   30.1  180  Halpha                           
+ 759692 test12            0:42:42.99 +41:14:00.0  2000.00 05:35 1.570  WFC   30.1  180  Halpha                           
+ 759693 M31-CENTER SII    0:42:43.00 +41:14:00.0  2000.00 05:39 1.664  WFC 1199.4  180  [SII]6725                        
+ 759694 M31-CENTER SII    0:42:42.99 +41:14:00.0  2000.00 06:01 1.839  WFC 1199.4  180  [SII]6725                        

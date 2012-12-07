@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 11 12 04:41
+
+TELESCOPE             INT
+DATE                  20111111
+OBSERVER/S            Hardy & Karami
+PROGRAMME             Cancelled CAT S night - INT D-night/student training
+PROPOSAL REF          Cancelled CAT S
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:28
+EVENING TWILIGHT (UT) 19:41
+MORNING TWILIGHT (UT) 06:10
+SUNRISE (UT)          07:24
+%ILLUM. LUNAR DISK    99
+DARK TIME (HRS)       10:29
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         18:40
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.2   99    10.8  22.1  180   765.3    4.2    9.     12.   99     78
+20:00   3.3   98    12.6  16.7  175   765.7    3.3    8.     12.   98     73
+21:00   4.9   87    19.4  23.1  188   766.0    4.9    8.     12.   87     73
+22:00   5.2   88    17.5  25.7  189   766.1    5.2    9.     12.   88     74
+23:00   5.1   98    16.3  27.0  200   766.2    5.1    9.     12.   98     77
+00:00   4.9   98     9.1  20.0  182   765.8    4.9    9.     12.   98     80
+01:00   5.2   99    10.0  12.0  186   765.7    5.2    9.     12.   99     81
+02:00   5.5   99     8.0   9.5  159   765.5    5.5    9.     12.   99     83
+03:00   5.5   99     8.8  23.7  174   765.2    5.5    9.     12.   99     83
+04:00   5.5   99     5.8  10.8  159   764.7    5.5    9.     12.   99     82
+
+TIME LOST weather           13:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Very high humidity and thick clouds all night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Quality control tests taken, run numbers r864228-864248
+
+

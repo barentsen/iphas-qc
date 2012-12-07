@@ -1,0 +1,44 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 05 10 06:37
+
+TELESCOPE             INT
+DATE                  20120509
+OBSERVER/S            Faedi
+PROGRAMME             P12
+PROPOSAL REF          P12
+TELESCOPE OPERATOR    FF
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 15.91
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:59
+EVENING TWILIGHT (UT) 21:19
+MORNING TWILIGHT (UT) 04:56
+SUNRISE (UT)          06:16
+%ILLUM. LUNAR DISK    80
+DARK TIME (HRS)       07:37
+TWILIGHT TIME (HRS)   02:40
+MOONRISE (UT)         23:31
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+00:00   7.7   89    19.5  21.4  253   771.1   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   7.3   92    18.5  23.0  301   770.9   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   8.5   83    18.5  19.1  313   770.9   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   8.7   80    13.5  17.7  302   770.3   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   9.0   74    14.1  14.4  299   770.1   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   8.8   70    10.1  11.8  273   770.0   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   9.7   51     4.5   5.3  304   770.2   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           02:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+some clouds and high humidity closed between UT 22:40 and UT 2:10
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

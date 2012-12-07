@@ -1,0 +1,59 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 04 11 05:33
+
+TELESCOPE             INT
+DATE                  20080410
+OBSERVER/S            Bram Venemans
+PROGRAMME             The highest redshift z>6 quasars and the coolest T/Y dwarf stars
+PROPOSAL REF          P23     
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Sarah Barker
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:42
+EVENING TWILIGHT (UT) 20:56
+MORNING TWILIGHT (UT) 05:29
+SUNRISE (UT)          06:43
+%ILLUM. LUNAR DISK    30
+DARK TIME (HRS)       08:33
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          01:03
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -1.2  100    21.8  25.2   80   763.0   -1.2    6.      7.  100     70
+21:00  -2.1  100    23.6  25.9   13   763.0   -2.1    6.      7.  100     70
+22:00  -2.3  100    19.7  22.6   14   763.3   -2.3    6.      7.  100     70
+23:00  -1.9  100    17.4  22.1   17   763.9   -1.9    6.      7.  100     70
+00:00  -2.7  100    14.2  14.0   21   764.2   -2.7    5.      7.  100     71
+01:00  -3.7  100     0.0   0.0   14   764.4   -3.7    5.      7.  100     69
+02:00  -4.2  100     0.0   0.0   37   764.3   -4.2    6.      7.  100     68
+03:00  -4.2  100     0.0   0.0   16   764.2   -4.2    5.      7.  100     68
+04:00  -5.9   87     0.0   0.0   24   764.2   -5.9    5.      7.   87     62
+05:00  -5.0   81     0.0   0.0   21   764.2   -5.0    5.      7.   81     61
+
+TIME LOST weather           08:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humidity the whole night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Night lost due to high humidity
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 612098 Bias                                              10:57        WFC    0.0       g                                
+ 612099 Bias                                              11:22        WFC    0.0       g                                
+ 612100 Bias              0:00:00.00 +00:00:00.0  2008.27 13:04 1.520  WFC    0.0  180  z                                
+ 612101 Bias              2:14:59.99 +00:00:00.0  2000.00 13:11 1.178  WFC    0.0  180  z                                
+ 612102 Bias              2:30:00.00 +00:00:00.0  2000.00 13:31 1.172  WFC    0.0  180  g                                
+ 612103 Bias              0:00:00.00 +00:00:00.0  2000.00 13:32 1.170  WFC    0.0  180  g                                
+ 612104 Bias              2:29:59.99 -00:00:00.0  2000.00 13:35 1.168  WFC    0.0  180  g                                
+ 612105 Bias              2:30:00.00 -00:00:00.0  2000.00 13:36 1.166  WFC    0.0  180  g                                
+ 612106 Bias              2:29:59.99 +00:00:00.0  2000.00 13:41 1.161  WFC    0.0  180  g                                

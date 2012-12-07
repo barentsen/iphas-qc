@@ -1,0 +1,109 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 02 07 07:00
+
+TELESCOPE             INT
+DATE                  20070206
+OBSERVER/S            Fiona McGroarty
+PROGRAMME             Influence of Parsec Scale Outflows from Young Stars on Molecular Clouds
+PROPOSAL REF          P18
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 14.85
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:01
+EVENING TWILIGHT (UT) 20:14
+MORNING TWILIGHT (UT) 06:36
+SUNRISE (UT)          07:49
+%ILLUM. LUNAR DISK    80
+DARK TIME (HRS)       10:22
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         22:44
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   1.4   28    54.1  61.2  352   765.7    1.4   3.2     8.2   28    35 
+21:00   1.2   34    69.5  70.7  347   766.1    1.2   2.9     8.1   34    39 
+22:00   0.9   35    59.7  63.6  345   766.7    0.9   2.4     7.2   35    40 
+23:00   0.9   39    51.2  53.7  349   767.0    0.9   2.1     6.3   39    44 
+00:00   1.2   43    53.8  56.6  344   766.8    1.2   2.2     5.6   43    48 
+01:00   1.5   41    51.6  52.4  344   766.7    1.5   2.3     5.3   41    47 
+02:00   0.9   44    48.2  54.6  345   766.5    0.9   2.1     6.0   44    51 
+03:00   0.9   47    47.8  50.2  343   766.3    0.9   1.9     5.2   47    52 
+04:00   2.5   29    56.7  65.2  353   766.4    2.5   3.0     6.3   29    39 
+05:00   1.9   35    60.1  63.7  345   766.4    1.9   3.6     6.3   35    41 
+06:00   1.7   48    49.7  52.0  349   766.7    1.7   3.6     6.4   48    50 
+
+TIME LOST weather           05:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High winds (50 - 65 km/hr), Seeing was < ~ 1.5 - 2.5 for the first part of the night, but >3 arcseconds from about 3am onwards.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Because of clouds I either couldn't see my target or there was no guiding star - mainly affected the first part of the night.
+Also, noticed at the end of the night that arc lamps had been on all night, couldn't turn them off but also could not take arcs with them. So all my data has arc lamps in them and there are no specific arc lamp spectra
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 548537 Bias             20:47:00.00 +19:59:59.9 2000.00  14:01 1.050  IDS    0.0    0  Clear+Clear   1.0  39.1 8601.9   
+ 548538 Bias             20:47:00.00 +20:00:00.0 2000.00  14:02 1.051  IDS    0.0    0  Clear+Clear   1.0  39.1 8601.9   
+ 548539 Arc              20:47:00.00 +20:00:00.0 2000.00  14:09 1.060  IDS   10.0    0  Clear+Clear   1.0  39.1 8601.9   
+ 548540 Bias              4:05:36.72 +00:10:56.3 2000.00  19:30 1.156  IDS    0.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548541 Bias              4:05:36.73 +00:10:56.4 2000.00  19:31 1.156  IDS    0.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548542 Bias              4:05:36.72 +00:10:56.4 2000.00  19:31 1.155  IDS    0.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548543 Bias              4:05:36.72 +00:10:56.4 2000.00  19:32 1.155  IDS    0.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548544 Bias              4:05:36.72 +00:10:56.4 2000.00  19:32 1.155  IDS    0.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548545 Flat field        4:05:36.71 +00:10:56.4 2000.00  19:34 1.153  IDS   10.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548546 Flat field        4:05:36.72 +00:10:56.3 2000.00  19:35 1.152  IDS   10.0   -0  Clear+Clear   1.0  46.5 6817.5   sky flat, no lamps
+ 548547 Flat field        4:05:36.72 +00:10:56.3 2000.00  19:35 1.152  IDS   10.0   -0  Clear+Clear   1.0  46.5 6817.5   Sky flat, no lamps
+ 548548 Flat field        4:05:36.72 +00:10:56.3 2000.00  19:36 1.151  IDS   10.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548549 Flat field        4:05:36.72 +00:10:56.4 2000.00  19:37 1.151  IDS   10.0   -0  Clear+Clear   1.0  46.5 6817.5   Sky flat, no lamps
+ 548550 Flat field        4:05:36.72 +00:10:56.5 2000.00  19:37 1.150  IDS   10.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548551 Flat field        4:05:36.72 +00:10:56.3 2000.00  19:38 1.150  IDS   10.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548552 Flat field        4:05:36.72 +00:10:56.3 2000.00  19:39 1.149  IDS   10.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548553 Flat field        4:05:36.72 +00:10:56.7 2000.00  19:39 1.149  IDS   10.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548554 Flat field        4:05:36.72 +00:10:56.4 2000.00  19:40 1.149  IDS   10.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548555 4                 4:05:36.72 +00:10:56.4 2000.00  19:44 1.146  IDS    0.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548556 4                 4:05:36.72 +00:10:56.3 2000.00  19:44 1.146  IDS    0.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548557 4                 4:05:36.72 +00:10:56.3 2000.00  19:45 1.145  IDS    0.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548558 4                 4:05:36.72 +00:10:56.4 2000.00  19:45 1.145  IDS    0.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548559 4                 4:05:36.73 +00:10:56.5 2000.00  19:46 1.145  IDS    0.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548560 Flat field        4:05:36.72 +00:10:56.3 2000.00  19:46 1.145  IDS    4.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548561 Flat field        4:05:36.71 +00:10:56.4 2000.00  19:47 1.144  IDS    4.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548562 Flat field        4:05:36.72 +00:10:56.5 2000.00  19:48 1.144  IDS    4.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548563 Flat field        4:05:36.71 +00:10:56.5 2000.00  19:48 1.144  IDS    4.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548564 Flat field        4:05:36.72 +00:10:56.4 2000.00  19:49 1.144  IDS    4.0   -0  Clear+Clear   1.0  46.5 6817.5   
+ 548565 Flat field        4:05:36.72 +00:10:56.4 2000.00  19:50 1.143  IDS    4.0   -0  Clear+Clear   1.0  39.2 8599.6   
+ 548566 Flat field        4:05:36.72 +00:10:56.3 2000.00  19:50 1.143  IDS    4.0   -0  Clear+Clear   1.0  39.2 8599.6   
+ 548567 Flat field        4:05:36.72 +00:10:56.4 2000.00  19:51 1.142  IDS    4.0   -0  Clear+Clear   1.0  39.2 8599.6   
+ 548568 Flat field        4:05:36.71 +00:10:56.4 2000.00  19:51 1.142  IDS    4.0   -0  Clear+Clear   1.0  39.2 8599.6   
+ 548569 Flat field        4:05:36.72 +00:10:56.5 2000.00  19:52 1.142  IDS    4.0   -0  Clear+Clear   1.0  39.2 8599.6   
+ 548570 HH702StarB_PA172  4:26:34.71 +25:57:46.4 2000.00  22:39 1.199  IDS 2700.0  172  Clear+Clear   1.0  46.5 6820.0   
+ 548571 HH702StarX_PA119  4:26:31.34 +25:58:32.8 2000.00  00:25 1.807  IDS 2700.0  119  Clear+Clear   1.0  46.5 6820.0   
+ 548572 HH702StarX_PA142  4:26:31.89 +25:58:34.7 2000.00  01:21 2.408  IDS 1223.5  142  Clear+Clear   1.0  46.5 6820.0   
+ 548573 HD84937 6819      9:46:13.13 +13:58:27.1 1950.00  01:56 1.036  IDS  300.0   -0  Clear+Clear   1.0  46.5 6820.0   
+ 548574 HD84937 6819      9:46:13.12 +13:58:27.0 1950.00  02:03 1.037  IDS  500.0   -0  Clear+Clear   1.0  46.5 6820.0   
+ 548575 HD84937 8600      9:46:13.12 +13:58:27.0 1950.00  02:14 1.041  IDS  500.0   -0  Clear+Clear   1.0  39.2 8599.6   
+ 548576 HD84937 8600      9:46:13.12 +13:58:27.2 1950.00  02:23 1.046  IDS  500.0   -0  Clear+Clear   1.0  39.2 8599.6   
+ 548577 HD84937 8600      9:46:13.12 +13:58:27.0 1950.00  02:32 1.052  IDS  500.0    0  Clear+Clear   1.0  39.2 8599.6   
+ 548580 Feige98 6800     14:36:03.62 +27:42:46.2 1950.00  03:54 1.244  IDS  200.0    0  Clear+Clear   1.0  39.2 8599.6   
+ 548581 Feige98 6819     14:36:03.61 +27:42:46.2 1950.00  04:01 1.221  IDS  200.0    0  Clear+Clear   1.0  46.5 6820.0   
+ 548582 AG Dra Test 6819 16:01:41.03 +66:48:10.1 2000.00  04:39 1.515  IDS  180.0   -0  Clear+Clear   1.0  46.5 6820.0   
+ 548583 AG Dra 2 6819    16:01:41.02 +66:48:10.1 2000.00  04:44 1.501  IDS  180.0   -0  Clear+Clear   1.0  46.5 6820.0   
+ 548584 AG Dra 3 6819    16:01:41.02 +66:48:10.1 2000.00  04:49 1.490  IDS  180.0   -0  Clear+Clear   1.0  46.5 6820.0   
+ 548585 AG Dra 3 PA180_1 16:01:34.35 +66:48:25.5 2000.00  05:12 1.429  IDS  600.0  180  Clear+Clear   1.0  46.5 6820.0   
+ 548586 AG Dra 3 PA90_1  16:01:34.05 +66:48:26.6 2000.00  05:31 1.397  IDS  316.2   90  Clear+Clear   1.0  46.5 6820.0   
+ 548587 AG Dra 3 PA90_2  16:01:34.02 +66:48:26.9 2000.00  05:37 1.383  IDS  600.0   90  Clear+Clear   1.0  46.5 6820.0   
+ 548588 AG Dra 3 PA90_3  16:01:34.05 +66:48:26.8 2000.00  05:48 1.365  IDS  600.0   90  Clear+Clear   1.0  46.5 6820.0   
+ 548589 AGDra 4          16:01:34.31 +66:48:26.7 2000.00  06:03 1.340  IDS  900.0    0  Clear+Clear   1.0  46.5 6820.0   
+ 548590 Arc              16:01:34.48 +66:48:26.7 2000.00  06:24 1.323  IDS    5.0  180  Clear+Clear   1.0  46.5 6820.0   
+ 548591 Arc              16:01:34.47 +66:48:26.7 2000.00  06:29 1.318  IDS    5.0  180  Clear+Clear   1.0  46.5 6820.0   
+ 548592 Bias             16:01:34.47 +66:48:26.7 2000.00  06:37 1.310  IDS    0.0  180  Clear+Clear   1.0  46.5 6820.0   
+ 548593 Bias             16:01:34.47 +66:48:26.7 2000.00  06:37 1.310  IDS    0.0  180  Clear+Clear   1.0  46.5 6820.0   
+ 548594 Bias             16:01:34.47 +66:48:26.8 2000.00  06:38 1.309  IDS    0.0  180  Clear+Clear   1.0  46.5 6820.0   
+ 548595 Bias             16:01:34.48 +66:48:26.6 2000.00  06:38 1.309  IDS    0.0  180  Clear+Clear   1.0  46.5 6820.0   
+ 548596 Bias             16:01:34.48 +66:48:26.6 2000.00  06:38 1.308  IDS    0.0  180  Clear+Clear   1.0  46.5 6820.0   

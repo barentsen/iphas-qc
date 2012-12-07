@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 05 23 09:27
+
+TELESCOPE             INT
+DATE                  20070521
+OBSERVER/S            Martinez-Delgado/Carballo
+PROGRAMME             TIDAL STREAMS IN THE GALACTIC HALO
+PROPOSAL REF          C11                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Miguel Santander
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:06
+EVENING TWILIGHT (UT) 21:29
+MORNING TWILIGHT (UT) 04:47
+SUNRISE (UT)          06:09
+%ILLUM. LUNAR DISK    32
+DARK TIME (HRS)       07:18
+TWILIGHT TIME (HRS)   02:45
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          01:00
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00   0.2   97    35.5  39.7   29   767.0   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   0.0   97    36.2  47.5  150   767.0   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00  -0.1   97    41.4  47.9  215   766.8   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00  -1.4   98    38.0  43.9  285   766.8   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00  -1.0   97    43.3  43.0  215   766.8   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00  -0.5   97    24.8  28.6   24   766.9   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00  -0.7   97    27.7  32.1   94   766.4   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00  -0.8   98    24.5  27.7  142   765.6   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00  -2.3   98    34.9  35.7  338   765.1   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00  -3.0   97    34.0  38.5  347   764.7   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           7:17
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Bad weather, cover, rain during the full night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+all the night lost due to bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

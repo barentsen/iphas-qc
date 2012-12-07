@@ -1,0 +1,44 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 04 17 02:29
+
+TELESCOPE             INT
+DATE                  20120416
+OBSERVER/S            Farina, Karami
+PROGRAMME             D-night
+PROPOSAL REF          D
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Karami
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:45
+EVENING TWILIGHT (UT) 21:00
+MORNING TWILIGHT (UT) 05:21
+SUNRISE (UT)          06:36
+%ILLUM. LUNAR DISK    17
+DARK TIME (HRS)       08:21
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         04:11
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   5.5   25    39.0  40.5   47   771.4   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   6.5   21    36.7  48.7   57   771.5   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   6.7   14    38.3  43.6   50   771.9   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   7.3    9    42.5  46.4   65   772.5   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   7.1    1    47.7  51.8   90   772.5   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   6.7    3    48.2  53.1  101   772.3   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   7.2   12    23.3  35.2  154   772.1   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         10:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Technical fault reported in fault report No. 20148
+
+

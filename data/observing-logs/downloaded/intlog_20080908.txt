@@ -1,0 +1,97 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 09 09 05:11
+
+TELESCOPE             INT
+DATE                  20080908
+OBSERVER/S            Szyszka
+PROGRAMME             The European Galactic Plane Surveys (EGAPS): North
+PROPOSAL REF          06B/N2
+TELESCOPE OPERATOR    Valentini
+SUPPORT ASTRONOMER    x
+
+TEL STATION / FOCUS   Prime  / 43.75
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:33
+EVENING TWILIGHT (UT) 20:46
+MORNING TWILIGHT (UT) 05:33
+SUNRISE (UT)          06:46
+%ILLUM. LUNAR DISK    63
+DARK TIME (HRS)       08:47
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          01:12
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   9.1   74    26.4  31.4  269   768.1    9.1  13.4    16.6   74    63 
+21:00   8.1   90    26.7  33.1  271   768.4    8.1  11.5    15.8   90    77 
+22:00   7.8   93    28.1  31.9  264   768.8    7.8  11.7    15.4   93    76 
+23:00   7.7   92    27.8  32.8  275   769.1    7.7  12.6    15.7   92    77 
+00:00   7.4   36    25.0  34.9  263   769.3    7.4  12.8    15.6   36    75 
+01:00   7.4   46    31.7  35.6  275   769.0    7.4  12.8    15.9   46    75 
+02:00   7.3   56    31.3  38.4  276   768.9    7.3  12.8    15.8   56    77 
+03:00   6.8   78    34.6  38.0  267   768.5    6.8  12.7    15.8   78    75 
+04:00   6.8   82    29.6  30.6  265   768.2    6.8  12.7    15.9   82    65 
+05:00   6.8   78    24.3  26.5  273   768.0    6.8  13.1    15.8   78    61 
+
+TIME LOST weather           09:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+high humidty, no science observations
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+high humdity since started one hour afer sunset, when conditions seems to be stable at 4UT, the surfaace of dome remained wet
+after consultation with TO from WHT I decided not to reopen the dome
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 637999 Dark frame        0:00:00.00 +00:00:00.0  2000.00 18:25 4.368  WFC    0.0  180  HeI 5870                         
+ 638000 Dark frame        0:00:00.00 +00:00:00.0  2000.00 18:25 4.368  WFC    0.0  180  HeI 5870                         
+ 638001 Dark frame        0:00:00.00 +00:00:00.0  2000.00 18:26 4.368  WFC    0.0  180  HeI 5870                         
+ 638002 Dark frame        0:00:00.00 +00:00:00.0  2000.00 18:26 4.368  WFC    0.0  180  HeI 5870                         
+ 638003 Dark frame        0:00:00.00 +00:00:00.0  2000.00 18:27 4.368  WFC    0.0  180  HeI 5870                         
+ 638004 Dark frame        0:00:00.00 +00:00:00.0  2000.00 18:27 4.368  WFC    0.0  180  HeI 5870                         
+ 638005 Dark frame        0:00:00.00 +00:00:00.0  2000.00 18:28 4.368  WFC    0.0  180  HeI 5870                         
+ 638006 Dark frame        0:00:00.00 +00:00:00.0  2000.00 18:28 4.368  WFC    0.0  180  HeI 5870                         
+ 638007 Dark frame        0:00:00.00 +00:00:00.0  2000.00 18:28 4.368  WFC    0.0  180  HeI 5870                         
+ 638008 Dark frame        0:00:00.00 +00:00:00.0  2000.00 18:29 4.368  WFC    0.0  180  HeI 5870                         
+ 638009 Flat field       16:59:59.99 +41:00:00.0  2000.00 19:07 1.024  WFC    1.0  180  Halpha                           saturated
+ 638010 Flat field       17:00:00.00 +41:00:00.0  2000.00 19:15 1.025  WFC    0.5  180  Halpha                           
+ 638011 Flat field       17:00:02.65 +41:00:29.8  2000.00 19:18 1.026  WFC    1.0  180  Halpha                           saturated
+ 638012 Flat field       17:00:02.64 +41:00:29.9  2000.00 19:19 1.026  WFC    0.7  180  Halpha                           
+ 638013 Flat field       17:00:05.30 +41:00:59.7  2000.00 19:20 1.026  WFC    1.0  180  Halpha                           overexposed
+ 638014 Flat field       17:00:07.95 +41:01:29.9  2000.00 19:21 1.027  WFC    1.4  180  Halpha                           saturated
+ 638015 Flat field       17:00:07.94 +41:01:29.9  2000.00 19:22 1.027  WFC    1.1  180  Halpha                           saturated
+ 638016 Flat field       17:00:07.95 +41:01:29.9  2000.00 19:23 1.027  WFC    0.9  180  Halpha                           overexposed
+ 638017 Flat field       17:00:07.95 +41:01:29.9  2000.00 19:25 1.028  WFC    0.7  180  Halpha                           
+ 638018 Flat field       17:00:07.95 +41:01:29.9  2000.00 19:26 1.028  WFC    0.8  180  Halpha                           
+ 638019 Flat field       17:00:13.26 +41:02:30.1  2000.00 19:27 1.029  WFC    0.9  180  Halpha                           
+ 638020 Flat field       17:00:15.91 +41:02:59.7  2000.00 19:28 1.029  WFC    1.3  180  Halpha                           
+ 638021 Flat field       17:00:15.91 +41:02:59.9  2000.00 19:29 1.030  WFC    1.6  180  Halpha                           
+ 638022 Flat field        0:00:00.00 +00:00:00.0  2000.00 19:30 1.030  WFC    0.8  180  r                                saturated
+ 638023 Flat field       16:59:57.35 +40:59:30.0  2000.00 19:35 1.032  WFC    0.7  180  r                                overexposed
+ 638024 Flat field       16:59:57.35 +40:59:30.0  2000.00 19:38 1.034  WFC    0.7  180  r                                
+ 638025 Flat field       16:59:54.70 +40:58:59.8  2000.00 19:39 1.034  WFC    0.8  180  r                                
+ 638026 Flat field       16:59:52.04 +40:58:30.1  2000.00 19:40 1.035  WFC    1.3  180  r                                
+ 638027 Flat field       16:59:49.40 +40:57:59.8  2000.00 19:41 1.035  WFC    1.4  180  r                                
+ 638028 Flat field       16:59:46.76 +40:57:30.0  2000.00 19:42 1.036  WFC    1.7  180  r                                
+ 638029 Flat field       17:00:02.65 +41:00:30.0  2000.00 19:43 1.037  WFC    0.8  180  i                                underexposed
+ 638030 Flat field       17:00:02.65 +41:00:30.0  2000.00 19:44 1.037  WFC    1.5  180  i                                
+ 638031 Flat field        0:00:00.00 +00:00:00.0  2000.00 19:45 1.038  WFC    3.7  180  i                                
+ 638032 Flat field       17:00:07.95 +41:01:30.0  2000.00 19:46 1.039  WFC    4.1  180  i                                
+ 638033 Flat field       17:00:10.61 +41:02:00.2  2000.00 19:47 1.039  WFC    8.1  180  i                                
+ 638034 Flat field       17:00:13.25 +41:02:29.8  2000.00 19:48 1.040  WFC   10.1  180  i                                
+ 638035 Flat field       17:00:15.91 +41:02:59.8  2000.00 19:49 1.041  WFC   14.1  180  i                                
+ 638036 Flat field       16:59:46.75 +40:57:29.4  2000.00 19:51 1.042  WFC   17.5  180  i                                
+ 638037 Focus run        17:17:06.71 +43:05:57.4  2000.00 20:10 1.050  WFC   10.1  180  r                                
+ 638038 sa110-246 He1    18:41:50.87 +00:05:09.0  2000.00 20:19 1.144  WFC   60.0  180  HeI 5870                         
+ 638039 sa110-246 r      18:41:50.87 +00:05:09.0  2000.00 20:21 1.143  WFC    4.0  180  r                                
+ 638040 sa110-246 U      18:41:50.87 +00:05:08.9  2000.00 20:22 1.143  WFC   20.1  180  U                                
+ 638041 sa110-246 g      18:41:50.88 +00:05:09.0  2000.00 20:23 1.143  WFC    4.1  180  g                                
+ 638042 BD+332642 He1    15:51:59.76 +32:56:54.2  2000.00 20:26 1.200  WFC   30.1  180  HeI 5870                         
+ 638043 BD+332642 r      15:51:59.75 +32:56:54.2  2000.00 20:28 1.203  WFC    2.1  180  r                                
+ 638044 BD+332642 U      15:51:59.75 +32:56:54.1  2000.00 20:28 1.206  WFC    6.1  180  U                                
+ 638045 BD+332642 g      15:51:59.75 +32:56:54.2  2000.00 20:29 1.208  WFC    1.9  180  g                                

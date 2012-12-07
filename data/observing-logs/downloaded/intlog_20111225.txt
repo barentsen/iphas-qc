@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 12 26 05:11
+
+TELESCOPE             INT
+DATE                  20111225
+OBSERVER/S            Carlos Gonzalez-Fernandez
+PROGRAMME             Deep photometry of NGC2345
+PROPOSAL REF          C151
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    L. Hardy
+
+TEL STATION / FOCUS    / 43.47
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:28
+EVENING TWILIGHT (UT) 19:45
+MORNING TWILIGHT (UT) 06:38
+SUNRISE (UT)          07:54
+%ILLUM. LUNAR DISK    2
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          19:32
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   7.1    9     3.0   4.5  161   773.1   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   6.9    8     0.4   0.7  178   773.6   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   6.9    9     0.7   1.3  180   774.1   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   7.2    7     0.8   1.7  177   774.0   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   7.1    8     7.5   8.7  168   774.2   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   6.8   12     1.0   1.8  180   774.1   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   6.7   14     1.1   4.1  165   773.7   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   6.6   14     1.0   2.5  129   773.3   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   6.6   14     1.2   2.8  185   773.2   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   6.7   14     0.3   2.7  169   773.0   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   6.6   14     0.3   0.8  174   772.8   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Possible thin cirrus, low RH, variable seeing from 1" to 2"
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

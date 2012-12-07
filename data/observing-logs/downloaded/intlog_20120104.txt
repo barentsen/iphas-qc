@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 01 05 08:18
+
+TELESCOPE             INT
+DATE                  20120104
+OBSERVER/S            Ivana Damjanov, Jarle Brinchmann
+PROGRAMME             Adaptive Optics Deep Field
+PROPOSAL REF          N3
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Mansour Karami
+
+TEL STATION / FOCUS   Prime  / 43.48
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:35
+EVENING TWILIGHT (UT) 19:51
+MORNING TWILIGHT (UT) 06:41
+SUNRISE (UT)          07:57
+%ILLUM. LUNAR DISK    83
+DARK TIME (HRS)       10:50
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          04:48
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.0   29     4.8   6.9  171   775.1   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   4.2   26     4.6   3.9  176   775.6   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   5.3   18    21.9  22.7   88   776.0   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   5.1   20     5.3   7.1  178   776.2   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   5.4   20    10.8  23.5  142   776.4   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   5.1   20     6.4  14.6  165   776.4   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   4.2   24     6.6   7.9  196   776.2   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   3.6   30     6.4  11.2  181   776.0   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   3.4   31     9.3  12.8  156   776.1   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   3.7   31    10.9  10.5  223   776.1   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   3.8   29     3.9   9.3  163   775.9   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   4.3   27     0.3   0.7  179   775.9   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   4.9   23     2.1   4.7  153   776.1   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Ok night, seeing between 1.5 and 2". Some very light cirrus at start of night.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

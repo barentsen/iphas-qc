@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 11 26 06:54
+
+TELESCOPE             INT
+DATE                  20111125
+OBSERVER/S            Barentsen
+PROGRAMME             UVEX Survey
+PROPOSAL REF          N2
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Hardy
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:37
+MORNING TWILIGHT (UT) 06:20
+SUNRISE (UT)          07:35
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       10:43
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          18:43
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   3.2   33    29.3  28.6   51   771.8    3.2    6.      8.   33     35
+20:00  -0.0   96    32.7  38.2   47   771.8   -0.0    6.      8.   96     68
+21:00   0.8   97    38.1  45.3   42   771.7    0.8    7.      8.   97     64
+22:00   0.3   98    27.5  38.3   69   771.9    0.3    8.      8.   98     64
+23:00  -1.5   98    47.2  51.8   79   771.7   -1.5    7.      9.   98     63
+00:00   2.7   33    22.9  33.5  138   771.6    2.7    4.      8.   33     37
+01:00   2.6   53    11.8  19.1  153   771.5    2.6    4.      8.   53     47
+02:00   3.2   46    12.5  12.0  153   771.5    3.2    4.      7.   46     44
+03:00   3.7   28    21.4  39.1  159   771.2    3.7    4.      7.   28     45
+04:00   4.4   25    28.2  37.6  162   771.0    4.4    5.      7.   25     33
+05:00   4.0   29    17.6  29.3  165   770.9    4.0    5.      7.   29     34
+06:00   3.9   27    18.8  25.1  117   771.2    3.9    5.      7.   27     33
+
+TIME LOST weather           04:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Non-photometric throughout night (seeing >> 3 arcsec). Fog before midnight. Some high clouds too.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+-
+
+

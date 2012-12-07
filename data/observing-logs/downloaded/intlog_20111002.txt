@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 10 03 07:58
+
+TELESCOPE             INT
+DATE                  20111002
+OBSERVER/S            Vazdekis & Sanchez-Blazquez
+PROGRAMME             C93
+PROPOSAL REF          S/D
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Liam Hardy & Lee Patrick
+
+TEL STATION / FOCUS   Cassegrain  / 14.71
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:05
+EVENING TWILIGHT (UT) 20:16
+MORNING TWILIGHT (UT) 05:47
+SUNRISE (UT)          06:58
+%ILLUM. LUNAR DISK    38
+DARK TIME (HRS)       09:31
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          23:18
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   7.0   99    17.5  29.5  163   770.3    7.0   11.     14.   99     81
+21:00   6.8   99    18.4  23.7  161   770.8    6.8   11.     14.   99     81
+22:00   6.3   99    13.2  17.5  148   771.4    6.3   11.     14.   99     78
+23:00   7.4   90    10.2  26.6  142   771.8    7.4   11.     14.   90     75
+00:00   8.0   79    17.2  22.6  160   771.9    8.0    9.     13.   79     77
+01:00   8.5   69    22.2  34.1  141   772.0    8.5    9.     13.   69     70
+02:00   8.5   66    21.9  25.3  159   771.6    8.5    9.     12.   66     69
+03:00   8.3   66    12.6  15.5  155   771.6    8.3    9.     12.   66     70
+04:00   8.5   68    12.4  18.2   84   771.4    8.5    9.     12.   68     69
+05:00   8.6   68    19.6  25.3  167   771.1    8.6    9.     13.   68     71
+06:00   8.9   65    13.5  24.4  162   771.3    8.9    9.     12.   65     69
+
+TIME LOST weather           4:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humidity at the begining night.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+High humidity (about 99 %)
+
+

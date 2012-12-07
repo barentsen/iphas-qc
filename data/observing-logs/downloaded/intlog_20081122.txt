@@ -1,0 +1,54 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 11 23 04:25
+
+TELESCOPE             INT
+DATE                  20081122
+OBSERVER/S            Corradi,Giammanco,Sabin
+PROGRAMME             IPHAS Survey
+PROPOSAL REF          C78
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS   Prime  / -
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:18
+SUNRISE (UT)          07:33
+%ILLUM. LUNAR DISK    20
+DARK TIME (HRS)       10:40
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         03:43
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+00:00   4.8   14    18.5  21.5  127   769.1    4.8    6.     10.   14     24
+01:00  -0.0   94    25.7  30.1   52   768.5   -0.0    6.     10.   94     65
+02:00   0.9   99    27.9  34.0   68   768.0    0.9    8.     10.   99     66
+03:00  -1.2   99    25.8  29.5  106   767.9   -1.2    8.     10.   99     66
+04:00   2.3   34    28.2  27.5  123   767.6    2.3    8.     10.   34     59
+
+TIME LOST weather           10:40
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% humidity whole night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 647325 Bias              0:00:00.00 +00:00:00.0  2008.89 12:18 4.406  WFC    0.0  180  Halpha                           
+ 647326 Bias              0:00:00.00 +00:00:00.0  2008.89 22:21 1.000  WFC    0.0  180  Halpha                           
+ 647327 Bias              0:00:00.00 +00:00:00.0  2008.89 22:22 1.000  WFC    0.0  180  Halpha                           
+ 647328 Bias              0:00:00.00 +00:00:00.0  2008.89 22:22 1.000  WFC    0.0  180  Halpha                           
+ 647329 Bias              0:00:00.00 +00:00:00.0  2008.89 22:23 1.000  WFC    0.0  180  Halpha                           
+ 647330 Bias              0:00:00.00 +00:00:00.0  2008.89 22:23 1.000  WFC    0.0  180  Halpha                           
+ 647331 Focus run         2:33:37.79 +05:18:28.9  2000.00 23:55 1.092  WFC   10.1  180  r                                
+ 647332 Focus run         2:33:37.79 +05:18:28.9  2000.00 00:04 1.096  WFC   10.1  180  r                                
+ 647333 Focus run         2:33:37.79 +05:18:28.9  2000.00 00:25 1.112  WFC   10.1  180  r                                

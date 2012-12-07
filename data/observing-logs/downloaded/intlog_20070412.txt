@@ -1,0 +1,90 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 04 13 03:59
+
+TELESCOPE             INT
+DATE                  20070412
+OBSERVER/S            Ingemar Lundstrom/ Daniel Aden
+PROGRAMME             Two new Milky Way dSph galaxies?
+PROPOSAL REF          P7
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.46
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:42
+EVENING TWILIGHT (UT) 20:56
+MORNING TWILIGHT (UT) 05:27
+SUNRISE (UT)          06:42
+%ILLUM. LUNAR DISK    26
+DARK TIME (HRS)       08:31
+TWILIGHT TIME (HRS)   02:29
+MOONRISE (UT)         04:01
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   6.2    9     5.1   5.5  104   769.4    6.2   9.1     8.5    9    29 
+21:00   5.4   12     4.0   4.5  274   769.6    5.4   7.0     8.5   12    15 
+22:00   7.0    8     6.5   7.3  287   770.0    7.0   6.3     8.2    8    15 
+23:00   5.5   10    11.0  11.4  341   770.3    5.5   6.4     8.1   10    15 
+00:00   5.8   10    11.8  12.2  348   770.2    5.8   6.3     8.2   10    17 
+01:00   5.7    6    17.7  18.0  356   769.8    5.7   6.0     8.0    6    12 
+02:00   6.6    5     4.7   4.7  304   769.5    6.6   6.8     8.0    5    12 
+03:00   6.5    3     5.1   5.3  349   769.1    6.5   6.5     7.8    3    12 
+
+TIME LOST weather           00:00
+TIME LOST Technical         08:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cirrus in the evening at sunset
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Time lost due to autoguider failure 4h, and lost connection with WFC 4h.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 556587 Bias              2:14:59.99 +00:00:00.0 2000.00  13:06 1.179  WFC    0.0  180  stromgren b                      
+ 556588 Bias              2:14:59.99 +00:00:00.0 2000.00  13:07 1.177  WFC    0.0  180  stromgren b                      
+ 556589 Bias              2:14:59.99 +00:00:00.0 2000.00  13:15 1.167  WFC    0.0  180  stromgren b                      
+ 556590 Skyflat u         8:00:59.99 +49:59:59.9 2000.00  19:44 1.073  WFC    2.1  180  stromgren u                      
+ 556591 Skyflat u         8:01:01.03 +49:59:59.9 2000.00  19:46 1.073  WFC    2.5  180  stromgren u                      
+ 556592 Skyflat u         8:01:00.00 +50:00:09.9 2000.00  19:48 1.073  WFC    2.5  180  stromgren u                      
+ 556593 Skyflat v         8:00:59.99 +50:00:09.9 2000.00  19:50 1.073  WFC    2.5  180  stromgren v                      
+ 556594 Skyflat v         8:01:01.03 +50:00:00.0 2000.00  19:52 1.073  WFC    3.1  180  stromgren v                      
+ 556595 Skyflat v         8:00:59.99 +50:00:10.0 2000.00  19:54 1.073  WFC    4.1  180  stromgren v                      
+ 556596 Skyflat b         8:01:00.00 +50:00:10.0 2000.00  19:56 1.073  WFC    4.6  180  stromgren b                      
+ 556597 Skyflat b         8:01:01.04 +49:59:59.9 2000.00  19:57 1.073  WFC    8.1  180  stromgren b                      
+ 556598 Skyflat b         8:00:59.99 +50:00:10.0 2000.00  19:59 1.073  WFC   12.1  180  stromgren b                      
+ 556599 Skyflat y         8:01:00.00 +50:00:10.0 2000.00  20:01 1.073  WFC   20.1  180  stromgren y                      
+ 556600 Skyflat y         8:01:01.03 +50:00:00.0 2000.00  20:03 1.074  WFC   60.1  180  stromgren y                      
+ 556601 Skyflat y         8:01:00.00 +50:00:10.0 2000.00  20:06 1.074  WFC  180.0  180  stromgren y                      
+ 556602 Focus run         7:56:06.59 -00:20:42.0 2000.00  20:31 1.166  WFC    9.1  180  stromgren b                      
+ 556603 Bias              7:56:06.60 -00:20:41.9 2000.00  20:41 1.180  WFC    0.0  180  stromgren b                      
+ 556604 Bias              7:56:06.60 -00:20:41.9 2000.00  20:42 1.181  WFC    0.0  180  stromgren b                      
+ 556605 Bias              7:56:06.60 -00:20:41.9 2000.00  20:43 1.182  WFC    0.0  180  stromgren b                      
+ 556606 Bias              7:56:06.60 -00:20:41.9 2000.00  20:44 1.184  WFC    0.0  180  stromgren b                      
+ 556607 Bias              7:56:06.60 -00:20:41.9 2000.00  20:45 1.185  WFC    0.0  180  stromgren b                      
+ 556608 HD107853 y       12:23:29.83 +26:33:56.6 2000.00  20:49 1.403  WFC   20.1  180  stromgren y                      
+ 556609 HD107853 b       12:23:29.83 +26:33:56.7 2000.00  20:52 1.388  WFC   20.1  180  stromgren b                      
+ 556611 HD107853 v       12:23:29.82 +26:33:56.6 2000.00  20:55 1.375  WFC   20.0  180  stromgren v                      
+ 556612 HD107853 u       12:23:29.82 +26:33:56.6 2000.00  20:58 1.360  WFC   60.1  180  stromgren u                      
+ 556613 UMII u            8:51:30.00 +63:07:47.9 2000.00  21:16 1.226  WFC 1799.0  180  stromgren u                      elongated stars!
+ 556614 HD107853 y       12:23:29.83 +26:33:56.7 2000.00  00:31 1.004  WFC   15.1  180  stromgren y                      
+ 556615 HD107853 b       12:23:29.82 +26:33:56.7 2000.00  00:34 1.005  WFC   15.1  180  stromgren b                      
+ 556616 HD107853 v       12:23:29.82 +26:33:56.7 2000.00  00:36 1.005  WFC   15.1  180  stromgren v                      
+ 556617 HD107853 u       12:23:29.83 +26:33:56.7 2000.00  00:38 1.006  WFC   60.0  180  stromgren v                      overexposed
+ 556619 HD107853 u       12:23:29.82 +26:33:56.6 2000.00  00:42 1.008  WFC   60.0  180  stromgren u                      
+ 556620 HD158226 y       17:26:43.20 +31:04:37.9 2000.00  00:48 1.831  WFC   10.1  180  stromgren y                      
+ 556621 HD158226 b       17:26:43.20 +31:04:37.9 2000.00  00:50 1.807  WFC   10.1  180  stromgren b                      
+ 556622 HD158226 v       17:26:43.20 +31:04:37.8 2000.00  00:52 1.785  WFC   19.6  180  stromgren v                      
+ 556623 HD158226 u       17:26:43.20 +31:04:37.9 2000.00  00:55 1.759  WFC   80.0  180  stromgren u                      
+ 556624 Focus run        13:35:24.69 -00:23:22.8 2000.00  01:05 1.149  WFC    9.6  180  stromgren y                      
+ 556625 Focus run        13:35:24.69 -00:23:23.0 2000.00  01:19 1.145  WFC   10.1  180  stromgren y                      
+ 556626 HD120467 y       13:49:44.81 -22:06:39.8 2000.00  01:26 1.586  WFC    8.1  180  stromgren y                      overexposed
+ 556627 HD120467 y       13:49:44.80 -22:06:39.9 2000.00  01:29 1.585  WFC    5.1  180  stromgren y                      overexposed
+ 556628 HD120467 y       13:49:44.80 -22:06:39.9 2000.00  01:31 1.584  WFC    2.5  180  stromgren y                      
+ 556629 HD120467 b       13:49:44.81 -22:06:39.9 2000.00  01:33 1.584  WFC    4.1  180  stromgren b                      
+ 556630 HD120467 v       13:49:44.81 -22:06:39.9 2000.00  01:36 1.584  WFC   15.1  180  stromgren b                      

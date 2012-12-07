@@ -1,0 +1,115 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 02 15 19:55
+
+TELESCOPE             INT
+DATE                  20090215
+OBSERVER/S            Monguio, Grosboel
+PROGRAMME             C96
+PROPOSAL REF          C96                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.83
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:08
+EVENING TWILIGHT (UT) 20:21
+MORNING TWILIGHT (UT) 06:30
+SUNRISE (UT)          07:42
+%ILLUM. LUNAR DISK    59
+DARK TIME (HRS)       10:09
+TWILIGHT TIME (HRS)   02:25
+MOONRISE (UT)         01:07
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+No Met data available for second half of night
+
+
+TIME LOST weather           11:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humitity and ice, close before opening the dome.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 659330 Bias              0:00:00.00 +00:00:00.0  2000.00 12:32 4.414  WFC    0.0  180  Hbeta narro                      
+ 659331 Bias             19:59:59.99 -00:00:00.0  2000.00 12:41 1.198  WFC    0.1  180  Hbeta narro                      
+ 659332 Bias             19:59:59.99 +00:00:00.0  2000.00 12:44 1.204  WFC    0.0  180  Hbeta narro                      
+ 659333 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:22 4.284  WFC    0.0  180  Hbeta narro                      
+ 659334 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:23 4.284  WFC    0.0  180  Hbeta narro                      
+ 659335 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:24 4.284  WFC    0.0  180  Hbeta narro                      
+ 659336 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:25 4.284  WFC    0.0  180  Hbeta narro                      
+ 659337 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:25 4.284  WFC    0.0  180  Hbeta narro                      
+ 659338 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:26 4.284  WFC    0.0  180  Hbeta narro                      
+ 659339 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:27 4.284  WFC    0.0  180  Hbeta narro                      
+ 659340 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:28 4.284  WFC    0.0  180  Hbeta narro                      
+ 659341 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:28 4.284  WFC    0.0  180  Hbeta narro                      
+ 659342 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:29 4.284  WFC    0.0  180  Hbeta narro                      
+ 659343 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:30 4.284  WFC    0.0  180  Hbeta narro                      
+ 659344 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:31 4.284  WFC    0.0  180  Hbeta narro                      
+ 659345 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:32 4.284  WFC    0.0  180  Hbeta narro                      
+ 659346 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:32 4.284  WFC    0.0  180  Hbeta narro                      
+ 659347 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:33 4.284  WFC    0.0  180  Hbeta narro                      
+ 659348 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:34 4.284  WFC    0.0  180  Hbeta narro                      
+ 659349 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:35 4.284  WFC    0.0  180  Hbeta narro                      
+ 659350 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:36 4.284  WFC    0.0  180  Hbeta narro                      
+ 659351 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:36 4.284  WFC    0.0  180  Hbeta narro                      
+ 659352 afternoon bias    0:00:00.00 +00:00:00.0  2000.00 15:37 4.284  WFC    0.0  180  Hbeta narro                      
+ 659353 Dark 400s         0:00:00.00 +00:00:00.0  2000.00 15:41 4.284  WFC  400.0  180  Hbeta narro                      
+ 659354 Dark 400s         0:00:00.00 +00:00:00.0  2000.00 15:49 4.284  WFC  400.0  180  Hbeta narro                      
+ 659355 Dark 400s         0:00:00.00 +00:00:00.0  2000.00 15:56 4.284  WFC  400.0  180  Hbeta narro                      
+ 659356 Dark 400s         0:00:00.00 +00:00:00.0  2000.00 16:04 4.284  WFC  400.0  180  Hbeta narro                      
+ 659357 Dark 400s         0:00:00.00 +00:00:00.0  2000.00 16:11 4.284  WFC  400.0  180  Hbeta narro                      
+ 659358 Dark 400s         0:00:00.00 +00:00:00.0  2000.00 16:19 4.284  WFC  400.0  180  Hbeta narro                      
+ 659359 Dark 400s         0:00:00.00 +00:00:00.0  2000.00 16:26 4.284  WFC  400.0  180  Hbeta narro                      
+ 659360 Dark 400s         0:00:00.00 +00:00:00.0  2000.00 16:33 4.284  WFC  400.0  180  Hbeta narro                      
+ 659361 Dark 400s         0:00:00.00 +00:00:00.0  2000.00 16:41 4.284  WFC  400.0  180  Hbeta narro                      
+ 659362 Dark 400s         0:00:00.00 +00:00:00.0  2000.00 16:48 4.284  WFC  400.0  180  Hbeta narro                      
+ 659363 Dark 200          0:00:00.00 +00:00:00.0  2000.00 16:56 4.284  WFC  200.0  180  Hbeta narro                      
+ 659364 Dark 200          0:00:00.00 +00:00:00.0  2000.00 17:00 4.284  WFC  200.0  180  Hbeta narro                      
+ 659365 Dark 200          0:00:00.00 +00:00:00.0  2000.00 17:04 4.284  WFC  200.0  180  Hbeta narro                      
+ 659366 Dark 200          0:00:00.00 +00:00:00.0  2000.00 17:08 4.284  WFC  200.0  180  Hbeta narro                      
+ 659367 Dark 200          0:00:00.00 +00:00:00.0  2000.00 17:12 4.284  WFC  200.0  180  Hbeta narro                      
+ 659368 Dark 200          0:00:00.00 +00:00:00.0  2000.00 17:16 4.284  WFC  200.0  180  Hbeta narro                      
+ 659369 Dark 200          0:00:00.00 +00:00:00.0  2000.00 17:20 4.284  WFC  200.0  180  Hbeta narro                      
+ 659370 Dark 200          0:00:00.00 +00:00:00.0  2000.00 17:25 4.284  WFC  200.0  180  Hbeta narro                      
+ 659371 Dark 200          0:00:00.00 +00:00:00.0  2000.00 17:29 4.284  WFC  200.0  180  Hbeta narro                      
+ 659372 Dark 200          0:00:00.00 +00:00:00.0  2000.00 17:33 4.284  WFC  200.0  180  Hbeta narro                      
+ 659373 Dark 100s         0:00:00.00 +00:00:00.0  2000.00 17:37 4.284  WFC  100.0  180  Hbeta narro                      
+ 659374 Dark 100s         0:00:00.00 +00:00:00.0  2000.00 17:39 4.284  WFC  100.0  180  Hbeta narro                      
+ 659375 Dark 100s         0:00:00.00 +00:00:00.0  2000.00 17:42 4.284  WFC  100.0  180  Hbeta narro                      
+ 659376 Dark 100s         0:00:00.00 +00:00:00.0  2000.00 17:44 4.284  WFC  100.0  180  Hbeta narro                      
+ 659377 Dark 100s         0:00:00.00 +00:00:00.0  2000.00 17:47 4.284  WFC  100.0  180  Hbeta narro                      
+ 659378 Dark 100s         0:00:00.00 +00:00:00.0  2000.00 17:49 4.284  WFC  100.0  180  Hbeta narro                      
+ 659379 Dark 100s         0:00:00.00 +00:00:00.0  2000.00 17:52 4.284  WFC  100.0  180  Hbeta narro                      
+ 659380 Dark 100s         0:00:00.00 +00:00:00.0  2000.00 17:54 4.284  WFC  100.0  180  Hbeta narro                      
+ 659381 Dark 100s         0:00:00.00 +00:00:00.0  2000.00 17:57 4.284  WFC  100.0  180  Hbeta narro                      
+ 659382 Dark 100s         0:00:00.00 +00:00:00.0  2000.00 17:59 4.284  WFC  100.0  180  Hbeta narro                      
+ 659383 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:21 4.284  WFC    0.0  180  Hbeta narro                      
+ 659384 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:22 4.284  WFC    0.0  180  Hbeta narro                      
+ 659385 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:23 4.284  WFC    0.0  180  Hbeta narro                      
+ 659386 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:23 4.284  WFC    0.0  180  Hbeta narro                      
+ 659387 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:24 4.284  WFC    0.0  180  Hbeta narro                      
+ 659388 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:25 4.284  WFC    0.0  180  Hbeta narro                      
+ 659389 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:26 4.284  WFC    0.0  180  Hbeta narro                      
+ 659390 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:26 4.284  WFC    0.0  180  Hbeta narro                      
+ 659391 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:27 4.284  WFC    0.0  180  Hbeta narro                      
+ 659392 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:28 4.284  WFC    0.0  180  Hbeta narro                      
+ 659393 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:29 4.284  WFC    0.0  180  Hbeta narro                      
+ 659394 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:30 4.284  WFC    0.0  180  Hbeta narro                      
+ 659395 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:30 4.284  WFC    0.0  180  Hbeta narro                      
+ 659396 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:31 4.284  WFC    0.0  180  Hbeta narro                      
+ 659397 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:32 4.284  WFC    0.0  180  Hbeta narro                      
+ 659398 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:33 4.284  WFC    0.0  180  Hbeta narro                      
+ 659399 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:33 4.284  WFC    0.0  180  Hbeta narro                      
+ 659400 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:34 4.284  WFC    0.0  180  Hbeta narro                      
+ 659401 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:35 4.284  WFC    0.0  180  Hbeta narro                      
+ 659402 Bias evening      0:00:00.00 +00:00:00.0  2000.00 18:36 4.284  WFC    0.0  180  Hbeta narro                      

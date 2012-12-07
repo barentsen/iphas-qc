@@ -1,0 +1,70 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 11 12 06:22
+
+TELESCOPE             INT
+DATE                  20051111
+OBSERVER/S            Witham
+PROGRAMME             IPHAS
+PROPOSAL REF          N1
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Cardwell
+
+TEL STATION / FOCUS   Prime  / 43.65
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:28
+EVENING TWILIGHT (UT) 19:41
+MORNING TWILIGHT (UT) 06:11
+SUNRISE (UT)          07:24
+%ILLUM. LUNAR DISK    81
+DARK TIME (HRS)       10:30
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:53
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.6   68    29.7  33.0   34   772.4    4.6  12.7    12.6   68    45 
+20:00   2.0  100    30.9  38.4   19   772.6    2.0  12.1    12.7  100    53 
+21:00   1.5   98    30.0  32.9   27   772.7    1.5  12.1    12.6   98    52 
+22:00   1.5  100    41.2  46.3    7   772.4    1.5  11.7    12.6  100    55 
+23:00   2.3   73    31.7  35.7   20   773.1    2.3  11.3    12.5   73    54 
+00:00   4.8   24    31.9  38.1   37   772.7    4.8  10.0    12.4   24    25 
+01:00   2.8  100    30.6  35.7   31   772.3    2.8   6.4    11.4  100    81 
+02:00   2.2  100    34.3  38.3   27   771.6    2.2   9.4    11.5  100    69 
+03:00   2.8  100    38.4  43.9   31   771.8    2.8   9.6    11.7  100    69 
+04:00   1.8  100    34.2  37.4    6   771.5    1.8   9.5    11.5  100    69 
+05:00  -0.4  100    37.9  43.0   10   771.2   -0.4   9.6    11.6  100    66 
+06:00   0.7  100    37.4  42.1   27   771.2    0.7   9.6    11.6  100    63 
+
+TIME LOST weather           11:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humidity meant the dome was shut for the majority of the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+All time lost due to weather, slight dip in humidity meant dome was opened for a short time but the seeing was very high (5") during this period.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 482294 TEST             15:00:00.00 +15:00:00.0 2000.00  14:23 1.111  WFC   15.1  180  i                                
+ 482295 Bias frame       14:59:59.99 +14:59:59.9 2000.00  14:25 1.115  WFC    0.0  180  i                                
+ 482296 Focus run         2:30:16.68 +05:15:50.5 2000.00  00:13 1.090  WFC   20.1  180  r                                
+ 482297 GD50 Ha 90        3:48:50.11 -00:58:29.9 2000.00  00:23 1.209  WFC   90.0  180  Halpha                           
+ 482298 GD50 r' 15        3:48:50.10 -00:58:29.9 2000.00  00:26 1.206  WFC   15.1  180  r                                
+ 482299 GD50 i' 10        3:48:50.10 -00:58:30.0 2000.00  00:27 1.204  WFC   10.1  180  i                                
+ 482300 intphas_2274 Ha   5:15:17.72 +32:13:00.0 2000.00  00:29 1.187  WFC  120.1  180  Halpha                           
+ 482301 intphas_2274 r    5:15:17.73 +32:12:59.7 2000.00  00:32 1.182  WFC   30.1  180  r                                
+ 482302 intphas_2274 i    5:15:17.73 +32:12:59.7 2000.00  00:33 1.179  WFC   10.1  180  i                                
+ 482303 intphas_2274o Ha  5:15:41.39 +32:17:59.8 2000.00  00:34 1.175  WFC  120.0  180  Halpha                           
+ 482304 intphas_2274o r   5:15:41.39 +32:17:59.6 2000.00  00:37 1.170  WFC   30.1  180  r                                seeing ~ 5" !
+ 482305 intphas_2274o i   5:15:41.39 +32:17:59.7 2000.00  00:38 1.167  WFC   10.1  180  i                                
+ 482306 intphas_2277 Ha   5:15:33.34 +38:38:00.1 2000.00  00:39 1.166  WFC  120.0  180  Halpha                           
+ 482307 intphas_2277 r    5:15:33.34 +38:37:59.6 2000.00  00:42 1.161  WFC   29.5  180  r                                
+ 482308 intphas_2277 i    5:15:33.34 +38:37:59.5 2000.00  00:43 1.159  WFC   10.1  180  i                                
+ 482309 intphas_2277o Ha  5:15:58.97 +38:42:59.7 2000.00  00:44 1.156  WFC  120.0  180  Halpha                           discard mirror and dome closed due to humidity
+ 482310 intphas_2277o r   0:00:00.00 +00:00:00.0 2000.00  00:46 1.151  WFC   30.1  180  r                                as 482309
+ 482311 intphas_2277o i   0:00:00.00 +00:00:00.0 2000.00  00:47 1.149  WFC   10.1  180  i                                as 482309

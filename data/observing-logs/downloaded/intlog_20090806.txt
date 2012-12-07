@@ -1,0 +1,84 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 08 07 03:55
+
+TELESCOPE             INT
+DATE                  20090806
+OBSERVER/S            Mikkel Nielsen
+PROGRAMME             IPHAS
+PROPOSAL REF          C129
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.72
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:07
+EVENING TWILIGHT (UT) 21:26
+MORNING TWILIGHT (UT) 05:09
+SUNRISE (UT)          06:28
+%ILLUM. LUNAR DISK    99
+DARK TIME (HRS)       07:43
+TWILIGHT TIME (HRS)   02:38
+MOONRISE (UT)         20:09
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  20.1    9     7.6   9.5  176   776.5   20.1   20.     21.    9     16
+22:00  20.2    7    12.8  14.2  207   777.6   20.2   20.     21.    7     14
+23:00  20.2    8     7.6   9.0  189   777.9   20.2   20.     21.    8     15
+00:00  20.4    8     7.1   9.5  237   777.9   20.4   20.     21.    8     15
+01:00  20.4    8     8.6   9.6  190   777.6   20.4   20.     21.    8     16
+02:00  20.3    9     6.1   7.6  210   777.4   20.3   20.     21.    9     16
+03:00  20.2    9     9.7  10.8  196   777.2   20.2   20.     21.    9     16
+
+TIME LOST weather           00:00
+TIME LOST Technical         7:30
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+slightly misty
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Problem with calibration prevented any observations this night. See fault ID 18697.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 686641 Bias              0:00:00.00 +00:00:00.0  2000.00 18:34 4.198  WFC    0.0  180  Halpha                           
+ 686642 Bias              0:00:00.00 +00:00:00.0  2000.00 18:35 4.198  WFC    0.0  180  Halpha                           
+ 686643 Bias              0:00:00.00 +00:00:00.0  2000.00 18:35 4.198  WFC    0.0  180  Halpha                           
+ 686644 Bias              0:00:00.00 +00:00:00.0  2000.00 18:35 4.198  WFC    0.0  180  Halpha                           
+ 686645 Bias              0:00:00.00 +00:00:00.0  2000.00 18:36 4.198  WFC    0.0  180  Halpha                           
+ 686646 Bias              0:00:00.00 +00:00:00.0  2000.00 18:36 4.198  WFC    0.0  180  Halpha                           
+ 686647 Bias              0:00:00.00 +00:00:00.0  2000.00 18:37 4.198  WFC    0.0  180  Halpha                           
+ 686648 Bias              0:00:00.00 +00:00:00.0  2000.00 18:37 4.198  WFC    0.0  180  Halpha                           
+ 686649 Bias              0:00:00.00 +00:00:00.0  2000.00 18:38 4.198  WFC    0.0  180  Halpha                           
+ 686650 Bias              0:00:00.00 +00:00:00.0  2000.00 18:38 4.198  WFC    0.0  180  Halpha                           
+ 686651 Bias              0:00:00.00 +00:00:00.0  2000.00 18:39 4.198  WFC    0.0  180  Halpha                           
+ 686652 Bias              0:00:00.00 +00:00:00.0  2000.00 18:39 4.198  WFC    0.0  180  Halpha                           
+ 686653 Bias              0:00:00.00 +00:00:00.0  2000.00 18:40 4.198  WFC    0.0  180  Halpha                           
+ 686654 Bias              0:00:00.00 +00:00:00.0  2000.00 18:40 4.198  WFC    0.0  180  Halpha                           
+ 686655 Bias              0:00:00.00 +00:00:00.0  2000.00 18:41 4.198  WFC    0.0  180  Halpha                           
+ 686656 Bias              0:00:00.00 +00:00:00.0  2000.00 18:41 4.198  WFC    0.0  180  Halpha                           
+ 686657 Bias              0:00:00.00 +00:00:00.0  2000.00 18:42 4.198  WFC    0.0  180  Halpha                           
+ 686658 Bias              0:00:00.00 +00:00:00.0  2000.00 18:42 4.198  WFC    0.0  180  Halpha                           
+ 686659 Bias              0:00:00.00 +00:00:00.0  2000.00 18:43 4.198  WFC    0.0  180  Halpha                           
+ 686660 Bias              0:00:00.00 +00:00:00.0  2000.00 18:43 4.198  WFC    0.0  180  Halpha                           
+ 686661 Flat field       16:24:32.99 +55:43:59.0  2000.00 20:12 1.124  WFC  120.0  180  Halpha                           saturated, please disregard
+ 686662 Flat field       16:24:33.00 +55:43:59.0  2000.00 20:17 1.123  WFC    6.1  180  Halpha                           
+ 686663 Flat field       16:24:33.59 +55:44:04.0  2000.00 20:18 1.123  WFC   10.1  180  Halpha                           
+ 686664 Flat field       16:24:32.40 +55:43:54.0  2000.00 20:19 1.123  WFC   14.6  180  Halpha                           
+ 686665 Flat field       16:24:33.59 +55:43:49.0  2000.00 20:20 1.123  WFC   20.1  180  Halpha                           
+ 686666 Flat field       16:24:31.81 +55:43:49.0  2000.00 20:21 1.122  WFC   29.1  180  Halpha                           
+ 686667 Flat field       16:24:31.81 +55:43:49.0  2000.00 20:23 1.122  WFC    4.1  180  r                                
+ 686668 Flat field       16:24:33.59 +55:44:04.0  2000.00 20:24 1.122  WFC    6.1  180  r                                
+ 686669 Flat field       16:24:33.59 +55:43:49.0  2000.00 20:25 1.122  WFC    8.1  180  r                                
+ 686670 Flat field       16:24:31.81 +55:44:04.0  2000.00 20:26 1.122  WFC   10.1  180  r                                
+ 686671 Flat field       16:24:31.81 +55:43:49.0  2000.00 20:27 1.122  WFC   12.1  180  r                                
+ 686672 Flat field       16:24:31.81 +55:43:49.0  2000.00 20:28 1.122  WFC   15.1  180  i                                saturated, please disregard
+ 686673 Flat field       16:24:33.59 +55:44:03.9  2000.00 20:29 1.122  WFC   14.1  180  i                                
+ 686674 Flat field       16:24:32.41 +55:43:53.9  2000.00 20:30 1.122  WFC   15.1  180  i                                
+ 686675 Flat field       16:24:33.58 +55:43:48.9  2000.00 20:32 1.122  WFC   18.1  180  i                                
+ 686676 Flat field       16:24:31.81 +55:44:04.0  2000.00 20:33 1.122  WFC   23.1  180  i                                
+ 686677 Flat field       16:24:31.81 +55:43:49.0  2000.00 20:34 1.122  WFC   31.6  180  i                                

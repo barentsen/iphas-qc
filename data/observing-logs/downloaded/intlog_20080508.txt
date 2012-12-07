@@ -1,0 +1,52 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 05 30 14:56
+
+TELESCOPE             INT
+DATE                  20080508
+OBSERVER/S            Castro, Marchetti
+PROGRAMME             P19
+PROPOSAL REF          P19
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.75
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:59
+EVENING TWILIGHT (UT) 21:18
+MORNING TWILIGHT (UT) 04:57
+SUNRISE (UT)          06:17
+%ILLUM. LUNAR DISK    17
+DARK TIME (HRS)       07:39
+TWILIGHT TIME (HRS)   02:39
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          23:47
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   3.9   51    16.0  17.3   93   767.5    3.9   12.     12.   51     50
+21:00   3.2  100    26.9  31.1    5   767.7    3.2   10.     13.  100     63
+22:00   1.8  100    34.0  41.4   11   767.6    1.8    9.     13.  100     70
+23:00   1.6  100    33.3  34.0   17   768.1    1.6    8.     12.  100     72
+00:00   0.1  100    28.7  38.0   25   767.9    0.1    7.     12.  100     72
+01:00   1.9  100    34.6  45.2   37   767.8    1.9    7.     12.  100     76
+02:00   2.6  100    33.8  44.4   38   767.8    2.6    7.     12.  100     79
+03:00   2.2  100    29.9  41.8   65   767.6    2.2    7.     12.  100     77
+04:00   1.9   85    30.7  35.3   40   766.9    1.9    7.     12.   85     77
+05:00   0.4   99    34.4  33.4   30   766.7    0.4    7.     12.   99     74
+06:00   0.0  100    34.3  38.1   33   766.8    0.0    6.     12.  100     74
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+cirrus all the night.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 614751 Bias              0:00:00.00 +00:00:00.0  2008.35 13:11 1.509  WFC    0.0  180  g                                

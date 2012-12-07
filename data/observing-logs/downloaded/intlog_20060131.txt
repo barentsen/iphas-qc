@@ -1,0 +1,76 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 02 01 05:05
+
+TELESCOPE             INT
+DATE                  20060131
+OBSERVER/S            JIP & JVM
+PROGRAMME             WINGS-Halpha clusters  
+PROPOSAL REF          C127               
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    RP
+
+TEL STATION / FOCUS   Prime  / 43.3
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:57
+EVENING TWILIGHT (UT) 20:10
+MORNING TWILIGHT (UT) 06:39
+SUNRISE (UT)          07:53
+%ILLUM. LUNAR DISK    8
+DARK TIME (HRS)       10:29
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:20
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.0   22    13.3  13.8  353   768.7    5.0  10.1     9.0   22    25 
+20:00   6.0   17    15.5  15.8  353   767.4    6.0   7.5     8.7   17    13 
+21:00   6.1   20    12.7  13.0  353   767.8    6.1   7.8     8.4   20    18 
+22:00   6.2   23    12.2  12.8  353   768.0    6.2   7.9     8.5   23    19 
+23:00   6.6   20    10.8  12.0  353   768.0    6.6   8.0     8.3   20    16 
+00:00   6.1   14    15.2  16.7  353   768.0    6.1   7.5     8.3   14     9 
+01:00   6.0    6    11.7  12.1  353   767.7    6.0   7.6     8.2    6     3 
+02:00   6.4    6    12.6  13.0  353   767.4    6.4   7.8     8.4    6     4 
+03:00   6.1    6    12.1  14.1  353   767.2    6.1   7.6     8.3    6     3 
+04:00   5.9    5    12.4  13.2  353   766.9    5.9   7.5     8.4    5     2 
+05:00   6.2    6    13.3  14.0  353   766.4    6.2   7.6     8.3    6     3 
+
+TIME LOST weather           8:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Thick clouds
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Weather: 100% thick clouds. Practically all the night was lost.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 491116 ALAN              0:00:00.00 +00:00:00.0 2000.00  14:35 2.469  WFC   15.1  180  U                                
+ 491117 Bias frame        0:00:00.00 +00:00:00.0 2000.00  14:37 2.469  WFC    0.0  180  U                                
+ 491118 Bias frame        0:00:00.00 +00:00:00.0 2000.00  14:40 2.469  WFC    0.0  180  U                                
+ 491119 Flat field        0:59:59.99 +00:06:59.9 2000.00  19:07 1.255  WFC    4.4  180  Ha 6892                          
+ 491120 Flat field        1:00:00.99 +00:07:14.8 2000.00  19:09 1.258  WFC    6.0  180  Ha 6892                          
+ 491121 Flat field        1:00:00.99 +00:07:14.9 2000.00  19:10 1.261  WFC    8.8  180  Ha 6892                          
+ 491122 Flat field        1:00:00.99 +00:07:15.1 2000.00  19:11 1.265  WFC   13.1  180  Ha 6892                          
+ 491123 Flat field        1:00:01.00 +00:07:14.9 2000.00  19:12 1.268  WFC   19.2  180  Ha 6892                          
+ 491124 Flat field        1:00:01.00 +00:07:15.0 2000.00  19:14 1.273  WFC   27.9  180  Ha 6892                          
+ 491125 Flat field        1:00:00.99 +00:07:15.0 2000.00  19:16 1.277  WFC    4.5  180  r                                
+ 491126 Flat field        1:00:01.00 +00:07:14.9 2000.00  19:17 1.280  WFC    5.4  180  r                                
+ 491127 Flat field        1:00:01.00 +00:07:15.0 2000.00  19:18 1.284  WFC    6.0  180  r                                
+ 491128 Flat field        0:00:00.00 +00:00:00.0 2000.00  19:19 1.288  WFC    8.1  180  r                                
+ 491129 Flat field        1:00:00.99 +00:07:14.9 2000.00  19:20 1.291  WFC   11.5  180  r                                
+ 491130 Flat field        1:00:00.99 +00:07:14.9 2000.00  19:22 1.295  WFC   16.2  180  r                                
+ 491131 Focus run         3:05:27.70 +26:08:19.3 1950.00  19:35 1.001  WFC   10.1  180  r                                
+ 491132 Focus run         3:05:27.70 +26:08:19.4 1950.00  19:44 1.001  WFC   10.1  180  r                                
+ 491133 Focus run         3:05:27.70 +26:08:19.4 1950.00  19:54 1.003  WFC   20.1  180  Ha 6892                          
+ 491134 Bias              3:05:27.70 +26:08:19.4 1950.00  20:03 1.006  WFC    0.0  180  Ha 6892                          
+ 491135 Focus run         3:05:27.70 +26:08:19.5 1950.00  20:08 1.008  WFC    9.6  180  r                                
+ 491136 Bias              2:46:31.50 +36:54:18.1 2000.00  20:16 1.036  WFC    0.0  180  Ha 6892                          
+ 491137 A0376d1_1200_689  2:46:31.50 +36:26:18.0 2000.00  20:20 1.050  WFC 1199.4  180  Ha 6892                          
+ 491138 A0376d2_1200_689  2:46:34.00 +36:26:48.0 2000.00  20:43 1.077  WFC  999.5  180  Ha 6892                          
+ 491141 Bias              0:00:00.00 +00:00:00.0 2000.00  00:42 1.000  WFC    0.0  180  r                                
+ 491142 Bias              0:00:00.00 +00:00:00.0 2000.00  04:27 1.000  WFC    0.0  180  r                                

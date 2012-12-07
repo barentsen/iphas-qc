@@ -1,0 +1,86 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 01 23 05:05
+
+TELESCOPE             INT
+DATE                  20080122
+OBSERVER/S            M. Valentini, S. Barker
+PROGRAMME             D
+PROPOSAL REF          IPHAS
+TELESCOPE OPERATOR    Guerra
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS   Prime  / 43.67
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:49
+EVENING TWILIGHT (UT) 20:03
+MORNING TWILIGHT (UT) 06:42
+SUNRISE (UT)          07:57
+%ILLUM. LUNAR DISK      1
+DARK TIME (HRS)       10:39
+TWILIGHT TIME (HRS)   02:29
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   7.0   25    32.0  37.2  197   772.3    7.0  10.9    11.1   25    29 
+20:00   7.0   39    29.3  33.0  192   772.5    7.0  10.2    11.2   39    35 
+21:00   6.7   32    37.3  44.0  188   772.1    6.7   9.8    11.0   32    25 
+22:00   4.8   19    28.1  27.2  180   772.6    4.8   9.3    10.9   19    20 
+23:00   4.7   12    40.2  44.9  193   771.9    4.7   8.8    10.8   12    17 
+00:00   5.4   11    39.9  45.3  189   771.9    5.4   8.4    10.7   11    15 
+01:00   4.8   13    37.1  43.2  188   771.6    4.8   8.3    10.6   13    16 
+02:00   4.4   13    51.2  63.2  205   770.7    4.4   7.8    10.7   13    16 
+03:00   5.2   15    39.7  47.2  210   770.4    5.2   7.5    10.3   15    17 
+04:00   5.8   16    35.9  40.9  220   770.4    5.8   6.4     9.2   16    19 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+clouds during the whole night, sky opened for 1 hour at 3:30 AM but veils and very bad seeing (around 3 arcsec), then clouds again
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+time lost because of the weather (cloudy)
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 604798 fjg               0:00:00.00 +00:00:00.0  2000.00 12:33 4.642  WFC    3.1  180  Halpha                           
+ 604799 Flat field        0:00:00.00 +00:00:00.0  2008.06 14:35 1.000  WFC    1.9  180  B                                
+ 604800 Flat field       20:00:00.00 +20:00:00.0  2008.06 14:38 1.084  WFC    1.0  180  B                                
+ 604801 Bias frame       20:00:00.00 +19:59:59.9  2008.06 14:39 1.086  WFC    0.0  180  B                                
+ 604802 Bias             19:59:59.99 +19:59:59.9  2008.06 14:40 1.088  WFC    0.0  180  B                                
+ 604803 fast              0:00:00.00 +00:00:00.0  2008.06 15:50 4.324  WFC    0.0  180  Halpha                           
+ 604804 fast              0:00:00.00 +00:00:00.0  2008.06 15:50 4.324  WFC    0.0  180  Halpha                           
+ 604805 fast              0:00:00.00 +00:00:00.0  2008.06 15:51 4.324  WFC    0.0  180  Halpha                           
+ 604806 fast              0:00:00.00 +00:00:00.0  2008.06 15:51 4.324  WFC    0.0  180  Halpha                           
+ 604807 fast              0:00:00.00 +00:00:00.0  2008.06 15:51 4.324  WFC    0.0  180  Halpha                           
+ 604808 fast              0:00:00.00 +00:00:00.0  2008.06 15:52 4.324  WFC    0.0  180  Halpha                           
+ 604809 fast              0:00:00.00 +00:00:00.0  2008.06 15:52 4.324  WFC    0.0  180  Halpha                           
+ 604810 fast              0:00:00.00 +00:00:00.0  2008.06 15:53 4.324  WFC    0.0  180  Halpha                           
+ 604811 fast              0:00:00.00 +00:00:00.0  2008.06 15:53 4.324  WFC    0.0  180  Halpha                           
+ 604812 fast              0:00:00.00 +00:00:00.0  2008.06 15:54 4.324  WFC    0.0  180  Halpha                           
+ 604813 slow              0:00:00.00 +00:00:00.0  2008.06 15:55 4.324  WFC    0.0  180  Halpha                           
+ 604814 slow              0:00:00.00 +00:00:00.0  2008.06 15:56 4.324  WFC    0.0  180  Halpha                           
+ 604815 slow              0:00:00.00 +00:00:00.0  2008.06 15:56 4.324  WFC    0.0  180  Halpha                           
+ 604816 slow              0:00:00.00 +00:00:00.0  2008.06 15:57 4.324  WFC    0.0  180  Halpha                           
+ 604817 slow              0:00:00.00 +00:00:00.0  2008.06 15:58 4.324  WFC    0.0  180  Halpha                           
+ 604818 slow              0:00:00.00 +00:00:00.0  2008.06 15:59 4.324  WFC    0.0  180  Halpha                           
+ 604819 slow              0:00:00.00 +00:00:00.0  2008.06 15:59 4.324  WFC    0.0  180  Halpha                           
+ 604820 slow              0:00:00.00 +00:00:00.0  2008.06 16:00 4.324  WFC    0.0  180  Halpha                           
+ 604821 slow              0:00:00.00 +00:00:00.0  2008.06 16:01 4.324  WFC    0.0  180  Halpha                           
+ 604822 slow              0:00:00.00 +00:00:00.0  2008.06 16:02 4.324  WFC    0.0  180  Halpha                           
+ 604823 dome flat slow 2  0:00:00.00 +00:00:00.0  2008.06 16:05 1.425  WFC    2.1  180  r                                
+ 604824 dome flat slow 2  0:00:00.00 +00:00:00.0  2008.06 16:07 1.425  WFC    2.1  180  r                                
+ 604825 dome flat fast 2  0:00:00.00 +00:00:00.0  2008.06 16:08 1.425  WFC    2.1  180  r                                
+ 604826 dome flat fast 4  0:00:00.00 +00:00:00.0  2008.06 16:10 1.425  WFC    4.1  180  r                                
+ 604827 dome flat fast 4  0:00:00.00 +00:00:00.0  2008.06 16:11 1.425  WFC    4.1  180  r                                
+ 604828 Focus run        12:33:16.57 +09:01:17.2  2000.00 03:34 1.227  WFC   10.1  180  r                                
+ 604829 ngc2403 200s r    7:36:51.39 +65:36:09.0  2000.00 03:43 1.446  WFC  200.0  180  r                                veils
+ 604830 ngc2403 100s r    7:36:51.39 +65:36:09.0  2000.00 03:50 1.461  WFC  100.1  180  r                                
+ 604831 ngc2403 200s r    7:36:51.40 +65:36:09.1  2000.00 03:55 1.476  WFC  199.9  180  B                                
+ 604832 ngc2403 200s B    7:36:51.39 +65:36:09.0  2000.00 04:02 1.498  WFC  299.5  180  B                                
+ 604833 ngc2403 200s i    7:36:51.40 +65:36:09.0  2000.00 04:10 1.517  WFC  200.0  180  i                                

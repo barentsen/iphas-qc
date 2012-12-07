@@ -1,0 +1,90 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 01 07 08:31
+
+TELESCOPE             INT
+DATE                  20110104
+OBSERVER/S            Feltzing & Davies
+PROGRAMME             Segue1
+PROPOSAL REF          P14                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Jenssen
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:35
+EVENING TWILIGHT (UT) 19:51
+MORNING TWILIGHT (UT) 06:41
+SUNRISE (UT)          07:58
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       10:50
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          18:55
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.3   36    11.1  10.3  271   768.1   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   5.7   22     6.0  11.5  204   768.6   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   7.0   10    13.3  14.8  279   768.9   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   4.8   31    21.0  24.2  281   769.1   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   4.6   19    21.7  23.1  287   769.1   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   5.2   32    14.5  15.2  272   769.1   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   7.0    5    13.3  14.9  251   768.9   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   6.6    7    15.6  17.0  241   768.6   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   6.2    9    17.9  19.6  248   768.5   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   6.6    8    15.3  17.0  240   768.2   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   6.3   11    19.8  21.1  273   767.9   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   4.8   29    21.0  22.4  272   767.9   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   4.7   30    14.8  20.5  212   768.3   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clouds, 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Closed early thanks to clouds but also issue with the engineering rack
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 773616 Bias              0:00:00.00 +00:00:00.0  2000.00 18:27 1.000  WFC    0.0  180  R                                
+ 773617 Bias              0:00:00.00 +00:00:00.0  2000.00 18:29 1.000  WFC    0.0  180  R                                
+ 773618 Bias              0:00:00.00 +00:00:00.0  2000.00 18:30 1.000  WFC    0.0  180  stromgren y                      
+ 773619 u filter test    22:58:00.00 +00:05:00.0  2000.00 18:45 1.235  WFC    5.1  180  stromgren u                      
+ 773620 u filter test    22:57:59.99 +00:05:00.0  2000.00 18:46 1.238  WFC    8.1  180  stromgren u                      
+ 773621 u filter test    22:58:00.00 +00:05:00.0  2000.00 18:47 1.241  WFC   11.1  180  stromgren u                      
+ 773622 v filter test    22:58:00.00 +00:04:59.8  2000.00 18:50 1.246  WFC    5.1  180  stromgren v                      
+ 773623 v filter test    22:58:00.66 +00:05:10.0  2000.00 18:51 1.250  WFC    8.1  180  stromgren v                      
+ 773624 v filter         22:58:00.66 +00:04:50.1  2000.00 18:52 1.253  WFC   10.1  180  stromgren v                      
+ 773625 b filter         22:57:59.33 +00:04:50.0  2000.00 18:55 1.261  WFC    5.1  180  stromgren b                      
+ 773626 b filter         22:57:59.33 +00:05:10.0  2000.00 18:57 1.265  WFC   10.1  180  stromgren b                      19500 countsd
+ 773627 b filter         22:58:00.66 +00:05:10.0  2000.00 18:58 1.269  WFC   15.1  180  stromgren b                      
+ 773628 b filter         22:57:59.99 +00:05:09.9  2000.00 19:00 1.273  WFC   23.1  180  stromgren b                      
+ 773629 v filter         22:58:00.00 +00:05:10.0  2000.00 19:01 1.278  WFC    5.1  180  stromgren y                      it is te hy filter! low 3700 counts
+ 773630 v filter         22:58:00.66 +00:05:09.9  2000.00 19:03 1.282  WFC   35.1  180  stromgren y                      it is teh y filter! low 9600 counts
+ 773631 y filter         22:58:00.66 +00:04:49.8  2000.00 19:05 1.289  WFC   99.5  180  stromgren y                      
+ 773632 y filter         22:57:59.33 +00:04:49.9  2000.00 19:08 1.304  WFC  300.0  180  stromgren y                      seeing some stars, this and the next have the same offset
+ 773633 y filter         22:57:59.33 +00:04:49.9  2000.00 19:14 1.335  WFC  599.8  180  stromgren y                      
+ 773634 Focus run         0:56:15.20 +00:53:18.0  2000.00 20:16 1.174  WFC   10.1  180  stromgren y                      
+ 773635 Focus run         0:56:15.20 +00:53:18.0  2000.00 20:25 1.188  WFC   10.1  180  stromgren y                      
+ 773636 Segu2 stY, first  2:19:16.00 +20:10:30.9  2000.00 20:37 1.012  WFC  599.8  180  stromgren y                      
+ 773637 Segu2 stY, first  2:19:15.99 +20:10:30.9  2000.00 20:56 1.015  WFC    5.1  180  stromgren y                      
+ 773638 Segu2 stY, first  2:19:16.00 +20:10:31.0  2000.00 20:58 1.016  WFC    2.1  180  stromgren y                      
+ 773639 HD025329 stY, fi  4:03:15.00 +35:16:23.8  2000.00 21:38 1.015  WFC  599.8  180  stromgren y                      
+ 773640 HD025329 stV,  6  4:03:14.99 +35:16:23.8  2000.00 21:54 1.009  WFC  599.7  180  stromgren v                      
+ 773641 HD025329 stB,  6  4:03:14.99 +35:16:23.8  2000.00 22:05 1.007  WFC  599.6  180  stromgren b                      
+ 773642 HD025329 stU,  6  4:03:15.00 +35:16:23.7  2000.00 22:17 1.007  WFC  599.7  180  stromgren u                      
+ 773643 Shift SEG2 600s   2:29:15.99 +20:20:30.0  2000.00 23:00 1.193  WFC  599.8  180  stromgren y                      
+ 773644 Shift SEG22 600s  2:29:16.00 +20:10:29.9  2000.00 23:32 1.308  WFC  599.8  180  stromgren y                      
+ 773645 Shift SEG23 600s  2:19:35.99 +20:10:30.0  2000.00 00:03 1.520  WFC  599.8  180  stromgren y                      
+ 773646 Shift SEG24 600s  2:19:55.99 +20:10:30.0  2000.00 00:30 1.722  WFC  499.8  180  stromgren y                      
+ 773647 Segue 1, stY, 27 10:07:03.99 +16:04:55.0  2000.00 00:46 1.446  WFC 2698.4  180  stromgren y                      
+ 773648 Segue 1, stV, 27 10:07:04.00 +16:04:55.0  2000.00 01:36 1.226  WFC 2698.3  180  stromgren v                      
+ 773649 Segue 1, stB, 27 10:07:03.99 +16:04:55.1  2000.00 02:25 1.106  WFC 2698.5  180  stromgren b                      
+ 773650 Segue 1, stB, 27 10:07:04.00 +16:04:55.0  2000.00 03:12 1.045  WFC 2698.4  180  stromgren u                      
+ 773651 Segue 1, stU, 27 10:07:03.99 +16:04:55.0  2000.00 03:59 1.027  WFC 2698.6  180  stromgren u                      
+ 773652 Segue 1, stU, 27 10:07:03.99 +16:04:55.0  2000.00 04:45 1.045  WFC 2698.3  180  stromgren u                      

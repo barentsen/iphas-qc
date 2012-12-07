@@ -1,0 +1,86 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 02 08 04:00
+
+TELESCOPE             INT
+DATE                  20100207
+OBSERVER/S            Cardwell, Busenbender
+PROGRAMME             Deep narrow band imaging of NGC2403.
+PROPOSAL REF          C186               
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Dan Hurley
+
+TEL STATION / FOCUS   Prime  / 43.75
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:02
+EVENING TWILIGHT (UT) 20:15
+MORNING TWILIGHT (UT) 06:36
+SUNRISE (UT)          07:48
+%ILLUM. LUNAR DISK    30
+DARK TIME (HRS)       10:21
+TWILIGHT TIME (HRS)   02:25
+MOONRISE (UT)         03:42
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+No Met data available for second half of night
+
+
+TIME LOST weather           09:20
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Observed 1 hour with poor transparency, rest of night lost to high humidity.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 720551 Bias              0:00:00.00 +00:00:00.0  2000.00 14:49 4.578  WFC    0.0  180  Ha 6657                          
+ 720552 skyflat 6657      2:57:59.99 -00:06:00.0  2000.00 19:13 1.143  WFC    4.1  180  Ha 6657                          
+ 720553 skyflat 6657      2:58:01.33 -00:05:40.0  2000.00 19:15 1.144  WFC    7.1  180  Ha 6657                          
+ 720554 skyflat 6657      2:57:58.66 -00:06:19.9  2000.00 19:17 1.145  WFC   10.1  180  Ha 6657                          
+ 720555 skyflat 6657      2:58:01.33 -00:06:20.0  2000.00 19:19 1.146  WFC   18.1  180  Ha 6657                          
+ 720556 skyflat 6657      2:57:58.67 -00:05:40.0  2000.00 19:21 1.147  WFC   27.1  180  Ha 6657                          
+ 720557 skyflat Ha        2:57:59.98 -00:06:00.0  2000.00 19:23 1.148  WFC   40.0  180  Halpha                           
+ 720558 skyflat Ha        2:58:01.33 -00:05:39.9  2000.00 19:25 1.149  WFC   70.0  180  Halpha                           
+ 720559 skyflat Ha        2:57:58.66 -00:06:20.0  2000.00 19:27 1.151  WFC  110.0  180  Halpha                           
+ 720560 skyflat Ha        2:58:00.00 -00:06:00.0  2000.00 19:31 1.153  WFC   35.1  180  r                                FLAT r
+ 720561 skyflat Ha        2:57:58.67 -00:06:20.1  2000.00 19:32 1.154  WFC   40.0  180  r                                FLAT r
+ 720562 skyflat Ha        2:58:01.33 -00:06:20.0  2000.00 19:34 1.156  WFC   52.1  180  r                                FLAT r
+ 720563 skyflat r         2:57:58.66 -00:05:39.9  2000.00 19:36 1.157  WFC   75.0  180  r                                
+ 720564 skyflat r         2:58:01.33 -00:05:39.9  2000.00 19:40 1.161  WFC  110.0  180  r                                
+ 720565 Focus run         7:36:50.17 +64:36:09.8  2000.00 20:06 1.513  WFC   10.1  180  Ha 6657                          no seeing, totallly covered with clouds
+ 720566 Bias              0:00:00.00 +00:00:00.0  2000.00 20:28 2.469  WFC    0.0  180  Ha 6657                          
+ 720567 Bias              0:00:00.00 +00:00:00.0  2000.00 20:28 2.469  WFC    0.0  180  Ha 6657                          
+ 720568 Bias              0:00:00.00 +00:00:00.0  2000.00 20:29 2.469  WFC    0.0  180  Ha 6657                          
+ 720569 Bias              0:00:00.00 +00:00:00.0  2000.00 20:30 2.469  WFC    0.0  180  Ha 6657                          
+ 720570 Bias              0:00:00.00 +00:00:00.0  2000.00 20:31 2.469  WFC    0.0  180  Ha 6657                          
+ 720571 Bias              0:00:00.00 +00:00:00.0  2000.00 20:31 2.469  WFC    0.0  180  Ha 6657                          
+ 720572 Bias              0:00:00.00 +00:00:00.0  2000.00 20:32 2.469  WFC    0.0  180  Ha 6657                          
+ 720573 Bias              0:00:00.00 +00:00:00.0  2000.00 20:33 2.469  WFC    0.0  180  Ha 6657                          
+ 720574 Bias              0:00:00.00 +00:00:00.0  2000.00 20:34 2.469  WFC    0.0  180  Ha 6657                          
+ 720575 Bias              0:00:00.00 +00:00:00.0  2000.00 20:35 2.469  WFC    0.0  180  Ha 6657                          
+ 720576 Bias              0:00:00.00 +00:00:00.0  2000.00 20:35 2.469  WFC    0.0  180  Ha 6657                          
+ 720577 Bias              0:00:00.00 +00:00:00.0  2000.00 20:36 2.469  WFC    0.0  180  Ha 6657                          
+ 720578 Bias              0:00:00.00 +00:00:00.0  2000.00 20:37 2.469  WFC    0.0  180  Ha 6657                          
+ 720579 Bias              0:00:00.00 +00:00:00.0  2000.00 20:38 2.469  WFC    0.0  180  Ha 6657                          
+ 720580 Bias              0:00:00.00 +00:00:00.0  2000.00 20:38 2.469  WFC    0.0  180  Ha 6657                          
+ 720581 Bias              0:00:00.00 +00:00:00.0  2000.00 20:39 2.469  WFC    0.0  180  Ha 6657                          
+ 720582 Bias              0:00:00.00 +00:00:00.0  2000.00 20:40 2.469  WFC    0.0  180  Ha 6657                          
+ 720583 Bias              0:00:00.00 +00:00:00.0  2000.00 20:41 2.469  WFC    0.0  180  Ha 6657                          
+ 720584 Bias              0:00:00.00 +00:00:00.0  2000.00 20:42 2.469  WFC    0.0  180  Ha 6657                          
+ 720585 Bias              0:00:00.00 +00:00:00.0  2000.00 20:42 2.469  WFC    0.0  180  Ha 6657                          
+ 720586 Bias              0:00:00.00 +00:00:00.0  2000.00 20:43 2.469  WFC    0.0  180  Ha 6657                          
+ 720587 Bias              0:00:00.00 +00:00:00.0  2000.00 20:44 2.469  WFC    0.0  180  Ha 6657                          
+ 720588 Bias              0:00:00.00 +00:00:00.0  2000.00 20:45 2.469  WFC    0.0  180  Ha 6657                          
+ 720589 Bias              0:00:00.00 +00:00:00.0  2000.00 20:45 2.469  WFC    0.0  180  Ha 6657                          
+ 720590 Bias              0:00:00.00 +00:00:00.0  2000.00 20:46 2.469  WFC    0.0  180  Ha 6657                          
+ 720591 Focus run         7:36:50.64 +65:36:09.5  2000.00 21:03 1.389  WFC   10.1  180  Ha 6657                          
+ 720592 n2403o 6657       7:36:52.64 +65:36:09.5  2000.00 21:19 1.334  WFC 1799.0  180  Ha 6657                          
+ 720593 n2403o SII        7:36:52.64 +65:36:09.5  2000.00 21:54 1.292  WFC 1798.5  180  [SII]6725                        
+ 720594 n2403o SII        7:36:49.41 +65:35:49.5  2000.00 22:32 1.267  WFC  844.3  180  [SII]6725                        

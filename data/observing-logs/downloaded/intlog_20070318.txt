@@ -1,0 +1,56 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 03 21 20:03
+
+TELESCOPE             INT
+DATE                  20070318
+OBSERVER/S            Anderson, James, Percival
+PROGRAMME             Imaging of SN host galaxies
+PROPOSAL REF          P1
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    IH
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:28
+EVENING TWILIGHT (UT) 20:40
+MORNING TWILIGHT (UT) 05:59
+SUNRISE (UT)          07:10
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       09:19
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No Moon all night
+MOONSET (UT)          No Moon all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -1.6   96    39.1  47.4   10   765.6   -1.6   4.9     7.4   96    68 
+21:00  -1.6   96    27.6  21.3   10   765.8   -1.6   4.9     7.4   96    69 
+22:00  -1.9   96    29.7  36.5   10   765.8   -1.9   5.0     7.4   96    68 
+23:00  -2.2   96    19.6  30.4   10   766.0   -2.2   4.9     7.4   96    68 
+00:00  -1.5   96    32.9  40.5   10   765.8   -1.5   4.9     7.4   96    68 
+01:00  -1.1   97    20.9  31.1   10   765.9   -1.1   4.8     7.3   97    70 
+02:00  -1.1   97    25.4  30.1   10   764.1   -1.1   4.7     7.4   97    72 
+03:00  -1.1   97    27.0  26.8   10   764.3   -1.1   5.0     7.3   97    71 
+04:00  -1.1   97    24.4  36.6   10   763.9   -1.1   5.0     7.5   97    71 
+05:00  -1.1   97    21.8  28.1   10   764.2   -1.1   5.0     7.3   97    72 
+06:00  -1.1   97    17.9  26.8   10   764.0   -1.1   4.9     7.4   97    73 
+07:00  -1.1   97    32.6  36.8   10   763.5   -1.1   5.2     7.4   97    72 
+
+TIME LOST weather           09:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+snow
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+All night lost due to bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 554731 Bias             21:05:59.99 +19:59:59.9 2000.00  11:37 1.044  WFC    0.0  180  Ha 6805                          
+ 554732 Bias frame       21:05:59.99 +20:00:00.0 2000.00  11:40 1.047  WFC    0.0  180  Ha 6805                          
+ 554733 BIGDON           21:06:00.00 +19:59:59.9 2000.00  11:42 1.049  WFC    9.6  180  Halpha                           
+ 554734 BIGDON           21:05:59.99 +20:00:00.0 2000.00  11:47 1.055  WFC    9.6  180  Halpha                           

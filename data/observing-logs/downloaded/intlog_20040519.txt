@@ -1,0 +1,79 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 05 20 07:23
+
+TELESCOPE             INT
+DATE                  20040519
+OBSERVER/S            Roberts
+PROGRAMME             Satellites in nearby galaxy haloes (M101)
+PROPOSAL REF          P3
+TELESCOPE OPERATOR    Kevin Dee
+SUPPORT ASTRONOMER    Antonio Garcia
+
+TEL STATION / FOCUS   Prime  / 44.05
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:05
+EVENING TWILIGHT (UT) 21:28
+MORNING TWILIGHT (UT) 04:48
+SUNRISE (UT)          06:10
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       07:20
+TWILIGHT TIME (HRS)   02:45
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          20:37
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00   3.6   95    18.5  24.7  228   769.3    3.6  10.1    10.8   95    67 
+22:00   3.7   95    19.1  21.1  226   769.7    3.7   9.9    10.7   95    67 
+23:00   3.6   95    25.1  27.4  235   770.0    3.6   9.7    10.8   95    67 
+00:00   4.0   95    21.9  25.6  246   770.0    4.0   9.8    10.8   95    67 
+01:00   3.1   95    23.5  25.9  229   769.8    3.1   9.6    10.8   95    69 
+02:00   2.0   95    18.4  19.7  238   769.6    2.0   9.4    10.8   95    58 
+03:00   3.7   57    23.0  26.3  242   769.0    3.7   7.1    10.5   57    51 
+04:00   3.1   60    22.0  23.3  257   768.7    3.1   5.5     9.9   60    52 
+05:00   3.3   56    17.1  18.8  257   768.5    3.3   5.4     9.6   56    51 
+06:00   4.6   44    32.0  33.3  268   768.2    4.6   5.7     9.2   44    44 
+
+TIME LOST weather           5:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+very high humidity, some cloud
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+approx. 5 hours observing time lost due to high humidity.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 398051 Bias              3:00:00.00 +27:00:00.0 J2000.00 12:41 1.003  WFC    0.0  180  B                                
+ 398052 Bias              2:59:59.99 +26:59:59.9 J2000.00 12:42 1.004  WFC    0.0  180  Halpha                           
+ 398053 Focus run        16:52:33.00 -15:23:27.0 J2000.00 01:55 1.398  WFC   10.1  180  B                                
+ 398055 m101_24          14:05:05.50 +52:42:59.0 J2000.00 02:15 1.310  WFC  749.2  180  B                                
+ 398056 m101_25          14:08:30.19 +52:42:59.0 J2000.00 02:36 1.364  WFC  749.1  180  B                                mistake (started when tracking, not guiding)
+ 398057 m101_26          14:11:54.90 +52:42:59.0 J2000.00 02:53 1.410  WFC  749.7  180  B                                
+ 398058 m101_27          14:15:19.70 +52:42:59.0 J2000.00 03:09 1.458  WFC  749.3  180  B                                
+ 398059 m101_28          13:47:54.80 +53:02:59.0 J2000.00 03:28 1.686  WFC  749.7  180  B                                
+ 398060 m101_25b         14:08:30.20 +52:42:58.9 J2000.00 03:43 1.658  WFC  749.6  180  B                                
+ 398061 107-592          15:38:50.30 -00:17:08.9 J2000.00 04:00 1.637  WFC   19.5  180  B                                
+ 398062 107-458          15:38:50.09 -00:24:26.9 J2000.00 04:03 1.665  WFC   19.6  180  B                                
+ 398063 108-551          16:37:47.80 -00:33:06.0 J2000.00 04:06 1.358  WFC   20.1  180  B                                
+ 398064 109-71           17:44:06.80 -00:24:56.8 J2000.00 04:09 1.194  WFC   20.1  180  B                                
+ 398065 109-537          17:45:42.50 -00:21:35.8 J2000.00 04:11 1.195  WFC   20.1  180  B                                
+ 398066 m101_29          13:51:21.09 +53:02:59.0 J2000.00 04:17 2.032  WFC  749.5  180  B                                
+ 398067 m101_30          13:54:47.39 +53:02:58.9 J2000.00 04:33 2.154  WFC  749.8  180  B                                
+ 398068 m101_31          13:58:13.70 +53:02:59.0 J2000.00 04:48 2.289  WFC  749.6  180  B                                
+ 398069 108-475          16:37:00.60 -00:34:38.9 J2000.00 05:06 1.706  WFC   19.5  180  B                                
+ 398070 110-340          18:41:28.40 +00:15:23.9 J2000.00 05:09 1.191  WFC   20.1  180  B                                
+ 398071 sky flat B 100s  19:59:00.00 +02:19:59.9 J2000.00 05:37 1.121  WFC  100.1  180  B                                
+ 398072 sky flat B 60s - 19:59:00.66 +02:20:09.9 J2000.00 05:40 1.122  WFC   99.5  180  B                                wrong exposure time!
+ 398073 sky flat B 25s - 19:59:00.66 +02:19:59.9 J2000.00 05:43 1.123  WFC   24.6  180  B                                
+ 398074 sky flat B 10s - 19:59:01.33 +02:20:20.0 J2000.00 05:45 1.124  WFC   10.1  180  B                                
+ 398075 sky flat B 5s -  19:59:00.66 +02:20:19.9 J2000.00 05:46 1.125  WFC    5.1  180  B                                
+ 398076 sky flat B 7s -  19:59:00.33 +02:20:14.9 J2000.00 05:47 1.126  WFC    7.1  180  B                                
+ 398077 sky flat B 3s -  19:58:59.33 +02:20:00.0 J2000.00 05:49 1.127  WFC    3.1  180  B                                
+ 398078 sky flat B 4s -  19:58:59.66 +02:20:15.0 J2000.00 05:50 1.128  WFC    4.1  180  B                                
+ 398079 sky flat B 3_bs  19:58:59.66 +02:20:20.0 J2000.00 05:52 1.129  WFC    3.1  180  B                                
+ 398080 sky flat B 2s -  19:59:00.00 +02:19:49.9 J2000.00 05:53 1.130  WFC    2.1  180  B                                

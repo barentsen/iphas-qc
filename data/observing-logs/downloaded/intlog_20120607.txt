@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 06 08 07:14
+
+TELESCOPE             INT
+DATE                  20120607
+OBSERVER/S            Luca Casagrande
+PROGRAMME             photometry of Kepler stars
+PROPOSAL REF          P4                 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.72
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:16
+EVENING TWILIGHT (UT) 21:41
+MORNING TWILIGHT (UT) 04:39
+SUNRISE (UT)          06:05
+%ILLUM. LUNAR DISK    83
+DARK TIME (HRS)       06:58
+TWILIGHT TIME (HRS)   02:51
+MOONRISE (UT)         22:55
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00   9.0   82    15.7  18.7  317   772.5   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   8.5   97    18.7  23.3  305   772.7   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   8.8   98    16.7  21.4  326   773.0   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   8.1   64    32.1  31.6  309   773.0   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   6.4   92    21.3  26.3  314   772.8   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   5.7   97    30.8  40.2  310   772.3   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   5.3   98    26.2  27.9  293   771.9   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   7.1   55    36.6  37.8  239   771.7   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   8.5    8    21.7  23.6  280   771.9   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   9.0    6    15.5  18.5  296   772.0   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           6:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+high humidity for the first part of the night, observations started only at 3.30UT
+
+

@@ -1,0 +1,73 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 12 10 06:36
+
+TELESCOPE             INT
+DATE                  20031209
+OBSERVER/S            DM - DR
+PROGRAMME             D night
+PROPOSAL REF          I/2003B/14
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    DM-DR
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:29
+SUNRISE (UT)          07:45
+%ILLUM. LUNAR DISK    99
+DARK TIME (HRS)       10:51
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         18:36
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.6   75    36.3  39.8  321   772.9    5.6   9.2     9.2   75    65 
+20:00   4.5   85    35.3  38.4  310   773.1    4.5   8.7     9.1   85    68 
+21:00   3.8   93    36.8  41.1  326   773.5    3.8   8.3     9.2   93    74 
+22:00   3.8   93    43.2  45.5  291   773.5    3.8   7.9     9.3   93    77 
+23:00   4.9   87    27.4  29.9  310   773.7    4.9   7.8     9.4   87    77 
+00:00   5.3   87    25.5  28.6  292   773.7    5.3   8.0     9.4   87    76 
+01:00   4.7   90    30.6  34.0  319   772.9    4.7   8.0     9.4   90    78 
+02:00   5.2   90    37.3  38.9  310   772.8    5.2   8.2     9.3   90    79 
+03:00   5.0   90    33.8  37.1  307   772.4    5.0   8.1     9.3   90    79 
+04:00   6.0   78    27.5  29.5  313   772.3    6.0   8.0     9.3   78    74 
+05:00   5.9   75    35.5  37.8  320   772.1    5.9   8.1     9.4   75    72 
+06:00   5.6   80    29.2  30.9  313   771.9    5.6   7.0     9.0   80    78 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100 % cloud cover exept for 1 hour
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+we lost all the night (cloud cover)
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 380428 Bias frame        0:00:00.00 +00:00:00.0 A        14:11 1.000  WFC    0.0  180  r                                
+ 380429 TEST              0:00:00.00 +00:00:00.0 A        14:12 1.000  WFC    2.0  180  i                                
+ 380430 TEST              0:00:00.00 +00:00:00.0 A        14:14 1.000  WFC    2.1  180  i                                
+ 380431 Bias              0:00:00.00 +00:00:00.0 A        22:45 1.000  WFC    0.0  180  Halpha                           
+ 380432 Bias              0:00:00.00 +00:00:00.0 A        22:46 1.000  WFC    0.0  180  Halpha                           
+ 380433 Bias              0:00:00.00 +00:00:00.0 A        22:47 1.000  WFC    0.0  180  Halpha                           
+ 380434 Bias              0:00:00.00 +00:00:00.0 A        22:48 1.000  WFC    0.0  180  Halpha                           
+ 380435 Bias              0:00:00.00 +00:00:00.0 A        22:48 1.000  WFC    0.0  180  Halpha                           
+ 380436 test              9:12:00.00 -07:50:46.9 J2000.00 05:11 1.245  WFC   10.1  180  r                                
+ 380437 Focus run         9:12:00.00 -07:48:17.1 J2000.00 05:20 1.246  WFC   10.1  180  Halpha                           
+ 380438 seeing-r          9:12:00.00 -07:50:46.9 J2000.00 05:23 1.248  WFC   10.1  180  Halpha                           error
+ 380439 seeing-r          9:12:00.00 -07:50:47.0 J2000.00 05:24 1.248  WFC   10.1  180  r                                
+ 380440 Focus run         9:12:00.00 -07:48:17.0 J2000.00 05:30 1.250  WFC   10.1  180  r                                
+ 380441 Focus run         9:12:00.00 -07:48:16.9 J2000.00 05:38 1.254  WFC   10.1  180  Halpha                           
+ 380443 Focus run         9:11:59.99 -07:48:16.9 J2000.00 05:44 1.259  WFC   10.1  180  r                                
+ 380444 Focus run         9:12:00.00 -07:48:16.8 J2000.00 05:49 1.264  WFC   10.1  180  i                                
+ 380445 Focus run         9:12:00.00 -07:48:16.8 J2000.00 05:54 1.269  WFC    9.5  180  i                                
+ 380446 Focus run         9:12:00.00 -07:48:16.8 J2000.00 05:58 1.275  WFC   10.1  180  stromgren y                      
+ 380447 Focus run         9:12:00.00 -07:48:16.8 J2000.00 06:03 1.281  WFC   10.0  180  stromgren y                      
+ 380449 Focus run         9:12:00.00 -07:48:16.8 J2000.00 06:08 1.289  WFC   10.1  180  stromgren u                      clouds
+ 380450 Focus run         9:11:59.99 -07:48:16.8 J2000.00 06:13 1.297  WFC   10.1  180  stromgren v                      bad seeing

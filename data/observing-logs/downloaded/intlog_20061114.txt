@@ -1,0 +1,51 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 11 15 02:34
+
+TELESCOPE             INT
+DATE                  20061114
+OBSERVER/S            Laurence Sabin
+PROGRAMME             IPHAS survey
+PROPOSAL REF          P10 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:26
+EVENING TWILIGHT (UT) 19:40
+MORNING TWILIGHT (UT) 06:12
+SUNRISE (UT)          07:26
+%ILLUM. LUNAR DISK    29
+DARK TIME (HRS)       10:32
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         02:36
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   7.7   72    20.6  25.8  190   770.9    7.7  11.7    14.3   72    60 
+20:00   7.6   74    23.4  30.1  197   771.2    7.6  11.3    14.2   74    62 
+21:00   7.0   77    25.5  27.7  180   771.3    7.0  10.8    14.0   77    68 
+22:00   6.7   78    19.9  23.7  205   771.2    6.7  10.7    13.9   78    65 
+23:00   6.1   83    28.2  31.5  175   770.8    6.1  10.3    13.9   83    67 
+00:00   5.8   82    27.7  36.9  178   770.5    5.8   9.7    13.8   82    69 
+01:00   5.6   87    40.3  48.1  169   769.4    5.6   9.0    13.3   87    77 
+02:00   5.9   86    44.6  53.1  175   769.1    5.9   9.6    13.3   86    74 
+
+TIME LOST weather           10:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloud cover, rain and high humidity
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 535192 Bias              0:00:00.00 +00:00:00.0 2006.870 14:25 1.493  WFC    0.0  180  [OIII]5007                       
+ 535193 test              0:00:00.00 +00:00:00.0 2006.870 14:32 1.493  WFC    5.1  180  g                                
+ 535194 Focus run         2:35:07.57 +03:43:56.9 2000.00  00:20 1.103  WFC   10.1  180  r                                Clouds

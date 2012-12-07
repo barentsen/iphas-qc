@@ -1,0 +1,51 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 10 07 04:58
+
+TELESCOPE             INT
+DATE                  20031006
+OBSERVER/S            Drew/Hopewell
+PROGRAMME             IPHAS
+PROPOSAL REF          C6/P14
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Leisy
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:00
+EVENING TWILIGHT (UT) 20:11
+MORNING TWILIGHT (UT) 05:49
+SUNRISE (UT)          07:00
+%ILLUM. LUNAR DISK    89
+DARK TIME (HRS)       09:38
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          04:31
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.6   77    10.3  12.2  321   768.6    5.6  11.9    13.3   77    66 
+20:00   4.8   93    19.5  23.3  344   768.7    4.8  11.6    13.5   93    69 
+21:00   5.2   68    23.5  27.4  339   768.9    5.2  11.5    13.3   68    69 
+22:00   5.5   74    12.1  17.6    6   769.4    5.5  11.7    13.5   74    69 
+23:00   5.1   38    22.3  24.5    8   769.7    5.1  12.5    13.3   38    66 
+00:00   4.9   20    28.0  30.6   17   769.7    4.9  12.7    13.5   20    65 
+01:00   5.3   69    16.0  18.1   38   769.5    5.3  12.9    13.3   69    64 
+02:00   4.0   37    32.6  35.4    1   769.0    4.0  12.6    13.5   37    63 
+03:00   3.6   81    35.3  37.3  349   768.5    3.6  11.8    13.5   81    65 
+04:00   3.5   20    26.6  32.0    4   768.7    3.5  11.6    13.4   20    64 
+
+TIME LOST weather           09:40
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+No observing again tonight - weather much the same as last night (wet, mostly cloudy)
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 366708 Bias             12:00:00.00 +19:59:59.9 A        13:25 1.056  WFC    0.0  180  r                                

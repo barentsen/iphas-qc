@@ -1,0 +1,103 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 09 03 06:42
+
+TELESCOPE             INT
+DATE                  20070902
+OBSERVER/S            F. McGroarty
+PROGRAMME             Influence of Parsec-Scale Outflows from Young Stars on Molecular Clouds
+PROPOSAL REF          P10
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 14.95
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:41
+EVENING TWILIGHT (UT) 20:54
+MORNING TWILIGHT (UT) 05:29
+SUNRISE (UT)          06:43
+%ILLUM. LUNAR DISK    63
+DARK TIME (HRS)       08:35
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         22:46
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00     #    #       #     #    #       #      #  19.3    20.6    #    26 
+21:00     #    #       #     #    #       #      #  17.0    20.6    #    28 
+22:00     #    #       #     #    #       #      #  15.0    19.9    #    26 
+23:00     #    #       #     #    #       #      #  13.9    19.4    #    36 
+00:00     #    #       #     #    #       #      #  15.4    18.7    #    42 
+01:00     #    #       #     #    #       #      #  15.9    18.6    #    52 
+03:00     #    #       #     #    #       #      #  16.0    18.7    #    62 
+04:00     #    #       #     #    #       #      #  15.9    18.6    #    67 
+05:00     #    #       #     #    #       #      #  15.8    18.9    #    66 
+06:00     #    #       #     #    #       #      #  15.5    18.5    #    69 
+
+TIME LOST weather           00:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Slight cloud cover, especially at start and end of night. , see was ~ 1.5 to 2.5 arcsec
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Approx. 30 minutes lost due to guiding star signal being lost. Changed to brighter guiding star.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 581061 Arc               0:00:00.00 +00:00:00.0  1950.00 13:26 1.000  IDS   10.0    0  Clear+Clear   1.0  48.6 6303.0   
+ 581062 Bias              0:00:00.00 +00:00:00.0  1950.00 18:36 1.000  IDS    0.0    0  Clear+Clear   1.0  47.0 6699.7   
+ 581063 Bias              0:00:00.00 +00:00:00.0  1950.00 18:36 1.000  IDS    0.0    0  Clear+Clear   1.0  47.0 6699.7   
+ 581064 Bias              0:00:00.00 +00:00:00.0  1950.00 18:36 1.000  IDS    0.0    0  Clear+Clear   1.0  47.0 6699.7   
+ 581065 Bias              0:00:00.00 +00:00:00.0  1950.00 18:36 1.000  IDS    0.0    0  Clear+Clear   1.0  47.0 6699.7   
+ 581066 Bias              0:00:00.00 +00:00:00.0  1950.00 18:37 1.000  IDS    0.0    0  Clear+Clear   1.0  47.0 6699.7   
+ 581067 Flat              0:00:00.00 +00:00:00.0  1950.00 18:41 1.000  IDS    4.0    0  Clear+Clear   1.0  47.0 6699.7   
+ 581068 Flat              0:00:00.00 +00:00:00.0  1950.00 18:41 1.000  IDS    4.0    0  Clear+Clear   1.0  47.0 6699.7   
+ 581069 Flat              0:00:00.00 +00:00:00.0  1950.00 18:42 1.000  IDS    4.0    0  Clear+Clear   1.0  47.0 6699.7   
+ 581070 Flat              0:00:00.00 +00:00:00.0  1950.00 18:42 1.000  IDS    4.0    0  Clear+Clear   1.0  47.0 6699.7   
+ 581071 Flat              0:00:00.00 +00:00:00.0  1950.00 18:43 1.000  IDS    4.0    0  Clear+Clear   1.0  47.0 6699.7   
+ 581072 Arc               0:00:00.00 +00:00:00.0  1950.00 18:44 1.000  IDS    8.0    0  Clear+Clear   1.0  47.0 6699.7   
+ 581073 Arc               0:00:00.00 +00:00:00.0  1950.00 18:44 1.000  IDS    8.0    0  Clear+Clear   1.0  47.0 6699.7   
+ 581074 Arc               0:00:00.00 +00:00:00.0  1950.00 18:45 1.000  IDS    8.0    0  Clear+Clear   1.0  47.0 6699.7   
+ 581075 Standard_Arc_Bef 17:41:28.69 +05:26:10.3  1950.00 20:31 1.094  IDS    8.0   90  Clear+Clear   1.0  47.0 6699.7   
+ 581076 Standard         17:41:28.70 +05:26:10.3  1950.00 20:34 1.098  IDS  600.0   90  Clear+Clear   1.0  47.0 6699.7   
+ 581077 Standard_Arc_Aft 17:41:28.71 +05:26:10.3  1950.00 20:49 1.105  IDS    8.0   90  Clear+Clear   1.0  47.0 6699.7   
+ 581078 HH803_StarB_Arc_ 19:42:47.74 +23:22:24.9  2000.00 21:05 1.035  IDS    8.0  176  Clear+Clear   1.0  47.0 6699.7   
+ 581079 HH803_StarB      19:42:47.75 +23:22:25.0  2000.00 21:07 1.017  IDS 2700.0  176  Clear+Clear   1.0  47.0 6699.7   
+ 581080 HH803_StarB_Arc_ 19:42:47.75 +23:22:24.9  2000.00 21:54 1.006  IDS    8.0  176  Clear+Clear   1.0  47.0 6699.7   
+ 581081 HH803_StarB_Arc_ 19:42:47.12 +23:22:27.8  2000.00 22:03 1.005  IDS    8.0  282  Clear+Clear   1.0  47.0 6699.7   
+ 581082 HH803_StarB      19:42:47.12 +23:22:27.9  2000.00 22:04 1.009  IDS 2700.0  282  Clear+Clear   1.0  47.0 6699.7   
+ 581083 HH803_StarB_Arc_ 19:42:47.11 +23:22:27.9  2000.00 22:51 1.019  IDS    8.0  282  Clear+Clear   1.0  47.0 6699.7   
+ 581084 HH803_StarB_Arc_ 19:42:47.11 +23:22:26.9  2000.00 22:59 1.025  IDS    8.0  266  Clear+Clear   1.0  47.0 6699.7   
+ 581085 HH803_StarB      19:42:47.15 +23:22:26.4  2000.00 23:04 1.056  IDS 2700.0  266  Clear+Clear   1.0  47.0 6699.7   
+ 581086 HH803_StarB_Arc_ 19:42:47.12 +23:22:26.4  2000.00 23:51 1.094  IDS    8.0  266  Clear+Clear   1.0  47.0 6699.7   
+ 581087 Standard_Arc_Bef 21:48:56.55 +28:37:45.5  1950.00 00:12 1.000  IDS    8.0  266  Clear+Clear   1.0  47.0 6699.7   
+ 581088 Standard         21:48:56.54 +28:37:45.8  1950.00 00:14 1.000  IDS  600.0  266  Clear+Clear   1.0  47.0 6699.7   
+ 581089 Standard_Arc_Aft 21:48:56.55 +28:37:45.5  1950.00 00:25 1.001  IDS    8.0  266  Clear+Clear   1.0  47.0 6699.7   
+ 581090 LkHa233          22:34:41.48 +40:40:12.8  2000.00 00:41 1.024  IDS    8.0   65  Clear+Clear   1.0  47.0 6699.7   
+ 581091 LkHa233          22:34:41.46 +40:40:12.9  2000.00 00:47 1.024  IDS 2700.0   65  Clear+Clear   1.0  47.0 6699.7   
+ 581092 LkHa233_Arc_Afte 22:34:41.45 +40:40:12.9  2000.00 01:35 1.031  IDS    8.0   65  Clear+Clear   1.0  47.0 6699.7   
+ 581093 LkHa233_StarD_Ar 22:35:01.71 +40:43:25.2  2000.00 02:28 1.077  IDS    8.0    1  Clear+Clear   1.0  47.0 6699.7   
+ 581094 LkHa233_StarD    22:35:01.64 +40:43:24.8  2000.00 02:30 1.114  IDS 2700.0    1  Clear+Clear   1.0  47.0 6699.7   
+ 581095 LkHa233_StarD_Ar 22:35:01.71 +40:43:25.0  2000.00 03:17 1.160  IDS    8.0    1  Clear+Clear   1.0  47.0 6699.7   
+ 581096 RWAur_Arc_Before  5:07:50.53 +30:24:24.9  2000.00 03:33 1.593  IDS    8.0  130  Clear+Clear   1.0  47.0 6699.7   
+ 581099 RWAur             5:07:50.60 +30:24:24.8  2000.00 04:04 1.306  IDS 2700.0  130  Clear+Clear   0.9  47.0 6699.7   
+ 581100 RWAur_Arc_After   5:07:50.59 +30:24:24.7  2000.00 04:51 1.215  IDS    8.0  130  Clear+Clear   0.9  47.0 6699.7   
+ 581101 Bias              5:07:34.67 +30:26:30.1  2000.00 05:26 1.125  IDS    0.0   89  Clear+Clear   0.9  47.0 6699.7   
+ 581102 Bias              5:07:34.66 +30:26:30.3  2000.00 05:26 1.124  IDS    0.0   89  Clear+Clear   0.9  47.0 6699.7   
+ 581103 Bias              5:07:34.66 +30:26:30.1  2000.00 05:26 1.124  IDS    0.0   89  Clear+Clear   0.9  47.0 6699.7   
+ 581104 Bias              5:07:34.67 +30:26:30.1  2000.00 05:26 1.123  IDS    0.0   89  Clear+Clear   0.9  47.0 6699.7   
+ 581105 Bias              5:07:34.66 +30:26:30.2  2000.00 05:26 1.123  IDS    0.0   89  Clear+Clear   0.9  47.0 6699.7   
+ 581106 Flat              5:07:34.66 +30:26:30.1  2000.00 05:28 1.120  IDS    4.0   89  Clear+Clear   0.9  47.0 6699.7   
+ 581107 Flat              5:07:34.67 +30:26:30.2  2000.00 05:28 1.118  IDS    4.0   89  Clear+Clear   1.0  47.0 6699.7   
+ 581108 Flat              5:07:34.67 +30:26:30.2  2000.00 05:29 1.117  IDS    4.0   89  Clear+Clear   1.0  47.0 6699.7   
+ 581109 Flat              5:07:34.67 +30:26:30.2  2000.00 05:30 1.116  IDS    4.0   89  Clear+Clear   1.0  47.0 6699.7   
+ 581110 Flat              5:07:34.67 +30:26:30.2  2000.00 05:30 1.115  IDS    4.0   89  Clear+Clear   1.0  47.0 6699.7   
+ 581111 Arc               0:00:00.00 +00:00:00.0  2000.00 05:34 1.000  IDS    4.0   76  Clear+Clear   1.0  47.0 6699.7   
+ 581112 Arc               0:00:00.00 +00:00:00.0  2000.00 05:34 1.000  IDS    4.0   76  Clear+Clear   1.0  47.0 6699.7   
+ 581113 Arc               0:00:00.00 +00:00:00.0  2000.00 05:34 1.000  IDS    4.0   76  Clear+Clear   1.0  47.0 6699.7   
+ 581114 Arc               0:00:00.00 +00:00:00.0  2000.00 05:35 1.000  IDS    4.0   76  Clear+Clear   1.0  47.0 6699.7   
+ 581115 Arc               0:00:00.00 +00:00:00.0  2000.00 05:36 1.000  IDS    4.0   76  Clear+Clear   1.0  47.0 6699.7   

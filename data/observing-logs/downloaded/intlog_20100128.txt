@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 01 29 03:57
+
+TELESCOPE             INT
+DATE                  20100128
+OBSERVER/S            Brigitta Sipocz
+PROGRAMME             WTS transit candidate follow-up
+PROPOSAL REF          INTP6
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    J. McCormac
+
+TEL STATION / FOCUS   Prime  / 43.8
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:54
+EVENING TWILIGHT (UT) 20:08
+MORNING TWILIGHT (UT) 06:40
+SUNRISE (UT)          07:54
+%ILLUM. LUNAR DISK    98
+DARK TIME (HRS)       10:32
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          07:23
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -1.0  100     7.6  10.1  177   763.2   -1.0    8.      8.  100     57
+20:00   1.3   18    27.8  32.6  279   762.3    1.3    7.      8.   18     32
+21:00   1.5   17    15.5  26.9  275   763.4    1.5    6.      8.   17     24
+22:00   1.8   19    21.2  24.6  259   764.0    1.8    5.      8.   19     22
+23:00   1.6   19    20.1  26.4  274   763.7    1.6    5.      7.   19     22
+00:00   1.3   24    25.8  33.1  262   764.2    1.3    5.      7.   24     26
+01:00   2.2   22    33.9  37.2  235   763.8    2.2    5.      8.   22     23
+02:00   1.7   63    34.5  42.0  248   763.6    1.7    5.      7.   63     52
+03:00   1.5   87    25.6  35.2  293   764.0    1.5    5.      7.   87     66
+
+TIME LOST weather           11:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Completely lost night, at the begining high humidiy, later cloudy sky, at 4am rain
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Night lost due to bad weather conditions
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

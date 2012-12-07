@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 10 27 08:26
+
+TELESCOPE             INT
+DATE                  20111026
+OBSERVER/S            Vilardell
+PROGRAMME             Extending a variability survey in the Andromeda Galaxy
+PROPOSAL REF          C77                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Dora Fohring
+
+TEL STATION / FOCUS   Prime  / 43.5
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:39
+EVENING TWILIGHT (UT) 19:52
+MORNING TWILIGHT (UT) 06:00
+SUNRISE (UT)          07:12
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       10:08
+TWILIGHT TIME (HRS)   02:25
+MOONRISE (UT)         No Moon all night
+MOONSET (UT)          No Moon all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   8.2   66    22.6  27.9  275   769.1    8.2   13.     13.   66     54
+20:00   7.4   68    30.6  36.8  296   769.2    7.4   10.     12.   68     63
+21:00   8.7   26    31.7  34.5  264   769.9    8.7   10.     12.   26     39
+22:00   8.6   17    24.6  26.3  263   770.4    8.6   10.     12.   17     21
+23:00   8.6   28    19.1  22.8  302   771.2    8.6   10.     12.   28     31
+00:00  10.2   11    11.6  15.8  299   771.5   10.2    9.     12.   11     28
+01:00   6.9   65    12.1  14.4  276   771.6    6.9    8.     12.   65     65
+02:00   8.9   28    11.1  13.4  198   771.5    8.9    8.     12.   28     43
+03:00   8.6   39    17.3  21.6  283   771.3    8.6    9.     12.   39     40
+04:00   8.5   52    13.7  18.2  286   771.3    8.5    9.     12.   52     58
+05:00  10.5   32     7.8   9.6  184   771.4   10.5   10.     12.   32     39
+06:00  10.3   34     9.7  12.6  207   771.4   10.3   10.     12.   34     40
+07:00  10.2   45     8.9  11.2  265   771.5   10.2   10.     12.   45     47
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

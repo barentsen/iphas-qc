@@ -1,0 +1,57 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 02 01 23:52
+
+TELESCOPE             INT
+DATE                  20070130
+OBSERVER/S            PFLM + DW
+PROGRAMME             Testing models for the progenitors of Type Ia supernovae
+PROPOSAL REF          P28                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    MH
+
+TEL STATION / FOCUS   Cassegrain  / 14.95
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:56
+EVENING TWILIGHT (UT) 20:09
+MORNING TWILIGHT (UT) 06:40
+SUNRISE (UT)          07:53
+%ILLUM. LUNAR DISK    95
+DARK TIME (HRS)       10:31
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          07:02
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -2.4   96    25.5  27.8  100   768.0   -2.4   7.3     7.9   96    53 
+20:00  -1.9   96    29.3  28.5  100   768.3   -1.9   7.2     8.1   96    55 
+
+TIME LOST weather           10:20
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clouds all the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 548124 Bias              0:00:00.00 +00:00:00.0 2007.081 14:10 1.138  IDS    0.0   -1  Clear+Clear   1.2  31.8 5120.8   
+ 548125 Bias              0:00:00.00 +00:00:00.0 2007.081 14:21 1.113  IDS    0.0    1  Clear+Clear   1.2  31.8 5120.8   
+ 548126 Arc              19:59:59.99 +19:59:59.9 2007.081 14:24 1.119  IDS   10.0    0  Clear         1.2  31.8 5120.8   
+ 548127 Flat field        0:00:00.00 +00:00:00.0 2007.081 18:48 1.000  IDS   30.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548128 Flat field        0:00:00.00 +00:00:00.0 2007.081 18:49 1.000  IDS   30.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548129 Flat field        0:00:00.00 +00:00:00.0 2007.081 18:50 1.000  IDS   30.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548130 Flat field        0:00:00.00 +00:00:00.0 2007.081 18:50 1.000  IDS   30.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548131 Flat field        0:00:00.00 +00:00:00.0 2007.081 18:51 1.000  IDS   30.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548132 Flat field        0:00:00.00 +00:00:00.0 2007.081 18:52 1.000  IDS   30.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548133 Flat field        0:00:00.00 +00:00:00.0 2007.081 18:53 1.000  IDS   30.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548134 Flat field        0:00:00.00 +00:00:00.0 2007.081 18:54 1.000  IDS   30.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548135 Flat field        0:00:00.00 +00:00:00.0 2007.081 18:55 1.000  IDS   30.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548136 Flat field        0:00:00.00 +00:00:00.0 2007.081 18:56 1.000  IDS   30.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548137 Arc              15:36:33.39 +27:10:29.2 2000.00  04:36 1.447  IDS   10.0  285  Clear+Clear   1.2  31.8 5120.8   
+ 548138 J1536+2710       15:36:33.38 +27:10:29.2 2000.00  04:37 1.437  IDS   90.0  285  Clear+Clear   1.2  31.8 5120.8   

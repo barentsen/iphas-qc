@@ -1,0 +1,55 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 08 19 03:53
+
+TELESCOPE             INT
+DATE                  20050818
+OBSERVER/S            I. Todd
+PROGRAMME             P8
+PROPOSAL REF          P8
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    I Skillen
+
+TEL STATION / FOCUS   Prime  / 43.80
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:56
+EVENING TWILIGHT (UT) 21:13
+MORNING TWILIGHT (UT) 05:19
+SUNRISE (UT)          06:35
+%ILLUM. LUNAR DISK    99
+DARK TIME (HRS)       08:06
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          06:16
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  11.8  100    21.7  28.0  138   771.8   11.8  15.6    16.4  100    88 
+21:00  11.2  100    19.6  21.5  147   772.6   11.2  15.3    16.5  100    89 
+22:00  11.7  100    18.3  21.3  146   772.9   11.7  15.0    16.3  100    91 
+23:00  10.6  100    18.5  21.7  176   773.4   10.6  15.7    16.5  100    83 
+00:00  11.1  100    19.7  23.0  229   773.7   11.1  15.5    16.4  100    82 
+01:00  11.4   98    13.4  16.1  187   773.9   11.4  15.6    16.4   98    77 
+02:00  12.0   97    16.4  18.2  212   773.5   12.0  15.6    16.5   97    79 
+03:00  11.4   96    12.0  15.7  190   773.0   11.4  15.5    16.4   96    79 
+
+TIME LOST weather           8:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloud and humidity >90% prevented observing
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 467988 Bias             10:00:00.00 +20:00:00.0 2005.628 13:57 1.021  WFC    0.0  180  V                                
+ 467989 Bias              0:00:00.00 +00:00:00.0 2005.629 19:32 4.750  WFC    0.0  180  V                                
+ 467990 Bias              0:00:00.00 +00:00:00.0 2005.629 19:33 4.750  WFC    0.0  180  V                                
+ 467991 Bias              0:00:00.00 +00:00:00.0 2005.629 20:27 1.000  WFC    0.0  180  V                                
+ 467992 Bias              0:00:00.00 +00:00:00.0 2005.629 20:28 1.000  WFC    0.0  180  V                                
+ 467993 Bias              0:00:00.00 +00:00:00.0 2005.629 20:28 1.000  WFC    0.0  180  V                                
+ 467994 Flat field       15:01:59.99 +29:55:00.0 2000.00  20:38 1.144  WFC    2.0  180  V                                Clound and hum >90% prevented observing

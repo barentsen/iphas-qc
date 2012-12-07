@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 05 09 06:18
+
+TELESCOPE             INT
+DATE                  20120508
+OBSERVER/S            Faedi
+PROGRAMME             P12
+PROPOSAL REF          P12
+TELESCOPE OPERATOR    FF
+SUPPORT ASTRONOMER    D. Fohring
+
+TEL STATION / FOCUS    / 15.91
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:59
+EVENING TWILIGHT (UT) 21:18
+MORNING TWILIGHT (UT) 04:57
+SUNRISE (UT)          06:17
+%ILLUM. LUNAR DISK    88
+DARK TIME (HRS)       07:39
+TWILIGHT TIME (HRS)   02:39
+MOONRISE (UT)         22:35
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  10.6   29     5.6   9.4  258   770.6   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   8.9   16     6.6  11.3  252   770.7   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   9.0    8    10.0  14.5  276   771.1   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   9.1    7     7.9  10.3  277   771.5   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   8.6    8    13.8  16.6  282   771.3   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   8.8    7    18.5  23.7  288   770.9   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   8.6    9    12.9  15.0  285   770.4   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   8.7   18    15.6  16.3  270   769.9   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   8.8   70    15.5  16.0  261   769.5   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   8.5   75    18.8  19.7  275   769.3   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Humidity >75% but no problem
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

@@ -1,0 +1,55 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 10 06 05:03
+
+TELESCOPE             INT
+DATE                  20031005
+OBSERVER/S            Drew/Hopewell
+PROGRAMME             IPHAS
+PROPOSAL REF          C6/P14
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Leisy
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:01
+EVENING TWILIGHT (UT) 20:13
+MORNING TWILIGHT (UT) 05:48
+SUNRISE (UT)          07:00
+%ILLUM. LUNAR DISK    82
+DARK TIME (HRS)       09:35
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:32
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   4.4  100    33.7  38.4  352   768.7    4.4  10.8    13.7  100    63 
+21:00   3.6  100    42.6  48.9   20   768.7    3.6  10.5    13.7  100    66 
+22:00   4.2  100    40.5  43.3    4   769.5    4.2  10.5    13.6  100    68 
+23:00   3.8  100    41.0  43.4    5   769.8    3.8  10.3    13.6  100    69 
+00:00   3.9  100    37.5  39.3  336   769.8    3.9   9.9    13.4  100    72 
+01:00   3.6  100    36.7  39.9    3   769.6    3.6   9.8    13.5  100    71 
+02:00   4.3  100    25.9  27.6  337   769.4    4.3  10.1    13.2  100    69 
+03:00   3.9  100    24.2  29.1    4   769.0    3.9  10.0    13.4  100    71 
+04:00   3.6  100    32.6  34.7  344   768.3    3.6  10.1    13.4  100    70 
+05:00   3.4  100    39.3  41.5  348   767.9    3.4   9.3    13.3  100    71 
+
+TIME LOST weather           09:40
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% humid
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+No observations - constantly at 100 percent humidity (and cloudy)
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 366703 Bias              0:00:00.00 +00:00:00.0 A        13:05 1.133  WFC    0.0  180  [OIII]5007                       
+ 366704 CLIVE            13:59:59.99 +11:59:59.9 A        13:11 1.083  WFC   12.1  180  r                                
+ 366705 CLIVE             0:00:00.00 +00:00:00.0 A        13:14 1.000  WFC    4.1  180  r                                
+ 366706 CLIVE             0:00:00.00 +00:00:00.0 A        13:16 1.000  WFC    4.1  180  r                                
+ 366707 bias              0:00:00.00 +00:00:00.0 A        19:17 1.000  WFC    0.0  180  r                                

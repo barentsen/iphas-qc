@@ -1,0 +1,101 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 01 24 04:47
+
+TELESCOPE             INT
+DATE                  20060123
+OBSERVER/S            Isabel Perez
+PROGRAMME             ITP4
+PROPOSAL REF          ITP4        
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Andrew Cardwell
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:50
+EVENING TWILIGHT (UT) 20:05
+MORNING TWILIGHT (UT) 06:42
+SUNRISE (UT)          07:56
+%ILLUM. LUNAR DISK    36
+DARK TIME (HRS)       10:37
+TWILIGHT TIME (HRS)   02:29
+MOONRISE (UT)         02:52
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -1.1   99    41.0  51.3  132   761.7   -1.1   4.5     4.8   99    75 
+20:00  -0.4  100    33.9  38.5  125   763.1   -0.4   4.3     4.7  100    82 
+21:00  -1.2   68    27.5  29.1  138   763.5   -1.2   4.1     4.7   68    58 
+22:00  -0.1   48    16.3  21.1  156   764.2   -0.1   1.8     3.5   48    38 
+23:00   1.1   47    17.9  20.3  111   764.2    1.1   2.7     3.5   47    44 
+00:00  -0.7   45    19.5  20.3  169   764.0   -0.7   1.8     2.8   45    38 
+01:00   0.9   42    13.2  16.0  131   763.7    0.9   2.7     3.4   42    35 
+02:00   0.1   96     9.1  12.1  228   763.5    0.1   2.7     3.7   96    88 
+03:00  -0.2   98     5.4   6.8  133   763.2   -0.2   3.0     3.7   98    90 
+04:00  -0.1   99     4.2   5.3  254   762.7   -0.1   3.0     3.8   99    92 
+
+TIME LOST weather           09:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+very bad seeing (around 3 arcsec) the few hours we observed 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+From around 23:00 no observing could be carried out due to clouds and at 01:00 the dome had to be closed due to high humidity
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 490795 Bias             20:00:00.00 +19:59:59.9 2006.061 13:46 1.029  WFC    0.0  180  V                                
+ 490796 Bias frame        0:00:00.00 +00:00:00.0 2006.062 16:46 1.000  WFC    0.0  180  [SII]6725                        
+ 490797 Bias frame        0:00:00.00 +00:00:00.0 2006.062 16:47 1.000  WFC    0.0  180  [SII]6725                        
+ 490798 Bias frame        0:00:00.00 +00:00:00.0 2006.062 16:47 1.000  WFC    0.0  180  [SII]6725                        
+ 490799 Bias frame        0:00:00.00 +00:00:00.0 2006.062 16:48 1.000  WFC    0.0  180  [SII]6725                        
+ 490800 Bias frame        0:00:00.00 +00:00:00.0 2006.062 16:48 1.000  WFC    0.0  180  [SII]6725                        
+ 490801 Bias frame        0:00:00.00 +00:00:00.0 2006.062 16:49 1.000  WFC    0.0  180  [SII]6725                        
+ 490802 Bias frame        0:00:00.00 +00:00:00.0 2006.062 16:50 1.000  WFC    0.0  180  [SII]6725                        
+ 490803 Bias frame        0:00:00.00 +00:00:00.0 2006.062 16:50 1.000  WFC    0.0  180  [SII]6725                        
+ 490804 Bias frame        0:00:00.00 +00:00:00.0 2006.062 16:51 1.000  WFC    0.0  180  [SII]6725                        
+ 490805 Bias frame        0:00:00.00 +00:00:00.0 2006.062 16:51 1.000  WFC    0.0  180  [SII]6725                        
+ 490806 SP0501_r test po  5:05:30.59 +52:49:55.9 2000.00  21:16 1.110  WFC   15.1  180  r                                dome on 'local' no light through
+ 490807 SP0501_r test po  0:00:00.00 +00:00:00.0 2000.00  21:20 1.000  WFC    8.6  180  r                                dome on 'local' no light through
+ 490808 SP0501_r test po  5:05:30.60 +52:49:55.9 2000.00  21:25 1.105  WFC   14.5  180  r                                
+ 490809 Focus run         2:33:40.00 +05:17:38.0 2000.00  21:35 1.248  WFC   20.1  180  r                                
+ 490810 ID0028_r          2:43:10.56 -00:15:46.3 2000.00  21:46 1.338  WFC  240.0  180  r                                seeing around 3.5 arcsec!!
+ 490811 ID0028_r          2:43:10.55 -00:15:46.3 2000.00  21:54 1.372  WFC  240.0  180  r                                
+ 490812 ID0028_r          2:43:10.55 -00:15:46.3 2000.00  22:01 1.399  WFC  239.9  180  r                                
+ 490813 ID0028_Halpha     2:43:10.56 -00:15:46.3 2000.00  22:12 1.470  WFC  749.6  180  Halpha                           
+ 490814 ID0028_Halpha     2:43:10.56 -00:15:46.3 2000.00  22:26 1.554  WFC  749.6  180  Halpha                           
+ 490815 ID0028_Halpha     2:43:10.56 -00:15:46.1 2000.00  22:41 1.654  WFC  749.1  180  Halpha                           
+ 490816 SP0501_r          5:05:30.59 +52:49:56.1 2000.00  22:59 1.114  WFC   15.1  180  r                                
+ 490817 SP0501_r          5:05:30.59 +52:49:56.1 2000.00  23:02 1.116  WFC   15.1  180  r                                
+ 490818 SP0501_r          5:05:30.59 +52:49:55.7 2000.00  23:04 1.117  WFC   15.1  180  r                                
+ 490819 SP0501_Halpha     5:05:30.59 +52:49:56.0 2000.00  23:10 1.122  WFC   75.1  180  Halpha                           
+ 490820 SP0501_Halpha     5:05:30.60 +52:49:56.0 2000.00  23:14 1.125  WFC   75.0  180  Halpha                           
+ 490821 SP0501_Halpha     5:05:30.60 +52:49:55.9 2000.00  23:18 1.129  WFC   75.0  180  Halpha                           
+ 490822 SP0804_Halpha     8:10:49.19 +74:57:56.9 2000.00  23:23 1.495  WFC   30.1  180  Halpha                           clouds!! no stars
+ 490823 SP0804_Halpha     8:10:49.20 +74:57:56.7 2000.00  23:25 1.493  WFC   30.1  180  Halpha                           same as before
+ 490824 SP0501_r          5:05:30.59 +52:49:56.0 2000.00  23:44 1.158  WFC   15.1  180  r                                
+ 490825 SP0501_r          5:05:30.60 +52:49:55.6 2000.00  23:46 1.160  WFC   15.1  180  r                                
+ 490826 SP0501_r          5:05:30.59 +52:49:56.4 2000.00  23:48 1.163  WFC   14.6  180  r                                
+ 490827 SP0501_Halpha     5:05:30.60 +52:49:55.8 2000.00  23:50 1.166  WFC   74.5  180  r                                wrong filter
+ 490828 SP0501_Halpha     5:05:30.60 +52:49:55.8 2000.00  23:53 1.171  WFC   74.5  180  r                                wrong filter
+ 490829 SP0501_Halpha     5:05:30.59 +52:49:56.4 2000.00  23:57 1.177  WFC   75.0  180  r                                wrong filter
+ 490830 SP0501_Halpha     5:05:30.59 +52:49:56.3 2000.00  00:04 1.188  WFC   75.0  180  Halpha                           
+ 490831 SP0501_Halpha     5:05:30.60 +52:49:56.0 2000.00  00:07 1.192  WFC   75.0  180  Halpha                           
+ 490832 SP0501_Halpha     5:05:30.60 +52:49:56.0 2000.00  00:09 1.197  WFC   75.0  180  Halpha                           
+ 490833 ID1067_halpha    10:01:55.09 +63:53:32.8 2000.00  00:17 1.368  WFC  749.0  180  Halpha                           
+ 490834 ID1067_halpha    10:01:55.08 +63:53:32.9 2000.00  00:35 1.344  WFC   51.7  180  Halpha                           
+ 490835 ID1067_halpha    10:01:55.08 +63:53:32.9 2000.00  00:38 1.336  WFC  299.9  180  Halpha                           
+ 490836 ID1067_halpha    10:01:55.09 +63:53:32.8 2000.00  00:44 1.326  WFC  299.9  180  Halpha                           
+ 490837 ID1067_halpha    10:01:55.09 +63:53:32.8 2000.00  00:50 1.317  WFC  299.9  180  Halpha                           
+ 490838 ID1067_halpha    10:01:55.09 +63:53:33.1 2000.00  00:56 1.307  WFC  299.9  180  Halpha                           
+ 490839 ID1067_halpha    10:01:55.09 +63:53:32.9 2000.00  01:02 1.299  WFC  299.9  180  Halpha                           
+ 490840 ID1067_halpha    10:01:55.09 +63:53:32.8 2000.00  01:08 1.291  WFC  299.9  180  Halpha                           
+ 490841 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:44 4.342  WFC    0.0  180  [SII]6725                        
+ 490842 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:44 4.342  WFC    0.0  180  [SII]6725                        
+ 490843 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:45 4.342  WFC    0.0  180  [SII]6725                        
+ 490844 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:45 4.342  WFC    0.0  180  [SII]6725                        
+ 490845 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:46 4.342  WFC    0.0  180  [SII]6725                        

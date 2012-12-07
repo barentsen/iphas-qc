@@ -1,0 +1,54 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 10 16 04:40
+
+TELESCOPE             INT
+DATE                  20101015
+OBSERVER/S            Jesus Corral-Santana
+PROGRAMME             UVEX
+PROPOSAL REF          N4
+TELESCOPE OPERATOR    n/a
+SUPPORT ASTRONOMER    Annemieke
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:50
+EVENING TWILIGHT (UT) 20:01
+MORNING TWILIGHT (UT) 05:54
+SUNRISE (UT)          07:06
+%ILLUM. LUNAR DISK    61
+DARK TIME (HRS)       09:53
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          01:33
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   6.6   99    23.6  31.3  164   766.3    6.6   11.     12.   99     77
+20:00   5.2   99    15.8  27.0  194   766.4    5.2   11.     12.   99     75
+21:00   4.6   99    30.6  34.1  196   766.5    4.6   10.     12.   99     73
+22:00   4.5   99    31.4  38.1  213   766.9    4.5   10.     12.   99     73
+23:00   4.2   98    28.6  35.1  132   767.2    4.2   10.     12.   98     70
+00:00   7.1   42    16.2  21.0  185   767.4    7.1   10.     12.   42     57
+01:00   8.1   22    22.4  25.5  226   767.1    8.1    8.     12.   22     33
+02:00   7.7   18    25.3  31.7  225   766.8    7.7    8.     11.   18     25
+03:00   7.7   20    23.1  22.8  290   766.6    7.7    7.     11.   20     31
+04:00   5.6   91    17.4  17.8  305   766.2    5.6    7.     11.   91     80
+
+TIME LOST weather           07:00
+TIME LOST Technical         03:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humidity the first part. Then dropped for 2h and increased again but changing between 70-90%. Closing to 2h from morning twilight
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+TCS lpas2 disconnected. When reset focus out of value. Followed new procedure but we couldn't fix focus for hours. 
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 761657 Bias             12:39:59.99 +40:00:00.0  2010.79 13:04 1.035  WFC    0.0  180  Ha 6657                          
+ 761658 Flat field        0:00:00.00 +00:00:00.0  2010.79 13:10 1.197  WFC    6.1  180  Ha 6657                          
+ 761659 Bias             21:29:33.99 -08:38:29.9  2000.00 21:04 1.257  WFC    0.0  180  i                                Humidity high
+ 761660 test              1:56:56.38 -00:14:27.7  2000.00 02:29 1.180  WFC    0.0  180  HeI 5870                         TCS and focus problem solved. Humidity high again

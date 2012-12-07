@@ -1,0 +1,100 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 04 20 04:08
+
+TELESCOPE             INT
+DATE                  20110419
+OBSERVER/S            James McCormac
+PROGRAMME             EBLM
+PROPOSAL REF          p12                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    lindsay magill
+
+TEL STATION / FOCUS   Cassegrain  / 14.60
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:46
+EVENING TWILIGHT (UT) 21:02
+MORNING TWILIGHT (UT) 05:19
+SUNRISE (UT)          06:34
+%ILLUM. LUNAR DISK    95
+DARK TIME (HRS)       08:17
+TWILIGHT TIME (HRS)   02:31
+MOONRISE (UT)         21:27
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   1.4   98     9.5  10.5  229   763.0   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   0.0   98    12.3  16.0  240   763.0   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   0.2   98    13.3  16.2  273   763.2   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   0.3   98     6.7   7.8  238   763.7   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   0.3   98     9.7  10.2  234   763.8   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   0.6   90    10.4  15.0  239   762.9   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   0.3   96    10.0  14.6  205   762.4   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   0.3   95    14.7  17.3  252   762.1   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           06:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+high humidity almost all night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 793448 Bias              0:00:00.00 +00:00:00.0  2000.00 11:00 1.000  WFC    0.0  180  g                                
+ 793449 Bias              1:10:00.00 +20:00:00.0  2011.30 13:31 1.040  IDS    0.0   -0  Clear+Clear   1.4  34.1 6500.8   
+ 793450 Arc               1:09:59.99 +20:00:00.0  2011.30 13:35 1.045  IDS    1.0   -0  Clear+Clear   1.4  34.1 6500.8   
+ 793451 Bias              0:00:00.00 +00:00:00.0  2011.30 18:41 1.000  IDS    0.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793452 Bias              0:00:00.00 +00:00:00.0  2011.30 18:41 1.000  IDS    0.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793453 Bias              0:00:00.00 +00:00:00.0  2011.30 18:42 1.000  IDS    0.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793454 Bias              0:00:00.00 +00:00:00.0  2011.30 18:42 1.000  IDS    0.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793455 Bias              0:00:00.00 +00:00:00.0  2011.30 18:42 1.000  IDS    0.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793456 Bias              0:00:00.00 +00:00:00.0  2011.30 18:42 1.000  IDS    0.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793457 Bias              0:00:00.00 +00:00:00.0  2011.30 18:42 1.000  IDS    0.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793458 Bias              0:00:00.00 +00:00:00.0  2011.30 18:42 1.000  IDS    0.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793459 Bias              0:00:00.00 +00:00:00.0  2011.30 18:42 1.000  IDS    0.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793460 Bias              0:00:00.00 +00:00:00.0  2011.30 18:43 1.000  IDS    0.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793461 Bias              0:00:00.00 +00:00:00.0  2011.30 18:43 1.000  IDS    0.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793462 Flat field        0:00:00.00 +00:00:00.0  2011.30 18:44 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   CamShutterClosed
+ 793463 Flat field        0:00:00.00 +00:00:00.0  2011.30 18:44 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   CamShutterClosed
+ 793464 Flat field        0:00:00.00 +00:00:00.0  2011.30 18:44 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   CamShutterClosed
+ 793465 Flat field        0:00:00.00 +00:00:00.0  2011.30 18:44 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   CamShutterClosed
+ 793466 Flat field        0:00:00.00 +00:00:00.0  2011.30 18:45 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   CamShutterClosed
+ 793467 Flat field        0:00:00.00 +00:00:00.0  2011.30 18:45 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   CamShutterClosed
+ 793468 Flat field        0:00:00.00 +00:00:00.0  2011.30 18:45 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   CamShutterClosed
+ 793469 Flat field        0:00:00.00 +00:00:00.0  2011.30 18:46 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   CamShutterClosed
+ 793470 Flat field        0:00:00.00 +00:00:00.0  2011.30 18:46 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   CamShutterClosed
+ 793471 Flat field        0:00:00.00 +00:00:00.0  2011.30 18:46 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   CamShutterClosed
+ 793472 Flat field        0:00:00.00 +00:00:00.0  2011.30 18:46 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   CamShutterClosed
+ 793473 W flat 6500A      0:00:00.00 +00:00:00.0  2011.30 19:13 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   CamShutterClosed
+ 793474 W flat 6500A      0:00:00.00 +00:00:00.0  2011.30 19:15 1.000  IDS   30.0   -0  Clear+Clear   1.4  34.1 6499.4   CamShutterClosed
+ 793475 W flat 6500A      0:00:00.00 +00:00:00.0  2011.30 19:16 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793476 Flat field        0:00:00.00 +00:00:00.0  2011.30 19:20 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793477 Flat field        0:00:00.00 +00:00:00.0  2011.30 19:20 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793478 Flat field        0:00:00.00 +00:00:00.0  2011.30 19:20 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793479 Flat field        0:00:00.00 +00:00:00.0  2011.30 19:20 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793480 Flat field        0:00:00.00 +00:00:00.0  2011.30 19:21 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793481 Flat field        0:00:00.00 +00:00:00.0  2011.30 19:21 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793482 Flat field        0:00:00.00 +00:00:00.0  2011.30 19:21 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793483 Flat field        0:00:00.00 +00:00:00.0  2011.30 19:21 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793484 Flat field        0:00:00.00 +00:00:00.0  2011.30 19:22 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793485 Flat field        0:00:00.00 +00:00:00.0  2011.30 19:22 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793486 Flat field        0:00:00.00 +00:00:00.0  2011.30 19:22 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793487 Flat field        0:00:00.00 +00:00:00.0  2011.30 19:22 1.000  IDS    6.0   -0  Clear+Clear   1.4  34.1 6499.4   
+ 793488 HD71148           8:27:36.71 +45:38:43.5  2000.00 20:50 1.069  IDS    5.0  322  Clear+Clear   1.4  34.1 6499.4   
+ 793489 HD71148           8:27:36.71 +45:38:43.5  2000.00 20:51 1.069  IDS   10.0  322  Clear+Clear   1.4  34.1 6499.4   
+ 793490 HD71148           8:27:36.71 +45:38:43.5  2000.00 20:51 1.070  IDS    5.0  322  Clear+Clear   1.4  34.1 6499.4   
+ 793491 J091627.07        9:16:26.27 +36:58:25.5  2000.00 21:02 1.014  IDS    5.0  335  Clear+Clear   1.4  34.1 6499.4   
+ 793492 J091627.07        9:16:26.28 +36:58:25.7  2000.00 21:03 1.016  IDS  420.0  335  Clear+Clear   1.4  34.1 6499.4   
+ 793493 J091627.07        9:16:26.28 +36:58:25.6  2000.00 21:10 1.018  IDS    5.0  335  Clear+Clear   1.4  34.1 6499.4   
+ 793494 J142608.79       14:26:08.09 +16:54:56.9  2000.00 00:19 1.090  IDS    5.0  123  Clear+Clear   1.4  34.1 6499.4   
+ 793495 J142608.79       14:26:08.09 +16:54:56.9  2000.00 00:19 1.088  IDS   60.0  123  Clear+Clear   1.4  34.1 6499.4   
+ 793496 J142608.79       14:26:08.09 +16:54:56.9  2000.00 00:21 1.087  IDS    5.0  123  Clear+Clear   1.4  34.1 6499.4   
+ 793497 J164040.39       16:40:38.57 +49:31:25.4  2000.00 00:25 1.427  IDS    5.0   84  Clear+Clear   1.4  34.1 6499.4   
+ 793498 J164040.39       16:40:38.56 +49:31:25.5  2000.00 00:25 1.421  IDS  140.0   84  Clear+Clear   1.4  34.1 6499.4   
+ 793499 J164040.39       16:40:38.66 +49:31:25.6  2000.00 00:28 1.415  IDS    5.0   84  Clear+Clear   1.4  34.1 6499.4   

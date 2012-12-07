@@ -1,0 +1,83 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 11 02 11:18
+
+TELESCOPE             INT
+DATE                  20101023
+OBSERVER/S            R. Raddi, J. Fabregat
+PROGRAMME             Spectroscopic follow-up of IPHAS emission-line stars in the Perseus Arm
+PROPOSAL REF          P13
+TELESCOPE OPERATOR    n/a
+SUPPORT ASTRONOMER    Amy Tyndall
+
+TEL STATION / FOCUS    / 43.99
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:42
+EVENING TWILIGHT (UT) 19:54
+MORNING TWILIGHT (UT) 05:59
+SUNRISE (UT)          07:11
+%ILLUM. LUNAR DISK    99
+DARK TIME (HRS)       10:05
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.3   98    27.7  36.9   34   770.7   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   5.7   98    38.4  44.9   22   770.6   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   4.3   98    39.6  45.0   33   771.0   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   4.2   98    45.2  48.7   22   771.2   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   4.5   99    42.6  48.4   39   771.5   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   4.8   98    42.2  49.9   83   771.6   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   3.9   99    42.4  49.1   19   771.7   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   2.6   98    49.5  55.1   21   770.9   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   5.2   66    59.8  65.7   21   770.6   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   3.4   71    54.5  60.7   31   770.4   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   2.6   98    45.3  52.9   25   770.3   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   2.6   97    46.3  57.5   25   769.9   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   5.3   35    50.5  54.6   27   770.3   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Seeing varied all night, often above 2"
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Bright star seemed to affect autoguider, lost 1hr to bad data & restarting autoguider
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 762764 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 16:25 1.000  IDS    0.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762765 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 16:25 1.000  IDS    0.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762766 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 16:25 1.000  IDS    0.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762767 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 16:25 1.000  IDS    0.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762768 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 16:26 1.000  IDS    0.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762769 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 16:26 1.000  IDS    0.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762770 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 16:26 1.000  IDS    0.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762771 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 16:26 1.000  IDS    0.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762772 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 16:26 1.000  IDS    0.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762773 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 16:27 1.000  IDS    0.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762774 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 16:27 1.000  IDS    0.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762775 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 16:27 1.000  IDS    0.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762776 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 16:27 1.000  IDS    0.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762777 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 16:27 1.000  IDS    0.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762778 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 16:28 1.000  IDS    0.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762779 W lamp 2x1        0:00:00.00 +00:00:00.0  2000.00 16:29 1.000  IDS    2.0   -0  Clear+Clear   1.0  65.3 5497.1   compfilta 1
+ 762780 W lamp 2x1        0:00:00.00 +00:00:00.0  2000.00 16:29 1.000  IDS    2.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762781 W lamp 2x1        0:00:00.00 +00:00:00.0  2000.00 16:29 1.000  IDS    2.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762782 W lamp 2x1        0:00:00.00 +00:00:00.0  2000.00 16:30 1.000  IDS    2.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762783 W lamp 2x1        0:00:00.00 +00:00:00.0  2000.00 16:30 1.000  IDS    2.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762784 W lamp 2x1        0:00:00.00 +00:00:00.0  2000.00 16:30 1.000  IDS    2.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762785 W lamp 2x1        0:00:00.00 +00:00:00.0  2000.00 16:30 1.000  IDS    2.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762786 W lamp 2x1        0:00:00.00 +00:00:00.0  2000.00 16:31 1.000  IDS    2.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762787 W lamp 2x1        0:00:00.00 +00:00:00.0  2000.00 16:31 1.000  IDS    2.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762788 W lamp 2x1        0:00:00.00 +00:00:00.0  2000.00 16:31 1.000  IDS    2.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762789 W lamp 2x1        0:00:00.00 +00:00:00.0  2000.00 16:31 1.000  IDS    2.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762790 W lamp 2x1        0:00:00.00 +00:00:00.0  2000.00 16:32 1.000  IDS    2.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762791 W lamp 2x1        0:00:00.00 +00:00:00.0  2000.00 16:32 1.000  IDS    2.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762792 W lamp 2x1        0:00:00.00 +00:00:00.0  2000.00 16:32 1.000  IDS    2.0   -0  Clear+Clear   1.0  65.3 5497.1   
+ 762793 W lamp 2x1        0:00:00.00 +00:00:00.0  2000.00 16:32 1.000  IDS    2.0   -0  Clear+Clear   1.0  65.3 5497.1   

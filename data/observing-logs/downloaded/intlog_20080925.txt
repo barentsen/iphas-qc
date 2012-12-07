@@ -1,0 +1,56 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 09 26 04:51
+
+TELESCOPE             INT
+DATE                  20080925
+OBSERVER/S            Huxor/Price
+PROGRAMME             P15
+PROPOSAL REF          P15        
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    n/a
+
+TEL STATION / FOCUS   Prime  / 43.76
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:12
+EVENING TWILIGHT (UT) 20:24
+MORNING TWILIGHT (UT) 05:43
+SUNRISE (UT)          06:55
+%ILLUM. LUNAR DISK    12
+DARK TIME (HRS)       09:19
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         04:01
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   7.3   99    54.0  62.3  168   769.4    7.3  11.9    13.5   99    80 
+22:00   8.0   93    64.2  68.3  179   770.3    8.0  11.4    13.6   93    80 
+23:00   7.3   93    59.4  66.3  177   770.4    7.3  11.6    13.6   93    77 
+00:00   7.4   90    70.1  73.9  175   770.0    7.4  11.3    13.6   90    78 
+01:00   7.6   87    62.8  74.6  173   769.4    7.6  11.1    13.5   87    77 
+03:00   7.7   82    56.9  71.1  169   769.3    7.7  11.2    13.3   82    75 
+04:00   7.0   89    40.7  44.2  180   769.1    7.0  11.2    13.4   89    75 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+high humidity and high winds throughout
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+lost whole night due to humidity and winds - dome not opened
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 639968 Bias              0:00:00.00 +00:00:00.0  2000.00 20:10 4.543  WFC    0.0  180  V                                
+ 639969 Bias              0:00:00.00 +00:00:00.0  2000.00 20:10 4.543  WFC    0.0  180  V                                
+ 639970 Bias              0:00:00.00 +00:00:00.0  2000.00 20:11 4.543  WFC    0.0  180  V                                
+ 639971 Bias              0:00:00.00 +00:00:00.0  2000.00 20:11 4.543  WFC    0.0  180  V                                
+ 639972 Bias              0:00:00.00 +00:00:00.0  2000.00 20:12 4.543  WFC    0.0  180  V                                
+ 639973 Bias              0:00:00.00 +00:00:00.0  2000.00 20:12 4.543  WFC    0.0  180  V                                
+ 639974 Bias              0:00:00.00 +00:00:00.0  2000.00 20:12 4.543  WFC    0.0  180  V                                
+ 639975 Bias              0:00:00.00 +00:00:00.0  2000.00 20:13 4.543  WFC    0.0  180  V                                
+ 639976 Bias              0:00:00.00 +00:00:00.0  2000.00 20:13 4.543  WFC    0.0  180  V                                

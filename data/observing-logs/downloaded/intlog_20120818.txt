@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 08 19 07:45
+
+TELESCOPE             INT
+DATE                  20120818
+OBSERVER/S            R. Corradi
+PROGRAMME             DDT CAT
+PROPOSAL REF          DDT CAT
+TELESCOPE OPERATOR    --
+SUPPORT ASTRONOMER    Hugo Ledo
+
+TEL STATION / FOCUS   Prime  / 43.35
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:56
+EVENING TWILIGHT (UT) 21:12
+MORNING TWILIGHT (UT) 05:19
+SUNRISE (UT)          06:35
+%ILLUM. LUNAR DISK    2
+DARK TIME (HRS)       08:07
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          20:17
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  14.2   32     7.7  10.8  264   773.3   14.2   17.     18.   32     35
+21:00  12.7   34    11.0  13.9  257   773.4   12.7   14.     18.   34     35
+22:00  12.5   33    23.5  32.8  301   774.3   12.5   13.     18.   33     35
+23:00  12.7   30    28.3  28.6    3   774.8   12.7   13.     18.   30     35
+00:00  12.9   24    26.2  27.7  153   774.9   12.9   13.     17.   24     31
+01:00  13.1   28    24.1  24.9   32   774.8   13.1   13.     17.   28     30
+02:00  13.5   26    20.1  22.4   39   774.6   13.5   13.     17.   26     30
+03:00  13.3   27    24.2  26.3   35   774.1   13.3   13.     16.   27     32
+04:00  13.3   28    20.5  22.7   47   773.8   13.3   13.     16.   28     32
+05:00  13.1   28    24.3  25.6   40   773.9   13.1                 28      #
+06:00  13.3   35    18.6  20.5   49   773.9   13.3                 35      #
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:05
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+nearly photometric night, seeing between 1 and 1.5
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+a 5 minutes exposure lost because of telescope jump
+
+

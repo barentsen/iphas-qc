@@ -1,0 +1,53 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 04 22 05:24
+
+TELESCOPE             INT
+DATE                  20060421
+OBSERVER/S            valdivielso
+PROGRAMME             young brown dwarfs
+PROPOSAL REF          C7             
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / none
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:48
+EVENING TWILIGHT (UT) 21:04
+MORNING TWILIGHT (UT) 05:16
+SUNRISE (UT)          06:32
+%ILLUM. LUNAR DISK    40
+DARK TIME (HRS)       08:12
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         03:04
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   2.0   99    43.1  47.6  355   768.2    2.0  10.3     9.6   99    57 
+21:00   2.2  100    37.5  42.2  351   768.3    2.2   9.9     9.6  100    63 
+22:00   2.8  100    36.1  42.5    5   768.7    2.8   9.7     9.7  100    68 
+23:00   2.4  100    43.4  49.6   15   769.1    2.4   9.6     9.8  100    68 
+00:00   1.2  100    32.8  36.0    1   769.0    1.2   9.4     9.7  100    67 
+01:00   1.5  100    43.0  45.7    0   768.7    1.5   9.2     9.7  100    68 
+02:00   1.0  100    33.3  35.7   17   768.6    1.0   9.3     9.8  100    68 
+03:00   4.3   55    23.1  26.1    2   768.5    4.3   9.2     9.6   55    62 
+04:00   1.6   96    24.2  26.7    3   768.0    1.6   9.5     9.7   96    59 
+05:00   3.2   74    27.8  29.3    5   767.7    3.2   9.2     9.7   74    63 
+
+TIME LOST weather           07:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100%humidity,no observations 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 499426 ALAN              1:59:59.99 +02:00:00.0 2000.00  13:03 1.120  WFC   15.1  180  r                                
+ 499427 Bias frame        1:59:59.99 +01:59:59.9 2000.00  13:05 1.120  WFC    0.0  180  r                                
+ 499428 Bias frame        1:59:59.99 +02:00:00.0 2000.00  13:07 1.120  WFC    0.0  180  I                                

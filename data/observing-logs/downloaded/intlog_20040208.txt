@@ -1,0 +1,79 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 02 09 05:58
+
+TELESCOPE             INT
+DATE                  20040208
+OBSERVER/S            harding & morrison
+PROGRAMME             Spag Formation of the Galactic Halo
+PROPOSAL REF          P23                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    .
+
+TEL STATION / FOCUS   Prime  / 44.1
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:03
+EVENING TWILIGHT (UT) 20:15
+MORNING TWILIGHT (UT) 06:35
+SUNRISE (UT)          07:48
+%ILLUM. LUNAR DISK    92
+DARK TIME (HRS)       10:20
+TWILIGHT TIME (HRS)   02:25
+MOONRISE (UT)         21:03
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   1.2   37    11.7  12.5  190   770.4    1.2   3.1     7.5   37    34 
+21:00   1.0   36    10.1  12.6  194   770.5    1.0   3.1     6.7   36    34 
+22:00   1.0   38     4.1   5.0  148   770.5    1.0   3.3     6.6   38    32 
+23:00   0.7   38    15.1  15.8  115   770.3    0.7   2.7     6.3   38    36 
+00:00   0.5   39    12.4  13.8  182   770.0    0.5   2.3     6.2   39    38 
+01:00   0.4   41    14.6  15.8  165   769.7    0.4   1.9     5.9   41    40 
+02:00   0.3   43    19.5  20.5  147   769.0    0.3   1.8     5.8   43    42 
+03:00   0.2   41    21.2  23.4  185   768.6    0.2   2.0     5.4   41    39 
+04:00   0.0   42    24.0  26.1  159   767.9    0.0   1.8     5.2   42    40 
+05:00   0.1   40    22.3  24.5  165   767.4    0.1   1.8     5.3   40    39 
+06:00  -0.0   41    27.8  29.4  137   767.2   -0.0   1.7     4.9   41    39 
+
+TIME LOST weather           07:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+clouds most of the night,  worked 4 hrs through cloud,   2hrs of which are probably usable.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+As the temperature dropped to 0 deg the mirror support began to oscillate,  it was difficult to get it stopped. 
+The solution is to close the mirror cover, the primary starts to warm rapidly and the oscillations stop.
+Can the oscillations be due to water condensation in the "dry" air?
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 388633 KMD               0:00:00.00 +00:00:00.0 A        14:04 4.597  WFC    1.0  180  Halpha                           
+ 388634 Bias              0:00:00.00 +00:00:00.0 A        14:17 4.597  WFC    0.0  180  51                               
+ 388635 KMD               0:00:00.00 +00:00:00.0 A        14:32 4.597  WFC    2.0  180  51                               
+ 388636 Bias              0:00:00.00 +00:00:00.0 A        14:34 4.597  WFC    0.0  180  51                               
+ 388637 Focus run         1:23:46.29 +29:51:58.5 J2000.00 20:11 1.238  WFC   15.1  180  V                                
+ 388638 WW466B            1:23:46.28 +29:51:08.4 J2000.00 20:20 1.286  WFC  179.9  180  V                                
+ 388639 WW466B            1:23:46.29 +29:51:08.4 J2000.00 20:24 1.300  WFC  180.0  180  V                                
+ 388640 WW466B            1:23:46.29 +29:51:08.4 J2000.00 20:29 1.321  WFC  150.0  180  i                                
+ 388641 WW466B            1:23:46.29 +29:51:08.4 J2000.00 20:32 1.335  WFC  150.0  180  i                                
+ 388642 WW466B            1:23:46.29 +29:51:08.5 J2000.00 20:36 1.392  WFC 1199.6  180  51                               
+ 388643 WW466B            1:23:46.29 +29:51:08.5 J2000.00 20:56 1.508  WFC 1199.5  180  51                               
+ 388644 WW466B            1:23:46.28 +29:51:08.4 J2000.00 21:19 1.596  WFC  119.5  180  i                                
+ 388646 WW466B            1:23:46.29 +29:51:08.4 J2000.00 21:22 1.618  WFC  120.0  180  V                                
+ 388647 Focus run         4:50:33.92 -04:24:47.6 J2000.00 21:46 1.232  WFC    9.6  180  i                                
+ 388648 L2024BM288        4:50:33.93 -04:25:22.6 J2000.00 22:40 1.363  WFC  150.0  180  i                                focus wrong
+ 388649 L2024BM288        4:50:33.92 -04:25:22.6 J2000.00 22:43 1.374  WFC  150.0  180  i                                focus wrong
+ 388650 L2024BM288        4:50:33.93 -04:25:22.6 J2000.00 22:50 1.398  WFC  179.9  180  V                                
+ 388651 L2024BM288        4:50:33.93 -04:25:22.6 J2000.00 22:53 1.413  WFC  179.9  180  V                                
+ 388652 L2024BM288        4:50:33.93 -04:25:22.7 J2000.00 22:57 1.428  WFC  149.5  180  i                                
+ 388653 L2024BM288        4:50:33.93 -04:25:22.7 J2000.00 23:00 1.442  WFC  150.0  180  i                                
+ 388654 L2024BM288        4:50:33.92 -04:25:22.6 J2000.00 23:04 1.503  WFC 1199.3  180  51                               
+ 388655 L2024BM288        4:50:33.92 -04:25:22.6 J2000.00 23:25 1.625  WFC 1199.4  180  51                               
+ 388656 L2301BP224        8:42:05.40 -03:58:38.6 J2000.00 23:52 1.215  WFC  150.0  180  i                                
+ 388657 L2301BP224        8:42:05.40 -03:58:38.5 J2000.00 23:55 1.211  WFC  150.0  180  i                                
+ 388658 L2301BP224        8:42:05.40 -03:58:38.4 J2000.00 23:59 1.207  WFC  150.0  180  i                                
+ 388659 Focus run         8:42:05.40 -03:58:17.3 J2000.00 00:08 1.201  WFC   20.1  180  i                                
+ 388660 L2301BP224        0:00:00.00 +00:00:00.0 J2000.00 04:08 1.000  WFC   60.1  180  i                                
+ 388661 L2301BP224        0:00:00.00 +00:00:00.0 J2000.00 04:18 1.000  WFC   60.1  180  i                                

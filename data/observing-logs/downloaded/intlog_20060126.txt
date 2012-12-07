@@ -1,0 +1,62 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 01 27 04:37
+
+TELESCOPE             INT
+DATE                  20060126
+OBSERVER/S            Isabel Perez
+PROGRAMME             ITP4
+PROPOSAL REF          ITP4        
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    A Cardwell
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:53
+EVENING TWILIGHT (UT) 20:07
+MORNING TWILIGHT (UT) 06:41
+SUNRISE (UT)          07:55
+%ILLUM. LUNAR DISK    10
+DARK TIME (HRS)       10:34
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         06:07
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   0.3  100    32.5  38.1  351   765.0    0.3   6.9     6.4  100    73 
+20:00  -0.5  100    28.6  34.6  351   764.9   -0.5   6.6     6.5  100    72 
+21:00   1.4  100    27.0  30.8  351   765.4    1.4   7.2     6.5  100    74 
+22:00   1.7  100    30.1  36.8  351   765.5    1.7   7.1     6.6  100    78 
+23:00   1.0  100    29.0  34.9  351   765.3    1.0   7.4     6.6  100    75 
+00:00   1.2  100    31.8  37.0  351   765.3    1.2   7.2     6.7  100    78 
+01:00   1.9  100    34.3  39.2  351   764.5    1.9   7.2     6.5  100    77 
+02:00   2.8  100    36.6  41.6  351   764.6    2.8   7.2     6.8  100    82 
+03:00   3.0  100    29.3  38.7  351   764.5    3.0   7.4     6.8  100    84 
+04:00   3.1  100    38.1  43.0  351   764.0    3.1   7.5     6.8  100    83 
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humdity, fog around the telescope
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+No observations carried out due to the bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 490864 Flat field       20:00:00.00 +20:00:00.0 2006.070 13:48 1.041  WFC    3.1  180  V                                
+ 490865 Bias             20:00:00.00 +20:00:00.0 2006.070 13:50 1.043  WFC    0.0  180  V                                
+ 490866 Bias frame        0:00:00.00 +00:00:00.0 2006.070 17:01 1.000  WFC    0.0  180  [SII]6725                        
+ 490867 Bias frame        0:00:00.00 +00:00:00.0 2006.070 17:01 1.000  WFC    0.0  180  [SII]6725                        
+ 490868 Bias frame        0:00:00.00 +00:00:00.0 2006.070 17:02 1.000  WFC    0.0  180  [SII]6725                        
+ 490869 Bias frame        0:00:00.00 +00:00:00.0 2006.070 17:03 1.000  WFC    0.0  180  [SII]6725                        
+ 490870 Bias frame        0:00:00.00 +00:00:00.0 2006.070 17:03 1.000  WFC    0.0  180  [SII]6725                        
+ 490871 Bias frame        0:00:00.00 +00:00:00.0 2006.070 17:04 1.000  WFC    0.0  180  [SII]6725                        
+ 490872 Bias frame        0:00:00.00 +00:00:00.0 2006.070 17:04 1.000  WFC    0.0  180  [SII]6725                        
+ 490873 Bias frame        0:00:00.00 +00:00:00.0 2006.070 17:05 1.000  WFC    0.0  180  [SII]6725                        
+ 490874 Bias frame        0:00:00.00 +00:00:00.0 2006.070 17:06 1.000  WFC    0.0  180  [SII]6725                        
+ 490875 Bias frame        0:00:00.00 +00:00:00.0 2006.070 17:06 1.000  WFC    0.0  180  [SII]6725                        

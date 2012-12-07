@@ -1,0 +1,83 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 12 05 06:28
+
+TELESCOPE             INT
+DATE                  20041204
+OBSERVER/S            M. Jarvis, D. Smith
+PROGRAMME             Narrow-band imaging of supercluster
+PROPOSAL REF          P7       
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Mansura 
+
+TEL STATION / FOCUS   Prime  / 44.05
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:26
+SUNRISE (UT)          07:42
+%ILLUM. LUNAR DISK    50
+DARK TIME (HRS)       10:48
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         00:49
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -0.9  100    36.4  41.2  357   770.4   -0.9   7.3     9.2  100    71 
+20:00  -0.3  100    30.4  34.4    4   771.0   -0.3   7.0     9.0  100    72 
+21:00   1.4  100    31.3  36.6    4   771.3    1.4   7.0     9.1  100    76 
+22:00   0.7  100    28.2  31.5  357   771.4    0.7   7.1     9.0  100    75 
+23:00   4.1   30    29.8  33.5    3   771.9    4.1   6.7     9.0   30    47 
+00:00   2.0   49    32.0  35.7   22   771.6    2.0   3.9     8.2   49    46 
+01:00   1.4   74    35.6  40.1   13   771.1    1.4   3.8     7.7   74    69 
+02:00   0.8   88    35.2  37.9   12   770.8    0.8   3.7     7.5   88    81 
+03:00   3.2   43    32.5  37.0    4   770.7    3.2   4.3     7.6   43    46 
+04:00   3.4   29    35.6  39.9    2   770.5    3.4   4.0     7.4   29    33 
+05:00   2.6   39    26.3  31.1  329   770.3    2.6   4.0     6.9   39    40 
+06:00   1.5   51    27.7  30.3    6   770.3    1.5   3.6     6.8   51    45 
+
+TIME LOST weather           07:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+OPening and closing all night due to humidity. Seeing about 1.5 - 3 arcsec
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+weather weather weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 434029 Bias             15:59:59.99 +26:00:00.0 2000.00  13:15 1.027  WFC    0.0  180  g                                
+ 434030 Bias              0:00:00.00 +00:00:00.0 2000.00  18:24 1.000  WFC    0.0  180  HeII4686                         
+ 434031 Bias              0:00:00.00 +00:00:00.0 2000.00  18:25 1.000  WFC    0.0  180  HeII4686                         
+ 434032 Bias              0:00:00.00 +00:00:00.0 2000.00  18:25 1.000  WFC    0.0  180  HeII4686                         
+ 434033 Bias              0:00:00.00 +00:00:00.0 2000.00  18:26 1.000  WFC    0.0  180  HeII4686                         
+ 434034 Bias              0:00:00.00 +00:00:00.0 2000.00  18:26 1.000  WFC    0.0  180  HeII4686                         
+ 434035 Bias              0:00:00.00 +00:00:00.0 2000.00  18:27 1.000  WFC    0.0  180  HeII4686                         
+ 434036 Bias              0:00:00.00 +00:00:00.0 2000.00  18:28 1.000  WFC    0.0  180  HeII4686                         
+ 434037 Bias              0:00:00.00 +00:00:00.0 2000.00  18:28 1.000  WFC    0.0  180  HeII4686                         
+ 434038 Bias              0:00:00.00 +00:00:00.0 2000.00  18:29 1.000  WFC    0.0  180  HeII4686                         
+ 434039 Bias              0:00:00.00 +00:00:00.0 2000.00  18:29 1.000  WFC    0.0  180  HeII4686                         
+ 434040 Focus run         3:53:07.49 +00:01:09.9 2000.00  23:15 1.173  WFC    9.6  180  r                                
+ 434041 standard star     3:53:07.49 +00:01:10.0 2000.00  23:19 1.166  WFC   10.1  180  r                                
+ 434042 95-102 5s rband   3:53:07.50 +00:01:10.0 2000.00  23:20 1.165  WFC    5.1  180  r                                
+ 434043 95-102 10s gband  3:53:07.49 +00:01:10.0 2000.00  23:21 1.164  WFC   10.1  180  g                                
+ 434044 95-102 10s gband  3:53:07.49 +00:01:10.0 2000.00  23:22 1.163  WFC    4.5  180  g                                
+ 434045 95-102 20s he2    3:53:07.50 +00:01:10.0 2000.00  23:23 1.162  WFC   20.1  180  HeII4686                         
+ 434046 95-102 40s he2    3:53:07.49 +00:01:09.9 2000.00  23:24 1.161  WFC   40.1  180  HeII4686                         
+ 434047 test              2:18:37.38 -05:54:24.1 2000.00  23:27 1.251  WFC  100.0  180  HeII4686                         
+ 434048 xmm092 2400s he2  2:18:37.39 -05:54:24.4 2000.00  23:29 1.291  WFC 2398.2  180  HeII4686                         
+ 434049 xmm092 900s g     2:18:37.39 -05:54:24.3 2000.00  00:10 1.361  WFC  899.0  180  g                                
+ 434050 xmm092 900s g     2:18:37.38 -05:54:24.4 2000.00  00:26 1.415  WFC  899.6  180  g                                
+ 434051 sc066 900 g       8:20:06.87 +26:31:35.0 2000.00  00:44 1.527  WFC  899.6  180  g                                
+ 434053 sc066 2400 h2     8:20:06.87 +26:31:35.0 2000.00  01:48 1.231  WFC  648.2  180  HeII4686                         closed for weather
+ 434054 sc066 2400 h2     8:20:06.87 +26:31:34.9 2000.00  02:58 1.048  WFC 2398.6  180  HeII4686                         
+ 434055 sc066 900 g       8:20:06.86 +26:31:34.6 2000.00  03:39 1.018  WFC  899.4  180  g                                
+ 434056 sc066 900 g       8:20:06.87 +26:31:34.8 2000.00  03:54 1.009  WFC  899.6  180  g                                
+ 434057 sc066 2400 he2    8:20:06.87 +26:31:34.9 2000.00  04:11 1.002  WFC 2398.8  180  HeII4686                         
+ 434058 sc065 2400 he2    8:17:44.03 +26:21:13.6 2000.00  04:52 1.014  WFC 2345.6  180  HeII4686                         
+ 434059 sc065 900 g       8:17:44.02 +26:21:13.3 2000.00  05:51 1.060  WFC  899.5  180  g                                
+ 434060 sc065 2400 he2    8:17:44.03 +26:21:13.3 2000.00  06:07 1.088  WFC 1040.6  180  HeII4686                         

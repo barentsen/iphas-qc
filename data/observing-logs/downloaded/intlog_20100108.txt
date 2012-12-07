@@ -1,0 +1,53 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 01 09 06:26
+
+TELESCOPE             INT
+DATE                  20100108
+OBSERVER/S            vdBurg Hoekstra Grocutt
+PROGRAMME             Observing Galaxy clusters
+PROPOSAL REF          NL1
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Dycke
+
+TEL STATION / FOCUS   Prime  / 43.70
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:38
+EVENING TWILIGHT (UT) 19:54
+MORNING TWILIGHT (UT) 06:42
+SUNRISE (UT)          07:58
+%ILLUM. LUNAR DISK    34
+DARK TIME (HRS)       10:48
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         02:55
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   1.0   99    24.3  38.2  315   768.4    1.0    5.      7.   99     82
+20:00   1.7   99    27.0  33.2  250   768.2    1.7    5.      7.   99     86
+21:00   1.7   99    34.2  41.9  333   768.6    1.7    5.      8.   99     86
+22:00   1.9   99    40.3  43.2  335   769.6    1.9    5.      8.   99     87
+23:00   2.0   99    32.8  36.2  334   769.2    2.0    5.      8.   99     88
+00:00   2.0   99    31.3  34.7  325   769.0    2.0    6.      8.   99     85
+01:00   2.4   99    24.4  29.2  265   768.9    2.4    6.      8.   99     86
+02:00   1.6   99    27.9  35.3  329   768.4    1.6    6.      8.   99     84
+03:00   2.3   99    26.3  31.0  300   768.2    2.3    6.      8.   99     87
+04:00   2.3   99    25.6  31.2  333   767.9    2.3    6.      8.   99     87
+05:00   2.3   99    20.3  24.7  316   768.6    2.3    6.      8.   99     87
+06:00   2.5   99    22.9  30.1  294   767.8    2.5    6.      8.   99     87
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+99% humidity all night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+no observations
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 716271 Bias frame       18:00:00.00 +20:00:00.0  2000.00 13:55 1.129  WFC    0.0  180  i                                

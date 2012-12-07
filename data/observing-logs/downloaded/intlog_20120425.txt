@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 04 27 05:52
+
+TELESCOPE             INT
+DATE                  20120425
+OBSERVER/S            Milone
+PROGRAMME             c70
+PROPOSAL REF          c70                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.45
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:51
+EVENING TWILIGHT (UT) 21:07
+MORNING TWILIGHT (UT) 05:11
+SUNRISE (UT)          06:28
+%ILLUM. LUNAR DISK    18
+DARK TIME (HRS)       08:04
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          23:36
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   8.4   16     7.5   8.6  293   767.0   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   6.6   10     8.3   9.6  302   766.9   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   6.5    8    17.9  21.1  314   767.1   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   6.5   14    17.8  20.4  308   767.5   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   5.2   30    15.3  18.4  332   767.5   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   4.9   27    15.6  18.3  316   767.2   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   5.2   35    13.8  16.0  335   766.5   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   5.0   41    12.8  13.9  257   766.3   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   5.2   27    14.2  15.9  307   765.8   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   4.9   27    17.7  21.1  312   765.5   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   4.1   37    23.0  26.1  298   765.5   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+We've lost nearly all the night due bad weather conditions (high clouds, and high humidity at the end of the night).
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

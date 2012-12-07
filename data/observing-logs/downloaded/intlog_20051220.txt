@@ -1,0 +1,58 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 12 21 01:44
+
+TELESCOPE             INT
+DATE                  20051220
+OBSERVER/S            D.Bramich
+PROGRAMME             Searching for planetary transits and eclipsing binaries in the ONC
+PROPOSAL REF          P17          
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:26
+EVENING TWILIGHT (UT) 19:43
+MORNING TWILIGHT (UT) 06:36
+SUNRISE (UT)          07:52
+%ILLUM. LUNAR DISK    75
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         22:38
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   0.8  100    20.3  27.3  209   764.0    0.8   6.2     8.4  100    82 
+20:00   1.2  100    12.1  15.2  215   764.5    1.2   6.2     8.2  100    86 
+21:00   1.7  100    20.2  22.7  248   764.5    1.7   6.6     8.4  100    85 
+22:00   0.0  100    21.2  24.0  243   764.6    0.0   6.6     8.2  100    79 
+23:00   0.7  100    19.3  23.3  243   764.8    0.7   6.4     8.3  100    76 
+00:00   1.1  100    19.1  21.8  260   764.8    1.1   6.4     8.2  100    78 
+01:00   1.8  100    21.3  24.0  253   764.3    1.8   6.6     8.1  100    84 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloudy. Rainy. Humidity 100%
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+No Observations
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 487702 Bias             18:00:00.00 +25:59:59.9 2000.00  14:12 1.027  WFC    0.0  180  r                                
+ 487703 Bias              0:00:00.00 +00:00:00.0 2000.00  22:03 4.282  WFC    0.0  180  U                                
+ 487704 Bias              0:00:00.00 +00:00:00.0 2000.00  22:04 4.282  WFC    0.0  180  U                                
+ 487705 Bias              0:00:00.00 +00:00:00.0 2000.00  22:05 4.282  WFC    0.0  180  U                                
+ 487706 Bias              0:00:00.00 +00:00:00.0 2000.00  22:05 4.282  WFC    0.0  180  U                                
+ 487707 Bias              0:00:00.00 +00:00:00.0 2000.00  22:06 4.282  WFC    0.0  180  U                                
+ 487708 Bias              0:00:00.00 +00:00:00.0 2000.00  22:06 4.282  WFC    0.0  180  U                                
+ 487709 Bias              0:00:00.00 +00:00:00.0 2000.00  22:07 4.282  WFC    0.0  180  U                                
+ 487710 Bias              0:00:00.00 +00:00:00.0 2000.00  22:08 4.282  WFC    0.0  180  U                                
+ 487711 Bias              0:00:00.00 +00:00:00.0 2000.00  22:08 4.282  WFC    0.0  180  U                                
+ 487712 Bias              0:00:00.00 +00:00:00.0 2000.00  22:09 4.282  WFC    0.0  180  U                                

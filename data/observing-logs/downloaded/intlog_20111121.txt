@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 11 22 05:40
+
+TELESCOPE             INT
+DATE                  20111121
+OBSERVER/S            Angela Hempel
+PROGRAMME             Planck cluster
+PROPOSAL REF          C48
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Dora Fohring
+
+TEL STATION / FOCUS   Prime  / 43.54
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:17
+SUNRISE (UT)          07:32
+%ILLUM. LUNAR DISK    15
+DARK TIME (HRS)       10:39
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         04:19
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   3.9   68    44.4  46.7   46   772.8    3.9    8.     10.   68     56
+20:00   3.2   76    42.1  50.0   56   773.3    3.2    8.     10.   76     64
+21:00   2.7   79    40.2  54.2   49   773.7    2.7    8.     10.   79     63
+22:00   2.4   77    38.7  43.4   32   773.9    2.4    5.      9.   77     70
+23:00   2.1   91    41.7  49.8   42   773.6    2.1    6.      9.   91     69
+00:00   2.5   73    34.8  42.5   38   773.7    2.5    7.      9.   73     66
+01:00   3.4   59    35.4  39.6   66   773.6    3.4    6.      9.   59     58
+02:00   2.2   58    30.7  38.9   37   773.4    2.2    5.      8.   58     58
+03:00   1.4   70    35.9  39.8   35   773.2    1.4    4.      8.   70     62
+04:00   2.1   37    40.8  42.3   32   773.0    2.1    3.      8.   37     47
+05:00   1.3   73    43.2  46.8   35   772.8    1.3    2.      7.   73     72
+
+TIME LOST weather           05:40
+TIME LOST Technical         00:30
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+very bad, beginning of night (until 00:00 UT, thinn cloud cover, later : seeing > 2.2 arcsec, mostly closer to 3 arcsec, close dome at 05:15 UT due to high humidity
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+mostly due to bad weather, but some time lost due to failur of AG to recover guide star. We had to restart the exposure. ( not sure about the reason)
+
+

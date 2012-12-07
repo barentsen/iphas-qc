@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 09 03 08:00
+
+TELESCOPE             INT
+DATE                  20110902
+OBSERVER/S            Jeremy Tregloan-Reed
+PROGRAMME             Defocused Photometry of Planets
+PROPOSAL REF          P4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Lindsay Magil
+
+TEL STATION / FOCUS   Prime  / Defocus
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:41
+EVENING TWILIGHT (UT) 20:54
+MORNING TWILIGHT (UT) 05:29
+SUNRISE (UT)          06:43
+%ILLUM. LUNAR DISK    31
+DARK TIME (HRS)       08:35
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          22:40
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  12.7   16    25.9  38.7  247   773.5   12.7                 16      #
+21:00  12.0   19    23.0  30.4  279   773.9   12.0                 19      #
+22:00  12.6    5    35.0  37.5  252   774.2   12.6   14.     16.    5     12
+23:00  12.8   -1    27.1  31.1  273   774.6   12.8   14.     15.   -1      4
+00:00  12.7   -1    25.0  26.0  249   775.0   12.7   14.     15.   -1      4
+01:00  12.8    0    23.4  30.7  271   774.7   12.8   14.     15.    0      6
+02:00  13.2    3    29.9  32.8  216   774.4   13.2   14.     15.    3     11
+03:00  13.4    3    28.5  30.6  265   773.9   13.4   14.     15.    3     10
+04:00  13.6    3    23.4  27.6  283   773.6   13.6   14.     15.    3     10
+05:00  13.4    2    24.3  28.0  275   773.3   13.4   14.     15.    2     10
+06:00  12.2    1    30.9  35.1  315   772.9   12.2   13.     15.    1      9
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Photometric All night 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Windows while Defocused. Two primary targets Hat-p-31 and Wasp-44
+
+

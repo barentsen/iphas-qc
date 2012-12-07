@@ -1,0 +1,68 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 11 12 02:58
+
+TELESCOPE             INT
+DATE                  20041111
+OBSERVER/S            A. Rosenberg
+PROGRAMME             Formacion y Evolucion de la Via Lactea (III): El Disco Galactico
+PROPOSAL REF          C8
+TELESCOPE OPERATOR    Sergio Simon Diaz
+SUPPORT ASTRONOMER    None
+
+TEL STATION / FOCUS   Prime  / 43.96
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:27
+EVENING TWILIGHT (UT) 19:41
+MORNING TWILIGHT (UT) 06:11
+SUNRISE (UT)          07:24
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       10:30
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         07:10
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.7  100    15.8  18.2  349   768.4    5.7  11.1    11.7  100    83 
+20:00   5.0  100    17.0  19.5  302   768.6    5.0  11.0    11.8  100    80 
+21:00   4.2  100    35.6  37.5  318   768.5    4.2  10.4    11.8  100    80 
+22:00   4.9  100    25.0  29.0  323   768.9    4.9  10.6    11.8  100    74 
+23:00   6.2   46    31.5  36.9  319   768.9    6.2  10.1    11.7   46    40 
+00:00   5.9   27    33.5  36.0  321   768.3    5.9   7.5    11.1   27    28 
+01:00   5.9   24    31.8  37.7  319   768.0    5.9   7.6    10.9   24    20 
+02:00   2.5   84    34.3  39.4  352   767.4    2.5   6.5    10.8   84    73 
+
+TIME LOST weather           08:00
+TIME LOST Technical         00:30
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clouds, High Humidity, Bad seeing (>2.5")
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Very bad weather. 
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 431530 Bias             18:41:28.40 +00:15:24.3 J2000.00 16:29 1.138  WFC    0.0  180  B                                
+ 431531 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:25 4.541  WFC    0.0  180  i                                luces encendidas
+ 431532 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:26 4.541  WFC    0.0  180  i                                
+ 431533 flat cupula 30 K 23:15:48.00 +11:26:32.0 J2000.00 21:27 1.053  WFC   30.1  180  B                                
+ 431534 93-317            1:54:37.80 +00:43:00.9 J2000.00 23:27 1.134  WFC   15.1  180  V                                
+ 431535 Focus run         1:54:37.79 +00:45:30.9 J2000.00 23:36 1.132  WFC   10.1  180  V                                
+ 431536 PEGASO           23:28:36.00 +14:44:33.9 J2000.00 23:44 1.260  WFC   60.1  180  V                                
+ 431537 NGC752            1:56:59.99 +37:46:59.9 J2000.00 00:05 1.016  WFC   60.1  180  V                                
+ 431538 NGC752            1:56:59.99 +37:46:59.9 J2000.00 00:09 1.017  WFC    5.1  180  V                                
+ 431539 NGC752            1:57:00.00 +37:47:00.0 J2000.00 00:11 1.020  WFC  599.7  180  V                                
+ 431540 NGC752            1:57:00.00 +37:47:00.0 J2000.00 00:22 1.026  WFC  599.7  180  V                                
+ 431541 NGC752            1:57:00.00 +37:46:59.9 J2000.00 00:33 1.034  WFC  599.9  180  V                                
+ 431542 NGC752            1:56:59.99 +37:47:00.0 J2000.00 00:45 1.041  WFC  299.9  180  B                                
+ 431543 NGC752            1:56:59.99 +37:47:00.0 J2000.00 00:50 1.047  WFC  299.9  180  B                                
+ 431544 NGC752            1:56:59.99 +37:46:59.9 J2000.00 00:56 1.053  WFC  299.9  180  B                                
+ 431545 NGC752            1:57:00.00 +37:47:00.0 J2000.00 01:03 1.058  WFC   30.1  180  B                                
+ 431547 NGC752            1:57:00.00 +37:47:00.0 J2000.00 01:04 1.060  WFC    5.1  180  B                                
+ 431548 NGC752            1:56:59.99 +37:47:00.0 J2000.00 01:05 1.061  WFC    5.1  180  I                                
+ 431549 NGC752            1:57:00.00 +37:46:59.9 J2000.00 01:06 1.062  WFC   30.1  180  I                                
+ 431550 NGC752            1:56:59.99 +37:46:59.9 J2000.00 01:08 1.074  WFC  899.6  180  I                                

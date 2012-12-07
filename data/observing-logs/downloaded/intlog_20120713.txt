@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 07 14 06:03
+
+TELESCOPE             INT
+DATE                  20120713
+OBSERVER/S            Mike Irwin
+PROGRAMME             Kepler survey
+PROPOSAL REF          N1
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    HL
+
+TEL STATION / FOCUS   Prime  / 43.37
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:20
+EVENING TWILIGHT (UT) 21:45
+MORNING TWILIGHT (UT) 04:51
+SUNRISE (UT)          06:15
+%ILLUM. LUNAR DISK    24
+DARK TIME (HRS)       07:06
+TWILIGHT TIME (HRS)   02:49
+MOONRISE (UT)         02:19
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  20.1   11    10.2  12.9   99   775.6   20.1   20.     22.   11     15
+22:00  19.8   10    10.9  13.2  125   776.2   19.8   20.     21.   10     15
+23:00  20.1   11     6.6   8.8  149   776.7   20.1   20.     21.   11     16
+00:00  20.2   11    11.0  13.5  105   777.1   20.2   20.     21.   11     17
+01:00  20.5   11     8.5  15.0  162   777.1   20.5   20.     21.   11     17
+02:00  20.5   11     7.8   9.4  131   776.8   20.5   20.     21.   11     16
+03:00  20.8   11    16.4  14.0  118   776.4   20.8   20.     21.   11     16
+04:00  20.6   11     6.7  12.2  168   775.8   20.6   20.     21.   11     16
+05:00  20.7   10     7.2   9.0  127   775.6   20.7   20.     21.   10     17
+06:00  20.9    9    13.2  17.8  113   775.6   20.9   19.     21.    9     18
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Photometric - some dust seeing 1.0 - 1.4 arcsec - warm night 21C
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

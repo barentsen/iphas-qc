@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 12 29 07:10
+
+TELESCOPE             INT
+DATE                  20111228
+OBSERVER/S            Ivana Damjanov
+PROGRAMME             Adaptive Optics Deep Field
+PROPOSAL REF          N3
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS    / 43.54
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:30
+EVENING TWILIGHT (UT) 19:47
+MORNING TWILIGHT (UT) 06:39
+SUNRISE (UT)          07:56
+%ILLUM. LUNAR DISK    20
+DARK TIME (HRS)       10:52
+TWILIGHT TIME (HRS)   02:34
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          22:33
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -1.1   96    33.3  42.5   47   774.7   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   1.1   44    30.8  37.6   49   775.3   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   3.2   18    42.1  46.0   63   775.6   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   2.9   42    43.2  50.2   73   775.8   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   3.9   16    26.3  41.0  112   775.8   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00  -1.2   97    41.0  51.0   76   775.7   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   1.1   95    23.9  38.5  144   775.6   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   5.1   27    28.3  34.7   71   775.5   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   6.3   21    23.2  20.2   97   775.5   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   6.5   17    11.2  13.2   57   775.3   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   2.6   52    18.3  21.4   47   775.1   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   3.1   40     9.5  17.5  113   775.1   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00  -0.4   97    23.7  32.4   88   774.9   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           6:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+mostly cloudy and humid, seeing 2-3.5" in g and U
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

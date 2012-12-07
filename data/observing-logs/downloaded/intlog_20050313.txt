@@ -1,0 +1,66 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 03 14 04:29
+
+TELESCOPE             INT
+DATE                  20050313
+OBSERVER/S            James
+PROGRAMME             WIDE FIELD SURVEY OF VIRGO CLUSTER
+PROPOSAL REF          P6
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:26
+EVENING TWILIGHT (UT) 20:37
+MORNING TWILIGHT (UT) 06:04
+SUNRISE (UT)          07:16
+%ILLUM. LUNAR DISK    16
+DARK TIME (HRS)       09:27
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          22:52
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   2.2   97    25.0  27.3  293   764.4    2.2   7.7     3.7   97    70 
+21:00   2.5  100    27.1  30.3  281   765.3    2.5   7.4     8.8  100    78 
+22:00   2.6   97    29.8  31.3  267   765.1    2.6   7.1     7.4   97    73 
+23:00   2.6   85    26.9  29.2  281   765.3    2.6   7.0     8.7   85    73 
+00:00   3.0   96    27.7  28.3  272   765.0    3.0  11.1     8.7   96    79 
+01:00   2.9   95    24.4  27.5  270   764.8    2.9  13.7     8.7   95    80 
+02:00   2.6   99    29.7  33.1  273   764.7    2.6   7.1     1.0   99    72 
+03:00   2.1  100    26.1  29.1  270   764.2    2.1  18.0     7.5  100    83 
+04:00   2.8  100    31.2  35.9  278   764.1    2.8   6.9     6.5  100    82 
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% humidity all night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+did not open dome all night due to high humidity
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 442491 Bias frame        1:57:00.00 +45:00:00.0 2000.00  14:50 1.059  WFC    0.0  180  V                                
+ 442492 TEST              1:56:59.99 +45:00:00.0 2000.00  14:52 1.058  WFC    5.1  180  V                                
+ 442493 Bias              0:00:00.00 +00:00:00.0 2000.00  19:16 1.000  WFC    0.0  180  B                                
+ 442494 Bias              0:00:00.00 +00:00:00.0 2000.00  19:18 1.000  WFC    0.0  180  B                                
+ 442495 Bias              0:00:00.00 +00:00:00.0 2000.00  19:19 1.000  WFC    0.0  180  B                                
+ 442496 Bias              0:00:00.00 +00:00:00.0 2000.00  19:19 1.000  WFC    0.0  180  B                                
+ 442497 Bias              0:00:00.00 +00:00:00.0 2000.00  19:20 1.000  WFC    0.0  180  B                                
+ 442498 Bias              0:00:00.00 +00:00:00.0 2000.00  19:20 1.000  WFC    0.0  180  B                                
+ 442499 Bias              0:00:00.00 +00:00:00.0 2000.00  19:21 1.000  WFC    0.0  180  B                                
+ 442500 Bias              0:00:00.00 +00:00:00.0 2000.00  19:22 1.000  WFC    0.0  180  B                                
+ 442501 Bias              0:00:00.00 +00:00:00.0 2000.00  19:22 1.000  WFC    0.0  180  B                                
+ 442502 Bias              0:00:00.00 +00:00:00.0 2000.00  19:23 1.000  WFC    0.0  180  B                                
+ 442503 Bias              0:00:00.00 +00:00:00.0 2000.00  19:23 1.000  WFC    0.0  180  B                                
+ 442504 Bias              0:00:00.00 +00:00:00.0 2000.00  19:24 1.000  WFC    0.0  180  B                                
+ 442505 Bias              0:00:00.00 +00:00:00.0 2000.00  19:24 1.000  WFC    0.0  180  B                                
+ 442506 Bias              0:00:00.00 +00:00:00.0 2000.00  19:25 1.000  WFC    0.0  180  B                                
+ 442507 Bias              0:00:00.00 +00:00:00.0 2000.00  19:26 1.000  WFC    0.0  180  B                                

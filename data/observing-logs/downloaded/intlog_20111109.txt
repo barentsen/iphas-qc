@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 11 10 04:52
+
+TELESCOPE             INT
+DATE                  20111109
+OBSERVER/S            Monguio
+PROGRAMME             WFC/INT Deep Stromgren photometric survey in the galactic anticenter: latest measurements
+PROPOSAL REF          DDT
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Hugo Ledo
+
+TEL STATION / FOCUS   Prime  / 43.45
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:29
+EVENING TWILIGHT (UT) 19:42
+MORNING TWILIGHT (UT) 06:09
+SUNRISE (UT)          07:22
+%ILLUM. LUNAR DISK    99
+DARK TIME (HRS)       10:27
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          07:16
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   7.3   98    11.6  13.8  282   771.1    7.3   13.     12.   98     70
+20:00   7.3   99     9.5   9.1  271   771.5    7.3   12.     12.   99     69
+21:00   7.6   99     2.3   2.4  158   771.5    7.6   12.     12.   99     67
+22:00   7.7   97     0.9   2.4  183   771.6    7.7   12.     12.   97     69
+23:00   7.1   96     3.5   4.5  216   771.7    7.1   12.     12.   96     68
+00:00   7.4   99     2.1   6.2  173   771.5    7.4   12.     12.   99     71
+01:00   7.0   99     2.8   8.1  179   771.2    7.0   12.     12.   99     75
+02:00   7.0   99     5.9   9.0  174   770.9    7.0   11.     12.   99     75
+03:00   6.9   99     6.9  13.6  181   770.3    6.9   11.     12.   99     76
+04:00   7.5   92    10.7  13.8  201   770.1    7.5   11.     12.   92     75
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+humidity higher than 90% all the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

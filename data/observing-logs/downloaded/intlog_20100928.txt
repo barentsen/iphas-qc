@@ -1,0 +1,80 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 09 29 07:26
+
+TELESCOPE             INT
+DATE                  20100928
+OBSERVER/S            Daniel Lopez
+PROGRAMME             Narrow band Images of M31
+PROPOSAL REF          D
+TELESCOPE OPERATOR    n/a
+SUPPORT ASTRONOMER    n
+
+TEL STATION / FOCUS    / 42.05 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:09
+EVENING TWILIGHT (UT) 20:21
+MORNING TWILIGHT (UT) 05:45
+SUNRISE (UT)          06:56
+%ILLUM. LUNAR DISK    72
+DARK TIME (HRS)       09:24
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         22:03
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   7.8   84    37.5  40.8  142   772.2    7.8   13.     15.   84     66
+21:00   7.1   98    33.0  37.5  348   772.5    7.1   13.     15.   98     69
+22:00   7.0   72    31.2  35.7  327   773.0    7.0   12.     15.   72     68
+23:00   7.2   49    33.8  38.6   72   773.0    7.2   12.     15.   49     53
+00:00   7.5   41    29.9  34.0   16   773.1    7.5    9.     14.   41     44
+01:00   6.6   44    40.5  39.4   86   772.3    6.6    8.     14.   44     58
+02:00   6.6   44    34.1  36.3  211   772.1    6.6    9.     14.   44     59
+03:00   8.3   17    36.4  39.0  144   771.6    8.3    9.     13.   17     19
+04:00   9.5   16    32.4  34.9   85   771.6    9.5    9.     12.   16     23
+05:00   9.7    7    31.5  37.6   20   771.5    9.7    9.     12.    7     14
+06:00  10.9    8    38.3  40.8   20   771.3   10.9   10.     12.    8     14
+
+TIME LOST weather           02:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+ high humidity at the start. I opened at 23:00. Closed at 1:20 and opened at 2:00. The rest of the night perfect
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Two hours lost by high humidity
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 759735 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:33 1.000  WFC    0.0  180  Ha 6657                          
+ 759736 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:33 1.000  WFC    0.0  180  Ha 6657                          
+ 759737 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:33 1.000  WFC    0.0  180  Ha 6657                          
+ 759738 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:34 1.000  WFC    0.0  180  Ha 6657                          
+ 759739 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:34 1.000  WFC    0.0  180  Ha 6657                          
+ 759740 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:35 1.000  WFC    0.0  180  Ha 6657                          
+ 759741 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:35 1.000  WFC    0.0  180  Ha 6657                          
+ 759742 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:36 1.000  WFC    0.0  180  Ha 6657                          
+ 759743 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:36 1.000  WFC    0.0  180  Ha 6657                          
+ 759744 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:37 1.000  WFC    0.0  180  Ha 6657                          
+ 759745 M31-28 666        0:44:40.39 +40:52:56.4  2000.00 22:11 1.291  WFC 1199.4  180  Ha 6657                          
+ 759746 M31-28 666        0:44:40.39 +40:52:56.3  2000.00 22:32 1.227  WFC 1199.3  180  Ha 6657                          
+ 759747 M31-28 666        0:44:40.39 +40:52:56.3  2000.00 22:52 1.174  WFC 1199.4  180  Ha 6657                          
+ 759748 M31-28 SII        0:44:40.38 +40:52:56.3  2000.00 23:16 1.124  WFC 1199.4  180  [SII]6725                        
+ 759749 M31-28 SII        0:44:40.39 +40:52:56.3  2000.00 23:37 1.091  WFC 1199.4  180  [SII]6725                        
+ 759750 M31-28 SII        0:44:40.38 +40:52:56.3  2000.00 23:57 1.065  WFC 1199.3  180  [SII]6725                        
+ 759751 M31-28 OIII       0:44:40.38 +40:52:56.4  2000.00 01:08 1.024  WFC 1199.5  180  [OIII]5007                       
+ 759752 M31-28 OIII       0:44:40.39 +40:52:56.3  2000.00 01:28 1.024  WFC 1199.4  180  [OIII]5007                       
+ 759753 M31-28 OIII       0:44:40.39 +40:52:56.3  2000.00 01:49 1.031  WFC 1199.3  180  [OIII]5007                       
+ 759754 M31-28 stY        0:44:40.39 +40:52:56.4  2000.00 02:18 1.045  WFC  599.8  180  stromgren y                      
+ 759755 M31-28 stY        0:44:40.39 +40:52:56.5  2000.00 02:28 1.054  WFC  599.2  180  stromgren y                      
+ 759756 M31-28 stY        0:44:40.38 +40:52:56.4  2000.00 02:39 1.065  WFC  599.8  180  stromgren y                      
+ 759757 M31-28 OII        0:44:40.38 +40:52:56.4  2000.00 02:51 1.086  WFC 1199.4  180  [OII]3727                        
+ 759758 M31-30 Ha         0:48:29.24 +40:08:28.4  2000.00 03:23 1.131  WFC 1199.5  180  Halpha                           
+ 759759 M31-30 Ha         0:48:29.25 +40:08:28.5  2000.00 03:44 1.175  WFC 1199.2  180  Halpha                           
+ 759760 M31-30 Ha         0:48:29.25 +40:08:28.5  2000.00 04:04 1.230  WFC 1199.4  180  Halpha                           
+ 759761 M31-30 666        0:48:29.25 +40:08:28.5  2000.00 04:27 1.306  WFC 1199.4  180  Ha 6657                          
+ 759762 M31-30 666        0:48:29.24 +40:08:28.4  2000.00 04:48 1.389  WFC 1199.5  180  Ha 6657                          
+ 759763 M31-30 666        0:48:29.25 +40:08:28.4  2000.00 05:08 1.490  WFC 1199.2  180  Ha 6657                          

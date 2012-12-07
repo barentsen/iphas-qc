@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 02 27 07:25
+
+TELESCOPE             INT
+DATE                  20120226
+OBSERVER/S            O. Vaduvescu & students
+PROGRAMME             Asteroids
+PROPOSAL REF          C36
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Lee Patrick
+
+TEL STATION / FOCUS   Prime  / 43,42
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:16
+EVENING TWILIGHT (UT) 20:27
+MORNING TWILIGHT (UT) 06:21
+SUNRISE (UT)          07:33
+%ILLUM. LUNAR DISK    23
+DARK TIME (HRS)       09:54
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          23:32
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -3.1   97    15.0  16.6  300   768.4   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00  -2.8   89     8.3  10.0  336   768.7   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00  -2.5   88     6.0   8.7  183   768.9   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00  -2.9   84    10.7  10.1  339   768.7   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00  -2.2   82    10.6  15.2   29   768.8   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00  -3.2   95    14.7  16.9  140   768.3   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00  -3.1   92     5.0   6.8  314   767.9   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00  -2.1   76    10.6  12.1  292   767.5   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00  -1.8   67    10.8  12.8  310   767.0   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00  -2.1   66     5.6   7.8  343   766.5   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00  -1.8   62     2.3   3.5   71   766.9   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00  -1.4   60     3.5   4.5  343   766.9   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           03:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+seeing ~1.5-2.0" most of the night, 3 hras closed due to humidity
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

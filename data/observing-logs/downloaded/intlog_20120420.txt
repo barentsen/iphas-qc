@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 04 21 07:54
+
+TELESCOPE             INT
+DATE                  20120420
+OBSERVER/S            Jonathan Zwart
+PROGRAMME             P11
+PROPOSAL REF          P11 Jarvis
+TELESCOPE OPERATOR    Fiona Riddick
+SUPPORT ASTRONOMER    Dora Fohring
+
+TEL STATION / FOCUS   Prime  / 43.52
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:48
+EVENING TWILIGHT (UT) 21:03
+MORNING TWILIGHT (UT) 05:17
+SUNRISE (UT)          06:32
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       08:14
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         06:24
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   9.7    1    11.9  16.8  283   767.7   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   7.6    0     9.9  13.0  281   768.0   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   8.4   -1    16.6  18.1  291   768.4   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   8.3    0    14.2  14.4  286   768.7   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   8.2    0    14.1  15.6  286   768.7   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   8.2    0    12.1  13.2  295   768.7   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   8.2    0     7.2   8.4  291   768.4   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   8.0    0     3.3   2.6  225   768.1   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   7.6    1     8.9   8.8  277   767.6   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   7.0    0     9.9  11.1  285   767.3   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   7.1    1    12.9  14.4  281   767.2   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         08:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Fine. Some cloud. Seeing < 1.5 arcsec
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Unstable pointing solution even after several zerosets and single star calibrations. Finally think we have a good solution for the next night.
+
+

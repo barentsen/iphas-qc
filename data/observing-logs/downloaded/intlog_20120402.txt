@@ -1,0 +1,42 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 04 03 00:27
+
+TELESCOPE             INT
+DATE                  20120402
+OBSERVER/S            Lawrie, Scott
+PROGRAMME             Variable Magnetic White Dwarfs
+PROPOSAL REF          P10
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Hassan Fathivarsari
+
+TEL STATION / FOCUS   Prime  / 43.47
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:37
+EVENING TWILIGHT (UT) 20:50
+MORNING TWILIGHT (UT) 05:39
+SUNRISE (UT)          06:52
+%ILLUM. LUNAR DISK    81
+DARK TIME (HRS)       08:49
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          04:30
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -0.8   98    23.4  29.5  309   763.9   -0.8    6.      9.   98     68
+21:00  -0.5   98    26.6  31.5  312   763.9   -0.5    6.      9.   98     70
+22:00  -1.4   99    28.4  36.0  334   763.9   -1.4    5.      9.   99     69
+23:00  -1.7   99    34.4  60.8  304   764.3   -1.7    5.      9.   99     70
+00:00  -2.8   99    28.0  46.2  249   763.9   -2.8    5.      9.   99     68
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloudy, wet and windy.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Left early due to icy conditions outside. Very windy (not 0km/h) - sensor probably frozen.
+
+

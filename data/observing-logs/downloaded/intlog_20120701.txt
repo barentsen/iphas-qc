@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 07 02 07:06
+
+TELESCOPE             INT
+DATE                  20120701
+OBSERVER/S            Ignacio Negueruela
+PROGRAMME             Red supergiants in obscured regions
+PROPOSAL REF          C107
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    lee patrick
+
+TEL STATION / FOCUS   Cassegrain  / 16.00
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           20:22
+EVENING TWILIGHT (UT) 21:48
+MORNING TWILIGHT (UT) 04:43
+SUNRISE (UT)          06:09
+%ILLUM. LUNAR DISK    95
+DARK TIME (HRS)       06:55
+TWILIGHT TIME (HRS)   02:52
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          04:58
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  12.1    2    32.8  35.9   26   772.6   12.1   15.     19.    2     11
+22:00  12.3    3    32.2  33.4   34   773.2   12.3   13.     19.    3     10
+23:00  12.7    7    31.4  36.8   44   773.4   12.7   13.     18.    7     15
+00:00  12.2    6    34.4  38.9   52   773.5   12.2   13.     18.    6     15
+01:00  11.9   12    31.3  35.3   54   773.3   11.9   13.     18.   12     17
+02:00  11.4   17    30.3  38.3   43   772.7   11.4   12.     17.   17     20
+03:00  11.7    7    29.6  33.2   50   772.4   11.7   12.     17.    7     17
+04:00  11.0    7    27.4  31.5   53   771.9   11.0   12.     16.    7     14
+05:00  12.1    6    27.9  30.6   59   771.8   12.1   12.     16.    6     14
+06:00  12.7    5    23.1  25.3   50   771.6   12.7   11.     16.    5     13
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:10
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clear
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+autoguiding had to be restarted, as it was losing all the stars
+
+

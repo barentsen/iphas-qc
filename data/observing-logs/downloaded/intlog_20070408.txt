@@ -1,0 +1,78 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 04 09 05:48
+
+TELESCOPE             INT
+DATE                  20070408
+OBSERVER/S            Yogesh Joshi
+PROGRAMME             P10-Classification of More New Low-Mass Brown Dwarfs and Stellar Binaries from SuperWASP
+PROPOSAL REF          I/07A/10
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 14.95
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:40
+EVENING TWILIGHT (UT) 20:54
+MORNING TWILIGHT (UT) 05:32
+SUNRISE (UT)          06:46
+%ILLUM. LUNAR DISK    68
+DARK TIME (HRS)       08:38
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         00:59
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   0.7   95     9.9  15.9  188   762.9    0.7   8.0     9.9   95    66 
+21:00  -0.3   96    13.6  17.8  229   762.9   -0.3   7.9     9.9   96    64 
+22:00  -0.3   96    10.8  23.3  241   763.1   -0.3   7.5     9.9   96    65 
+23:00  -0.7   96     9.4  17.4  209   763.6   -0.7   7.0    10.0   96    66 
+00:00  -0.6   96     9.6  15.0  208   763.4   -0.6   6.9    10.0   96    65 
+01:00  -0.7   97    12.9  17.4  207   763.0   -0.7   6.6     9.9   97    67 
+02:00  -1.1   97    13.8  20.9  186   762.6   -1.1   6.3     9.8   97    69 
+03:00  -1.6   96    19.3  18.5  243   762.1   -1.6   6.1     9.8   96    63 
+04:00  -1.0   78    16.5  19.1  262   761.7   -1.0   6.4     9.7   78    58 
+05:00  -0.7   89    19.7  24.9  242   761.5   -0.7   6.1     9.7   89    63 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+overcast throughout the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+no observations could be taken due to high humidity
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 556308 Bias             23:30:00.00 +79:59:59.9 2000.00  11:39 1.596  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556309 Arc              23:30:00.00 +80:00:00.0 2000.00  11:46 1.596  IDS   10.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556310 Bias              0:00:00.00 +00:00:00.0 2000.00  19:01 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556311 Bias              0:00:00.00 +00:00:00.0 2000.00  19:02 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556312 Bias              0:00:00.00 +00:00:00.0 2000.00  19:03 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556313 Bias              0:00:00.00 +00:00:00.0 2000.00  19:03 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556314 Bias              0:00:00.00 +00:00:00.0 2000.00  19:04 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556315 Bias              0:00:00.00 +00:00:00.0 2000.00  19:05 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556316 Bias              0:00:00.00 +00:00:00.0 2000.00  19:06 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556317 Bias              0:00:00.00 +00:00:00.0 2000.00  19:06 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556318 Bias              0:00:00.00 +00:00:00.0 2000.00  19:07 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556319 Bias              0:00:00.00 +00:00:00.0 2000.00  19:08 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556320 Bias              0:00:00.00 +00:00:00.0 2000.00  19:10 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556321 Bias              0:00:00.00 +00:00:00.0 2000.00  19:10 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556322 Bias              0:00:00.00 +00:00:00.0 2000.00  19:10 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556323 Bias              0:00:00.00 +00:00:00.0 2000.00  19:10 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556324 Bias              0:00:00.00 +00:00:00.0 2000.00  19:11 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556325 Bias              0:00:00.00 +00:00:00.0 2000.00  19:11 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556326 Bias              0:00:00.00 +00:00:00.0 2000.00  19:11 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556327 Bias              0:00:00.00 +00:00:00.0 2000.00  19:11 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556328 Bias              0:00:00.00 +00:00:00.0 2000.00  19:11 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556329 Bias              0:00:00.00 +00:00:00.0 2000.00  19:12 1.000  IDS    0.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556330 Arc               0:00:00.00 +00:00:00.0 2000.00  19:19 1.000  IDS    1.1   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556331 Wflat             0:00:00.00 +00:00:00.0 2000.00  19:23 1.000  IDS  600.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556332 Wflat             0:00:00.00 +00:00:00.0 2000.00  19:36 1.000  IDS  600.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556333 Wflat             0:00:00.00 +00:00:00.0 2000.00  19:47 1.000  IDS  600.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556334 Wflat             0:00:00.00 +00:00:00.0 2000.00  19:57 1.000  IDS  600.0   -0  Clear+Clear   1.1  39.6 4249.6   
+ 556335 Wflat             0:00:00.00 +00:00:00.0 2000.00  20:07 1.000  IDS  600.0   -0  Clear+Clear   1.1  39.6 4249.6   

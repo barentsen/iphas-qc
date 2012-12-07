@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 09 10 17:31
+
+TELESCOPE             INT
+DATE                  20110909
+OBSERVER/S            Patrick, Hardy, Magill
+PROGRAMME             Student Training
+PROPOSAL REF          D
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Amy
+
+TEL STATION / FOCUS    / 43.75
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:32
+EVENING TWILIGHT (UT) 20:45
+MORNING TWILIGHT (UT) 05:34
+SUNRISE (UT)          06:46
+%ILLUM. LUNAR DISK    94
+DARK TIME (HRS)       08:49
+TWILIGHT TIME (HRS)   02:25
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          05:15
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  17.3   16    17.6  27.8  277   775.0   17.3   21.     21.   16     18
+21:00  16.9   16    20.9  26.9  250   775.4   16.9   18.     21.   16     20
+22:00  17.0   15    22.4  31.0  232   776.0   17.0   18.     21.   15     19
+23:00  17.0   14    22.9  22.7  246   776.4   17.0   18.     20.   14     20
+00:00  16.9   13    23.8  27.1  206   776.4   16.9   18.     20.   13     18
+01:00  16.5   14    17.5  22.0  122   776.1   16.5   17.     20.   14     18
+02:00  16.3   14    19.2  24.7  239   775.7   16.3   17.     20.   14     19
+03:00  16.4   16    20.2  26.1  179   775.3   16.4   17.     20.   16     22
+04:00  15.6   20    23.2  27.2  187   774.9   15.6   17.     19.   20     22
+05:00  15.7   23    22.8  28.6  191   774.7   15.7   17.     19.   23     26
+06:00  15.6   27    29.5  31.7  220   774.7   15.6   16.     19.   27     31
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+842296-842299 webo1 OIII amy
+pointing test 03:00UT-06:00 not finished
+problems with focus, disturbed throughout the night

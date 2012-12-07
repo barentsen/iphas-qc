@@ -1,0 +1,59 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 02 28 20:38
+
+TELESCOPE             INT
+DATE                  20040223
+OBSERVER/S            jm vilchez
+PROGRAMME             A H-alpha search for star-forming galaxies in nerby clusters
+PROPOSAL REF          C14                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 44.10
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:14
+EVENING TWILIGHT (UT) 20:25
+MORNING TWILIGHT (UT) 06:24
+SUNRISE (UT)          07:36
+%ILLUM. LUNAR DISK    14
+DARK TIME (HRS)       09:59
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          22:25
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   1.0   99    38.9  45.5  162   759.2    1.0   4.8     5.5   99    85 
+21:00   0.9  100    39.9  44.5  151   759.1    0.9   4.5     5.4  100    85 
+22:00   0.7  100    26.7  37.2  149   759.7    0.7   4.6     5.5  100    83 
+23:00   0.9  100    26.2  30.8  170   759.9    0.9   4.5     5.6  100    83 
+00:00   0.4  100    35.8  44.0  174   759.5    0.4   4.3     5.5  100    83 
+01:00  -0.4  100    24.6  28.2  160   759.2   -0.4   4.1     5.4  100    80 
+02:00  -0.3  100    38.3  48.8  194   758.8   -0.3   3.6     5.4  100    81 
+03:00  -0.2  100    34.4  39.4  182   759.0   -0.2   3.8     5.5  100    81 
+04:00  -0.8  100    31.2  40.8  201   758.9   -0.8   3.6     5.3  100    79 
+05:00  -1.3  100    33.9  44.5  213   758.5   -1.3   3.6     5.3  100    74 
+06:00  -0.5  100    42.2  47.8  228   758.7   -0.5   4.1     5.3  100    77 
+07:00  -1.2  100    33.8  39.2  188   759.0   -1.2   3.5     5.2  100    77 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+all night lost due to bad weather
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 389449 Bias frame       19:59:59.99 +39:59:59.9 J2000.00 13:48 1.237  WFC    0.0  180  Halpha                           
+ 389450 Bias frame       20:00:00.00 +40:00:00.0 J2000.00 13:52 1.249  WFC    0.0  180  Halpha                           
+ 389451 Bias frame       19:59:59.99 +39:59:59.9 J2000.00 14:06 1.296  WFC    0.0  180  Halpha                           
+ 389452 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 14:17 1.000  WFC    0.0  180  Halpha                           
+ 389453 TEST              0:00:00.00 +00:00:00.0 J2000.00 14:20 1.000  WFC    2.1  180  Halpha                           
+ 389454 TEST              0:00:00.00 +00:00:00.0 J2000.00 14:21 1.000  WFC    2.1  180  r                                
+ 389455 TEST              0:00:00.00 +00:00:00.0 J2000.00 14:23 1.000  WFC    0.8  180  r                                

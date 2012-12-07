@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 12 10 07:17
+
+TELESCOPE             INT
+DATE                  20111209
+OBSERVER/S            B. Sipocz, G. Kovacs
+PROGRAMME             Follow-up of candidates from the WFCAM Transit Survey
+PROPOSAL REF          P17
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Hugo Ledo
+
+TEL STATION / FOCUS    / 43.45
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:29
+SUNRISE (UT)          07:45
+%ILLUM. LUNAR DISK      1
+DARK TIME (HRS)       10:51
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.8   33    32.7  48.4   95   771.7    5.8    7.      8.   33     31
+20:00   5.4   31    34.3  36.4  118   772.0    5.4    6.      9.   31     33
+21:00   5.1   40    32.1  40.2  106   772.2    5.1    6.      8.   40     39
+22:00   4.8   36    47.0  49.5   95   772.1    4.8    6.      8.   36     39
+23:00   4.5   37    43.6  52.5   95   772.3    4.5    5.      8.   37     42
+00:00   4.6   38    43.3  51.4   96   772.4    4.6    5.      7.   38     41
+01:00   4.2   39    36.1  43.9   71   772.4    4.2    5.      7.   39     43
+02:00   3.8   42    17.2  22.4  169   772.2    3.8    4.      7.   42     46
+03:00   5.1   37    12.7  23.1  125   772.3    5.1    5.      7.   37     38
+04:00   5.9   32    11.9  20.5  224   772.1    5.9    6.      7.   32     37
+05:00   6.3   30     4.8   6.4  197   772.0    6.3    7.      7.   30     34
+06:00   5.9   27    11.8  18.6  159   771.8    5.9    6.      7.   27     31
+07:00   5.4   26     2.4   6.2  135   772.3    5.4    6.      7.   26     30
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Poor seeing (3-4"), strong winds at the first half, and cirrus clouds for the whole night.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

@@ -1,0 +1,69 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 09 03 04:20
+
+TELESCOPE             INT
+DATE                  20030902
+OBSERVER/S            M. Irwin
+PROGRAMME             WFS4
+PROPOSAL REF          WFS4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.98
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:41
+EVENING TWILIGHT (UT) 20:55
+MORNING TWILIGHT (UT) 05:29
+SUNRISE (UT)          06:43
+%ILLUM. LUNAR DISK    44
+DARK TIME (HRS)       08:34
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          23:45
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  17.6   38    27.4  34.1  283   775.3   17.6  19.7    18.7   38    29 
+21:00  17.2   37    34.0  36.0  284   775.7   17.2  19.4    18.7   37    29 
+22:00  17.1   38    28.4  34.6  301   776.1   17.1  19.0    18.9   38    29 
+23:00  17.3   37    26.2  33.2  280   776.4   17.3  18.9    18.8   37    30 
+00:00  17.5   38    23.5  28.3  302   776.4   17.5  18.9    18.7   38    31 
+01:00  18.0   39    30.2  32.6  278   776.3   18.0  18.9    18.8   39    32 
+02:00  17.6   37    22.1  23.2  279   776.0   17.6  18.5    18.7   37    31 
+03:00  17.9   38    27.2  28.8  272   775.6   17.9  18.6    18.7   38    32 
+04:00  17.7   38    28.8  31.2  278   775.2   17.7  18.5    18.7   38    32 
+
+TIME LOST weather           6:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+very cloudy
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+6hrs time lost due to cloud
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 362433 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:04 4.710  WFC    0.0  180  V                                
+ 362434 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:04 4.710  WFC    0.0  180  V                                
+ 362435 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:05 4.710  WFC    0.0  180  V                                
+ 362436 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:05 4.710  WFC    0.0  180  V                                
+ 362437 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:06 4.710  WFC    0.0  180  V                                
+ 362438 Dark frame        0:00:00.00 +00:00:00.0 J2000.00 20:35 1.000  WFC 1000.0  180  V                                
+ 362439 Focus run        21:42:34.99 +00:18:46.1 J2000.00 00:12 1.137  WFC   10.1  180  r                                
+ 362440 sa113-163 g      21:42:35.00 +00:16:46.0 J2000.00 00:17 1.138  WFC   10.1  180  g                                
+ 362441 sa113-163 i      21:42:35.00 +00:16:45.9 J2000.00 00:18 1.139  WFC   10.1  180  i                                
+ 362442 sa113-163 r      21:42:34.99 +00:16:45.9 J2000.00 00:19 1.139  WFC   10.1  180  r                                
+ 362443 sa113-163 V      21:42:34.99 +00:16:45.9 J2000.00 00:20 1.139  WFC   10.1  180  V                                
+ 362444 m33e he2          1:34:50.50 +30:41:36.0 J2000.00 00:25 1.387  WFC 1199.5  180  HeII4686                         
+ 362445 m33e he2          1:34:50.50 +30:41:35.9 J2000.00 00:46 1.294  WFC 1199.3  180  HeII4686                         
+ 362446 m33e he2          1:34:50.49 +30:41:35.9 J2000.00 01:07 1.220  WFC 1199.4  180  HeII4686                         
+ 362447 sa92-335 g        0:54:59.99 +00:44:13.0 J2000.00 01:29 1.274  WFC   10.1  180  g                                
+ 362448 sa92-335 i        0:55:00.00 +00:44:12.9 J2000.00 01:30 1.271  WFC   10.1  180  i                                
+ 362449 sa92-335 r        0:55:00.00 +00:44:12.9 J2000.00 01:31 1.269  WFC   10.1  180  r                                
+ 362450 sa92-335 V        0:54:59.99 +00:44:13.0 J2000.00 01:32 1.267  WFC   10.0  180  V                                
+ 362451 150m15_005 i      3:10:23.79 +40:43:04.3 J2000.00 01:35 1.499  WFC  899.5  180  i                                
+ 362452 150m15_005 V      3:10:23.79 +40:43:04.3 J2000.00 01:51 1.419  WFC  899.5  180  V                                

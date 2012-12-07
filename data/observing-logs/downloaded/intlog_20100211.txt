@@ -1,0 +1,125 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 02 12 07:46
+
+TELESCOPE             INT
+DATE                  20100211
+OBSERVER/S            Daniel Aden, Henrik Joensson
+PROGRAMME             P11
+PROPOSAL REF          W/2009A/26
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    James McCormac
+
+TEL STATION / FOCUS   Prime  / 43.98
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:05
+EVENING TWILIGHT (UT) 20:18
+MORNING TWILIGHT (UT) 06:33
+SUNRISE (UT)          07:45
+%ILLUM. LUNAR DISK    4
+DARK TIME (HRS)       10:15
+TWILIGHT TIME (HRS)   02:25
+MOONRISE (UT)         06:39
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   8.1   40    16.6  20.1  174   766.4    8.1    8.     11.   40     44
+22:00   8.1   38    21.2  31.0  168   766.6    8.1    8.     11.   38     44
+23:00   7.9   41    22.0  27.1  174   767.0    7.9    8.     10.   41     44
+00:00   8.2   37    25.0  28.7  177   765.7    8.2    8.     10.   37     41
+01:00   7.8   40    20.6  20.6  188   765.9    7.8    8.     10.   40     44
+02:00   7.9   41    20.3  24.8  203   765.5    7.9    7.     10.   41     44
+03:00   7.4   43    20.0  17.5  176   764.6    7.4    7.     10.   43     46
+04:00   7.5   41    20.3  24.4  176   764.5    7.5    8.     10.   41     44
+06:00   7.4   47    17.4  23.0  206   764.3    7.4    7.     10.   47     49
+07:00   7.7   47    15.1  17.1  189   764.8    7.7    8.     10.   47     50
+
+TIME LOST weather           05:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Overcast at the start of the night. There were clouds throughout the night, but less at the end of the night.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+We were not able to guide on science targets, or observe calibration stars due to clouds during the first half of the night. However, at the end of the night it got better and we were able to observe. Good morning flats as well!
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 721256 Bias              0:00:00.00 +00:00:00.0  2000.00 18:25 4.356  WFC    0.0  180  stromgren y                      
+ 721257 Bias              0:00:00.00 +00:00:00.0  2000.00 19:00 1.000  WFC    0.0  180  stromgren y                      
+ 721258 Flat u            2:57:59.99 -00:05:59.9  2000.00 19:10 1.149  WFC    3.1  180  stromgren u                      
+ 721259 Flat u            2:58:00.00 -00:06:00.0  2000.00 19:12 1.150  WFC    5.1  180  stromgren u                      
+ 721260 Flat u            2:57:59.99 -00:05:59.9  2000.00 19:13 1.151  WFC    7.1  180  stromgren u                      
+ 721261 Flat v            2:57:59.99 -00:05:59.9  2000.00 19:14 1.152  WFC    5.1  180  stromgren v                      
+ 721262 Flat v            2:58:00.00 -00:05:59.9  2000.00 19:15 1.152  WFC    5.1  180  stromgren v                      
+ 721263 Flat v            2:58:00.00 -00:06:00.0  2000.00 19:16 1.153  WFC    6.1  180  stromgren v                      
+ 721264 Flat b            2:58:00.00 -00:06:00.0  2000.00 19:17 1.154  WFC    6.1  180  stromgren b                      
+ 721265 Flat b            2:58:00.00 -00:06:00.0  2000.00 19:18 1.155  WFC    4.1  180  stromgren b                      
+ 721266 Flat b            2:58:00.00 -00:05:59.9  2000.00 19:19 1.155  WFC    5.1  180  stromgren b                      
+ 721267 Flat b            2:58:00.00 -00:06:00.0  2000.00 19:20 1.156  WFC    7.1  180  stromgren b                      
+ 721268 Flat y            2:58:00.00 -00:06:00.0  2000.00 19:21 1.157  WFC    7.1  180  stromgren y                      
+ 721269 Flat y            2:58:00.00 -00:05:59.9  2000.00 19:22 1.158  WFC   20.1  180  stromgren y                      
+ 721270 Flat y            2:57:59.99 -00:06:00.0  2000.00 19:23 1.159  WFC   30.1  180  stromgren y                      
+ 721271 Flat y            2:57:59.99 -00:05:59.9  2000.00 19:25 1.161  WFC   45.1  180  stromgren y                      
+ 721272 Focus run         6:58:38.54 -00:28:49.5  2000.00 21:59 1.169  WFC    9.6  180  stromgren y                      
+ 721273 SegueI v         10:07:02.99 +16:04:25.0  2000.00 22:50 1.292  WFC 2398.9  180  stromgren v                      
+ 721274 SegueI y         10:07:03.00 +16:04:25.0  2000.00 23:32 1.159  WFC 2398.2  180  stromgren y                      
+ 721276 SegueI v         10:07:03.00 +16:04:25.0  2000.00 00:46 1.043  WFC 2398.1  180  stromgren v                      
+ 721277 SegueI b         10:07:03.00 +16:04:25.0  2000.00 01:28 1.026  WFC 2398.5  180  stromgren b                      
+ 721279 SegueI y         10:07:03.00 +16:04:24.9  2000.00 02:30 1.058  WFC 2398.7  180  stromgren y                      
+ 721280 Bias             10:07:03.00 +16:04:24.9  2000.00 03:11 1.083  WFC    0.0  180  stromgren y                      
+ 721281 Bias             10:07:03.00 +16:04:24.9  2000.00 03:12 1.084  WFC    0.0  180  stromgren y                      
+ 721282 Bias             10:07:02.99 +16:04:25.0  2000.00 03:13 1.085  WFC    0.0  180  stromgren y                      
+ 721283 Bias             10:07:03.00 +16:04:25.0  2000.00 03:13 1.086  WFC    0.0  180  stromgren y                      
+ 721284 SegueI u         10:07:03.00 +16:04:25.0  2000.00 03:16 1.129  WFC 2398.8  180  stromgren u                      
+ 721285 SegueI u         10:07:03.00 +16:04:25.0  2000.00 03:57 1.241  WFC 2398.4  180  stromgren u                      
+ 721286 SegueI u         10:07:03.00 +16:04:25.0  2000.00 04:38 1.418  WFC 2398.8  180  stromgren u                      
+ 721287 Std DM-043208 y  12:07:15.07 -05:44:01.5  2000.00 05:21 1.322  WFC    9.5  180  stromgren y                      
+ 721288 Std DM-043208 b  12:07:15.07 -05:44:01.6  2000.00 05:22 1.325  WFC   11.6  180  stromgren b                      
+ 721289 Std DM-043208 v  12:07:15.07 -05:44:01.5  2000.00 05:24 1.329  WFC   15.1  180  stromgren v                      
+ 721290 Std DM-043208 u  12:07:15.07 -05:44:01.6  2000.00 05:25 1.333  WFC   30.1  180  stromgren u                      
+ 721291 Std DM-053763 y  13:47:23.44 -06:08:12.7  2000.00 05:27 1.220  WFC   15.1  180  stromgren y                      
+ 721292 Std DM-053763 b  13:47:23.44 -06:08:12.7  2000.00 05:29 1.219  WFC   15.1  180  stromgren b                      
+ 721293 Std DM-053763 v  13:47:23.44 -06:08:12.7  2000.00 05:30 1.219  WFC   18.1  180  stromgren v                      
+ 721294 Std DM-053763 v  13:47:23.44 -06:08:12.7  2000.00 05:31 1.219  WFC   36.1  180  stromgren v                      
+ 721295 Std DM-053763 u  13:47:23.44 -06:08:12.7  2000.00 05:33 1.220  WFC   60.1  180  stromgren u                      
+ 721296 Std DM-053763 u  13:47:23.44 -06:08:12.7  2000.00 05:35 1.220  WFC  240.0  180  stromgren u                      
+ 721297 HD123265 y       14:06:41.28 -05:31:06.0  2000.00 05:41 1.211  WFC    2.1  180  stromgren y                      
+ 721298 Std HD123265 b   14:06:41.27 -05:31:05.9  2000.00 05:42 1.211  WFC    2.1  180  stromgren b                      
+ 721299 Std HD123265 v   14:06:41.27 -05:31:06.0  2000.00 05:43 1.211  WFC    5.1  180  stromgren v                      
+ 721300 Std HD123265 u   14:06:41.28 -05:31:06.0  2000.00 05:45 1.211  WFC   40.1  180  stromgren u                      
+ 721301 Std DM-133834 y  14:10:27.07 -13:56:04.2  2000.00 05:47 1.361  WFC   15.0  180  stromgren y                      
+ 721302 Std DM-133834 b  14:10:27.07 -13:56:04.3  2000.00 05:49 1.361  WFC   15.1  180  stromgren b                      
+ 721303 Std DM-133834 v  14:10:27.07 -13:56:04.2  2000.00 05:50 1.361  WFC   20.1  180  stromgren v                      
+ 721304 Std DM-133834 v  14:10:27.08 -13:56:04.2  2000.00 05:51 1.361  WFC   40.1  180  stromgren v                      
+ 721305 Std DM-133834 u  14:10:27.07 -13:56:04.2  2000.00 05:53 1.361  WFC  120.0  180  stromgren u                      
+ 721306 Std HD118659 y    0:00:00.00 +00:00:00.0  2000.00 05:58 1.025  WFC    5.1  180  stromgren y                      
+ 721307 Std HD118659 y   13:38:00.47 +19:08:53.0  2000.00 05:59 1.026  WFC    2.1  180  stromgren y                      
+ 721308 Std HD118659 b   13:38:00.47 +19:08:53.0  2000.00 06:00 1.027  WFC    2.1  180  stromgren b                      
+ 721309 Std HD118659 v   13:38:00.46 +19:08:53.1  2000.00 06:01 1.027  WFC    3.1  180  stromgren v                      
+ 721310 Std HD118659 u   13:38:00.46 +19:08:53.0  2000.00 06:02 1.028  WFC   15.1  180  stromgren u                      
+ 721311 Std G14-045 y    13:18:56.71 -03:04:17.9  2000.00 06:05 1.225  WFC   15.1  180  stromgren y                      
+ 721312 Std G14-045 b    13:18:56.71 -03:04:18.1  2000.00 06:06 1.227  WFC   15.1  180  stromgren b                      
+ 721313 Std G14-045 v    13:18:56.71 -03:04:18.0  2000.00 06:08 1.229  WFC   30.1  180  stromgren v                      
+ 721314 Std G14-045 v    13:18:56.71 -03:04:17.9  2000.00 06:09 1.233  WFC   90.0  180  stromgren v                      
+ 721315 Std G14-045 u    13:18:56.71 -03:04:18.0  2000.00 06:12 1.244  WFC  499.9  180  stromgren u                      
+ 721316 Bias             13:18:56.71 -03:04:18.0  2000.00 06:22 1.255  WFC    0.0  180  stromgren u                      
+ 721317 Bias             13:18:56.71 -03:04:18.0  2000.00 06:22 1.256  WFC    0.0  180  stromgren u                      
+ 721318 Bias             13:18:56.71 -03:04:18.0  2000.00 06:23 1.257  WFC    0.0  180  stromgren u                      
+ 721319 Bias             13:18:56.71 -03:04:18.1  2000.00 06:23 1.258  WFC    0.0  180  stromgren u                      
+ 721320 Flat y           15:02:00.00 +29:55:00.0  2000.00 07:11 1.005  WFC   30.1  180  stromgren y                      
+ 721321 Flat y           15:02:00.00 +29:54:59.9  2000.00 07:27 1.013  WFC   44.6  180  stromgren y                      
+ 721322 Flat y           15:02:00.00 +29:55:10.0  2000.00 07:28 1.014  WFC   45.1  180  stromgren y                      
+ 721323 Flat y           15:02:00.77 +29:54:59.9  2000.00 07:30 1.015  WFC   34.6  180  stromgren y                      
+ 721324 Flat b           15:02:00.00 +29:55:00.0  2000.00 07:31 1.016  WFC   20.1  180  stromgren b                      
+ 721325 Flat b           15:02:00.00 +29:55:10.0  2000.00 07:32 1.017  WFC    5.1  180  stromgren b                      
+ 721326 Flat b           15:02:00.77 +29:54:59.8  2000.00 07:33 1.018  WFC    3.1  180  stromgren b                      
+ 721327 Flat v           15:02:00.00 +29:55:00.0  2000.00 07:34 1.018  WFC    3.1  180  stromgren v                      
+ 721328 Flat v           15:02:00.00 +29:55:09.9  2000.00 07:35 1.019  WFC    3.1  180  stromgren v                      
+ 721329 Flat v           15:02:00.77 +29:54:59.9  2000.00 07:36 1.020  WFC    3.1  180  stromgren v                      
+ 721330 Flat u           15:02:00.00 +29:55:00.0  2000.00 07:37 1.020  WFC    5.1  180  stromgren u                      
+ 721331 Flat u           15:02:00.00 +29:55:09.9  2000.00 07:38 1.021  WFC    5.1  180  stromgren u                      
+ 721332 Flat u           15:02:00.77 +29:54:59.9  2000.00 07:39 1.022  WFC    5.1  180  stromgren u                      

@@ -1,0 +1,52 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 09 18 03:35
+
+TELESCOPE             INT
+DATE                  20060917
+OBSERVER/S            Yogesh Joshi, Ian Skillen,Mark Crockett, Marie Hrudkova
+PROGRAMME             Eclipsing Binary in nearby galaxies
+PROPOSAL REF          P3
+TELESCOPE OPERATOR    Yogesh Joshi
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS   Prime  / 43.57
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:22
+EVENING TWILIGHT (UT) 20:35
+MORNING TWILIGHT (UT) 05:39
+SUNRISE (UT)          06:51
+%ILLUM. LUNAR DISK    17
+DARK TIME (HRS)       09:04
+TWILIGHT TIME (HRS)   02:25
+MOONRISE (UT)         03:09
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  13.7   15    21.7  26.2  241   773.2   13.7  16.0    16.6   15    13 
+21:00  13.1   16    22.1  24.6  245   773.6   13.1  15.9    16.6   16    14 
+22:00  13.6   13    17.4  17.7  211   774.1   13.6  14.3    16.4   13    12 
+23:00  13.7   21    24.1  29.5  201   774.6   13.7  14.4    16.3   21    18 
+00:00  12.7   21    16.5  20.7  193   774.6   12.7  14.3    16.3   21    18 
+01:00  12.2   39    21.8  23.4  204   774.3   12.2  13.2    15.5   39    40 
+02:00  12.2   68    29.6  34.7  194   773.7   12.2  13.0    15.4   68    69 
+03:00  11.2   79    22.1  26.8  248   773.3   11.2  12.9    15.6   79    70 
+
+TIME LOST weather           08:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+cloudy
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+no observations have been taken place due to cloud cover in the sky
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 526355 Bias             12:59:59.99 +20:00:00.2 2006.711 15:25 1.041  WFC    0.0  180  B                                
+ 526356 Bias             19:44:56.74 -14:48:24.5 2000.00  22:10 1.437  WFC    0.0  180  B                                
+ 526357 IC1613            1:04:54.19 +02:08:00.0 2000.00  00:19 1.307  WFC  499.2  180  B                                
+ 526358 IC1613            1:04:54.20 +02:08:00.1 2000.00  01:14 1.172  WFC  499.8  180  B                                

@@ -1,0 +1,55 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 10 22 04:49
+
+TELESCOPE             INT
+DATE                  20031021
+OBSERVER/S            Harding/Morrison
+PROGRAMME             Spag: Search for distant halo giants
+PROPOSAL REF          N06
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    skillen
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:44
+EVENING TWILIGHT (UT) 19:56
+MORNING TWILIGHT (UT) 05:57
+SUNRISE (UT)          07:09
+%ILLUM. LUNAR DISK    17
+DARK TIME (HRS)       10:01
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         03:40
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.8   68    12.5  22.7  209   763.9    4.8  11.9    12.2   68    69 
+20:00   3.5   92    19.2  23.0  279   763.9    3.5  11.7    12.3   92    66 
+21:00   4.4   37    19.2  23.9  193   764.0    4.4  10.8    12.2   37    68 
+22:00   3.7   69     6.3   7.3  269   764.7    3.7  11.2    12.3   69    68 
+23:00   1.8   25    20.3  22.0  318   764.5    1.8  10.8    12.3   25    62 
+00:00   1.6   31    19.6  20.9  311   764.3    1.6   8.6    11.9   31    64 
+01:00   1.9  100    22.9  26.5  319   764.1    1.9   7.8    11.6  100    65 
+02:00   1.5  100    20.5  22.7  304   763.5    1.5   6.5    10.9  100    72 
+03:00   1.5  100    22.0  24.2  289   763.5    1.5   7.6    10.9  100    68 
+04:00   1.9  100    27.4  29.6  296   763.1    1.9   7.7    10.9  100    71 
+
+TIME LOST weather           10:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+fog all night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+humidity never got below 98% all night. 
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 370815 Bias             13:00:00.00 +26:59:59.9 J2000.00 13:02 1.018  WFC    0.0  180  r                                
+ 370816 Bias             12:59:59.99 +27:00:00.0 J2000.00 13:05 1.021  WFC    0.0  180  r                                
+ 370817 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 13:06 1.000  WFC    0.0  180  r                                
+ 370818 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 13:07 1.000  WFC    0.0  180  r                                
+ 370819 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 13:09 1.000  WFC    0.0  180  r                                

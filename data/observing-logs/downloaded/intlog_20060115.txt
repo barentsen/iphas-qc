@@ -1,0 +1,70 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 01 16 04:13
+
+TELESCOPE             INT
+DATE                  20060115
+OBSERVER/S            Deeg/Almenara
+PROGRAMME             C69
+PROPOSAL REF          C69                
+TELESCOPE OPERATOR    J.C.Guerra
+SUPPORT ASTRONOMER    A.Cardwell
+
+TEL STATION / FOCUS   Prime  / 43.55
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:44
+EVENING TWILIGHT (UT) 19:59
+MORNING TWILIGHT (UT) 06:43
+SUNRISE (UT)          07:58
+%ILLUM. LUNAR DISK    98
+DARK TIME (HRS)       10:44
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         19:33
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   1.3   71    26.1  30.5    6   772.7    1.3   3.4     6.3   71    60 
+20:00  -0.1   87    29.9  30.9  336   773.0   -0.1   2.7     5.8   87    74 
+21:00   0.1   98    42.5  45.5  325   772.9    0.1   4.8     5.9   98    75 
+22:00   0.3  100    41.0  43.4  326   772.9    0.3   5.1     6.0  100    79 
+23:00  -0.1  100    31.9  35.7  306   772.9   -0.1   5.1     6.2  100    79 
+00:00   1.4  100    23.3  29.0  294   772.9    1.4   5.4     6.2  100    83 
+01:00   1.5  100    40.9  46.8  330   772.6    1.5   5.8     6.4  100    85 
+02:00   0.3  100    37.2  40.8  327   772.3    0.3   5.7     6.4  100    83 
+03:00  -0.1  100    38.9  42.2  326   771.9   -0.1   5.7     6.6  100    81 
+04:00  -0.5  100    39.1  47.2  323   771.3   -0.5   5.3     6.6  100    79 
+
+TIME LOST weather           08:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+clear at the beginning of the night. High humidity since 20:00 hours.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 490358 Bias             19:33:59.99 +26:00:00.1 2000.00  14:07 1.030  WFC    0.0  180  r                                
+ 490359 Bias             19:33:59.99 +25:59:59.9 2000.00  14:09 1.032  WFC    0.0  180  r                                
+ 490360 Flat field        2:15:00.00 -09:59:59.9 2000.00  18:59 1.311  WFC    0.0  180  B                                
+ 490361 Flat field        2:15:00.00 -10:00:00.0 2000.00  19:01 1.309  WFC    0.0  180  B                                no offset
+ 490362 Flat field        2:14:59.99 -09:59:50.1 2000.00  19:04 1.305  WFC    0.0  180  B                                bad
+ 490363 Flat field        2:15:00.67 -09:59:49.9 2000.00  19:06 1.303  WFC    0.0  180  B                                bad
+ 490364 Flat field        2:15:00.67 -09:59:59.9 2000.00  19:07 1.302  WFC    0.0  180  B                                
+ 490365 Flat field        2:15:00.67 -09:59:39.9 2000.00  19:08 1.301  WFC    0.0  180  B                                
+ 490366 Flat field        2:14:59.99 -10:00:00.0 2000.00  19:09 1.299  WFC    0.0  180  V                                
+ 490367 Flat field        2:14:59.99 -09:59:49.9 2000.00  19:11 1.298  WFC    0.0  180  V                                
+ 490368 Flat field        2:15:00.67 -09:59:49.9 2000.00  19:12 1.296  WFC    0.0  180  V                                
+ 490369 Flat field        2:15:00.00 -10:00:00.0 2000.00  19:14 1.294  WFC    0.0  180  r                                
+ 490370 Flat field        2:15:00.00 -09:59:50.0 2000.00  19:16 1.292  WFC    0.0  180  r                                
+ 490371 Flat field        2:15:00.67 -09:59:49.9 2000.00  19:19 1.290  WFC    0.0  180  r                                
+ 490372 Flat field        2:14:59.99 -10:00:00.0 2000.00  19:22 1.287  WFC    0.0  180  i                                
+ 490373 Focus run         1:55:05.09 +00:45:41.9 2000.00  19:46 1.135  WFC    0.0  180  B                                focus 43.55
+ 490374 43587_78a         6:05:20.00 +06:47:59.9 2000.00  19:56 1.790  WFC    0.0  180  B                                
+ 490375 43587_78a         6:05:20.00 +06:48:00.0 2000.00  19:58 1.778  WFC    0.0  180  V                                
+ 490376 43587_78a         6:05:20.00 +06:48:00.0 2000.00  19:59 1.770  WFC    0.0  180  r                                close dome, high humidity
+ 490377 43587_78a         6:05:20.00 +06:48:00.0 2000.00  19:59 1.762  WFC    0.0  180  i                                bad serie

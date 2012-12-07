@@ -1,0 +1,105 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 10 03 08:01
+
+TELESCOPE             INT
+DATE                  20071002
+OBSERVER/S            Corradi, Liimets
+PROGRAMME             Planetary nebulae in the halo of M31
+PROPOSAL REF          D
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Corradi
+
+TEL STATION / FOCUS   Prime  / 43:55
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:05
+EVENING TWILIGHT (UT) 20:16
+MORNING TWILIGHT (UT) 05:47
+SUNRISE (UT)          06:58
+%ILLUM. LUNAR DISK    55
+DARK TIME (HRS)       09:31
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         23:29
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   6.7   58    16.4  19.5  308   769.9    6.7   9.1    13.9   58    54 
+21:00   5.7   67    22.0  23.2  318   770.1    5.7   7.4    13.3   67    66 
+22:00   6.0   60    25.1  27.3  314   770.4    6.0   7.0    12.9   60    63 
+23:00   6.4   43    21.8  23.7  302   770.6    6.4   7.2    12.5   43    45 
+00:00   4.5   85    24.0  26.5  306   770.5    4.5   6.4    12.7   85    79 
+01:00   4.2   85    24.6  28.4  311   770.2    4.2   6.6    12.5   85    75 
+02:00   6.0   52    34.2  37.6  316   769.8    6.0   6.8    12.3   52    60 
+03:00   6.4   34    38.1  39.1  319   769.5    6.4   7.1    11.3   34    41 
+04:00   5.7   40    31.7  34.4  322   768.9    5.7   6.7    11.4   40    40 
+05:00   4.2   64    37.0  39.0  324   768.4    4.2   5.3    10.8   64    76 
+06:00   4.5   54    33.4  35.5  329   768.2    4.5   5.8    10.5   54    56 
+
+TIME LOST weather           02:30
+TIME LOST Technical         00:20
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+high humidity and poor seeing
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+some time lost because of autoguider jumping at the beginning of the exposure
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 585586 Bias              0:00:00.00 +00:00:00.0  2000.00 18:13 4.399  WFC    0.0  180  [OII]3727                        
+ 585587 Bias              0:00:00.00 +00:00:00.0  2000.00 18:13 4.399  WFC    0.0  180  [OII]3727                        
+ 585588 Bias              0:00:00.00 +00:00:00.0  2000.00 18:14 4.399  WFC    0.0  180  [OII]3727                        
+ 585589 Bias              0:00:00.00 +00:00:00.0  2000.00 18:15 4.399  WFC    0.0  180  [OII]3727                        
+ 585590 Bias              0:00:00.00 +00:00:00.0  2000.00 18:16 4.399  WFC    0.0  180  [OII]3727                        
+ 585591 skyflat OII      19:58:59.99 +02:20:00.0  2000.00 19:00 1.196  WFC   37.1  180  [OII]3727                        useless
+ 585592 skyflat OII      19:59:00.00 +02:19:59.9  2000.00 19:03 1.191  WFC   37.1  180  [OII]3727                        useless
+ 585593 skyflat OII      19:59:00.66 +02:20:10.0  2000.00 19:06 1.186  WFC   60.0  180  [OII]3727                        useless
+ 585594 skyflat OIII     19:58:59.99 +02:20:00.0  2000.00 19:12 1.176  WFC   22.1  180  [OIII]5007                       !
+ 585595 skyflat OIII     19:59:00.67 +02:19:49.9  2000.00 19:13 1.173  WFC   20.1  180  [OIII]5007                       !
+ 585596 skyflat OIII     19:59:01.33 +02:19:39.9  2000.00 19:15 1.171  WFC   25.1  180  [OIII]5007                       !
+ 585597 skyflat OIII     19:59:02.00 +02:19:30.0  2000.00 19:16 1.168  WFC   38.1  180  [OIII]5007                       !
+ 585598 skyflat StrY     19:59:02.65 +02:19:20.0  2000.00 19:19 1.165  WFC   15.1  180  stromgren y                      useless
+ 585599 skyflat StrY     19:59:02.00 +02:19:10.0  2000.00 19:20 1.162  WFC   45.1  180  stromgren y                      !
+ 585600 skyflat StrY     19:59:01.33 +02:19:19.9  2000.00 19:23 1.158  WFC  120.0  180  stromgren y                      !
+ 585601 skyflat StrY     19:59:02.00 +02:19:10.0  2000.00 19:26 1.152  WFC  239.4  180  stromgren y                      !
+ 585602 Focus run        21:48:57.00 +28:37:48.0  1950.00 20:20 1.113  WFC   15.1  180  [OIII]5007                       
+ 585603 Focus run        21:48:57.00 +28:37:48.0  1950.00 20:30 1.094  WFC   15.1  180  [OIII]5007                       
+ 585604 BD+284211 OIII   21:48:56.99 +28:37:48.0  1950.00 20:36 1.079  WFC   20.1  180  [OIII]5007                       
+ 585605 BD+284211 stY    21:48:56.99 +28:37:48.0  1950.00 20:40 1.074  WFC    9.5  180  stromgren y                      
+ 585607 M31#45 OIII 20m   0:50:20.99 +42:42:02.1  2000.00 20:57 1.601  WFC 1199.4  180  [OIII]5007                       
+ 585608 M31#45 OIII 20m   0:50:21.00 +42:42:02.1  2000.00 21:20 1.470  WFC 1198.9  180  [OIII]5007                       
+ 585610 M31#45 OIII 20m   0:50:20.99 +42:42:02.1  2000.00 21:47 1.351  WFC 1199.5  180  [OIII]5007                       
+ 585611 M31#45 OIII 20m   0:50:21.00 +42:42:02.0  2000.00 22:10 1.268  WFC 1199.4  180  [OIII]5007                       
+ 585613 M31#45 stY 400s   0:50:20.99 +42:42:01.9  2000.00 22:34 1.218  WFC  399.8  180  stromgren y                      
+ 585614 M31#45 stY 400s   0:50:20.99 +42:42:02.1  2000.00 01:01 1.032  WFC  399.9  180  stromgren y                      bands in CCD1
+ 585616 M31#45 stY 400s   0:50:21.00 +42:42:02.1  2000.00 01:15 1.031  WFC  399.9  180  stromgren y                      
+ 585617 M31#45 stY 400s   0:50:21.00 +42:42:02.1  2000.00 01:24 1.031  WFC  399.9  180  stromgren y                      
+ 585618 M31#17 OIII 20m   0:40:08.33 +39:35:55.1  2000.00 01:35 1.029  WFC 1198.9  180  [OIII]5007                       
+ 585619 M31#17 OIII 20m   0:40:08.33 +39:35:55.1  2000.00 01:59 1.045  WFC 1199.5  180  [OIII]5007                       
+ 585620 M31#17 OIII 20m   0:40:08.33 +39:35:55.1  2000.00 02:23 1.071  WFC 1199.4  180  [OIII]5007                       
+ 585621 M31#17 stY 400s   0:40:08.32 +39:35:55.2  2000.00 02:45 1.092  WFC  399.8  180  stromgren y                      
+ 585622 M31#17 stY 400s   0:40:08.33 +39:35:55.2  2000.00 02:55 1.108  WFC  399.8  180  stromgren y                      
+ 585623 M31#17 stY 400s   0:40:08.32 +39:35:55.2  2000.00 03:04 1.125  WFC  399.7  180  stromgren y                      
+ 585625 M31#46 OIII 20m   0:52:17.27 +42:19:30.2  2000.00 03:30 1.176  WFC 1199.4  180  [OIII]5007                       
+ 585626 M31#46 OIII 20m   0:52:17.28 +42:19:30.3  2000.00 03:54 1.237  WFC 1199.0  180  [OIII]5007                       
+ 585627 M31#46 OIII 20m   0:52:17.27 +42:19:30.3  2000.00 04:18 1.312  WFC 1199.4  180  [OIII]5007                       
+ 585628 M31#46 stY 400s   0:52:17.27 +42:19:30.2  2000.00 04:41 1.378  WFC  399.9  180  stromgren y                      
+ 585629 M31#46 stY 400s   0:52:17.27 +42:19:30.3  2000.00 04:52 1.425  WFC  399.8  180  stromgren y                      
+ 585630 M31#46 stY 400s   0:52:17.27 +42:19:30.2  2000.00 05:01 1.468  WFC  399.9  180  stromgren y                      
+ 585633 M31#42 OIII 20m   0:51:18.83 +41:46:48.1  2000.00 05:23 1.651  WFC 1199.3  180  [OIII]5007                       
+ 585634 M31#42 OIII 20m   0:51:18.83 +41:46:48.1  2000.00 05:49 1.855  WFC 1199.4  180  [OIII]5007                       
+ 585635 M31#42 stY 400s   0:51:18.83 +41:46:48.1  2000.00 06:11 2.010  WFC  399.8  180  stromgren y                      
+ 585636 M31#42 stY 400s   0:51:18.83 +41:46:48.1  2000.00 06:19 2.108  WFC  399.8  180  stromgren y                      
+ 585637 SP0501+527 OII 1  5:05:30.63 +52:49:55.2  2000.00 06:29 1.116  WFC   10.1  180  [OIII]5007                       its OIII
+ 585638 SP0501+527 OIII   5:05:30.63 +52:49:55.2  2000.00 06:32 1.118  WFC    9.6  180  stromgren y                      
+ 585639 skyflat sty       9:13:48.99 +46:13:57.9  2000.00 06:37 1.293  WFC   12.1  180  stromgren y                      
+ 585640 skyflat sty       9:13:49.96 +46:14:08.1  2000.00 06:39 1.286  WFC   10.1  180  stromgren y                      
+ 585641 skyflat sty       9:13:50.93 +46:14:17.9  2000.00 06:40 1.283  WFC    6.1  180  stromgren y                      
+ 585642 skyflat OIII      9:13:50.92 +46:14:17.9  2000.00 06:41 1.279  WFC   21.5  180  [OIII]5007                       
+ 585643 skyflat OIII      9:13:49.95 +46:14:07.9  2000.00 06:43 1.275  WFC    8.1  180  [OIII]5007                       
+ 585644 skyflat OIII      9:13:49.00 +46:13:57.9  2000.00 06:44 1.271  WFC    4.6  180  [OIII]5007                       
+ 585645 skyflat OIII      9:13:48.03 +46:13:47.9  2000.00 06:45 1.268  WFC    3.1  180  [OIII]5007                       
+ 585646 skyflat OIII      9:13:47.06 +46:13:37.9  2000.00 06:46 1.265  WFC    3.1  180  [OIII]5007                       

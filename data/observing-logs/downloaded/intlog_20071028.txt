@@ -1,0 +1,99 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 10 29 06:36
+
+TELESCOPE             INT
+DATE                  20071028
+OBSERVER/S            Valentini/Corradi
+PROGRAMME             D night
+PROPOSAL REF          D
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    D night
+
+TEL STATION / FOCUS   Prime  / 43.51
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:38
+EVENING TWILIGHT (UT) 19:50
+MORNING TWILIGHT (UT) 06:01
+SUNRISE (UT)          07:14
+%ILLUM. LUNAR DISK    88
+DARK TIME (HRS)       10:11
+TWILIGHT TIME (HRS)   02:25
+MOONRISE (UT)         20:12
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   3.3   96    25.5  28.4   49   770.3    3.3   9.2    12.1   96    67 
+20:00   3.7  100    28.8  33.1   48   770.7    3.7   9.2    12.1  100    70 
+21:00   7.3   16    37.7  46.1   53   771.1    7.3  10.0    12.1   16    48 
+22:00   7.6   20    30.0  42.1   38   771.3    7.6   8.0    11.5   20    24 
+23:00   8.0   17    35.9  39.6   51   771.5    8.0   8.1    11.2   17    27 
+00:00   2.7  100    41.9  46.1   23   769.1    2.7   8.0    12.1  100    71 
+01:00   2.4  100    47.8  50.7   34   768.7    2.4   7.9    12.0  100    71 
+01:00   1.7  100    41.8  48.7   26   768.9    1.7   8.2    12.1  100    71 
+01:00   1.7  100    41.8  48.7   26   768.9    1.7   8.2    12.1  100    71 
+01:00   1.7  100    41.8  48.7   26   768.9    1.7   8.2    12.1  100    71 
+01:00   1.7  100    41.8  48.7   26   768.9    1.7   8.2    12.1  100    71 
+01:00   1.7  100    41.8  48.7   26   768.9    1.7   8.2    12.1  100    71 
+01:00   1.7  100    41.8  48.7   26   768.9    1.7   8.2    12.1  100    71 
+01:00   1.7  100    41.8  48.7   26   768.9    1.7   8.2    12.1  100    71 
+01:00   1.7  100    41.8  48.7   26   768.9    1.7   8.2    12.1  100    71 
+01:00   1.7  100    41.8  48.7   26   768.9    1.7   8.2    12.1  100    71 
+01:00   1.7  100    41.8  48.7   26   768.9    1.7   8.2    12.1  100    71 
+01:00   1.7  100    41.8  48.7   26   768.9    1.7   8.2    12.1  100    71 
+01:00   1.7  100    41.8  48.7   26   768.9    1.7   8.2    12.1  100    71 
+01:00   1.7  100    41.8  48.7   26   768.9    1.7   8.2    12.1  100    71 
+02:00   2.2  100    40.6  45.4   35   768.8    2.2   8.3    12.1  100    71 
+03:00   2.9  100    34.6  36.8   46   768.5    2.9   8.5    12.0  100    72 
+04:00   3.4   72    35.3  38.6   41   768.3    3.4   8.5    11.9   72    61 
+05:00   1.8  100    42.1  47.8   40   767.9    1.8   8.2    12.0  100    67 
+06:00   3.0   86    32.5  38.7   46   768.2    3.0   8.1    12.1   86    67 
+07:00   1.2   99    26.9  32.2   51   768.8    1.2   8.1    11.8   99    68 
+
+TIME LOST weather           02:00
+TIME LOST Technical         03:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+the night started with clouds and high humidity but then the humidity went down and the sky become clean. The seeing (when measurable) was poor during the whole night: 1.6 - 1.8 arcsec.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+TIME LOST FOR TCS NOT CONNECTED!!!SEVERE PROBLEM!! at the end of a normal exposure (600s with R filter in M33 at about 4 UT) an alarm appeared in the INT-TCS screens:the TCS wasn't connected.
+Following the instructions on the troubleshooter, I first tryed to do the telnet (even with "telnet inttcs" and "telnet lpas2", but the connection wasn't possible (timeout). The I  logged out of the observing system, but when I tryed to telnet to TCS the same problem occurred:the connection wasn't possible.
+Then I called the WHT operator, but he didn't solved the problem and he couldn't come to INT. So the night ended at 4:40 UT!!!
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 592619 Bias              0:00:00.00 +00:00:00.0  2007.82 18:31 4.239  WFC    0.0  180  r                                
+ 592620 Bias              0:00:00.00 +00:00:00.0  2007.82 18:31 4.239  WFC    0.0  180  r                                
+ 592621 Bias              0:00:00.00 +00:00:00.0  2007.82 18:32 4.239  WFC    0.0  180  r                                
+ 592622 Bias              0:00:00.00 +00:00:00.0  2007.82 18:33 4.239  WFC    0.0  180  r                                
+ 592623 Bias              0:00:00.00 +00:00:00.0  2007.82 18:34 4.239  WFC    0.0  180  r                                
+ 592624 Focus run        23:56:40.00 +59:44:59.9  2000.00 21:36 1.193  WFC   10.1  180  V                                
+ 592625 Focus run        23:15:48.00 +11:26:32.0  2000.00 21:51 1.048  WFC   10.1  180  V                                
+ 592626 Focus run        23:15:48.00 +11:26:31.9  2000.00 22:02 1.047  WFC   10.1  180  V                                
+ 592630 Dark frame       23:15:48.00 +11:26:32.0  2000.00 22:29 1.055  WFC   50.0  180  V                                
+ 592631 Dark frame       23:15:48.00 +11:26:31.9  2000.00 22:32 1.057  WFC   40.0  180  V                                
+ 592634 Dark frame       23:15:48.00 +11:26:32.0  2000.00 22:40 1.062  WFC   25.1  180  V                                
+ 592636 Dark frame       23:15:47.99 +11:26:31.9  2000.00 22:43 1.064  WFC   22.1  180  V                                
+ 592637 Dark frame       23:15:48.00 +11:26:31.9  2000.00 22:47 1.068  WFC   35.0  180  V                                
+ 592638 Dark frame       23:15:48.00 +11:26:32.0  2000.00 22:49 1.070  WFC   10.0  180  V                                
+ 592639 Dark frame       23:15:47.99 +11:26:32.0  2000.00 22:51 1.072  WFC   30.0  180  V                                
+ 592640 Dark frame       23:15:48.00 +11:26:32.0  2000.00 22:56 1.077  WFC   30.0  180  V                                
+ 592641 Dark frame       23:15:48.00 +11:26:32.0  2000.00 22:59 1.080  WFC   30.0  180  V                                
+ 592642 Dark frame       23:15:47.99 +11:26:32.0  2000.00 23:02 1.083  WFC   30.0  180  V                                
+ 592644 Dark frame       23:15:47.99 +11:26:31.9  2000.00 23:06 1.089  WFC   30.0  180  V                                
+ 592645 Dark frame       23:15:48.00 +11:26:32.0  2000.00 23:11 1.095  WFC   30.0  180  V                                
+ 592646 Focus run        23:56:40.00 +59:45:00.0  2000.00 00:35 1.243  WFC   10.1  180  [OIII]5007                       
+ 592648 M31#12 O3 20m     0:37:23.20 +39:24:34.6  2000.00 00:53 1.091  WFC 1199.4  180  [OIII]5007                       
+ 592650 M31#12 O3 20m     0:37:23.19 +39:24:34.8  2000.00 01:21 1.141  WFC 1199.4  180  [OIII]5007                       
+ 592652 M31#12 O3 20m     0:37:23.19 +39:24:34.7  2000.00 01:49 1.207  WFC 1199.4  180  [OIII]5007                       
+ 592654 M31#12 stY 400s   0:37:23.19 +39:24:34.7  2000.00 02:17 1.274  WFC  399.9  180  stromgren y                      
+ 592656 M31#12 stY 400s   0:37:23.20 +39:24:34.5  2000.00 02:30 1.319  WFC  399.9  180  stromgren y                      
+ 592658 M31#12 stY 400s   0:37:23.20 +39:24:34.6  2000.00 02:41 1.363  WFC  399.8  180  stromgren y                      
+ 592659 novaM33 V 1200s   1:33:58.00 +30:57:34.6  2000.00 02:57 1.245  WFC 1199.3  180  V                                
+ 592660 novaM33 V 1200s   1:33:58.00 +30:57:34.5  2000.00 03:19 1.297  WFC  199.9  180  V                                
+ 592661 novaM33 V 1200s   1:33:57.99 +30:57:34.6  2000.00 03:29 1.347  WFC  399.9  180  V                                
+ 592662 novaM33 I 00s     1:33:57.99 +30:57:34.6  2000.00 03:39 1.393  WFC  399.4  180  I                                
+ 592663 novaM33 I 600s    1:33:58.00 +30:57:34.5  2000.00 03:48 1.450  WFC  599.8  180  I                                
+ 592664 novaM33 I 800s                                    04:00        WFC  799.7       I                                

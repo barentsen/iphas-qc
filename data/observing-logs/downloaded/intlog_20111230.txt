@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 12 31 08:03
+
+TELESCOPE             INT
+DATE                  20111230
+OBSERVER/S            Ivana Damjanov, Jarle Brinchmann
+PROGRAMME             Adaptive Optics Deep Field
+PROPOSAL REF          N3
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS   Prime  / 43.45
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:31
+EVENING TWILIGHT (UT) 19:48
+MORNING TWILIGHT (UT) 06:40
+SUNRISE (UT)          07:56
+%ILLUM. LUNAR DISK    38
+DARK TIME (HRS)       10:52
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          00:23
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   2.8   19    32.0  35.9   42   776.6   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   3.4   11    45.0  57.0   52   776.9   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   3.2   11    46.1  58.1   56   777.1   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   2.8   13    46.9  53.5   72   777.3   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   3.2   15    29.7  32.3   63   777.4   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   1.9   39    24.3  33.6   79   777.0   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   1.5   49    17.2  28.3  109   776.6   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   2.4   26    34.4  48.5  132   776.6   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   2.6   18    37.0  40.1   88   776.7   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   3.1   17    21.5  30.6  122   776.7   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   3.0   15    25.5  40.2  143   776.6   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   2.4   22    31.3  37.7   99   776.4   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   3.5   12    33.7  42.3   91   776.9   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:10
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Poor seeing part of the night (>3" in g, reaching 5" in U)
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Chip was showing some dark striping at some point e.g. file 876438. dasreset did not resolve problem, nor did switching to fast/slow/fast readout.
+moving to a new field resolved it though and it did not reappear the rest of the night.
+

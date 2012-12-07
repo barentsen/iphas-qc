@@ -1,0 +1,94 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 12 21 04:44
+
+TELESCOPE             INT
+DATE                  20091220
+OBSERVER/S            Silvia Catalan
+PROGRAMME             Unveiling the history of the Galaxy with its fossil stars
+PROPOSAL REF          C9 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:26
+EVENING TWILIGHT (UT) 19:43
+MORNING TWILIGHT (UT) 06:36
+SUNRISE (UT)          07:52
+%ILLUM. LUNAR DISK    17
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          22:06
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.0   99    32.3  90.2  148   760.4    5.0    8.      9.   99     91
+20:00   4.4   99    66.1  14.8  173   760.4    4.4    7.      9.   99     91
+21:00   5.1   99    70.7  51.2  176   760.6    5.1    7.      9.   99     92
+22:00   5.1   99    71.8  62.0  167   761.1    5.1    7.      9.   99     92
+23:00   4.6   99    63.2  06.3  180   760.3    4.6                 99      #
+00:00   4.0   99    63.0  98.6  172   759.9    4.0                 99      #
+01:00   3.8   99    54.8  13.2  182   759.4    3.8    7.      9.   99     89
+02:00   4.1   99    56.0  89.6  184   759.3    4.1    7.      9.   99     90
+03:00   4.1   99    66.0  90.8  177   759.3    4.1    7.      9.   99     90
+04:00   4.3   99    26.2  34.8  190   760.5    4.3    7.      9.   99     90
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% humidity, rain
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 712630 Bias             15:59:59.99 +35:00:00.0  2009.97 12:21 1.037  WFC    0.0  180  r                                
+ 712631 TEST             16:00:00.00 +34:59:59.9  2009.97 12:26 1.043  WFC    2.0  180  i                                
+ 712632 Bias              0:00:00.00 +00:00:00.0  2009.97 12:39 4.285  WFC    0.0  180  i                                
+ 712633 TEST              0:00:00.00 +00:00:00.0  2009.97 12:41 4.285  WFC    2.1  180  i                                
+ 712634 Domeflat g        0:00:00.00 +00:00:00.0  2000.00 20:13 1.000  WFC   28.1  180  g                                
+ 712635 Domeflat g        0:00:00.00 +00:00:00.0  2000.00 20:14 1.000  WFC   28.1  180  g                                
+ 712636 Domeflat g        0:00:00.00 +00:00:00.0  2000.00 20:15 1.000  WFC   28.1  180  g                                
+ 712637 Domeflat g        0:00:00.00 +00:00:00.0  2000.00 20:16 1.000  WFC   27.6  180  g                                
+ 712638 Domeflat g        0:00:00.00 +00:00:00.0  2000.00 20:17 1.000  WFC   28.1  180  g                                
+ 712639 Domeflat g        0:00:00.00 +00:00:00.0  2000.00 20:18 1.000  WFC   28.1  180  g                                
+ 712640 Domeflat g        0:00:00.00 +00:00:00.0  2000.00 20:19 1.000  WFC   28.1  180  g                                
+ 712641 Domeflat g        0:00:00.00 +00:00:00.0  2000.00 20:20 1.000  WFC   28.1  180  g                                
+ 712642 Domeflat g        0:00:00.00 +00:00:00.0  2000.00 20:21 1.000  WFC   27.6  180  g                                
+ 712643 Domeflat g        0:00:00.00 +00:00:00.0  2000.00 20:22 1.000  WFC   28.1  180  g                                
+ 712644 Domeflat r        0:00:00.00 +00:00:00.0  2000.00 20:38 1.000  WFC    5.1  180  r                                
+ 712645 Domeflat r        0:00:00.00 +00:00:00.0  2000.00 20:39 1.000  WFC    5.1  180  r                                
+ 712646 Domeflat r        0:00:00.00 +00:00:00.0  2000.00 20:39 1.000  WFC    5.1  180  r                                
+ 712647 Domeflat r        0:00:00.00 +00:00:00.0  2000.00 20:40 1.000  WFC    5.1  180  r                                
+ 712648 Domeflat r        0:00:00.00 +00:00:00.0  2000.00 20:40 1.000  WFC    5.1  180  r                                
+ 712649 Domeflat r        0:00:00.00 +00:00:00.0  2000.00 20:41 1.000  WFC    5.1  180  r                                
+ 712650 Domeflat r        0:00:00.00 +00:00:00.0  2000.00 20:42 1.000  WFC    5.1  180  r                                
+ 712651 Domeflat r        0:00:00.00 +00:00:00.0  2000.00 20:42 1.000  WFC    5.1  180  r                                
+ 712652 Domeflat r        0:00:00.00 +00:00:00.0  2000.00 20:43 1.000  WFC    5.1  180  r                                
+ 712653 Domeflat r        0:00:00.00 +00:00:00.0  2000.00 20:43 1.000  WFC    5.1  180  r                                
+ 712654 Domeflat i        0:00:00.00 +00:00:00.0  2000.00 20:48 1.000  WFC    4.5  180  i                                
+ 712655 Domeflat i        0:00:00.00 +00:00:00.0  2000.00 20:49 1.000  WFC    5.0  180  i                                
+ 712656 Domeflat i        0:00:00.00 +00:00:00.0  2000.00 20:49 1.000  WFC    5.1  180  i                                
+ 712657 Domeflat i        0:00:00.00 +00:00:00.0  2000.00 20:50 1.000  WFC    5.1  180  i                                
+ 712658 Domeflat i        0:00:00.00 +00:00:00.0  2000.00 20:50 1.000  WFC    5.1  180  i                                
+ 712659 Domeflat i        0:00:00.00 +00:00:00.0  2000.00 20:51 1.000  WFC    5.1  180  i                                
+ 712660 Domeflat i        0:00:00.00 +00:00:00.0  2000.00 20:51 1.000  WFC    5.1  180  i                                
+ 712661 Domeflat i        0:00:00.00 +00:00:00.0  2000.00 20:52 1.000  WFC    5.1  180  i                                
+ 712662 Domeflat i        0:00:00.00 +00:00:00.0  2000.00 20:53 1.000  WFC    5.1  180  i                                
+ 712663 Domeflat i        0:00:00.00 +00:00:00.0  2000.00 20:53 1.000  WFC    5.1  180  i                                
+ 712664 Domeflat Ha       0:00:00.00 +00:00:00.0  2000.00 21:16 1.000  WFC   13.0  180  Halpha                           
+ 712665 Domeflat Ha       0:00:00.00 +00:00:00.0  2000.00 21:16 1.000  WFC   13.1  180  Halpha                           
+ 712666 Domeflat Ha       0:00:00.00 +00:00:00.0  2000.00 21:17 1.000  WFC   13.1  180  Halpha                           
+ 712667 Domeflat Ha       0:00:00.00 +00:00:00.0  2000.00 21:18 1.000  WFC   13.1  180  Halpha                           
+ 712668 Domeflat Ha       0:00:00.00 +00:00:00.0  2000.00 21:19 1.000  WFC   13.1  180  Halpha                           
+ 712669 Domeflat Ha       0:00:00.00 +00:00:00.0  2000.00 21:19 1.000  WFC   13.1  180  Halpha                           
+ 712670 Domeflat Ha       0:00:00.00 +00:00:00.0  2000.00 21:20 1.000  WFC   13.1  180  Halpha                           
+ 712671 Domeflat Ha       0:00:00.00 +00:00:00.0  2000.00 21:21 1.000  WFC   12.6  180  Halpha                           
+ 712672 Domeflat Ha       0:00:00.00 +00:00:00.0  2000.00 21:22 1.000  WFC   13.1  180  Halpha                           
+ 712673 Domeflat Ha       0:00:00.00 +00:00:00.0  2000.00 21:22 1.000  WFC   13.1  180  Halpha                           

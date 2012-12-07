@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 08 16 20:13
+
+TELESCOPE             INT
+DATE                  20120815
+OBSERVER/S            R. Barrena
+PROGRAMME             Service CAT
+PROPOSAL REF          Service CAT
+TELESCOPE OPERATOR    --
+SUPPORT ASTRONOMER    Dora
+
+TEL STATION / FOCUS   Prime  / 43.33
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:59
+EVENING TWILIGHT (UT) 21:16
+MORNING TWILIGHT (UT) 05:17
+SUNRISE (UT)          06:34
+%ILLUM. LUNAR DISK    3
+DARK TIME (HRS)       08:01
+TWILIGHT TIME (HRS)   02:34
+MOONRISE (UT)         05:21
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  15.2   51    11.7  16.8  274   774.4   15.2   18.     20.   51     43
+21:00  13.4   58    16.7  18.2  220   774.7   13.4   18.     20.   58     43
+22:00  13.0   52    16.4  24.2  297   775.3   13.0   14.     19.   52     50
+23:00  13.3   42    15.9  18.8  261   775.9   13.3   14.     18.   42     45
+00:00  13.5   40    15.4  22.7  290   775.9   13.5   13.     18.   40     42
+01:00  13.4   38    19.3  24.2  269   775.8   13.4   14.     17.   38     41
+02:00  13.6   36     9.8  12.8  252   775.6   13.6   13.     18.   36     39
+03:00  13.7   30    17.3  18.3  164   775.1   13.7   13.     17.   30     32
+04:00  14.6   12    27.0  28.7  253   774.7   14.6   14.     17.   12     15
+05:00  14.5   13    18.8  24.1  249   774.3   14.5   14.     17.   13     17
+06:00  14.3   11    23.0  31.4  221   774.1   14.3   14.     17.   11     15
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Photometric conditions with seeing between 1 and 1.2 arcsec
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Autoguiding worked very bad, oscilating in the E-W direction. This fact made the observation no so efficient and the the resultant PSF was oblated.
+
+

@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 02 22 07:50
+
+TELESCOPE             INT
+DATE                  20120221
+OBSERVER/S            R. Carrera, S. Murabito
+PROGRAMME             Open Clusters
+PROPOSAL REF          C34
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Dora Fohring
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:12
+EVENING TWILIGHT (UT) 20:24
+MORNING TWILIGHT (UT) 06:26
+SUNRISE (UT)          07:37
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       10:02
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         07:36
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   3.1    5    27.5  28.9   28   773.5   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   3.0    5    27.2  27.7   22   773.9   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   3.7    3    24.6  26.9   44   774.1   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   4.2    3    23.9  26.3   29   774.1   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   3.4    3    28.0  29.0   33   774.0   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   3.8    2    23.3  25.4   45   773.6   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   4.4    1    24.7  25.7   46   773.3   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   4.3    1    20.2  21.2   49   773.1   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   4.3    2    25.1  26.6   33   772.7   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   4.3    0    28.9  29.5   40   772.4   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   4.4    1    21.9  27.7   41   772.3   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   4.7    1    20.6  24.1   74   772.4   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Seeing satble the first part of the nigth, varible in the last part
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

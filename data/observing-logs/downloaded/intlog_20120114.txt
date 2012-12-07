@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 01 15 07:02
+
+TELESCOPE             INT
+DATE                  20120114
+OBSERVER/S            Lindsay Magill
+PROGRAMME             Supernova classification and follow-up
+PROPOSAL REF          ITF10-4
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Ledo, Fohring
+
+TEL STATION / FOCUS   Cassegrain  / 15.97
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:42
+EVENING TWILIGHT (UT) 19:58
+MORNING TWILIGHT (UT) 06:43
+SUNRISE (UT)          07:58
+%ILLUM. LUNAR DISK    66
+DARK TIME (HRS)       10:45
+TWILIGHT TIME (HRS)   02:31
+MOONRISE (UT)         23:58
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.6   36     5.6  13.3  177   770.9   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   5.2   38     7.2  12.4  165   771.3   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   5.1   35     8.0   8.2  191   771.4   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   5.4   32     5.1  12.3  192   771.5   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   5.9   29    12.4  15.3  144   771.9   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   6.0   32     4.5   6.5  212   771.9   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   6.1   31     9.0  10.2  255   771.6   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   5.4   27     4.8   5.7  301   771.5   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   5.2   27     0.1   0.4  123   771.4   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   5.4   24     5.8   6.5  340   770.8   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   4.6   33    14.6  15.4  262   770.6   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   5.1   27     3.6   4.3  138   770.7   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clouds much of the night, but there was only about half an hour's time actually wasted. Seeing varied all night between 1.5-2.5 approx.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+1.5" slit, 1x1 binning used all night
+
+

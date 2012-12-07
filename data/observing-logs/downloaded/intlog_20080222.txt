@@ -1,0 +1,100 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 02 23 04:29
+
+TELESCOPE             INT
+DATE                  20080222
+OBSERVER/S            Barker,Valentini
+PROGRAMME             D night
+PROPOSAL REF          D      
+TELESCOPE OPERATOR    Guerra
+SUPPORT ASTRONOMER    Barker, Valentini
+
+TEL STATION / FOCUS   Cassegrain  / 14.84
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:13
+EVENING TWILIGHT (UT) 20:25
+MORNING TWILIGHT (UT) 06:25
+SUNRISE (UT)          07:36
+%ILLUM. LUNAR DISK    96
+DARK TIME (HRS)       10:00
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         20:30
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -0.2   79    39.6  40.9  302   765.7   -0.2    5.      8.   79     63
+21:00  -0.4   86    34.9  37.6  307   766.5   -0.4    2.      7.   86     77
+22:00  -1.0   99    26.0  28.2  321   767.0   -1.0    2.      8.   99     81
+23:00  -1.5  100    29.6  28.7  328   767.1   -1.5    2.      7.  100     84
+00:00  -0.8  100    27.9  30.9  141   766.9   -0.8    1.      7.  100     87
+01:00  -1.2  100    29.2  33.6    2   766.6   -1.2    1.      7.  100     84
+02:00  -1.1   90    20.9  22.6  251   766.4   -1.1    1.      7.   90     80
+03:00  -1.6  100    32.2  36.6    9   765.9   -1.6    1.      7.  100     86
+04:00  -1.5   91    21.5  23.7  241   765.6   -1.5    1.      7.   91     80
+
+TIME LOST weather           12:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+clouds and high humidity
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+time lost because of bad weather (high humidity and clouds)
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 608381 Bias              0:00:00.00 +00:00:00.0  2008.14 11:34 1.001  IDS    0.0   12  Clear+Clear   0.9  65.6 5299.0   
+ 608382 Preflash only     0:00:00.00 +00:00:00.0  2008.14 11:35 1.003  IDS    0.0  106  Clear+Clear   0.9  65.6 5299.0   
+ 608383                   0:00:00.00 +00:00:00.0  2008.14 11:38 1.009  IDS    2.0   69  Clear+Clear   0.9  65.6 5299.0   
+ 608384 (target not name                                  11:40        IDS    2.0       Clear+Clear   1.0  65.6 5299.0   
+ 608385 (target not name                                  11:43        IDS    4.0       Clear+Clear   0.9  65.6 5299.0   
+ 608386 (target not name                                  11:44        IDS   10.0       Clear+Clear   1.0  65.6 5299.0   
+ 608387 (target not name                                  11:50        IDS    4.0       Clear+Clear   1.0  65.6 5299.0   
+ 608388 AGB               0:00:00.00 +00:00:00.0  2008.14 11:57 1.026  IDS    4.0   53  Clear+Clear   0.9  65.6 5299.0   
+ 608389 Bias             20:00:00.00 +20:00:00.0  2008.14 12:06 1.044  IDS    0.0   53  Clear+Clear   0.9  65.6 5299.0   
+ 608390 CuNe+CuAr         0:00:00.00 +00:00:00.0  2008.14 12:35 1.000  IDS    4.0   53  Clear+Clear   0.9  44.6 7298.7   
+ 608391 bias fast         0:00:00.00 +00:00:00.0  2008.14 13:54 1.000  IDS    0.0   53  Clear+Clear   1.0  44.6 7298.7   
+ 608392 bias slow         0:00:00.00 +00:00:00.0  2008.14 13:54 1.000  IDS    0.0   53  Clear+Clear   1.0  44.6 7298.7   
+ 608393 CuNe+CuAr         0:00:00.00 +00:00:00.0  2008.14 14:00 1.000  IDS   20.0   53  Clear+Clear   1.0  44.6 7298.7   
+ 608394 CuNe+CuAr fast    0:00:00.00 +00:00:00.0  2008.14 14:04 1.000  IDS   20.0   53  Clear+Clear   1.0  44.6 7298.7   
+ 608395 W fast            0:00:00.00 +00:00:00.0  2008.14 14:07 1.000  IDS    1.0   53  Clear+Clear   1.0  44.6 7298.7   
+ 608396 W fast            0:00:00.00 +00:00:00.0  2008.14 14:17 1.000  IDS    4.0   53  Clear+Clear   1.0  44.6 7298.7   Camshut shut
+ 608397 W fast            0:00:00.00 +00:00:00.0  2008.14 14:19 1.000  IDS    4.0   53  Clear+Clear   1.0  44.6 7298.7   
+ 608398 CuNe+CuAr fast    0:00:00.00 +00:00:00.0  2008.14 14:25 1.000  IDS   20.0   53  Clear+Clear   1.0  44.6 7298.7   Ignore
+ 608399 CuNe+CuAr fast    0:00:00.00 +00:00:00.0  2008.14 14:27 1.000  IDS   20.0   53  Clear+Clear   1.0  44.6 7298.7   
+ 608400 CuNe+CuAr fast    0:00:00.00 +00:00:00.0  2008.14 14:28 1.000  IDS   20.0   53  Clear+Clear   1.0  47.0 6702.2   
+ 608401 Hartman L         0:00:00.00 +00:00:00.0  2008.14 14:34 1.000  IDS   20.0   53  Clear+Clear   1.0  47.0 6702.2   
+ 608402 Hartman R         0:00:00.00 +00:00:00.0  2008.14 14:34 1.000  IDS   20.0   53  Clear+Clear   1.0  47.0 6702.2   
+ 608403 CuNe+CuAr         0:00:00.00 +00:00:00.0  2008.14 16:02 1.000  IDS    4.0  102  Clear+Clear   1.0  47.0 6702.2   
+ 608404 CuNe+CuAr         0:00:00.00 +00:00:00.0  2008.14 16:07 1.000  IDS    8.0  102  Clear+Clear   1.0  47.0 6702.2   
+ 608405 CuNe+CuAr         0:00:00.00 +00:00:00.0  2008.14 16:53 1.110  IDS    8.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608406 CuNe+CuAr         0:00:00.00 +00:00:00.0  2008.14 16:59 1.110  IDS    8.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608407 CuNe+CuAr         0:00:00.00 +00:00:00.0  2008.14 17:04 1.110  IDS    8.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608408 Hartman L         0:00:00.00 +00:00:00.0  2008.14 17:15 1.245  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608409 Hartman R         0:00:00.00 +00:00:00.0  2008.14 17:16 1.245  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608410 Hartman L         0:00:00.00 +00:00:00.0  2008.14 17:27 1.245  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608411 Hartman R         0:00:00.00 +00:00:00.0  2008.14 17:28 1.245  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608412 Hartman L         0:00:00.00 +00:00:00.0  2008.14 17:38 1.245  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608413 Hartman R         0:00:00.00 +00:00:00.0  2008.14 17:39 1.245  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608414 Hartman L         0:00:00.00 +00:00:00.0  2008.14 18:36 1.244  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608415 Hartman R         0:00:00.00 +00:00:00.0  2008.14 18:37 1.244  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608416 Hartman L         0:00:00.00 +00:00:00.0  2008.14 18:43 1.244  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608417 Hartman R         0:00:00.00 +00:00:00.0  2008.14 18:44 1.244  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608418 Hartman L         0:00:00.00 +00:00:00.0  2008.14 18:48 1.244  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608419 Hartman R         0:00:00.00 +00:00:00.0  2008.14 18:49 1.244  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608420 Hartman L         0:00:00.00 +00:00:00.0  2008.14 18:52 1.244  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608421 Hartman R         0:00:00.00 +00:00:00.0  2008.14 18:53 1.244  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608422 Hartman L         0:00:00.00 +00:00:00.0  2008.14 18:59 1.244  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608423 Hartman R         0:00:00.00 +00:00:00.0  2008.14 19:00 1.244  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608424 Hartman L         0:00:00.00 +00:00:00.0  2008.14 19:05 1.244  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608425 Hartman R         0:00:00.00 +00:00:00.0  2008.14 19:06 1.244  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608426 Hartman L         0:00:00.00 +00:00:00.0  2008.14 19:11 1.244  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608427 Hartman R         0:00:00.00 +00:00:00.0  2008.14 19:11 1.244  IDS   20.0  235  Clear+Clear   1.0  47.0 6702.2   
+ 608428 focusrun 14.65    5:05:30.59 +52:49:56.1  2000.00 20:48 1.105  IDS   10.0  235  Clear+Clear   1.0  50.9 5703.0   
+ 608429 focusrun 14.65    5:05:31.39 +52:49:43.9  2000.00 20:52 1.107  IDS   10.0  235  Clear+Clear   1.0  50.9 5703.0   
+ 608430 focusrun 14.65    5:05:31.39 +52:49:43.9  2000.00 20:53 1.107  IDS   20.0  235  Clear+Clear   1.0  50.9 5703.0   
+ 608431 focusrun 14.65    5:05:31.39 +52:49:43.9  2000.00 20:56 1.109  IDS   40.0  235  Clear+Clear   1.0  50.9 5703.0   

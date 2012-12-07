@@ -1,0 +1,108 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 01 11 00:41
+
+TELESCOPE             INT
+DATE                  20040110
+OBSERVER/S            Russell
+PROGRAMME             D night
+PROPOSAL REF          D                  
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:39
+EVENING TWILIGHT (UT) 19:55
+MORNING TWILIGHT (UT) 06:42
+SUNRISE (UT)          07:58
+%ILLUM. LUNAR DISK    89
+DARK TIME (HRS)       10:47
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         21:11
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.7   69    30.4  33.4   11   773.4   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   4.6   70    26.4  28.3    8   773.4   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   4.2   67    29.9  31.1   10   773.4   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   4.0   72    25.8  30.9   28   773.7   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   4.2   60    31.0  32.3    1   773.6   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   4.2   72    27.9  32.7    4   773.3   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           06:00
+TIME LOST Technical         12:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloud cover from the start of the night until at least midnight.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Problem with the WFC shutter.  When taking an exposure the shutter opened then closed immediately.
+The engineers tried for 3 hours to fix it but could not on the night..  They will return on 11th Jan to fix the problem.
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 385033 Bias frame       18:30:59.99 +65:00:00.0 J2000.00 13:28 1.261  WFC    0.0  180  r                                
+ 385034 Bias frame       18:30:59.99 +65:00:00.0 J2000.00 13:30 1.263  WFC    0.0  180  r                                
+ 385035 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:17 4.424  WFC    0.0  180  Halpha                           
+ 385036 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:18 4.424  WFC    0.0  180  Halpha                           
+ 385037 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:18 4.424  WFC    0.0  180  Halpha                           
+ 385038 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:19 4.424  WFC    0.0  180  Halpha                           
+ 385039 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:19 4.424  WFC    0.0  180  Halpha                           
+ 385040 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:20 4.424  WFC    0.0  180  Halpha                           
+ 385041 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:21 4.424  WFC    0.0  180  Halpha                           
+ 385042 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:21 4.424  WFC    0.0  180  Halpha                           
+ 385043 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:22 4.424  WFC    0.0  180  Halpha                           
+ 385044 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:23 4.424  WFC    0.0  180  Halpha                           
+ 385045 SkyFlat Ha        1:00:00.00 +00:07:00.0 J2000.00 15:34 1.139  WFC    1.8  180  Halpha                           shutter problem - short exposure time
+ 385046 SkyFlat Ha        0:59:59.99 +00:07:00.0 J2000.00 15:35 1.139  WFC    0.7  180  Halpha                           shutter problem - short exposure time
+ 385047 SkyFlat Ha        1:00:00.00 +00:06:59.9 J2000.00 15:36 1.139  WFC    1.2  180  Halpha                           shutter problem - short exposure time
+ 385048 Flat field        1:00:00.00 +00:06:59.9 J2000.00 16:08 1.148  WFC    1.8  180  B                                
+ 385049 Flat field        0:00:00.00 +00:00:00.0 J2000.00 16:14 4.704  WFC    1.2  180  r                                
+ 385050 Dark frame        0:00:00.00 +00:00:00.0 J2000.00 19:35 4.704  WFC   15.0  180  Halpha                           
+ 385051 Flat field        0:00:00.00 +00:00:00.0 J2000.00 16:22 4.704  WFC    1.6  180  Halpha                           
+ 385052 MABLANK1          0:00:00.00 +00:00:00.0 J2000.00 16:23 4.704  WFC    0.9  180  Halpha                           
+ 385053 MABLANK1          0:00:00.00 +00:00:00.0 J2000.00 16:24 4.704  WFC    0.7  180  Halpha                           
+ 385054 MABLANK1          0:00:00.00 +00:00:00.0 J2000.00 16:25 4.704  WFC    0.7  180  Halpha                           
+ 385055 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 19:50 4.704  WFC    0.0  180  r                                
+ 385056 MABLANK1          0:00:00.00 +00:00:00.0 J2000.00 16:39 4.704  WFC    0.9  180  r                                
+ 385057 MABLANK1          0:00:00.00 +00:00:00.0 J2000.00 16:43 4.704  WFC    0.9  180  r                                
+ 385058 Dark frame        0:00:00.00 +00:00:00.0 J2000.00 19:59 4.704  WFC    5.0  180  r                                
+ 385059 Flat field        0:00:00.00 +00:00:00.0 J2000.00 16:46 4.704  WFC    0.8  180  r                                
+ 385060 MABLANK1          0:00:00.00 +00:00:00.0 J2000.00 17:03 4.712  WFC    1.7  180  Halpha                           
+ 385061 MABLANK1          0:00:00.00 +00:00:00.0 J2000.00 17:06 4.712  WFC    0.7  180  Halpha                           
+ 385062 MABLANK1          0:00:00.00 +00:00:00.0 J2000.00 17:12 4.712  WFC    0.7  180  Halpha                           
+ 385063 MABLANK1          0:00:00.00 +00:00:00.0 J2000.00 17:12 4.712  WFC    0.7  180  Halpha                           
+ 385064 Bias              0:00:00.00 +00:00:00.0 J2000.00 20:40 4.712  WFC    0.0  180  r                                
+ 385065 MABLANK1          0:00:00.00 +00:00:00.0 J2000.00 17:27 4.712  WFC    1.9  180  r                                
+ 385066 MABLANK1          0:00:00.00 +00:00:00.0 J2000.00 17:34 4.712  WFC    1.7  180  g                                
+ 385067 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:01 4.712  WFC    0.0  180  Halpha                           
+ 385068 MABLANK1          0:00:00.00 +00:00:00.0 J2000.00 17:48 4.712  WFC 214748  180  Halpha                           
+ 385069 Flat field        0:00:00.00 +00:00:00.0 J2000.00 17:49 4.712  WFC    1.2  180  Halpha                           
+ 385070 MABLANK1          0:00:00.00 +00:00:00.0 J2000.00 17:54 4.712  WFC    0.9  180  Halpha                           
+ 385071 MABLANK1          0:00:00.00 +00:00:00.0 J2000.00 17:55 4.712  WFC    1.5  180  Halpha                           
+ 385072 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 21:12 4.712  WFC    0.0  180  Halpha                           
+ 385073 Dark frame        0:00:00.00 +00:00:00.0 J2000.00 21:13 4.712  WFC    5.0  180  Halpha                           
+ 385074 Flat field        0:00:00.00 +00:00:00.0 J2000.00 18:01 4.712  WFC    0.9  180  Halpha                           
+ 385075 Flat field        0:00:00.00 +00:00:00.0 J2000.00 18:03 4.712  WFC    0.8  180  Halpha                           
+ 385076 Bias frame        0:00:00.00 +00:00:00.0 A        21:56 1.166  WFC    0.0  180  r                                
+ 385077                   0:00:00.00 +00:00:00.0 A        18:43 1.166  WFC    1.7  180  r                                
+ 385078 Dark frame        0:00:00.00 +00:00:00.0 A        22:01 1.166  WFC   15.0  180  r                                
+ 385079                   0:00:00.00 +00:00:00.0 A        18:49 1.166  WFC    0.9  180  r                                
+ 385080 Bias              0:00:00.00 +00:00:00.0 A        22:31 4.275  WFC    0.0  180  Halpha                           
+ 385081                   0:00:00.00 +00:00:00.0 A        19:18 4.275  WFC 214748  180  Halpha                           
+ 385082                   0:00:00.00 +00:00:00.0 A        19:19 4.275  WFC    0.9  180  Halpha                           
+ 385084                   0:00:00.00 +00:00:00.0 A        19:23 4.275  WFC    0.9  180  Halpha                           
+ 385085                   0:00:00.00 +00:00:00.0 A        19:31 4.292  WFC    1.8  180  r                                
+ 385086                   0:00:00.00 +00:00:00.0 A        19:32 4.292  WFC    0.8  180  r                                
+ 385087                   0:00:00.00 +00:00:00.0 A        19:33 4.292  WFC    0.7  180  r                                
+ 385088 Bias              0:00:00.00 +00:00:00.0 A        22:59 4.298  WFC    0.0  180  Halpha                           
+ 385089                   0:00:00.00 +00:00:00.0 A        19:46 4.298  WFC    1.7  180  Halpha                           
+ 385090                   0:00:00.00 +00:00:00.0 A        19:47 4.298  WFC    0.8  180  Halpha                           
+ 385091                   0:00:00.00 +00:00:00.0 A        19:54 4.298  WFC    0.8  180  Halpha                           
+ 385092 Sky background    0:00:00.00 +00:00:00.0 A        19:56 4.298  WFC    0.7  180  Halpha                           
+ 385093 Flat field        0:00:00.00 +00:00:00.0 A        19:57 4.298  WFC    0.7  180  Halpha                           
+ 385094                   0:00:00.00 +00:00:00.0 A        20:10 1.499  WFC    1.7  180  Halpha                           
+ 385095                   0:00:00.00 +00:00:00.0 A        20:11 1.499  WFC    0.9  180  Halpha                           

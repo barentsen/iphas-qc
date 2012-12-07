@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 09 28 08:01
+
+TELESCOPE             INT
+DATE                  20110927
+OBSERVER/S            Alireza Aghaee
+PROGRAMME             INO1
+PROPOSAL REF          S/D
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    H. Liam & P. Leep
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:11
+EVENING TWILIGHT (UT) 20:22
+MORNING TWILIGHT (UT) 05:44
+SUNRISE (UT)          06:55
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       09:22
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No Moon all night
+MOONSET (UT)          No Moon all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  13.1   60    15.0  19.0  225   776.9   13.1   16.     17.   60     54
+21:00  12.2   67    15.6  18.7  226   777.1   12.2   14.     17.   67     66
+22:00  11.9   68    26.0  35.9  222   777.4   11.9   13.     16.   68     70
+23:00  12.1   64    28.9  33.9  241   777.5   12.1   13.     16.   64     66
+00:00  12.6   69    51.0  56.2  273   777.7   12.6   13.     16.   69     70
+01:00  12.2   66    48.0  53.7  227   777.6   12.2   13.     16.   66     67
+02:00  12.0   67    53.1  53.9  180   777.1   12.0   13.     16.   67     69
+03:00  11.9   69    42.1  48.8  235   776.9   11.9   13.     16.   69     70
+04:00  11.7   64    52.6  60.0  248   776.2   11.7   13.     15.   64     64
+05:00  11.7   72    47.9  54.0  225   776.0   11.7   13.     15.   72     69
+06:00  11.8   69    46.8  51.6  117   775.7   11.8   12.     15.   69     72
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:30
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Windy
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Error in moving the Dome
+
+

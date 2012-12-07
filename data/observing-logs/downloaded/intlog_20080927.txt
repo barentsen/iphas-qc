@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 10 02 10:13
+
+TELESCOPE             INT
+DATE                  20080927
+OBSERVER/S            Huxor/Price
+PROGRAMME             P15
+PROPOSAL REF          P15        
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS   Prime  / 43.75
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:10
+EVENING TWILIGHT (UT) 20:21
+MORNING TWILIGHT (UT) 05:44
+SUNRISE (UT)          06:56
+%ILLUM. LUNAR DISK    2
+DARK TIME (HRS)       09:23
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         06:01
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   6.7   99    25.2  31.8  183   769.8    6.7  11.5    13.6   99    82 
+21:00   6.3   99    17.7  21.4  188   770.3    6.3  11.4    13.5   99    82 
+22:00   6.2   99    13.1  14.9  187   770.7    6.2  11.4    13.7   99    80 
+23:00   6.0   99    12.7  16.2  189   771.1    6.0  11.2    13.6   99    80 
+00:00   6.0   99    18.4  24.6  168   771.1    6.0  11.1    13.6   99    81 
+01:00   5.9   99    19.5  27.4  189   770.9    5.9  10.9    13.5   99    81 
+02:00   5.7   99    24.1  30.3  181   770.6    5.7  10.6    13.4   99    83 
+03:00   5.5   99    24.5  27.8  186   770.4    5.5  10.4    13.3   99    81 
+04:00   5.3   99    22.5  33.9  201   770.2    5.3  10.3    13.4   99    77 
+05:00   5.9   89    27.2  36.2  207   769.9    5.9  10.2    13.2   89    76 
+
+TIME LOST weather           09:22
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloud and rain all night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Whole lost to cloud, rain.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

@@ -1,0 +1,66 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 12 27 03:37
+
+TELESCOPE             INT
+DATE                  20081226
+OBSERVER/S            P Maxted, P Wood
+PROGRAMME             Testing models for the progenitors of Type Ia Sne
+PROPOSAL REF          P1                 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Florencia
+
+TEL STATION / FOCUS   Cassegrain  / 14.85
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:29
+EVENING TWILIGHT (UT) 19:46
+MORNING TWILIGHT (UT) 06:39
+SUNRISE (UT)          07:55
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         No Moon all night
+MOONSET (UT)          No Moon all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   0.9   99    28.6  46.2  172   759.6    0.9    5.      8.   99     83
+20:00   0.7   99    26.1  42.2  164   760.1    0.7    5.      8.   99     84
+21:00   1.3   99    39.9  52.6  173   759.8    1.3    5.      8.   99     83
+22:00   2.2   99    32.2  30.8  159   760.4    2.2    6.      8.   99     83
+23:00  -0.2   99    45.0  53.4  160   759.1   -0.2    5.      8.   99     84
+00:00   0.3   99    21.4  34.1  180   759.0    0.3    4.      8.   99     83
+01:00  -0.2   99    31.4  51.0  166   757.9   -0.2    4.      8.   99     85
+02:00   0.1   99    10.8  24.9  164   758.3    0.1    4.      8.   99     83
+03:00  -0.4   99    27.0  35.9  174   757.9   -0.4    4.      8.   99     84
+
+TIME LOST weather           11:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% humidity all night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 652725 Bias              0:00:00.00 +00:00:00.0  2000.00 12:09 1.000  IDS    0.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 652726 Bias             15:59:59.99 +16:00:00.0  2008.98 12:12 1.086  IDS    0.0    0  Clear+Clear   1.2  31.8 5120.8   
+ 652727 Bias             15:59:59.99 +16:00:00.0  2008.98 12:14 1.088  IDS    0.0    0  Clear+Clear   1.2  31.8 5120.8   
+ 652728 Arc              16:00:00.00 +15:59:59.9  2008.98 12:16 1.091  IDS    5.0    0  Clear+Clear   1.2  31.8 5120.8   
+ 652729 Bias              0:00:00.00 +00:00:00.0  2008.99 12:19 1.000  IDS    0.0    0  Clear+Clear   1.2  31.8 5120.8   
+ 652730 Bias              0:00:00.00 +00:00:00.0  2008.99 12:21 1.000  IDS    0.0    0  Clear+Clear   1.2  31.8 5120.8   
+ 652731 Arc               0:00:00.00 +00:00:00.0  2008.99 18:43 1.000  IDS   30.0    0  Clear+Clear   1.2  31.8 5121.9   
+ 652732 Flat, dark dome   0:00:00.00 +00:00:00.0  2008.99 20:11 1.000  IDS  100.0    0  Clear+Clear   1.2  31.8 5121.9   
+ 652733 Flat, dark dome   0:00:00.00 +00:00:00.0  2008.99 20:13 1.000  IDS  100.0    0  Clear+Clear   1.2  31.8 5121.9   
+ 652734 Flat, dark dome   0:00:00.00 +00:00:00.0  2008.99 20:15 1.000  IDS  100.0    0  Clear+Clear   1.2  31.8 5121.9   
+ 652735 Flat, dark dome   0:00:00.00 +00:00:00.0  2008.99 20:17 1.000  IDS  100.0    0  Clear+Clear   1.2  31.8 5121.9   
+ 652736 Flat, dark dome   0:00:00.00 +00:00:00.0  2008.99 20:18 1.000  IDS  100.0    0  Clear+Clear   1.2  31.8 5121.9   
+ 652737 Flat, dark dome   0:00:00.00 +00:00:00.0  2008.99 20:20 1.000  IDS  100.0    0  Clear+Clear   1.2  31.8 5121.9   
+ 652738 Flat, dark dome   0:00:00.00 +00:00:00.0  2008.99 20:22 1.000  IDS  100.0    0  Clear+Clear   1.2  31.8 5121.9   
+ 652739 Flat, dark dome   0:00:00.00 +00:00:00.0  2008.99 20:24 1.000  IDS  100.0    0  Clear+Clear   1.2  31.8 5121.9   
+ 652740 Flat, dark dome   0:00:00.00 +00:00:00.0  2008.99 20:26 1.000  IDS  100.0    0  Clear+Clear   1.2  31.8 5121.9   
+ 652741 Flat, dark dome   0:00:00.00 +00:00:00.0  2008.99 20:28 1.000  IDS  100.0    0  Clear+Clear   1.2  31.8 5121.9   

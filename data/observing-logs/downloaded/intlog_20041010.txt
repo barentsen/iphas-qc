@@ -1,0 +1,68 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 10 11 06:06
+
+TELESCOPE             INT
+DATE                  20041010
+OBSERVER/S            J. Alfonso L. Aguerri
+PROGRAMME             Diffuse light in galaxy groups
+PROPOSAL REF          C5  
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Skillen/Simon
+
+TEL STATION / FOCUS   Prime  / 44.05
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:55
+EVENING TWILIGHT (UT) 20:06
+MORNING TWILIGHT (UT) 05:52
+SUNRISE (UT)          07:03
+%ILLUM. LUNAR DISK    11
+DARK TIME (HRS)       09:46
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         04:19
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   6.3   99    10.8  12.0  185   770.4    6.3  11.6    10.8   99    68 
+20:00   5.5  100    17.7  24.2  202   770.5    5.5  11.4    10.8  100    69 
+21:00   5.5  100    11.6  13.8  144   770.8    5.5  11.1    10.9  100    69 
+22:00   5.7   86    15.8  18.4  187   771.3    5.7  11.0    10.9   86    64 
+23:00   5.3   89    15.4  17.0  155   771.3    5.3  10.8    10.9   89    63 
+00:00   5.0   83    10.2  11.4  147   771.3    5.0  10.7    11.0   83    61 
+01:00   7.3   10    11.4  11.7  215   771.1    7.3  10.4    11.2   10    56 
+02:00   6.1   42     8.1  10.0  215   770.5    6.1  10.5    11.1   42    35 
+03:00   7.7    8    16.7  17.7  212   770.2    7.7  10.5    11.0    8    18 
+04:00   6.7   16    20.0  23.0  133   769.8    6.7   8.6    11.0   16    16 
+05:00   5.4   51    21.8  24.5  177   769.5    5.4   7.0    10.8   51    51 
+06:00   5.6   62    25.5  28.2  148   769.2    5.6   6.8    10.5   62    68 
+
+TIME LOST weather           08:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+clouds until 2:30 (UT), very bad seeing.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 427098 Bias              0:00:00.00 +00:00:00.0 J2000.00 12:47 4.477  WFC    0.0  180  U                                
+ 427099 Bias              0:00:00.00 +00:00:00.0 J2000.00 12:52 4.477  WFC    0.0  180  U                                
+ 427100 Bias              0:00:00.00 +00:00:00.0 J2000.00 12:52 4.477  WFC    0.0  180  U                                
+ 427101 Bias              0:00:00.00 +00:00:00.0 J2000.00 12:53 4.477  WFC    0.0  180  U                                
+ 427102 Bias              0:00:00.00 +00:00:00.0 J2000.00 12:53 4.477  WFC    0.0  180  U                                
+ 427103 Bias              0:00:00.00 +00:00:00.0 J2000.00 12:54 4.477  WFC    0.0  180  U                                
+ 427104 Bias frame       15:12:00.00 +64:59:59.8 J2000.00 14:07 1.258  WFC    0.0  180  R                                
+ 427105 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:46 4.571  WFC    0.0  180  r                                
+ 427106 Focus run         4:36:29.00 -02:48:17.0 J2000.00 02:36 1.336  WFC   10.1  180  B                                
+ 427107 test KPB          4:36:28.99 -02:49:56.9 J2000.00 02:44 1.308  WFC   60.1  180  B                                
+ 427108 H30_0 1200 KPB    4:36:28.99 -02:49:57.0 J2000.00 02:51 1.265  WFC 1199.3  180  B                                seeing 2.2
+ 427109 H30_1 1200 KPB    4:36:29.67 -02:50:07.0 J2000.00 03:17 1.217  WFC 1199.4  180  B                                seeing 2.2
+ 427110 H30_2 1200 KPB    4:36:29.00 -02:50:17.0 J2000.00 03:40 1.190  WFC 1199.4  180  B                                seeing 2.1
+ 427111 Focus run         4:36:29.00 -02:48:16.8 J2000.00 04:08 1.178  WFC   10.1  180  B                                
+ 427112 H30_3 1200 KPB    4:36:28.33 -02:50:07.0 J2000.00 04:13 1.174  WFC 1199.3  180  B                                seeing 2.0
+ 427113 test HB           4:36:28.33 -02:50:07.0 J2000.00 04:36 1.175  WFC  120.0  180  B                                

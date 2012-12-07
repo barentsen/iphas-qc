@@ -1,0 +1,87 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 09 16 06:39
+
+TELESCOPE             INT
+DATE                  20040915
+OBSERVER/S            Reverte-Paya
+PROGRAMME             Vilchez C4
+PROPOSAL REF          Vilchez C4
+TELESCOPE OPERATOR    JF
+SUPPORT ASTRONOMER    R. Greimel
+
+TEL STATION / FOCUS   Prime  / 44
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:24
+EVENING TWILIGHT (UT) 20:36
+MORNING TWILIGHT (UT) 05:38
+SUNRISE (UT)          06:50
+%ILLUM. LUNAR DISK    2
+DARK TIME (HRS)       09:02
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          20:09
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   4.9   99    45.3  56.8   32   770.9    4.9  15.2    14.9   99    49 
+21:00   5.4  100    34.6  39.3   48   771.7    5.4  14.8    14.8  100    54 
+22:00   5.9  100    36.6  42.2   61   771.8    5.9  14.6    14.9  100    54 
+23:00   7.0  100    24.7  33.8   23   772.0    7.0  14.3    14.9  100    59 
+00:00   4.3  100    30.2  34.6   23   771.7    4.3  14.6    14.9  100    55 
+01:00   4.8   95    44.2  46.9   36   771.6    4.8  14.5    15.0   95    52 
+02:00   5.1   85    32.1  35.4   25   771.3    5.1  14.3    15.0   85    53 
+03:00   8.4   31    24.0  28.4   57   771.1    8.4  12.5    14.9   31    51 
+04:00   6.4   80    17.7  21.6   48   770.7    6.4  10.6    14.5   80    60 
+05:00  10.6   13    18.7  19.1   76   770.7   10.6  10.2    13.8   13    29 
+06:00   5.4   90    30.6  33.8   39   770.3    5.4  11.1    14.1   90    60 
+
+TIME LOST weather           07:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloudy, high humidity at first. Raining during 4 hours. Clear but bad seeing. Raining again from 4:30 UT.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 422911 Bias frame       10:00:00.00 +08:59:59.9 J2000.00 13:14 1.168  WFC    0.0  180  stromgren v                      
+ 422912 Bias frame       10:00:00.00 +09:00:00.0 J2000.00 13:16 1.172  WFC    0.0  180  stromgren v                      
+ 422913 Focus run        23:17:23.50 -05:23:53.0 B1950.00 01:34 1.225  WFC    9.5  180  B                                no focus reached. Humidity increasing. Have to closed.
+ 422914 Focus run        23:17:23.49 -05:23:53.0 B1950.00 02:07 1.276  WFC   10.1  180  r                                focus 44.00
+ 422915 SP2317-054       23:17:23.50 -05:26:23.0 B1950.00 02:14 1.296  WFC   20.1  180  [SII]6725                        rubbish
+ 422916 SP2323+157       23:23:35.63 +15:43:50.0 B1950.00 02:22 1.091  WFC   50.1  180  r                                
+ 422917 SP2323+157       23:23:35.63 +15:43:50.0 B1950.00 02:29 1.106  WFC  179.9  180  [SII]6725                        
+ 422918 GRB04   r        23:01:44.00 -05:37:43.1 J2000.00 02:47 1.487  WFC  299.9  180  r                                
+ 422919 GRB04   r        23:01:44.00 -05:37:42.9 J2000.00 02:55 1.528  WFC  299.9  180  r                                
+ 422920 GRB04   Kitt Pea 23:01:44.00 -05:37:42.9 J2000.00 03:03 1.585  WFC  599.7  180  B                                
+ 422921 GRB04   r        23:01:44.00 -05:37:42.9 J2000.00 03:18 1.670  WFC  299.9  180  r                                
+ 422922 GRB04            23:01:43.99 -05:37:43.1 J2000.00 03:27 1.726  WFC  180.0  180  i                                
+ 422923 GRB04   i        23:01:43.99 -05:37:43.2 J2000.00 03:31 1.759  WFC  180.0  180  i                                
+ 422924 GRB04   i        23:01:44.00 -05:37:42.5 J2000.00 03:37 1.810  WFC  179.4  180  i                                
+ 422925 GRB04   r        23:01:43.99 -05:37:43.0 J2000.00 03:43 1.870  WFC  179.5  180  r                                
+ 422926 GRB04_1  r       23:00:53.99 -05:50:45.0 J2000.00 03:48 1.943  WFC  200.0  180  r                                
+ 422927 GRB04_2          23:00:54.00 -05:22:44.9 J2000.00 03:53 1.979  WFC  200.0  180  r                                
+ 422928 GRB04_3          23:02:34.00 -05:22:44.9 J2000.00 03:58 2.024  WFC  200.0  180  r                                
+ 422929 GRB04_4          23:02:34.00 -05:50:45.1 J2000.00 04:04 2.109  WFC  200.0  180  r                                
+ 422930 Bias              0:00:00.00 +00:00:00.0 J2000.00 04:24 2.059  WFC    0.0  180  r                                
+ 422931 Bias              0:00:00.00 +00:00:00.0 J2000.00 04:25 2.059  WFC    0.0  180  r                                
+ 422932 Bias              0:00:00.00 +00:00:00.0 J2000.00 04:25 2.059  WFC    0.0  180  r                                
+ 422933 Flat field r'     0:00:00.00 +00:00:00.0 J2000.00 04:29 2.059  WFC   30.1  180  r                                bit toasted
+ 422934 Flat field r'     0:00:00.00 +00:00:00.0 J2000.00 04:31 2.059  WFC   20.1  180  r                                
+ 422935 Flat field r'     0:00:00.00 +00:00:00.0 J2000.00 04:33 2.059  WFC   20.1  180  r                                
+ 422936 Flat field r'     0:00:00.00 +00:00:00.0 J2000.00 04:34 2.059  WFC   20.1  180  r                                
+ 422937 Flat field i      0:00:00.00 +00:00:00.0 J2000.00 04:35 2.059  WFC   20.1  180  i                                toasted
+ 422938 Flat field i      0:00:00.00 +00:00:00.0 J2000.00 04:38 2.059  WFC    9.5  180  i                                
+ 422939 Flat field i      0:00:00.00 +00:00:00.0 J2000.00 04:40 2.059  WFC    8.1  180  i                                
+ 422940 Flat field i      0:00:00.00 +00:00:00.0 J2000.00 04:41 2.059  WFC    8.1  180  i                                
+ 422941 Flat field KPB    0:00:00.00 +00:00:00.0 J2000.00 04:46 2.059  WFC   20.1  180  B                                
+ 422943 Flat field KPB    0:00:00.00 +00:00:00.0 J2000.00 04:48 2.059  WFC   40.1  180  B                                
+ 422944 Flat field KPB    0:00:00.00 +00:00:00.0 J2000.00 04:50 2.059  WFC   90.0  180  B                                
+ 422945 Flat field KPB    0:00:00.00 +00:00:00.0 J2000.00 04:54 2.059  WFC   20.1  180  B                                
+ 422946 Flat field KPB    0:00:00.00 +00:00:00.0 J2000.00 04:56 2.059  WFC   20.1  180  B                                
+ 422947 Flat field KPB    0:00:00.00 +00:00:00.0 J2000.00 04:58 2.059  WFC   20.1  180  B                                

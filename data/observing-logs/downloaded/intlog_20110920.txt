@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 09 21 07:26
+
+TELESCOPE             INT
+DATE                  20110920
+OBSERVER/S            Sandra Greiss
+PROGRAMME             Observing the real-time evolution of non-radial pulsations in a cooling dwarf
+PROPOSAL REF          P11                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.52
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:19
+EVENING TWILIGHT (UT) 20:31
+MORNING TWILIGHT (UT) 05:40
+SUNRISE (UT)          06:52
+%ILLUM. LUNAR DISK    46
+DARK TIME (HRS)       09:09
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         00:27
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  16.3    0    11.3  18.4  219   773.6   16.3   17.     17.    0      7
+21:00  16.6   -1    15.6  23.8  196   774.1   16.6   17.     17.   -1      4
+22:00  16.4   -2    16.3  24.1  231   774.6   16.4   17.     18.   -2      4
+23:00  16.5   -1    14.4  19.9  245   774.9   16.5   17.     17.   -1      4
+00:00  16.5   -1    17.8  18.9  214   775.1   16.5   16.     17.   -1      5
+01:00  16.6   -1    14.3  19.5  213   774.9   16.6   17.     17.   -1      5
+02:00  16.6    4    18.6  24.1  234   774.8   16.6   17.     17.    4      9
+03:00  16.6    8    19.3  33.2  198   774.5   16.6   17.     17.    8     14
+04:00  16.3    9    21.8  31.5  186   774.3   16.3   17.     18.    9     14
+05:00  16.2    8    15.6  15.1  196   774.4   16.2   17.     18.    8     15
+06:00  16.2   16    19.6  22.3  204   774.5   16.2   17.     17.   16     21
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloudy at start of night but still enough counts to observe target. Seeing fluctuated between 1" and 1.7"
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+The first five evening flats were taken before I set the telescope focus. I then took another bunch of flats, out of which some of them have too many counts (see comments). Morning flats went well
+
+

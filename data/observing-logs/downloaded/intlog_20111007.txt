@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 10 08 08:31
+
+TELESCOPE             INT
+DATE                  20111007
+OBSERVER/S            Vazdekis & Sanchez-Blazquez
+PROGRAMME             C93
+PROPOSAL REF          C93
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Lee Patrick, Liam Hardy, Dora Fohring
+
+TEL STATION / FOCUS   Cassegrain  / 14.6
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:59
+EVENING TWILIGHT (UT) 20:10
+MORNING TWILIGHT (UT) 05:50
+SUNRISE (UT)          07:01
+%ILLUM. LUNAR DISK    85
+DARK TIME (HRS)       09:40
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          04:05
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   9.8   48    26.1  29.5   71   775.3    9.8   13.     14.   48     46
+20:00   9.6   32    28.9  32.4   70   775.2    9.6   13.     14.   32     30
+21:00   9.0   17    23.8  33.8   55   775.6    9.0   11.     13.   17     24
+22:00   8.4   19    23.5  29.4   44   775.9    8.4   10.     13.   19     24
+23:00   8.0   21    42.6  48.5   74   776.1    8.0   10.     13.   21     30
+00:00   7.7   28    54.6  61.3   87   775.6    7.7    9.     13.   28     34
+01:00   7.9   20    51.5  51.0   90   775.4    7.9    9.     13.   20     34
+02:00   7.4   42    50.6  60.7   72   774.6    7.4    9.     13.   42     43
+03:00   7.4   44    39.1  41.2   59   774.1    7.4    8.     12.   44     46
+04:00   7.4   42    38.8  49.7  115   773.5    7.4    9.     12.   42     46
+05:00   7.5   45    39.6  43.8  116   773.2    7.5                 45      #
+06:00   8.0   46    51.3  66.5   55   773.1    8.0                 46      #
+07:00   8.6   44    55.2  66.1   81   773.5    8.6                 44      #
+
+TIME LOST weather           00:00
+TIME LOST Technical         01:11
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+The grating failed when trying to change from 6316.7 to 4537.3, even with small steps. When solved, the camera shutter closed.
+We still cannot see the TCS INFODISPLAY window
+

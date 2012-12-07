@@ -1,0 +1,102 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 04 08 07:11
+
+TELESCOPE             INT
+DATE                  20110407
+OBSERVER/S            Lars Koens
+PROGRAMME             P13
+PROPOSAL REF          P13           
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Shant Baghram
+
+TEL STATION / FOCUS   Prime  / 43.82
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:40
+EVENING TWILIGHT (UT) 20:53
+MORNING TWILIGHT (UT) 05:34
+SUNRISE (UT)          06:47
+%ILLUM. LUNAR DISK    17
+DARK TIME (HRS)       08:41
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          23:23
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   3.9   84    16.1  32.9  182   765.6   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   5.6   54    17.3  38.9  161   766.2   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   4.6   55    15.3  21.0  170   766.7   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   4.0   75    10.2  30.2  171   767.2   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   3.8   70    15.0  24.9  163   767.2   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   5.7   39    26.3  38.0  175   767.5   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   5.5   49    23.3  27.2  162   767.4   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   4.2   59    21.8  36.4  171   767.1   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   4.6   64    20.1  41.9  181   766.9   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   4.2   52    29.4  36.1  178   767.0   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   3.3   70    15.7  24.0  173   766.9   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+weather was bad throughout the night. I opened and closed twice, before shutting down completely at around 1:30UT when seeing became >3.5'' (i-band)
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Already before sunset I could see clouds rise from the Caldera, I suspect this was still the case at night, causing large variations in local humidity.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 792132 Bias              0:00:00.00 +00:00:00.0  2000.00 12:54 1.019  WFC    0.0  180  g                                
+ 792133 Flat field        0:15:00.00 +20:00:00.0  2000.00 12:59 1.021  WFC    8.1  180  z                                
+ 792134 Bias              0:15:00.00 +20:00:00.0  2000.00 13:06 1.026  WFC    0.0  180  U                                
+ 792135 Bias              0:00:00.00 +00:00:00.0  2000.00 19:34 1.000  WFC    0.0  180  U                                
+ 792136 Bias              0:00:00.00 +00:00:00.0  2000.00 19:35 1.000  WFC    0.0  180  U                                
+ 792137 Bias              0:00:00.00 +00:00:00.0  2000.00 19:36 1.000  WFC    0.0  180  U                                
+ 792138 Bias              0:00:00.00 +00:00:00.0  2000.00 19:37 1.000  WFC    0.0  180  U                                
+ 792139 Bias              0:00:00.00 +00:00:00.0  2000.00 19:37 1.000  WFC    0.0  180  U                                
+ 792140 Bias              0:00:00.00 +00:00:00.0  2000.00 19:38 1.000  WFC    0.0  180  U                                
+ 792141 Bias              0:00:00.00 +00:00:00.0  2000.00 19:39 1.000  WFC    0.0  180  U                                
+ 792142 Bias              0:00:00.00 +00:00:00.0  2000.00 19:40 1.000  WFC    0.0  180  U                                
+ 792143 Bias              0:00:00.00 +00:00:00.0  2000.00 19:40 1.000  WFC    0.0  180  U                                
+ 792144 Bias              0:00:00.00 +00:00:00.0  2000.00 19:41 1.000  WFC    0.0  180  U                                
+ 792145 Bias              0:00:00.00 +00:00:00.0  2000.00 19:43 1.000  WFC    0.0  180  i                                
+ 792146 Bias              0:00:00.00 +00:00:00.0  2000.00 19:44 1.000  WFC    0.0  180  i                                
+ 792147 Bias              0:00:00.00 +00:00:00.0  2000.00 19:45 1.000  WFC    0.0  180  i                                
+ 792148 Bias              0:00:00.00 +00:00:00.0  2000.00 19:45 1.000  WFC    0.0  180  i                                
+ 792149 Bias              0:00:00.00 +00:00:00.0  2000.00 19:46 1.000  WFC    0.0  180  i                                
+ 792150 Bias              0:00:00.00 +00:00:00.0  2000.00 19:47 1.000  WFC    0.0  180  i                                
+ 792151 Bias              0:00:00.00 +00:00:00.0  2000.00 19:48 1.000  WFC    0.0  180  i                                
+ 792152 Bias              0:00:00.00 +00:00:00.0  2000.00 19:49 1.000  WFC    0.0  180  i                                
+ 792153 Bias              0:00:00.00 +00:00:00.0  2000.00 19:49 1.000  WFC    0.0  180  i                                
+ 792154 Bias              0:00:00.00 +00:00:00.0  2000.00 19:50 1.000  WFC    0.0  180  i                                
+ 792155 Sky background    9:12:00.00 -07:50:47.0  2000.00 19:55 1.346  WFC    5.1  180  U                                
+ 792156 Sky background    9:11:59.32 -07:50:37.0  2000.00 19:56 1.343  WFC    9.1  180  U                                
+ 792157 Sky background    9:12:00.67 -07:50:57.0  2000.00 19:57 1.340  WFC   12.1  180  U                                
+ 792158 Sky background    9:12:00.67 -07:50:36.8  2000.00 19:59 1.337  WFC   18.1  180  U                                
+ 792160 Sky background    9:11:59.32 -07:50:56.9  2000.00 20:00 1.333  WFC   28.1  180  U                                
+ 792161 Sky background    9:12:00.00 -07:50:46.9  2000.00 20:03 1.326  WFC   11.1  180  i                                
+ 792162 Sky background    9:12:00.67 -07:50:37.2  2000.00 20:05 1.323  WFC   15.1  180  i                                
+ 792163 Sky background    9:11:59.32 -07:50:36.9  2000.00 20:06 1.320  WFC   22.1  180  i                                
+ 792164 Sky background    9:12:00.67 -07:50:56.9  2000.00 20:08 1.317  WFC   30.0  180  i                                
+ 792165 Sky background    9:11:59.32 -07:50:57.0  2000.00 20:09 1.313  WFC   40.0  180  i                                
+ 792166 Bias              9:17:51.09 -11:55:02.9  2000.00 20:27 1.370  WFC    0.0  180  i                                
+ 792167 Bias              9:17:51.08 -11:55:03.0  2000.00 20:28 1.369  WFC    0.0  180  i                                
+ 792168 Bias              9:17:51.09 -11:55:02.9  2000.00 20:29 1.367  WFC    0.0  180  i                                
+ 792169 Bias              9:17:51.09 -11:55:03.0  2000.00 20:29 1.366  WFC    0.0  180  i                                
+ 792170 Bias              9:17:51.09 -11:55:03.0  2000.00 20:30 1.365  WFC    0.0  180  i                                
+ 792171 Bias              9:17:51.09 -11:55:03.1  2000.00 20:31 1.364  WFC    0.0  180  i                                
+ 792172 Bias              9:17:51.09 -11:55:02.9  2000.00 20:32 1.362  WFC    0.0  180  i                                
+ 792173 Bias              9:17:51.08 -11:55:03.0  2000.00 20:32 1.361  WFC    0.0  180  i                                
+ 792174 Bias              9:17:51.09 -11:55:03.0  2000.00 20:33 1.360  WFC    0.0  180  i                                
+ 792175 Bias              9:17:51.08 -11:55:02.9  2000.00 20:34 1.359  WFC    0.0  180  i                                
+ 792176 Abell780.1 U      9:17:51.09 -11:55:02.9  2000.00 20:52 1.334  WFC  200.0  180  U                                terrible seeing, worst ever, switching to i
+ 792177 Abell1361.1 i    11:43:58.28 +46:33:18.1  2000.00 21:08 1.234  WFC  399.9  180  i                                i closed down due to humidity >90% after this obs
+ 792178 A1835.1 i        14:01:14.99 +03:04:41.0  2000.00 00:16 1.245  WFC  399.8  180  i                                seeing is >3 in i-band
+ 792179 A1795.1 i        13:48:36.60 +26:46:16.8  2000.00 00:33 1.050  WFC  399.9  180  i                                humidity >75, seeing 3.3 in i, south doors closed due to high windspeed and gust
+ 792180 A1795.1 i        13:48:36.59 +26:46:16.9  2000.00 00:48 1.033  WFC  399.8  180  i                                things are not improving...
+ 792181 Abell2055.1 i    15:18:58.69 +06:25:53.9  2000.00 01:03 1.305  WFC  399.8  180  i                                
+ 792182 Abell2055.2 i    15:18:43.74 +06:14:50.8  2000.00 01:14 1.268  WFC  399.8  180  i                                
+ 792183 Abell2055.3 i    15:19:14.58 +06:06:06.8  2000.00 01:22 1.246  WFC  399.9  180  i                                seeing in i-band is 4, I'm closing

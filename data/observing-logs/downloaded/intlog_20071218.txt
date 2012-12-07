@@ -1,0 +1,84 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 12 19 02:07
+
+TELESCOPE             INT
+DATE                  20071218
+OBSERVER/S            Corradi Valenitni & Barker
+PROGRAMME             D night
+PROPOSAL REF          D        
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Corradi
+
+TEL STATION / FOCUS   Cassegrain  / 14.80
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:25
+EVENING TWILIGHT (UT) 19:41
+MORNING TWILIGHT (UT) 06:34
+SUNRISE (UT)          07:51
+%ILLUM. LUNAR DISK    67
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          02:57
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -1.6  100    31.4  47.4  220   757.7   -1.6   3.5     6.8  100    76 
+20:00  -1.7  100    32.1  48.1  234   757.8   -1.7   3.1     6.8  100    76 
+21:00  -1.7  100    35.2  41.3  227   757.8   -1.7   2.6     6.7  100    78 
+22:00  -1.6  100    29.2  31.7  227   758.1   -1.6   2.3     6.6  100    79 
+23:00  -0.9  100    28.8  29.0  227   758.0   -0.9   3.1     6.5  100    80 
+00:00  -0.9  100    30.8  30.2  227   757.6   -0.9   3.4     6.4  100    79 
+01:00  -0.8  100    33.7  41.0  227   757.0   -0.8   3.7     6.5  100    78 
+02:00  -0.7  100    23.4  31.1  227   757.3   -0.7   3.8     6.4  100    79 
+
+TIME LOST weather           10:53
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+rain wind and snow
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 600821 Bias              0:00:00.00 +00:00:00.0  2000.00 16:01 1.000  IDS    0.0  208  Clear+Clear   1.0  69.5 5493.9   slow readout whole chip
+ 600822 Bias              0:00:00.00 +00:00:00.0  2000.00 16:08 1.000  IDS    0.0  208  Clear+Clear   1.0  69.5 5493.9   
+ 600823 CuNe 2s           0:00:00.00 +00:00:00.0  2000.00 16:26 1.000  IDS    2.0  208  Clear+Clear   1.0  49.8 5999.1   
+ 600824 CuNe+CuAr 5s      0:00:00.00 +00:00:00.0  2000.00 16:40 1.000  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600825 CuNe+CuAr 5s      0:00:00.00 +00:00:00.0  2000.00 16:41 1.000  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600826 CuNe+CuAr 5s      0:00:00.00 +00:00:00.0  2000.00 16:43 1.000  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600827 CuNe+CuAr 5s      0:00:00.00 +00:00:00.0  2000.00 16:44 1.000  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600828 CuNe+CuAr 5s      0:00:00.00 +00:00:00.0  2000.00 16:45 1.000  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600829 CuNe+CuAr 5s      0:00:00.00 +00:00:00.0  2000.00 16:47 1.000  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600830 CuNe+CuAr 5s slo  0:00:00.00 +00:00:00.0  2000.00 16:47 1.000  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600831 CuNe+CuAr 5s fas  0:00:00.00 +00:00:00.0  2000.00 16:50 1.000  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600832 CuNe+CuAr 5s fas  0:00:00.00 +00:00:00.0  2000.00 17:10 1.209  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600833 CuNe+CuAr 5s fas  0:00:00.00 +00:00:00.0  2000.00 17:17 1.209  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600834 Hart l            0:00:00.00 +00:00:00.0  2000.00 17:27 1.209  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600835 Hart r            0:00:00.00 +00:00:00.0  2000.00 17:27 1.209  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600836 Hart l            0:00:00.00 +00:00:00.0  2000.00 17:42 1.209  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600837 Hart r            0:00:00.00 +00:00:00.0  2000.00 17:42 1.209  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600838 Hart l            0:00:00.00 +00:00:00.0  2000.00 17:49 1.209  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600839 Hart r            0:00:00.00 +00:00:00.0  2000.00 17:50 1.209  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600840 Hart l            0:00:00.00 +00:00:00.0  2000.00 17:56 1.209  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600841 Hart r            0:00:00.00 +00:00:00.0  2000.00 17:57 1.209  IDS    5.0  208  Clear+Clear   1.0  47.8 6498.1   
+ 600842 arc 2s cuar+cune  0:00:00.00 +00:00:00.0  2000.00 21:06 1.209  IDS    2.0  208  Clear+Clear   1.0  66.5 6007.3   
+ 600843 arc 2s cuar+cune  0:00:00.00 +00:00:00.0  2000.00 21:24 1.209  IDS    2.0  208  Clear+Clear   1.0  66.5 6007.3   
+ 600844 arc 2s cuar+cune  0:00:00.00 +00:00:00.0  2000.00 21:27 1.209  IDS    2.0  208  Clear+Clear   1.0  66.1 6503.5   
+ 600845 Hart r            0:00:00.00 +00:00:00.0  2000.00 21:28 1.209  IDS    5.0  208  Clear+Clear   1.0  66.1 6503.5   
+ 600846 Hart l            0:00:00.00 +00:00:00.0  2000.00 21:29 1.209  IDS    5.0  208  Clear+Clear   1.0  66.1 6503.5   
+ 600847 Hart r            0:00:00.00 +00:00:00.0  2000.00 21:35 1.209  IDS    5.0  208  Clear+Clear   1.0  66.1 6503.5   
+ 600848 Hart l            0:00:00.00 +00:00:00.0  2000.00 21:35 1.209  IDS    5.0  208  Clear+Clear   1.0  66.1 6503.5   
+ 600849 test window 800-  0:00:00.00 +00:00:00.0  2000.00 23:36 1.000  IDS    2.0  208  Clear+Clear   1.0  67.1 5411.4   
+ 600850 test window 600-  0:00:00.00 +00:00:00.0  2000.00 23:37 1.000  IDS    2.0  208  Clear+Clear   1.0  67.1 5411.4   
+ 600851 test window 500-  0:00:00.00 +00:00:00.0  2000.00 23:38 1.000  IDS    2.0  208  Clear+Clear   1.0  67.1 5411.4   
+ 600852 test window 500-  0:00:00.00 +00:00:00.0  2000.00 23:39 1.000  IDS    2.0  208  Clear+Clear   1.0  67.1 5411.4   
+ 600853 test window 200-  0:00:00.00 +00:00:00.0  2000.00 23:39 1.000  IDS    2.0  208  Clear+Clear   1.0  67.1 5411.4   
+ 600854 test nowindow     0:00:00.00 +00:00:00.0  2000.00 23:40 1.000  IDS    2.0  208  Clear+Clear   1.0  67.1 5411.4   
+ 600855 test nowindow     0:00:00.00 +00:00:00.0  2000.00 23:42 1.000  IDS    2.0  208  Clear+Clear   1.0  67.1 5411.4   
+ 600856 window 655-1175   0:00:00.00 +00:00:00.0  2000.00 23:48 1.000  IDS    2.0  208  Clear+Clear   1.0  67.1 5411.4   

@@ -1,0 +1,53 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 01 11 12:18
+
+TELESCOPE             INT
+DATE                  20091221
+OBSERVER/S            Silvia Catalan
+PROGRAMME             Unveiling the history of the Galaxy with its fossil stars
+PROPOSAL REF          C9 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Dyke
+
+TEL STATION / FOCUS    / 43.70
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:27
+EVENING TWILIGHT (UT) 19:43
+MORNING TWILIGHT (UT) 06:36
+SUNRISE (UT)          07:53
+%ILLUM. LUNAR DISK    25
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          22:59
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   3.6   99    47.3  73.9  193   760.8    3.6    6.      9.   99     91
+20:00   3.8   99    21.6  44.0  232   761.9    3.8    6.      9.   99     91
+21:00   2.6   99    31.5  43.0  223   761.8    2.6    6.      9.   99     89
+22:00   2.1   99    41.4  58.2  211   762.6    2.1    6.      9.   99     89
+23:00   2.8   99    38.1  59.5  203   762.0    2.8    6.      9.   99     89
+00:00   2.7   99    42.8  47.9  229   762.7    2.7    6.      9.   99     90
+01:00   2.9   99    44.7  51.1  217   762.5    2.9    6.      9.   99     89
+02:00   2.3   99    34.2  40.5  222   762.8    2.3    5.      9.   99     87
+03:00   2.9   99    26.8  33.8  227   762.6    2.9    6.      9.   99     89
+04:00   3.6   99    23.9  33.0  225   762.8    3.6    6.      9.   99     90
+05:00   3.6   99    30.5  41.5  206   763.7    3.6    6.      9.   99     91
+06:00   3.3   99    30.1  32.5  177   763.5    3.3    6.      9.   99     90
+07:00   3.3   99    22.3  29.8  201   763.5    3.3    6.      9.   99     91
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clear
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Lost ~45 minutes due to DAS computer needing to be rebooted (same problem as described in manual)
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

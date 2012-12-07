@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 01 28 07:52
+
+TELESCOPE             INT
+DATE                  20120127
+OBSERVER/S            P.James
+PROGRAMME             P3
+PROPOSAL REF          P3
+TELESCOPE OPERATOR    --
+SUPPORT ASTRONOMER    NA
+
+TEL STATION / FOCUS   Prime  / 43.47
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:53
+EVENING TWILIGHT (UT) 20:07
+MORNING TWILIGHT (UT) 06:41
+SUNRISE (UT)          07:55
+%ILLUM. LUNAR DISK    22
+DARK TIME (HRS)       10:34
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          23:03
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   3.2    4    20.8  22.3   38   769.6   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   2.6    5    27.2  28.0   31   769.8   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   3.3    3    28.6  28.5   26   770.1   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   3.5    3    28.4  29.6   24   770.4   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   3.7    2    26.2  26.6   23   770.5   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   3.5    2    21.9  22.5   48   770.5   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   3.6    8    24.5  24.9   40   770.1   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   3.3   12    26.0  26.2   37   769.7   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   3.0   16    28.2  29.2   24   769.4   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   2.8   17    26.3  27.5   34   769.2   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   3.3   14    27.5  28.2   20   769.0   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   3.0   14    21.4  24.3   12   768.8   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   3.2   14    19.8  21.1   38   769.0   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High cloud at start of night - lifted by ~01hr. Seeing good all night ~1 arc sec
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+No real time lost, though more repeat exposures required for some galaxies 
+
+

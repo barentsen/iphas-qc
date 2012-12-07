@@ -1,0 +1,62 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 05 02 03:20
+
+TELESCOPE             INT
+DATE                  20060501
+OBSERVER/S            D. Faria
+PROGRAMME             Disentagling the outer part of the Draco dSph 
+PROPOSAL REF          P5                 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    R. Parker
+
+TEL STATION / FOCUS   Prime  / -
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:54
+EVENING TWILIGHT (UT) 21:12
+MORNING TWILIGHT (UT) 05:05
+SUNRISE (UT)          06:23
+%ILLUM. LUNAR DISK    20
+DARK TIME (HRS)       07:53
+TWILIGHT TIME (HRS)   02:36
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          00:12
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   1.0   96     7.8  10.1  272   761.7    1.0  10.4    10.4   96    51 
+21:00  -0.2   99    10.4  12.3  265   761.7   -0.2  10.7    10.4   99    48 
+22:00  -0.6   99    14.5  16.8  270   761.7   -0.6  10.4    10.4   99    48 
+23:00  -0.5   97     7.9   9.1  250   762.2   -0.5  10.1    10.5   97    47 
+00:00  -0.5   99    10.2  12.6  187   762.4   -0.5   9.7    10.4   99    50 
+01:00  -0.6   99    16.6  18.1  244   762.4   -0.6   9.2    10.3   99    54 
+02:00  -0.4   99     9.0  11.0  234   761.9   -0.4   8.8    10.2   99    53 
+03:00  -0.6   99    10.6  14.0  259   761.3   -0.6   8.4    10.3   99    56 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% cloud all night. Dome not opened
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+No observations made
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 500337 Bias Harris B     0:00:00.00 +00:00:00.0 2006.330 13:59 1.138  WFC    0.0  180  B                                
+ 500338 Bias Harris B     0:00:00.00 +00:00:00.0 2006.330 13:59 1.138  WFC    0.0  180  B                                
+ 500339 Bias Harris B     0:00:00.00 +00:00:00.0 2006.330 14:00 1.138  WFC    0.0  180  B                                
+ 500340 Bias Harris B     0:00:00.00 +00:00:00.0 2006.330 14:00 1.138  WFC    0.0  180  B                                
+ 500341 Bias Harris B     0:00:00.00 +00:00:00.0 2006.330 14:01 1.138  WFC    0.0  180  B                                
+ 500342 Bias Harris B     0:00:00.00 +00:00:00.0 2006.330 14:02 1.138  WFC    0.0  180  B                                
+ 500343 Bias Harris B     0:00:00.00 +00:00:00.0 2006.330 14:02 1.138  WFC    0.0  180  B                                
+ 500344 Bias Harris B     0:00:00.00 +00:00:00.0 2006.330 14:03 1.138  WFC    0.0  180  B                                
+ 500345 Bias Harris B     0:00:00.00 +00:00:00.0 2006.330 14:03 1.138  WFC    0.0  180  B                                
+ 500346 Bias Harris B     0:00:00.00 +00:00:00.0 2006.330 14:04 1.138  WFC    0.0  180  B                                
+ 500349 test                                              14:40        WFC    0.0       B                                
+ 500350 test              0:00:00.00 +00:00:00.0 2006.330 15:10 1.520  WFC    0.0  180  stromgren u                      
+ 500351 Bias              8:01:00.00 +49:59:59.9 2000.00  19:25 1.089  WFC    0.0  180  B                                
+ 500352 Bias              8:01:00.00 +50:00:00.0 2000.00  19:25 1.089  WFC    0.0  180  B                                

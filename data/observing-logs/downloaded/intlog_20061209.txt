@@ -1,0 +1,46 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 12 09 21:51
+
+TELESCOPE             INT
+DATE                  20061209
+OBSERVER/S            Aigrain
+PROGRAMME             Monitor: ONC
+PROPOSAL REF          P17
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:39
+MORNING TWILIGHT (UT) 06:29
+SUNRISE (UT)          07:45
+%ILLUM. LUNAR DISK    74
+DARK TIME (HRS)       10:50
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         22:37
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -1.5   99    44.9  57.5  338   771.1   -1.5   5.7    10.4   99    70 
+20:00  -1.7   99    43.9  48.3  338   771.2   -1.7   5.9    10.2   99    69 
+21:00  -1.1   99    30.9  39.6  356   771.9   -1.1   6.2    10.1   99    69 
+No Met data available for second half of night
+
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+terrible - horizontal rain and blizzard
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+going down at 22.00 because roads are icing up
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 540877 Bias              0:00:00.00 +00:00:00.0 2000.00  19:01 4.307  WFC    0.0  180  i                                

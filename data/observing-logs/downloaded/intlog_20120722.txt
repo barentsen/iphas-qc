@@ -1,0 +1,46 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 07 23 06:46
+
+TELESCOPE             INT
+DATE                  20120722
+OBSERVER/S            Robert Greimel
+PROGRAMME             IPHAS/Kepler/UVEX survey
+PROPOSAL REF          P7
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    DF
+
+TEL STATION / FOCUS   Prime  / 43.35
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:17
+EVENING TWILIGHT (UT) 21:39
+MORNING TWILIGHT (UT) 04:58
+SUNRISE (UT)          06:20
+%ILLUM. LUNAR DISK    16
+DARK TIME (HRS)       07:19
+TWILIGHT TIME (HRS)   02:44
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          22:17
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  21.6   20     3.4   6.0  166   779.3   21.6   21.     23.   20     24
+22:00  21.3   21     0.6   0.9  181   779.8   21.3   21.     23.   21     25
+00:00  21.3   20     2.7   5.1  181   780.4   21.3   21.     23.   20     25
+01:00  20.0   24    20.3  23.4   64   780.3   20.0   21.     23.   24     29
+02:00  19.7   23    25.6  29.8   11   779.7   19.7   21.     23.   23     28
+03:00  20.4   22    13.3  14.0   32   779.3   20.4   20.     22.   22     27
+04:00  20.7   20    10.1  10.1   49   779.0   20.7   19.     22.   20     27
+05:00  21.1   19     8.8   9.9   38   778.6   21.1   19.     22.   19     26
+06:00  20.9   19     6.5   6.9   10   778.5   20.9   19.     22.   19     26
+
+TIME LOST weather           03:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+seeing 1.0-1.5, calima subsiding, many cloudy periods, some rain
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+high ellipticity in images at start of night, horizontal stripes in sky background on several images
+
+

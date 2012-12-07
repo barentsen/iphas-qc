@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 06 12 07:22
+
+TELESCOPE             INT
+DATE                  20120611
+OBSERVER/S            Pablo Rodriguez-Gil
+PROGRAMME             UVEX Survey
+PROPOSAL REF          C86              
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Dora Fohring
+
+TEL STATION / FOCUS   Prime  / 43.41
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:18
+EVENING TWILIGHT (UT) 21:44
+MORNING TWILIGHT (UT) 04:39
+SUNRISE (UT)          06:05
+%ILLUM. LUNAR DISK    44
+DARK TIME (HRS)       06:55
+TWILIGHT TIME (HRS)   02:52
+MOONRISE (UT)         01:20
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  10.7   33    56.0  62.2   27   774.4   10.7   13.     14.   33     43
+22:00  10.0   47    55.1  66.1   29   774.5   10.0   11.     14.   47     50
+23:00   9.5   59    57.8  62.2   33   774.8    9.5   10.     13.   59     58
+00:00   9.1   62    60.5  65.2   28   775.0    9.1   10.     13.   62     61
+01:00   9.0   63    60.9  67.7   33   774.5    9.0                 63      #
+02:00   9.5   58    59.9  72.9   30   774.1    9.5   10.     13.   58     58
+03:00   8.7   59    58.0  62.2   27   773.8    8.7    9.     13.   59     59
+04:00   8.3   60    54.7  63.3   17   773.4    8.3    9.     13.   60     62
+05:00   8.5   62    56.4  62.3   85   773.1    8.5    9.     12.   62     62
+06:00   8.5   64    59.6  65.7    5   772.9    8.5    9.     12.   64     64
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Very windy with bad and highly variable seeing (~1.6-2.8 arcsec)
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+No UVEX data taken due to bad seeing. Backup programmes only.
+
+

@@ -1,0 +1,84 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 03 22 04:36
+
+TELESCOPE             INT
+DATE                  20070321
+OBSERVER/S            Castro
+PROGRAMME             Diffuse light around M87
+PROPOSAL REF          C16
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Ian Hunter
+
+TEL STATION / FOCUS   Prime  / 43.6
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:30
+EVENING TWILIGHT (UT) 20:42
+MORNING TWILIGHT (UT) 05:55
+SUNRISE (UT)          07:07
+%ILLUM. LUNAR DISK    12
+DARK TIME (HRS)       09:13
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          22:31
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -2.0   96     0.0   0.0  345   765.5   -2.0   5.8     7.9   96    68 
+21:00  -1.6   91     0.0   0.0  345   765.6   -1.6   4.9     8.0   91    70 
+22:00   1.9   31     0.0   0.0  345   765.8    1.9   3.9     6.9   31    44 
+23:00   4.0   12     0.0   0.0  345   766.1    4.0   4.9     7.3   12    14 
+00:00   2.7   35     0.0   0.0  345   766.1    2.7   3.6     6.7   35    46 
+01:00   1.5   37     0.0   0.0  345   765.8    1.5   3.7     7.2   37    55 
+02:00   1.6   40     0.0   0.0  345   766.2    1.6   2.8     6.7   40    39 
+03:00   2.7   18     0.0   0.0  345   765.8    2.7   3.2     6.0   18    26 
+04:00   3.3   12     0.0   0.0  345   765.2    3.3   3.1     5.9   12    27 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+cloud cover & seeing
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+clouds at the first part of the night, very bad seeing during the rest of the nigh
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 554736 Bias                                              19:43        WFC    0.0       B                                
+ 554737 Bias                                              19:45        WFC    0.0       B                                
+ 554738 Bias                                              19:46        WFC    0.0       B                                
+ 554739 Bias                                              19:46        WFC    0.0       B                                
+ 554740 Bias                                              19:46        WFC    0.0       B                                
+ 554741 Bias                                              19:47        WFC    0.0       B                                
+ 554742 Bias                                              19:47        WFC    0.0       B                                
+ 554743 Bias                                              19:48        WFC    0.0       B                                
+ 554744 Bias                                              19:48        WFC    0.0       B                                
+ 554745 Bias                                              19:49        WFC    0.0       B                                
+ 554746 Bias                                              19:49        WFC    0.0       B                                
+ 554747 Focus run        12:29:33.00 +12:50:31.0 2000.00  22:18 1.581  WFC   10.1  180  redshifted                       
+ 554748 Bias             12:29:33.00 +12:50:31.0 2000.00  22:20 1.552  WFC    0.0  180  redshifted                       
+ 554749 Bias              0:00:00.00 +00:00:00.0 2000.00  22:31 1.000  WFC    0.0  180  V                                
+ 554750 Bias              0:00:00.00 +00:00:00.0 2000.00  22:33 1.000  WFC    0.0  180  V                                
+ 554751 Bias              0:00:00.00 +00:00:00.0 2000.00  22:40 4.382  WFC    0.0  180  B                                
+ 554752 Bias              0:00:00.00 +00:00:00.0 2000.00  22:43 4.382  WFC    0.0  180  B                                
+ 554753 Bias             12:29:33.00 +12:50:31.0 2000.00  22:47 1.395  WFC    0.0  180  B                                
+ 554754 Focus run        12:29:32.99 +12:50:31.0 2000.00  22:53 1.373  WFC   10.1  180  B                                
+ 554755 Focus run        12:29:33.00 +12:50:30.9 2000.00  23:03 1.325  WFC   10.1  180  B                                
+ 554756 Focus run         9:38:53.99 -04:51:06.9 2000.00  23:15 1.205  WFC   10.1  180  r                                
+ 554757 hcg40_35 480s     9:38:54.00 -04:51:06.9 2000.00  23:30 1.220  WFC  479.9  180  r                                
+ 554758 Bias              9:38:54.00 -04:51:07.0 2000.00  23:42 1.229  WFC    0.0  180  r                                
+ 554759 Bias              9:38:54.00 -04:51:06.9 2000.00  23:44 1.232  WFC    0.0  180  r                                
+ 554760 test              9:38:53.99 -04:51:07.0 2000.00  23:46 1.234  WFC   29.6  180  r                                
+ 554761 hcg40_35 480s     9:38:54.00 -04:51:06.8 2000.00  23:49 1.239  WFC   60.1  180  r                                
+ 554762 Bias              9:38:54.00 -04:51:07.0 2000.00  23:52 1.242  WFC    0.0  180  r                                
+ 554763 Focus run         9:38:54.00 -04:51:06.9 2000.00  23:59 1.250  WFC   10.1  180  r                                
+ 554764 Focus run        12:29:32.99 +12:50:31.0 2000.00  01:50 1.040  WFC   10.1  180  B                                
+ 554765 Focus run        12:29:33.00 +12:50:31.0 2000.00  02:26 1.054  WFC   10.1  180  B                                
+ 554766 Focus run        12:29:32.99 +12:50:30.9 2000.00  02:43 1.069  WFC   10.1  180  B                                
+ 554767 Focus run        12:29:33.00 +12:50:31.1 2000.00  03:08 1.102  WFC   10.1  180  B                                
+ 554768 Focus run        12:29:33.00 +12:50:31.0 2000.00  03:36 1.158  WFC   10.1  180  B                                
+ 554769 Focus run        12:29:32.99 +12:50:30.9 2000.00  03:58 1.215  WFC   10.1  180  B                                
+ 554770 Focus run        12:29:32.99 +12:50:30.9 2000.00  04:05 1.238  WFC   10.1  180  r                                

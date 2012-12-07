@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 04 02 06:32
+
+TELESCOPE             INT
+DATE                  20120401
+OBSERVER/S            Lawrie, Scott
+PROGRAMME             Variable Magnetic White Dwarfs
+PROPOSAL REF          P10
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Hassan Fathivarsari
+
+TEL STATION / FOCUS   Prime  / 43.47
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:37
+EVENING TWILIGHT (UT) 20:49
+MORNING TWILIGHT (UT) 05:40
+SUNRISE (UT)          06:53
+%ILLUM. LUNAR DISK    72
+DARK TIME (HRS)       08:51
+TWILIGHT TIME (HRS)   02:25
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:51
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -0.0   82     9.4  19.0  256   764.3   -0.0    8.      9.   82     55
+21:00   1.3   47    12.5  16.6  244   764.4    1.3    8.      9.   47     41
+22:00   0.1   95    15.2  20.6  295   764.5    0.1    7.      9.   95     60
+23:00   1.6   34    15.7  20.3  220   765.1    1.6    8.      9.   34     51
+00:00  -0.4   76    18.4  20.4  307   764.9   -0.4    3.      8.   76     63
+01:00  -0.7   97    18.1  19.4  304   764.7   -0.7    5.      8.   97     69
+02:00   0.0   97    20.1  28.5  270   764.4    0.0    6.      8.   97     71
+03:00  -0.4   97    17.1  21.1  294   764.0   -0.4    6.      8.   97     70
+04:00  -0.7   98    12.6  15.6  240   763.7   -0.7    6.      8.   98     69
+05:00  -0.9   98    24.8  34.6  279   763.3   -0.9    6.      9.   98     68
+06:00  -0.1   98    27.5  36.9   88   763.5   -0.1    8.      9.   98     64
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloudy, humidity high.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

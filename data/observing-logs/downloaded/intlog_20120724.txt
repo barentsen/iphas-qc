@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 07 25 06:53
+
+TELESCOPE             INT
+DATE                  20120724
+OBSERVER/S            Robert Greimel
+PROGRAMME             IPHAS/Kepler/UVEX survey
+PROPOSAL REF          P7
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    DF
+
+TEL STATION / FOCUS   Prime  / 43.35
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:16
+EVENING TWILIGHT (UT) 21:38
+MORNING TWILIGHT (UT) 04:59
+SUNRISE (UT)          06:21
+%ILLUM. LUNAR DISK    35
+DARK TIME (HRS)       07:21
+TWILIGHT TIME (HRS)   02:44
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          23:32
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  17.2   18    11.9  16.0  278   775.1   17.2   18.     22.   18     21
+22:00  16.8   16    10.1  14.4  325   775.5   16.8   17.     20.   16     21
+23:00  16.1   24    11.3  14.8  324   775.8   16.1   16.     21.   24     26
+00:00  16.1   20     9.8  12.5  318   775.9   16.1   16.     21.   20     26
+01:00  16.0   18    12.3  18.3  299   775.8   16.0   16.     21.   18     22
+02:00  15.9   18    11.5  13.2  280   775.4   15.9   16.     20.   18     20
+03:00  15.4   24    15.4  16.3  300   774.8   15.4   15.     20.   24     28
+04:00  14.9   28    20.0  21.4  299   774.4   14.9   15.     19.   28     31
+05:00  15.6   22    13.8  16.8  286   774.5   15.6   15.     19.   22     24
+06:00  15.2   24    16.6  20.7  286   774.3   15.2   15.     18.   24     27
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+seeing 1.0-1.5, clear most of the night, some cirrus in the morning
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+INT seeing 2-3 times DIMM seeing (~0.5 arcsec) probably due to warm mirror relative to the colder (as compared to previous days) outside air
+
+

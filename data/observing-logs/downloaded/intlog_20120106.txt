@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 01 07 04:32
+
+TELESCOPE             INT
+DATE                  20120106
+OBSERVER/S            Ivana Damjanov, Jarle Brinchmann
+PROGRAMME             Adaptive Optics Deep Field
+PROPOSAL REF          N3
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Mansour Karami
+
+TEL STATION / FOCUS   Prime  / 43.47
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:36
+EVENING TWILIGHT (UT) 19:52
+MORNING TWILIGHT (UT) 06:42
+SUNRISE (UT)          07:58
+%ILLUM. LUNAR DISK    95
+DARK TIME (HRS)       10:50
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          06:33
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.1   27    10.2  17.6  179   774.5   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   4.3   24     4.8  13.9  149   774.9   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   4.7   21     4.4   3.9  145   775.4   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   4.9   21    16.6  21.1  132   775.5   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   4.9   22     5.0  13.6  175   775.5   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   4.5   23     5.9  13.3  195   775.1   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   4.1   23     6.7   6.5  182   774.3   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   4.3   20     2.5   4.1  177   774.1   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   5.1   12     5.4   8.2  165   773.8   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   4.8   13     4.3   6.2  274   773.6   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloudy - did not open
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

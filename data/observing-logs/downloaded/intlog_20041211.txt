@@ -1,0 +1,140 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 12 12 07:03
+
+TELESCOPE             INT
+DATE                  20041211
+OBSERVER/S            D. Thilker
+PROGRAMME             The STARFORM/H-alpha survey: Probing the recent history of star formation in spirals
+PROPOSAL REF          N4
+TELESCOPE OPERATOR    Mansura Jaigirdar
+SUPPORT ASTRONOMER    Ian Skillen
+
+TEL STATION / FOCUS   Prime  / 44.15
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:39
+MORNING TWILIGHT (UT) 06:31
+SUNRISE (UT)          07:47
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       10:52
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No Moon all night
+MOONSET (UT)          No Moon all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   6.7   17    20.3  24.0  197   763.4    6.7   8.2     9.1   17    13 
+20:00   6.5   14    24.1  27.3  186   763.9    6.5   7.6     8.8   14     9 
+21:00   6.3   16    25.7  30.2  226   763.8    6.3   7.9     8.8   16    13 
+22:00   6.1   20    29.3  35.8  192   763.6    6.1   7.4     8.6   20    17 
+23:00   5.3   33    27.2  42.0  160   763.6    5.3   6.8     8.5   33    26 
+00:00   5.0   53    43.3  48.4  214   763.1    5.0   6.5     8.0   53    50 
+01:00   3.9   70    41.8  52.2  206   762.9    3.9   5.8     7.9   70    67 
+02:00   2.2   97    32.7  46.8  146   762.1    2.2   4.7     7.7   97    91 
+03:00   1.7   93    25.4  35.2  188   761.7    1.7   5.7     7.7   93    78 
+04:00   1.4   93    29.7  36.5  194   761.5    1.4   6.1     7.9   93    68 
+05:00   3.0  100    33.6  47.4  214   761.4    3.0   6.4     7.8  100    88 
+06:00   2.9  100    30.2  42.6  230   760.9    2.9   6.6     7.8  100    89 
+07:00   2.7  100    35.5  41.4  149   760.6    2.7   6.9     8.0  100    87 
+
+TIME LOST weather           06:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+generally good until 01:00, seeing variable 1.1-1.8 arcsec; then closed by high humidity & wet alarm 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 434370 Bias frame        0:00:00.00 +00:00:00.0 2000.00  14:36 1.000  WFC    0.0  180  [OIII]5007                       carryover from previous observer's run
+ 434371 Skyflat Ha 12sec 21:29:34.00 -08:38:30.0 2000.00  18:40 1.352  WFC   12.1  180  Halpha                           
+ 434372 Skyflat Ha 12sec 21:29:34.00 -08:38:29.9 2000.00  18:42 1.358  WFC   12.1  180  Halpha                           
+ 434373 Skyflat Ha 40sec 21:29:33.99 -08:38:29.9 2000.00  18:44 1.363  WFC   40.1  180  Halpha                           beginning of H-alpha set with successful offsets
+ 434374 Skyflat Ha 70sec 21:29:34.67 -08:38:20.0 2000.00  18:46 1.369  WFC   70.0  180  Halpha                           
+ 434375 Skyflat Ha 140se 21:29:35.35 -08:38:10.0 2000.00  18:49 1.378  WFC  140.1  180  Halpha                           
+ 434376 Skyflat R 25sec  21:29:35.34 -08:38:10.0 2000.00  18:53 1.386  WFC   25.1  180  R                                now for Harris R set
+ 434377 Skyflat R 40sec  21:29:34.67 -08:38:20.0 2000.00  18:55 1.393  WFC   40.1  180  R                                
+ 434378 Skyflat R 60sec  21:29:34.00 -08:38:29.9 2000.00  18:57 1.400  WFC   60.0  180  R                                
+ 434379 Focus run        23:16:12.40 -01:50:34.9 2000.00  19:16 1.162  WFC   10.1  180  R                                best focus = 44.15, FWHM = 1.15"
+ 434380 NGC157 R 10sec    0:34:45.99 -08:23:47.9 2000.00  19:23 1.301  WFC   10.1  180  R                                FWHM = 1.35", peak ~ 2500
+ 434381 NGC157 R 60sec    0:34:46.00 -08:23:48.0 2000.00  19:25 1.298  WFC   60.1  180  R                                nice, FWHM ~ 1.1"
+ 434382 NGC157 R 60sec    0:34:46.00 -08:23:47.9 2000.00  19:26 1.295  WFC   60.1  180  R                                seeing worse
+ 434383 NGC157 R 60sec    0:34:45.99 -08:23:48.0 2000.00  19:28 1.293  WFC   60.1  180  R                                seeing still not as good as first frame in seq
+ 434384 NGC157 Ha 600sec  0:34:46.00 -08:23:47.9 2000.00  19:32 1.282  WFC  599.8  180  Halpha                           over 1.7" fwhm, guiding not on?
+ 434385 NGC157 Ha 600sec  0:34:46.00 -08:23:48.0 2000.00  19:42 1.270  WFC  599.7  180  Halpha                           guider not working, finish Ha multrun though
+ 434386 NGC157 Ha 600sec  0:34:45.99 -08:23:47.9 2000.00  19:53 1.262  WFC  599.7  180  Halpha                           
+ 434388 NGC278 Ha 600sec  0:52:03.99 +47:33:00.9 2000.00  20:22 1.057  WFC  599.7  180  Halpha                           guiding now for next galaxy, FWHM ~ 1.3" again
+ 434389 NGC278 Ha 600sec  0:52:03.99 +47:33:00.9 2000.00  20:33 1.056  WFC  599.7  180  Halpha                           
+ 434390 NGC278 Ha 600sec  0:52:04.00 +47:33:01.0 2000.00  20:44 1.057  WFC  599.7  180  Halpha                           
+ 434391 NGC278 R 10sec    0:52:04.00 +47:33:01.0 2000.00  20:57 1.058  WFC   10.1  180  R                                good
+ 434392 NGC278 R 60sec    0:52:03.99 +47:33:01.0 2000.00  20:58 1.059  WFC   60.1  180  R                                
+ 434393 NGC278 R 60sec    0:52:04.00 +47:33:01.0 2000.00  21:00 1.059  WFC   60.1  180  R                                
+ 434394 NGC278 R 60sec    0:52:03.99 +47:33:00.9 2000.00  21:02 1.060  WFC   60.1  180  R                                fwhm up to 1.5"
+ 434395 Feige25 R 1sec    2:35:59.99 +05:15:16.6 1950.00  21:06 1.155  WFC    1.0  180  R                                Exp time too short for shutter to be reliable.
+ 434396 Feige25 R 6sec    2:35:59.99 +05:15:16.8 1950.00  21:09 1.149  WFC    6.1  180  R                                
+ 434397 Feige25 R 4sec    2:36:00.00 +05:15:17.0 1950.00  21:11 1.146  WFC    4.1  180  R                                
+ 434398 Feige25 R 4sec    2:36:00.00 +05:15:17.0 1950.00  21:13 1.144  WFC    4.1  180  R                                
+ 434399 Feige25 Ha 15sec  2:36:00.00 +05:15:17.0 1950.00  21:14 1.142  WFC   15.1  180  Halpha                           
+ 434400 Feige25 Ha 15sec  2:36:00.00 +05:15:17.0 1950.00  21:15 1.139  WFC   15.1  180  Halpha                           
+ 434401 NGC864 R 10sec    2:15:26.99 +06:00:08.0 2000.00  21:19 1.103  WFC   10.1  180  R                                fwhm up to 1.7"
+ 434402 NGC864 R 60sec    2:15:27.00 +06:00:07.9 2000.00  21:23 1.100  WFC   60.1  180  R                                fwhm ~ 1.25", guider hadn't settled for 434401?
+ 434403 NGC864 R 60sec    2:15:27.00 +06:00:08.0 2000.00  21:25 1.098  WFC   60.1  180  R                                good
+ 434404 NGC864 R 60sec    2:15:27.00 +06:00:08.0 2000.00  21:26 1.097  WFC   60.1  180  R                                good
+ 434405 NGC864 Ha 600sec  2:15:27.00 +06:00:08.0 2000.00  21:30 1.092  WFC  599.8  180  Halpha                           fwhm ~ 1.45"
+ 434406 NGC864 Ha 600sec  2:15:27.00 +06:00:08.0 2000.00  21:41 1.087  WFC  599.3  180  Halpha                           
+ 434407 NGC864 Ha 600sec  2:15:27.00 +06:00:07.9 2000.00  21:52 1.085  WFC  599.2  180  Halpha                           seems photometric
+ 434408 Focus run         2:42:40.70 -00:00:47.8 2000.00  22:13 1.144  WFC   10.1  180  R                                check focus
+ 434409 NGC1068 R 10sec   2:42:40.70 -00:00:47.8 2000.00  22:21 1.141  WFC   10.1  180  R                                fwhm ~ 1.4"
+ 434410 NGC1068 R 60sec   2:42:40.70 -00:00:47.8 2000.00  22:23 1.141  WFC   59.5  180  R                                
+ 434411 NGC1068 R 60sec   2:42:40.69 -00:00:47.8 2000.00  22:26 1.140  WFC   60.1  180  R                                better seeing
+ 434412 NGC1068 R 60sec   2:42:40.70 -00:00:47.7 2000.00  22:28 1.140  WFC   60.1  180  R                                good
+ 434413 NGC1068 Ha 600se  2:42:40.70 -00:00:47.8 2000.00  22:50 1.147  WFC  599.2  180  Halpha                           
+ 434414 NGC1068 Ha 600se  2:42:40.69 -00:00:47.8 2000.00  23:00 1.154  WFC  599.7  180  Halpha                           
+ 434415 NGC1068 Ha 600se  2:42:40.70 -00:00:47.7 2000.00  23:11 1.164  WFC  599.8  180  Halpha                           
+ 434416 NGC1068 Ha 600se  2:42:40.69 -00:00:47.9 2000.00  23:24 1.179  WFC  599.8  180  Halpha                           get two extra, while addressing gocat problem
+ 434417 NGC1068 Ha 600se  2:42:40.70 -00:00:47.7 2000.00  23:35 1.196  WFC  599.7  180  Halpha                           
+ 434418 UGC2080 R 10sec   2:36:27.00 +38:58:08.3 2000.00  23:50 1.067  WFC   10.1  180  R                                faint galaxy, peak ok
+ 434419 UGC2080 R 60sec   2:36:27.00 +38:58:08.0 2000.00  23:52 1.071  WFC   59.6  180  R                                fwhm ~ 1.5"
+ 434420 UGC2080 R 60sec   2:36:27.00 +38:58:07.8 2000.00  23:53 1.073  WFC   59.5  180  R                                
+ 434421 UGC2080 R 60sec   2:36:27.00 +38:58:07.9 2000.00  23:55 1.075  WFC   60.1  180  R                                
+ 434422 UGC2080 Ha 600se  2:36:27.00 +38:58:07.8 2000.00  23:57 1.084  WFC  599.7  180  Halpha                           seeing creeping up
+ 434423 UGC2080 Ha 600se  2:36:27.00 +38:58:08.1 2000.00  00:08 1.101  WFC  599.2  180  Halpha                           
+ 434424 UGC2080 Ha 600se  2:36:27.00 +38:58:07.9 2000.00  00:18 1.120  WFC  599.8  180  Halpha                           fwhm near 1.85"
+ 434425 Feige25 Ha 15sec  2:35:59.99 +05:15:16.9 1950.00  00:32 1.267  WFC   15.1  180  Halpha                           
+ 434426 Feige25 Ha 15sec  2:36:00.00 +05:15:16.9 1950.00  00:33 1.270  WFC   15.1  180  Halpha                           
+ 434427 Feige25 Ha 15sec  2:36:00.00 +05:15:17.0 1950.00  00:36 1.281  WFC   30.1  180  Halpha                           exp 30sec, not 15sec
+ 434428 Feige25 Ha 15sec  2:35:59.99 +05:15:17.0 1950.00  00:37 1.284  WFC   30.0  180  Halpha                           
+ 434429 Feige25 R 4sec    2:36:00.00 +05:15:17.1 1950.00  00:39 1.289  WFC    4.1  180  R                                
+ 434430 Feige25 R 4sec    2:36:00.00 +05:15:17.0 1950.00  00:40 1.292  WFC    3.5  180  R                                seeing has deteriorated
+ 434431 Focus run         2:36:00.00 +05:15:17.2 1950.00  00:46 1.307  WFC   10.1  180  R                                
+ 434432 Hiltner600 R 4se  6:45:13.39 +02:08:14.8 2000.00  00:55 1.224  WFC    3.5  180  R                                humidity rising, seeing is not great even after focus
+ 434433 Hiltner600 R 4se  6:45:13.40 +02:08:15.0 2000.00  00:56 1.223  WFC    3.5  180  R                                
+ 434434 Hiltner600 Ha 20  6:45:13.40 +02:08:15.0 2000.00  00:59 1.216  WFC   15.1  180  R                                forgot to change filter, junk
+ 434436 Hiltner600 Ha 15  6:45:13.40 +02:08:15.0 2000.00  01:00 1.212  WFC   15.1  180  Halpha                           
+ 434437 Hiltner600 Ha 15  6:45:13.39 +02:08:15.0 2000.00  01:01 1.210  WFC   15.1  180  Halpha                           
+ 434438 UGC2855 R 10sec   3:48:19.99 +70:07:57.9 2000.00  01:10 1.378  WFC    9.6  180  R                                
+ 434439 UGC2855 R 60sec   3:48:20.00 +70:07:58.1 2000.00  01:12 1.380  WFC   60.1  180  R                                humidity rising, try to squeeze in UGC2855
+ 434440 UGC2855 R 60sec   3:48:19.99 +70:07:58.1 2000.00  01:14 1.382  WFC   60.1  180  R                                
+ 434441 UGC2855 R 60sec   3:48:20.00 +70:07:57.8 2000.00  01:16 1.384  WFC   60.1  180  R                                closed due to humidity
+ 434442 Bias              0:00:00.00 +00:00:00.0 2000.00  02:24 2.469  WFC    0.0  180  R                                MCA problems reported w.r.t. shutter even for bias, junk
+ 434443 Bias              0:00:00.00 +00:00:00.0 2000.00  02:25 2.469  WFC    0.0  180  R                                same problem, will power cycle MCA
+ 434444 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:27 4.225  WFC    0.0  180  Halpha                           MCA problem fixed, do biases while closed
+ 434445 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:28 4.225  WFC    0.0  180  Halpha                           
+ 434446 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:28 4.225  WFC    0.0  180  Halpha                           
+ 434447 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:29 4.225  WFC    0.0  180  Halpha                           
+ 434448 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:30 4.225  WFC    0.0  180  Halpha                           
+ 434449 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:30 4.225  WFC    0.0  180  Halpha                           
+ 434450 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:31 4.225  WFC    0.0  180  Halpha                           
+ 434451 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:31 4.225  WFC    0.0  180  Halpha                           
+ 434452 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:32 4.225  WFC    0.0  180  Halpha                           
+ 434453 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:32 4.225  WFC    0.0  180  Halpha                           
+ 434454 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:33 4.225  WFC    0.0  180  Halpha                           
+ 434455 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:34 4.225  WFC    0.0  180  Halpha                           
+ 434456 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:34 4.225  WFC    0.0  180  Halpha                           
+ 434457 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:35 4.225  WFC    0.0  180  Halpha                           
+ 434458 Bias frame        0:00:00.00 +00:00:00.0 2000.00  04:35 4.225  WFC    0.0  180  Halpha                           

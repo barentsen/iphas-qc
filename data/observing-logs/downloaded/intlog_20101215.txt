@@ -1,0 +1,132 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 12 16 04:26
+
+TELESCOPE             INT
+DATE                  20101215
+OBSERVER/S            Magill, Busenbebder, Baghram
+PROGRAMME             D
+PROPOSAL REF          D
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Magill, Busenbender
+
+TEL STATION / FOCUS   Prime  / 43.75
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:24
+EVENING TWILIGHT (UT) 19:40
+MORNING TWILIGHT (UT) 06:33
+SUNRISE (UT)          07:49
+%ILLUM. LUNAR DISK    72
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:23
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.6   99    18.2  26.5  167   764.6   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   4.1   99    19.9  21.0  144   764.9   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   4.1   99    27.3  63.8  169   763.7   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   4.1   99    36.7  61.5  178   764.0   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   3.1   99    38.6  43.3  170   763.6   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   3.1   99    41.7  55.8  162   762.2   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   3.6   99    47.6  45.3  167   761.3   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   3.1   99    33.9  40.9  166   760.7   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   2.4   99    31.9  46.1  181   759.9   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           11:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Humidity > 90%, wet, high winds
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 771223 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 10:06 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771224 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 10:07 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771225 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 10:16 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771226 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 10:16 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 5999.1   
+ 771227 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 10:31 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771228 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 10:32 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771229 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 10:40 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771230 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 10:40 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771231 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 11:00 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771232 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 11:00 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771233 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 11:06 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771234 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 11:07 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771235 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 11:15 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771236 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 11:15 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771237 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 11:22 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771238 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 11:23 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771239 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 11:42 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771240 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 11:43 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771241 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 11:48 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771242 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 11:52 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771243 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 11:53 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771244 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 11:58 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771245 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 12:04 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771246 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 12:09 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771247 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 12:11 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771248 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 12:13 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771249 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 13:38 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771250 HERMES_LOCK_124   0:00:00.00 +00:00:00.0  2000.00 13:39 1.000  IDS   10.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771251 Bias              0:00:00.00 +00:00:00.0  2000.00 13:54 1.000  IDS    0.0   -0  Clear+Clear   1.0  49.8 6001.7   
+ 771253 TEST             20:00:00.00 +29:59:59.9  2010.96 14:10 1.054  WFC    1.7  180  i                                
+ 771254 Bias frame       19:59:59.99 +29:59:59.9  2010.96 14:11 1.053  WFC    0.0  180  i                                
+ 771255 TEST             19:59:59.99 +29:59:59.7  2010.96 14:15 1.048  WFC    2.1  180  i                                
+ 771256 TEST             20:00:00.00 +30:00:00.0  2010.96 14:17 1.045  WFC    2.1  180  i                                
+ 771257 Bias              0:00:00.00 +00:00:00.0  2010.96 19:19 1.000  WFC    0.0  180  stromgren y                      
+ 771258 Bias              0:00:00.00 +00:00:00.0  2010.96 19:19 1.000  WFC    0.0  180  stromgren y                      
+ 771259 Bias              0:00:00.00 +00:00:00.0  2010.96 19:20 1.000  WFC    0.0  180  stromgren y                      
+ 771260 Bias              0:00:00.00 +00:00:00.0  2010.96 19:20 1.000  WFC    0.0  180  stromgren y                      
+ 771261 Bias              0:00:00.00 +00:00:00.0  2010.96 19:21 1.000  WFC    0.0  180  stromgren y                      
+ 771262 Bias              0:00:00.00 +00:00:00.0  2010.96 19:21 1.000  WFC    0.0  180  stromgren y                      
+ 771263 Bias              0:00:00.00 +00:00:00.0  2010.96 19:22 1.000  WFC    0.0  180  stromgren y                      
+ 771264 Bias              0:00:00.00 +00:00:00.0  2010.96 19:22 1.000  WFC    0.0  180  stromgren y                      
+ 771265 Bias              0:00:00.00 +00:00:00.0  2010.96 19:23 1.000  WFC    0.0  180  stromgren y                      
+ 771266 Bias              0:00:00.00 +00:00:00.0  2010.96 19:23 1.000  WFC    0.0  180  stromgren y                      
+ 771267 Bias              0:00:00.00 +00:00:00.0  2010.96 19:24 1.000  WFC    0.0  180  stromgren y                      
+ 771268 Bias              0:00:00.00 +00:00:00.0  2010.96 19:24 1.000  WFC    0.0  180  stromgren y                      
+ 771269 Bias              0:00:00.00 +00:00:00.0  2010.96 19:25 1.000  WFC    0.0  180  stromgren y                      
+ 771270 Bias              0:00:00.00 +00:00:00.0  2010.96 19:25 1.000  WFC    0.0  180  stromgren y                      
+ 771271 Bias              0:00:00.00 +00:00:00.0  2010.96 19:26 1.000  WFC    0.0  180  stromgren y                      
+ 771272 Bias              0:00:00.00 +00:00:00.0  2010.96 19:26 1.000  WFC    0.0  180  stromgren y                      
+ 771273 Bias              0:00:00.00 +00:00:00.0  2010.96 19:27 1.000  WFC    0.0  180  stromgren y                      
+ 771274 Bias              0:00:00.00 +00:00:00.0  2010.96 19:27 1.000  WFC    0.0  180  stromgren y                      
+ 771275 Bias              0:00:00.00 +00:00:00.0  2010.96 19:27 1.000  WFC    0.0  180  stromgren y                      
+ 771276 Bias              0:00:00.00 +00:00:00.0  2010.96 19:28 1.000  WFC    0.0  180  stromgren y                      
+ 771277 Bias              0:00:00.00 +00:00:00.0  2010.96 19:28 1.000  WFC    0.0  180  stromgren y                      
+ 771278 Bias              0:00:00.00 +00:00:00.0  2010.96 19:29 1.000  WFC    0.0  180  stromgren y                      
+ 771279 Bias              0:00:00.00 +00:00:00.0  2010.96 19:29 1.000  WFC    0.0  180  stromgren y                      
+ 771280 Bias              0:00:00.00 +00:00:00.0  2010.96 19:30 1.000  WFC    0.0  180  stromgren y                      
+ 771281 Bias              0:00:00.00 +00:00:00.0  2010.96 19:30 1.000  WFC    0.0  180  stromgren y                      these were all fast speed
+ 771282 Bias              0:00:00.00 +00:00:00.0  2010.96 19:43 1.000  WFC    0.0  180  stromgren y                      
+ 771283 Bias              0:00:00.00 +00:00:00.0  2010.96 19:44 1.000  WFC    0.0  180  stromgren y                      
+ 771284 Bias              0:00:00.00 +00:00:00.0  2010.96 19:44 1.000  WFC    0.0  180  stromgren y                      
+ 771285 Bias              0:00:00.00 +00:00:00.0  2010.96 19:45 1.000  WFC    0.0  180  stromgren y                      
+ 771286 Bias              0:00:00.00 +00:00:00.0  2010.96 19:46 1.000  WFC    0.0  180  stromgren y                      
+ 771287 Bias              0:00:00.00 +00:00:00.0  2010.96 19:47 1.000  WFC    0.0  180  stromgren y                      
+ 771288 Bias              0:00:00.00 +00:00:00.0  2010.96 19:47 1.000  WFC    0.0  180  stromgren y                      
+ 771289 Bias              0:00:00.00 +00:00:00.0  2010.96 19:48 1.000  WFC    0.0  180  stromgren y                      
+ 771290 Bias              0:00:00.00 +00:00:00.0  2010.96 19:49 1.000  WFC    0.0  180  stromgren y                      
+ 771291 Bias              0:00:00.00 +00:00:00.0  2010.96 19:50 1.000  WFC    0.0  180  stromgren y                      
+ 771292 Bias              0:00:00.00 +00:00:00.0  2010.96 19:50 1.000  WFC    0.0  180  stromgren y                      
+ 771293 Bias              0:00:00.00 +00:00:00.0  2010.96 19:51 1.000  WFC    0.0  180  stromgren y                      
+ 771294 Bias              0:00:00.00 +00:00:00.0  2010.96 19:52 1.000  WFC    0.0  180  stromgren y                      
+ 771295 Bias              0:00:00.00 +00:00:00.0  2010.96 19:53 1.000  WFC    0.0  180  stromgren y                      
+ 771296 Bias              0:00:00.00 +00:00:00.0  2010.96 19:54 1.000  WFC    0.0  180  stromgren y                      
+ 771297 Bias              0:00:00.00 +00:00:00.0  2010.96 19:54 1.000  WFC    0.0  180  stromgren y                      
+ 771298 Bias              0:00:00.00 +00:00:00.0  2010.96 19:55 1.000  WFC    0.0  180  stromgren y                      
+ 771299 Bias              0:00:00.00 +00:00:00.0  2010.96 19:56 1.000  WFC    0.0  180  stromgren y                      
+ 771300 Bias              0:00:00.00 +00:00:00.0  2010.96 19:57 1.000  WFC    0.0  180  stromgren y                      
+ 771301 Bias              0:00:00.00 +00:00:00.0  2010.96 19:57 1.000  WFC    0.0  180  stromgren y                      
+ 771302 Bias              0:00:00.00 +00:00:00.0  2010.96 19:58 1.000  WFC    0.0  180  stromgren y                      
+ 771303 Bias              0:00:00.00 +00:00:00.0  2010.96 19:59 1.000  WFC    0.0  180  stromgren y                      
+ 771304 Bias              0:00:00.00 +00:00:00.0  2010.96 20:00 1.000  WFC    0.0  180  stromgren y                      
+ 771305 Bias              0:00:00.00 +00:00:00.0  2010.96 20:01 1.000  WFC    0.0  180  stromgren y                      
+ 771306 Bias              0:00:00.00 +00:00:00.0  2010.96 20:01 1.000  WFC    0.0  180  stromgren y                      

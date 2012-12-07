@@ -1,0 +1,94 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 03 17 07:00
+
+TELESCOPE             INT
+DATE                  20080316
+OBSERVER/S            Comeron
+PROGRAMME             P18
+PROPOSAL REF          P18
+TELESCOPE OPERATOR    Corradi
+SUPPORT ASTRONOMER    Valentina
+
+TEL STATION / FOCUS    / 43.65
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:27
+EVENING TWILIGHT (UT) 20:39
+MORNING TWILIGHT (UT) 06:00
+SUNRISE (UT)          07:12
+%ILLUM. LUNAR DISK    77
+DARK TIME (HRS)       09:21
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          04:48
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   8.2   54    30.5  32.0  195   769.9    8.2                 54      #
+21:00   8.7   49    25.5  26.6  191   770.3    8.7                 49      #
+22:00   8.9   43    15.9  16.9  197   770.7    8.9                 43      #
+23:00   8.4   43    22.0  22.9  195   770.5    8.4                 43      #
+00:00  10.0   18    24.9  27.1  198   770.3   10.0                 18      #
+01:00  11.1    9    25.6  26.0  203   770.1   11.1                  9      #
+02:00  10.6   14    12.2  17.6  203   770.0   10.6                 14      #
+03:00  10.3   18    19.9  21.9  196   769.4   10.3                 18      #
+04:00   9.6   25    18.8  23.5  211   768.9    9.6                 25      #
+05:00   9.5   23    28.0  27.8  201   768.8    9.5                 23      #
+06:00   9.4   15    39.3  40.9  203   768.5    9.4                 15      #
+
+TIME LOST weather           08:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clouds+dust
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Between 21 UT and 5 UT it has been impossible to find stars bright enough to be used as guding stars in narrow filter imaging
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 610255 Bias             22:23:00.00 +00:00:00.0  2000.00 13:04 1.190  WFC    0.0  180  r                                Engigneering
+ 610256 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:20 1.000  WFC    0.0  180  Halpha                           
+ 610257 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:21 1.000  WFC    0.0  180  Halpha                           
+ 610258 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:21 1.000  WFC    0.0  180  Halpha                           
+ 610259 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:22 1.000  WFC    0.0  180  Halpha                           
+ 610260 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:22 1.000  WFC    0.0  180  Halpha                           
+ 610261 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:23 1.000  WFC    0.0  180  Halpha                           
+ 610262 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:23 1.000  WFC    0.0  180  Halpha                           
+ 610263 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:24 1.000  WFC    0.0  180  Halpha                           
+ 610264 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:24 1.000  WFC    0.0  180  Halpha                           
+ 610265 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:25 1.000  WFC    0.0  180  Halpha                           
+ 610266 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:25 1.000  WFC    0.0  180  Halpha                           
+ 610267 Flat field        5:56:00.00 +04:09:00.0  2000.00 19:37 1.100  WFC   11.7  180  Halpha                           
+ 610268 Flat field        5:55:59.99 +04:09:00.0  2000.00 19:38 1.101  WFC   15.7  180  Halpha                           
+ 610269 Flat field        5:56:00.00 +04:08:59.9  2000.00 19:39 1.101  WFC   21.4  180  Halpha                           
+ 610270 Flat field        5:55:59.99 +04:09:00.0  2000.00 19:40 1.101  WFC   22.3  180  Halpha                           
+ 610271 Flat field        5:56:00.00 +04:08:59.9  2000.00 19:41 1.101  WFC   22.9  180  Halpha                           
+ 610272 Flat field        5:55:59.99 +04:09:00.0  2000.00 19:42 1.102  WFC   27.8  180  Halpha                           
+ 610273 Flat field        5:55:59.99 +04:09:00.0  2000.00 19:46 1.103  WFC   20.8  180  Halpha                           
+ 610274 Flat field        5:55:59.99 +04:08:59.9  2000.00 19:47 1.103  WFC   12.6  180  R                                
+ 610275 Flat field        5:55:59.99 +04:09:00.0  2000.00 19:48 1.104  WFC   13.2  180  R                                
+ 610276 Flat field        5:55:59.99 +04:09:00.0  2000.00 19:49 1.104  WFC   16.2  180  R                                
+ 610277 Flat field        5:55:59.99 +04:09:00.0  2000.00 19:50 1.105  WFC   18.0  180  R                                
+ 610278 Flat field        5:55:59.99 +04:08:59.9  2000.00 19:51 1.105  WFC   23.3  180  R                                
+ 610279 Flat field        5:56:00.00 +04:09:00.0  2000.00 19:52 1.106  WFC   25.5  180  R                                
+ 610280 Flat field        5:56:00.00 +04:09:00.0  2000.00 19:53 1.106  WFC   23.2  180  R                                
+ 610281 Flat field        5:55:59.99 +04:09:00.0  2000.00 19:54 1.107  WFC   43.2  180  R                                
+ 610282 Focus run         8:13:00.39 +07:46:18.6  1950.00 20:03 1.189  WFC   10.1  180  R                                
+ 610283 Focus run         8:13:00.40 +07:46:18.7  1950.00 20:11 1.172  WFC    9.6  180  R                                
+ 610284 UGC6029 600s Ha  10:55:02.30 +49:43:33.9  2000.00 21:28 1.285  WFC  599.7  180  Halpha                           
+ 610285 UGC6029 180s R   10:55:02.30 +49:43:33.9  2000.00 21:40 1.263  WFC  180.0  180  R                                
+ 610286 UGC6029 180s R   10:55:02.81 +49:43:38.9  2000.00 21:46 1.246  WFC  179.5  180  R                                
+ 610287 PGC45195 600s Ha 13:04:31.20 -03:34:20.9  2000.00 04:54 1.474  WFC  599.7  180  Halpha                           
+ 610288 PGC45195 120s R  13:04:31.20 -03:34:20.9  2000.00 05:05 1.509  WFC  120.0  180  R                                
+ 610289 PGC45195 120s R  13:04:31.53 -03:34:16.0  2000.00 05:10 1.536  WFC  120.0  180  R                                
+ 610290 PGC45195 600s Ha 13:04:31.53 -03:34:15.9  2000.00 05:13 1.577  WFC  599.7  180  Halpha                           
+ 610291 PGC45195 180s R  13:04:31.53 -03:34:16.0  2000.00 05:28 1.656  WFC  180.0  180  R                                
+ 610292 PGC140287 180s R 16:38:08.60 -04:49:24.0  2000.00 05:44 1.207  WFC  180.0  180  R                                The galaxy is actually PGC58661
+ 610293 PGC140287 600s H 16:38:08.59 -04:49:23.9  2000.00 05:50 1.203  WFC  599.8  180  Halpha                           The galaxy is actually PGC58661
+ 610294 PGC140287 600s H 14:16:57.28 +03:50:02.8  2000.00 06:04 1.341  WFC  599.2  180  Halpha                           
+ 610295 PGC140287 180s R 14:16:57.29 +03:50:02.9  2000.00 06:15 1.371  WFC  180.0  180  R                                
+ 610296 PGC140287 90s R  14:16:57.63 +03:50:07.9  2000.00 06:21 1.393  WFC   90.0  180  R                                
+ 610297 PGC140287 300s H 14:16:57.63 +03:50:07.8  2000.00 06:23 1.412  WFC  299.9  180  Halpha                           

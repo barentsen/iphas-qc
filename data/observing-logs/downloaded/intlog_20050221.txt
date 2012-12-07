@@ -1,0 +1,89 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 02 22 07:52
+
+TELESCOPE             INT
+DATE                  20050221
+OBSERVER/S            R. Azollini, A. Zurita
+PROGRAMME             Global morfology of star formation in galaxies: local calibrations
+PROPOSAL REF          C7          
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 44.10
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:13
+EVENING TWILIGHT (UT) 20:24
+MORNING TWILIGHT (UT) 06:25
+SUNRISE (UT)          07:37
+%ILLUM. LUNAR DISK    95
+DARK TIME (HRS)       10:01
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          07:06
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -2.9   99     3.6   4.1  252   762.7   -2.9   4.6     4.8   99    76 
+21:00  -3.4   99    10.1  11.5  291   763.2   -3.4   5.0     4.6   99    75 
+22:00  -3.5   99     5.0   5.6  265   763.5   -3.5   4.9     4.7   99    73 
+23:00  -3.5   99    11.3  13.7  315   763.7   -3.5   5.2     4.8   99    72 
+00:00  -4.0   98    10.5  10.9  291   763.3   -4.0   4.8     4.7   98    72 
+01:00  -4.3   98     9.0   9.4  259   763.1   -4.3   5.0     4.7   98    69 
+02:00  -4.2   98    10.0  10.5  272   762.8   -4.2   4.5     4.9   98    70 
+03:00  -4.8   97     7.4   8.5  222   762.5   -4.8   4.1     4.9   97    69 
+04:00  -4.7   97    14.1  15.4  225   762.2   -4.7   3.4     4.8   97    65 
+05:00  -4.6   96    10.3  13.3  216   761.7   -4.6   3.1     4.7   96    65 
+06:00  -3.8   89    15.6  18.6  233   761.4   -3.8   2.8     4.6   89    63 
+07:00  -2.9   58    18.1  18.4  249   761.6   -2.9   0.5     3.5   58    27 
+
+TIME LOST weather           09:20
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Dome closed until 5:50 UT due to high humidity and/or thick cloud cover. Clear sky after 5:50.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 441485 Bias frame        0:00:00.00 +00:00:00.0 2005.141 13:57 1.498  WFC    0.0  180  Halpha                           
+ 441486 bias              0:00:00.00 +00:00:00.0 2005.142 21:39 4.262  WFC    0.0  180  Halpha                           
+ 441487 bias              0:00:00.00 +00:00:00.0 2005.142 21:40 4.262  WFC    0.0  180  Halpha                           
+ 441488 bias              0:00:00.00 +00:00:00.0 2005.142 21:41 4.262  WFC    0.0  180  Halpha                           
+ 441489 bias              0:00:00.00 +00:00:00.0 2005.142 21:41 4.262  WFC    0.0  180  Halpha                           
+ 441490 bias              0:00:00.00 +00:00:00.0 2005.142 21:42 4.262  WFC    0.0  180  Halpha                           
+ 441494 Focus run        12:10:01.90 +39:52:59.9 2000.00  06:07 1.255  WFC   10.1  180  r                                seeing ~1.2"
+ 441495 NGC4145 Ha        0:00:00.00 +00:00:00.0 2000.00  06:11 1.273  WFC   73.1  180  Halpha                           jump!?
+ 441496 NGC4145 Ha       12:10:01.90 +39:52:59.8 2000.00  06:13 1.313  WFC 1199.4  180  Halpha                           
+ 441497 NGC4145 r        12:10:01.90 +39:53:00.1 2000.00  06:34 1.368  WFC  299.9  180  r                                
+ 441498 feige66 Ha       12:37:23.52 +25:03:59.8 2000.00  06:41 1.313  WFC   15.0  180  Halpha                           
+ 441499 feige66 r        12:37:23.52 +25:03:59.7 2000.00  06:43 1.320  WFC    5.1  180  r                                
+ 441500 feige66 g        12:37:23.52 +25:03:59.8 2000.00  06:44 1.326  WFC    5.0  180  g                                saturated
+ 441501 feige66 g        12:37:23.50 +25:03:59.7 2000.00  06:46 1.335  WFC    4.6  180  g                                
+ 441502 BD+332642 Ha     15:51:59.76 +32:56:54.1 2000.00  06:49 1.003  WFC   15.1  180  Halpha                           
+ 441503 BD+332642 r      15:51:59.75 +32:56:54.1 2000.00  06:51 1.003  WFC    5.1  180  r                                
+ 441504 BD+332642 g      15:51:59.76 +32:56:54.1 2000.00  06:52 1.003  WFC    5.1  180  g                                
+ 441507 SA107-351 r      15:38:45.75 -00:32:06.5 2000.00  06:56 1.149  WFC    4.5  180  r                                
+ 441508 SA107-351 g      15:38:45.75 -00:32:06.5 2000.00  06:57 1.149  WFC    5.1  180  g                                
+ 441509 sflat r          16:52:33.00 -15:25:56.9 2000.00  07:07 1.429  WFC   60.0  180  r                                
+ 441510 sflat r          16:52:33.69 -15:25:57.0 2000.00  07:09 1.426  WFC   35.1  180  r                                
+ 441511 sflat r          16:52:32.30 -15:26:06.9 2000.00  07:11 1.423  WFC   20.1  180  r                                
+ 441512 sflat r          16:52:33.69 -15:25:47.0 2000.00  07:13 1.422  WFC   15.1  180  r                                
+ 441513 sflat g          16:52:33.69 -15:25:47.0 2000.00  07:14 1.420  WFC    6.5  180  g                                
+ 441515 sflat g          16:52:33.69 -15:25:47.0 2000.00  07:15 1.418  WFC    5.1  180  g                                
+ 441516 sflat g          16:52:33.69 -15:25:36.9 2000.00  07:16 1.417  WFC    5.1  180  g                                
+ 441517 sflat g          16:52:32.30 -15:26:07.2 2000.00  07:17 1.416  WFC    4.1  180  g                                
+ 441518 sflat Ha         16:52:32.30 -15:26:06.9 2000.00  07:19 1.414  WFC   38.1  180  Halpha                           
+ 441519 sflat Ha         16:52:32.30 -15:26:07.0 2000.00  07:20 1.412  WFC   24.6  180  Halpha                           
+ 441520 sflat Ha         16:52:33.69 -15:25:47.0 2000.00  07:22 1.411  WFC   18.1  180  Halpha                           
+ 441521 sflat Ha         16:52:33.69 -15:26:07.0 2000.00  07:23 1.410  WFC   12.1  180  Halpha                           
+ 441522 sflat Ha         16:52:32.30 -15:25:46.8 2000.00  07:24 1.409  WFC    7.1  180  Halpha                           
+ 441524 sflat Ha         16:52:34.38 -15:26:06.8 2000.00  07:25 1.408  WFC    4.6  180  Halpha                           
+ 441525 bias              0:00:00.00 +00:00:00.0 2000.00  07:48 4.275  WFC    0.0  180  Halpha                           
+ 441526 bias              0:00:00.00 +00:00:00.0 2000.00  07:49 4.275  WFC    0.0  180  Halpha                           
+ 441527 bias              0:00:00.00 +00:00:00.0 2000.00  07:49 4.275  WFC    0.0  180  Halpha                           
+ 441528 bias              0:00:00.00 +00:00:00.0 2000.00  07:51 4.275  WFC    0.0  180  Halpha                           

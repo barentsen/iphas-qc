@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 12 19 23:25
+
+TELESCOPE             INT
+DATE                  20051219
+OBSERVER/S            D.Bramich
+PROGRAMME             Searching for planetary transits and eclipsing binaries in the ONC
+PROPOSAL REF          P17          
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Laurence Sabin
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:26
+EVENING TWILIGHT (UT) 19:42
+MORNING TWILIGHT (UT) 06:35
+SUNRISE (UT)          07:52
+%ILLUM. LUNAR DISK    83
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         21:42
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.9  100    21.1  31.9  155   766.4    5.9   8.1     8.9  100   100 
+20:00   5.5  100    24.1  28.3  179   765.8    5.5   8.3     8.8  100   100 
+21:00   5.8  100     8.1  13.4  147   766.5    5.8   8.6     8.9  100    99 
+22:00   6.0  100    18.5  27.5  134   766.2    6.0   8.8     9.0  100    98 
+23:00   5.9  100    23.4  33.1  160   766.2    5.9   8.7     9.0  100    99 
+No Met data available for second half of night
+
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Strom. Clouds. Rain. Bad.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+No observations
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 487701 Bias frame        0:00:00.00 +00:00:00.0 2005.966 14:55 4.549  WFC    0.0  180  Halpha                           

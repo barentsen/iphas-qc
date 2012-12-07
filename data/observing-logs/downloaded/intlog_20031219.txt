@@ -1,0 +1,75 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 12 20 00:56
+
+TELESCOPE             INT
+DATE                  20031219
+OBSERVER/S            Vilchez/Reverte
+PROGRAMME             SFGs in clusters
+PROPOSAL REF          C10
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:25
+EVENING TWILIGHT (UT) 19:42
+MORNING TWILIGHT (UT) 06:35
+SUNRISE (UT)          07:52
+%ILLUM. LUNAR DISK    16
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:34
+MOONRISE (UT)         04:28
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   3.1   47    60.2  69.9  157   767.6    3.1   7.3     9.6   47    38 
+20:00   3.0   50    63.8  69.6  172   767.3    3.0   7.0     9.6   50    38 
+21:00   5.3   23    73.0  81.3  160   767.2    5.3   7.2     9.4   23    27 
+22:00   3.8   42    69.3  75.8  120   766.8    3.8   5.1     9.2   42    41 
+23:00   3.8   42    73.8  80.3  162   766.4    3.8   7.0     9.2   42    36 
+00:00   4.0   37    83.0  94.3  138   766.0    4.0   7.4     9.3   37    32 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+horrible. Very Strong wind
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 382318 Bias              0:00:00.00 +00:00:00.0 J2000.00 13:44 1.000  WFC    0.0  180  r                                
+ 382319 Bias              0:00:00.00 +00:00:00.0 J2000.00 13:48 1.000  WFC    0.0  180  r                                
+ 382320 FFDome  [SII]     0:00:00.00 +00:00:00.0 J2000.00 20:24 1.611  WFC   15.1  180  [SII]6725                        
+ 382321 FFDome  [SII]     0:00:00.00 +00:00:00.0 J2000.00 20:25 1.611  WFC   15.1  180  [SII]6725                        
+ 382322 FFDome  [SII]     0:00:00.00 +00:00:00.0 J2000.00 20:26 1.611  WFC   15.1  180  [SII]6725                        
+ 382323 FFDome  [SII]     0:00:00.00 +00:00:00.0 J2000.00 20:27 1.611  WFC   15.1  180  [SII]6725                        
+ 382324 FFDome  [SII]     0:00:00.00 +00:00:00.0 J2000.00 20:28 1.611  WFC   15.1  180  [SII]6725                        
+ 382325 FFDome  [SII]     0:00:00.00 +00:00:00.0 J2000.00 20:29 1.611  WFC    7.1  180  [SII]6725                        
+ 382326 FFDome  [SII]     0:00:00.00 +00:00:00.0 J2000.00 20:30 1.611  WFC    6.5  180  [SII]6725                        
+ 382327 FFDome  [SII]     0:00:00.00 +00:00:00.0 J2000.00 20:31 1.611  WFC    7.0  180  [SII]6725                        
+ 382328 FFDome  [SII]     0:00:00.00 +00:00:00.0 J2000.00 20:32 1.611  WFC    7.1  180  [SII]6725                        
+ 382329 FFDome  [SII]     0:00:00.00 +00:00:00.0 J2000.00 20:33 1.611  WFC    6.5  180  [SII]6725                        
+ 382330 FFDome  Ha        0:00:00.00 +00:00:00.0 J2000.00 20:35 1.611  WFC    5.5  180  Halpha                           
+ 382331 FFDome  Ha        0:00:00.00 +00:00:00.0 J2000.00 20:36 1.611  WFC    6.1  180  Halpha                           
+ 382332 FFDome  Ha        0:00:00.00 +00:00:00.0 J2000.00 20:37 1.611  WFC    5.6  180  Halpha                           
+ 382333 FFDome  Ha        0:00:00.00 +00:00:00.0 J2000.00 20:38 1.611  WFC    6.1  180  Halpha                           
+ 382334 FFDome  Ha        0:00:00.00 +00:00:00.0 J2000.00 20:39 1.611  WFC    6.1  180  Halpha                           
+ 382335 FFDome  r         0:00:00.00 +00:00:00.0 J2000.00 20:52 1.611  WFC   11.5  180  r                                
+ 382336 FFDome  r         0:00:00.00 +00:00:00.0 J2000.00 20:53 1.611  WFC   12.1  180  r                                
+ 382337 FFDome  r         0:00:00.00 +00:00:00.0 J2000.00 20:54 1.611  WFC   12.1  180  r                                
+ 382338 FFDome  r         0:00:00.00 +00:00:00.0 J2000.00 20:54 1.611  WFC   12.1  180  r                                
+ 382339 FFDome  r         0:00:00.00 +00:00:00.0 J2000.00 20:55 1.611  WFC   12.1  180  r                                
+ 382340 FFDome  r         0:00:00.00 +00:00:00.0 J2000.00 20:58 1.611  WFC   15.1  180  r                                
+ 382341 FFDome  r         0:00:00.00 +00:00:00.0 J2000.00 20:59 1.611  WFC   14.6  180  r                                
+ 382342 FFDome  r         0:00:00.00 +00:00:00.0 J2000.00 20:59 1.611  WFC   15.1  180  r                                
+ 382343 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:02 1.611  WFC    0.0  180  r                                
+ 382344 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:03 1.611  WFC    0.0  180  [SII]6725                        
+ 382345 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:04 1.611  WFC    0.0  180  [SII]6725                        
+ 382347 Focus run         3:05:27.73 +26:10:51.0 B1950.00 21:30 1.027  WFC   10.1  180  r                                

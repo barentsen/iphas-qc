@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 10 27 08:49
+
+TELESCOPE             INT
+DATE                  20111025
+OBSERVER/S            Amy McQuillan 
+PROGRAMME             N2
+PROPOSAL REF          N2
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Dora Fohring
+
+TEL STATION / FOCUS    / 43.5
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:40
+EVENING TWILIGHT (UT) 19:52
+MORNING TWILIGHT (UT) 06:00
+SUNRISE (UT)          07:12
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       10:08
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         06:41
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   8.8    8    15.1  17.0  249   766.9    8.8   12.     12.    8     20
+20:00   8.5    8    22.5  23.7  257   767.3    8.5    9.     12.    8     14
+21:00   8.7    7    19.1  20.7  248   767.6    8.7    9.     12.    7     13
+22:00   9.5    4    15.8  18.2  311   768.2    9.5   10.     12.    4     13
+23:00   9.6    2    12.6  15.8  240   768.6    9.6   10.     12.    2     11
+00:00  10.1    3    16.4  18.3  183   768.7   10.1   10.     11.    3     11
+01:00   9.9    3    14.7  17.2  232   768.8    9.9   10.     11.    3     12
+02:00   9.8    3    10.7  12.7  278   768.4    9.8   10.     12.    3     17
+03:00  10.0    3    11.0  14.0  270   768.3   10.0   11.     12.    3     19
+04:00   9.9   13    15.1  16.8  282   767.9    9.9   11.     12.   13     20
+05:00  10.0   33    18.4  22.4  248   767.7   10.0   11.     12.   33     34
+06:00   9.8   31    25.2  28.1  235   767.7    9.8   11.     12.   31     29
+07:00   8.4    4    22.0  31.3  291   767.8    8.4   11.     12.    4     17
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

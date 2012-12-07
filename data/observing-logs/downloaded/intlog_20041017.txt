@@ -1,0 +1,59 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 10 18 02:48
+
+TELESCOPE             INT
+DATE                  20041017
+OBSERVER/S            M. Jarvis & D.Smith
+PROGRAMME             Lyman-alpha blob survey
+PROPOSAL REF          04A/P17
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Greimel
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:47
+EVENING TWILIGHT (UT) 19:59
+MORNING TWILIGHT (UT) 05:55
+SUNRISE (UT)          07:07
+%ILLUM. LUNAR DISK    19
+DARK TIME (HRS)       09:56
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:21
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   6.6  100    33.7  37.0  274   767.4    6.6  11.6    12.3  100    76 
+20:00   6.5   97    28.8  33.9  243   767.7    6.5  11.5    12.3   97    76 
+21:00   7.0  100    32.9  35.1  250   768.0    7.0  11.4    12.3  100    81 
+22:00   7.8  100    33.3  39.3  228   768.5    7.8  11.3    12.5  100    86 
+23:00   9.0  100    29.4  34.7  227   768.8    9.0  11.7    12.4  100    91 
+00:00   9.3  100    31.6  37.1  241   769.0    9.3  12.0    12.3  100    93 
+01:00   9.2  100    33.1  37.9  228   768.5    9.2  12.3    12.4  100    93 
+02:00   9.2  100    24.3  31.9  183   768.5    9.2  12.2    12.5  100    94 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Terrible - left telescope at 03.00
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+weather weather weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 427335 Bias frame        0:00:00.00 +00:00:00.0 A        13:30 1.191  WFC    0.0  180  [OIII]5007                       
+ 427336 Bias              0:00:00.00 +00:00:00.0 A        18:46 1.000  WFC    0.0  180  redshifted                       
+ 427337 Bias              0:00:00.00 +00:00:00.0 A        18:46 1.000  WFC    0.0  180  redshifted                       
+ 427338 Bias              0:00:00.00 +00:00:00.0 A        18:47 1.000  WFC    0.0  180  redshifted                       
+ 427339 Bias              0:00:00.00 +00:00:00.0 A        18:48 1.000  WFC    0.0  180  redshifted                       
+ 427340 Bias              0:00:00.00 +00:00:00.0 A        18:48 1.000  WFC    0.0  180  redshifted                       
+ 427341 Bias              0:00:00.00 +00:00:00.0 A        18:49 1.000  WFC    0.0  180  redshifted                       
+ 427342 Bias              0:00:00.00 +00:00:00.0 A        18:49 1.000  WFC    0.0  180  redshifted                       
+ 427343 Bias              0:00:00.00 +00:00:00.0 A        18:50 1.000  WFC    0.0  180  redshifted                       
+ 427344 Bias              0:00:00.00 +00:00:00.0 A        18:51 1.000  WFC    0.0  180  redshifted                       
+ 427345 Bias              0:00:00.00 +00:00:00.0 A        18:51 1.000  WFC    0.0  180  redshifted                       

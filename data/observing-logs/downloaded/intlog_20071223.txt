@@ -1,0 +1,100 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 12 24 04:34
+
+TELESCOPE             INT
+DATE                  20071223
+OBSERVER/S            Christian
+PROGRAMME             The search for super-saturation in stellar chromospheres
+PROPOSAL REF          P8
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Cassegrain  / 14.65
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:27
+EVENING TWILIGHT (UT) 19:44
+MORNING TWILIGHT (UT) 06:37
+SUNRISE (UT)          07:54
+%ILLUM. LUNAR DISK      1
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:34
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   0.0   96    26.9  33.9   68   769.5    0.0   3.6     9.6   96    81 
+20:00   0.2  100    35.1  39.9   44   769.7    0.2   5.4     9.7  100    73 
+21:00  -0.7  100    39.8  49.9   63   770.0   -0.7   5.3     9.6  100    74 
+22:00  -1.0  100    38.4  46.5   60   770.1   -1.0   4.9     9.6  100    73 
+23:00  -0.8   75    35.0  33.2   67   770.5   -0.8   4.6     9.4   75    68 
+00:00   1.0   41    26.2  35.9   86   770.8    1.0   1.9     8.3   41    45 
+01:00   1.7   34    19.5  23.0   99   770.9    1.7   2.2     6.1   34    37 
+02:00  -0.4   82    35.5  37.6   90   770.4   -0.4   2.1     6.6   82    73 
+03:00  -1.0  100    30.7  31.7   83   770.5   -1.0   4.5     7.3  100    63 
+04:00   0.2  100    34.1  46.1  107   770.4    0.2   5.8     7.9  100    68 
+
+TIME LOST weather           09:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+variable humidity.. open early for 10 minutes, then open from 23:30 to 01:40 seeing 2-2.5"
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+never re-opened after 01:40  closure and at ~03:30 RH hit 100% and very wet. 
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 601112 Bias             15:49:59.99 +65:00:00.0  2000.00 12:03 1.265  IDS    0.0   -0  Clear+Clear   1.0  57.4 4003.2   
+ 601113 Bias             15:49:59.99 +65:00:00.0  2000.00 12:07 1.268  IDS    0.0   -0  Clear+Clear   1.0  57.4 4003.2   
+ 601114 Arc              15:50:00.00 +65:00:00.0  2000.00 12:18 1.278  IDS   10.0   -0  Clear+Clear   1.0  57.4 4003.2   
+ 601115 Arc              15:49:59.99 +64:59:59.9  2000.00 12:22 1.281  IDS   20.0   -0  Clear+Clear   1.0  57.4 4003.2   
+ 601116 Arc              15:49:59.99 +65:00:00.0  2000.00 12:23 1.283  IDS   10.0   -0  Clear+Clear   1.0  57.4 4003.2   
+ 601117 Arc               0:00:00.00 +00:00:00.0  2000.00 12:30 1.000  IDS   10.0   -0  Clear+Clear   1.0  57.4 4003.2   
+ 601118 Arc               0:00:00.00 +00:00:00.0  2000.00 12:33 1.000  IDS   10.0   -0  Clear+Clear   1.0  57.4 4003.2   
+ 601119 Bias              0:00:00.00 +00:00:00.0  2000.00 17:54 1.000  IDS    0.0   -0  Clear+Clear   1.0  57.4 4003.2   
+ 601120 Bias              0:00:00.00 +00:00:00.0  2000.00 17:57 1.000  IDS    0.0   -0  Clear+Clear   1.0  57.4 4003.2   
+ 601121 Bias              0:00:00.00 +00:00:00.0  2000.00 17:58 1.000  IDS    0.0   -0  Clear+Clear   1.0  57.4 4000.5   
+ 601122 Bias              0:00:00.00 +00:00:00.0  2000.00 17:59 1.000  IDS    0.0   -0  Clear+Clear   1.0  57.4 4000.5   
+ 601123 Bias              0:00:00.00 +00:00:00.0  2000.00 17:59 1.000  IDS    0.0   -0  Clear+Clear   1.0  57.4 4000.5   
+ 601124 Bias              0:00:00.00 +00:00:00.0  2000.00 17:59 1.000  IDS    0.0   -0  Clear+Clear   1.0  57.4 4000.5   
+ 601125 Bias              0:00:00.00 +00:00:00.0  2000.00 17:59 1.000  IDS    0.0   -0  Clear+Clear   1.0  57.4 4000.5   
+ 601126 Bias              0:00:00.00 +00:00:00.0  2000.00 17:59 1.000  IDS    0.0   -0  Clear+Clear   1.0  57.4 4003.2   
+ 601127 Bias              0:00:00.00 +00:00:00.0  2000.00 17:59 1.000  IDS    0.0   -0  Clear+Clear   1.0  57.4 4003.2   
+ 601128 Bias              0:00:00.00 +00:00:00.0  2000.00 18:00 1.000  IDS    0.0   -0  Clear+Clear   1.0  57.4 4000.5   
+ 601129 Bias              0:00:00.00 +00:00:00.0  2000.00 18:00 1.000  IDS    0.0   -0  Clear+Clear   1.0  57.4 4003.2   
+ 601130 Bias              0:00:00.00 +00:00:00.0  2000.00 18:00 1.000  IDS    0.0   -0  Clear+Clear   1.0  57.4 4000.5   
+ 601131 Arc CuAr+CuNe ce  0:00:00.00 +00:00:00.0  2000.00 18:06 1.000  IDS  900.0   -0  Clear+Clear   1.0  57.4 3997.8   
+ 601132 Quartz Flat cenw  0:00:00.00 +00:00:00.0  2000.00 18:23 1.000  IDS  600.0   -0  Clear+Clear   1.0  57.4 3997.8   
+ 601133 Quartz Flat cenw  0:00:00.00 +00:00:00.0  2000.00 18:35 1.000  IDS  600.0   -0  Clear+Clear   1.0  57.4 3997.8   
+ 601134 Quartz Flat cenw  0:00:00.00 +00:00:00.0  2000.00 19:02 1.000  IDS  600.0   -0  Clear+Clear   1.0  57.4 3997.8   
+ 601135 Quartz Flat cenw  0:00:00.00 +00:00:00.0  2000.00 19:12 1.000  IDS  600.0   -0  Clear+Clear   1.0  57.4 3997.8   
+ 601136 Quartz Flat cenw  0:00:00.00 +00:00:00.0  2000.00 19:22 1.000  IDS  600.0   -0  Clear+Clear   1.0  57.4 3997.8   
+ 601137 HD23838           3:50:06.00 +44:58:05.9  2000.00 23:30 1.051  IDS  100.0   -0  Clear+Clear   1.0  57.4 3997.8   
+ 601138 HD23838           0:00:00.00 +00:00:00.0  2000.00 23:36 1.055  IDS  300.0  275  Clear+Clear   1.0  57.4 3997.8   
+ 601139 HD23838           3:50:06.07 +44:58:05.7  2000.00 23:56 1.069  IDS  300.0  180  Clear+Clear   1.0  57.4 3997.8   
+ 601140 Arc               3:50:05.95 +44:58:05.7  2000.00 00:02 1.072  IDS   30.0  180  Clear+Clear   1.0  57.4 3997.8   
+ 601141 AP 63             3:27:54.29 +49:12:11.3  2000.00 00:13 1.146  IDS  900.0   90  Clear+Clear   1.0  57.4 3997.8   guided by hand
+ 601142 Arc               3:27:54.45 +49:12:12.6  2000.00 00:29 1.160  IDS   60.0   90  Clear+Clear   1.0  57.4 3997.8   
+ 601143 AP 63             3:27:54.45 +49:12:12.5  2000.00 00:32 1.187  IDS 1500.0   90  Clear+Clear   1.0  57.4 3997.8   
+ 601144 Arc               3:27:54.95 +49:12:14.0  2000.00 00:57 1.214  IDS   60.0   90  Clear+Clear   1.0  57.4 3997.8   
+ 601145 AP 100            3:21:19.08 +48:35:12.9  2000.00 01:02 1.271  IDS 1500.0   90  Clear+Clear   1.0  57.4 3997.8   
+ 601146 Arc               3:21:19.78 +48:35:14.1  2000.00 01:28 1.310  IDS   60.0   90  Clear+Clear   1.0  57.4 3997.8   closed RH > 90 during AP118 at ~01:40
+ 601148 Arc               4:50:36.70 +08:54:00.5  2000.00 02:47 1.424  IDS  300.0  180  Clear+Clear   1.0  57.4 3997.8   
+ 601149 Bias              0:00:00.00 +00:00:00.0  2000.00 03:23 1.424  IDS    0.0  180  Clear+Clear   1.0  57.4 3997.8   
+ 601150 Bias              0:00:00.00 +00:00:00.0  2000.00 03:23 1.424  IDS    0.0  180  Clear+Clear   1.0  57.4 3997.8   
+ 601151 Bias              0:00:00.00 +00:00:00.0  2000.00 03:24 1.424  IDS    0.0  180  Clear+Clear   1.0  57.4 3997.8   
+ 601152 Bias              0:00:00.00 +00:00:00.0  2000.00 03:24 1.424  IDS    0.0  180  Clear+Clear   1.0  57.4 3997.8   
+ 601153 Bias              0:00:00.00 +00:00:00.0  2000.00 03:24 1.424  IDS    0.0  180  Clear+Clear   1.0  57.4 3997.8   
+ 601154 Bias              0:00:00.00 +00:00:00.0  2000.00 03:24 1.424  IDS    0.0  180  Clear+Clear   1.0  57.4 3997.8   
+ 601155 Bias              0:00:00.00 +00:00:00.0  2000.00 03:24 1.424  IDS    0.0  180  Clear+Clear   1.0  57.4 3997.8   
+ 601156 Bias              0:00:00.00 +00:00:00.0  2000.00 03:24 1.424  IDS    0.0  180  Clear+Clear   1.0  57.4 3997.8   
+ 601157 Bias              0:00:00.00 +00:00:00.0  2000.00 03:25 1.424  IDS    0.0  180  Clear+Clear   1.0  57.4 3997.8   
+ 601158 Bias              0:00:00.00 +00:00:00.0  2000.00 03:25 1.424  IDS    0.0  180  Clear+Clear   1.0  57.4 3997.8   
+ 601159 Quartz Flat cenw  0:00:00.00 +00:00:00.0  2000.00 03:26 1.136  IDS  600.0  180  Clear+Clear   1.0  57.4 3997.8   
+ 601160 Quartz Flat cenw  0:00:00.00 +00:00:00.0  2000.00 03:36 1.000  IDS  600.0  180  Clear+Clear   1.0  57.4 3997.8   
+ 601161 Quartz Flat cenw  0:00:00.00 +00:00:00.0  2000.00 03:46 1.000  IDS  600.0  180  Clear+Clear   1.0  57.4 3997.8   
+ 601162 Arc CuAr cenw 40  0:00:00.00 +00:00:00.0  2000.00 03:57 1.000  IDS  900.0  180  Clear+Clear   1.0  57.4 3997.8   

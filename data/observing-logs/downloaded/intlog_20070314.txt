@@ -1,0 +1,82 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 03 15 22:59
+
+TELESCOPE             INT
+DATE                  20070314
+OBSERVER/S            Anderson, James, Percival
+PROGRAMME             Imaging of SN host galaxies
+PROPOSAL REF          P1
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / n/a
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:26
+EVENING TWILIGHT (UT) 20:37
+MORNING TWILIGHT (UT) 06:04
+SUNRISE (UT)          07:15
+%ILLUM. LUNAR DISK    22
+DARK TIME (HRS)       09:27
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         04:46
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -1.1   97     0.0   0.0  310   760.6   -1.1   5.6     9.5   97    69 
+21:00  -1.2   97     0.0   0.0  310   761.6   -1.2   5.9     9.5   97    67 
+22:00  -1.9   97     0.0   0.0  310   761.4   -1.9   6.5     9.6   97    63 
+23:00  -2.1   97     0.0   0.0  310   761.5   -2.1   6.7     9.5   97    62 
+00:00  -1.3   96     0.0   0.0  310   762.1   -1.3   6.8     9.6   96    62 
+01:00  -1.4   97     0.0   0.0  310   761.7   -1.4   6.2     9.5   97    65 
+02:00  -1.3   97     0.0   0.0  310   762.4   -1.3   5.7     9.4   97    68 
+03:00  -1.9   97     0.0   0.0  310   761.6   -1.9   5.3     9.2   97    68 
+04:00  -1.2   97     0.0   0.0  310   762.4   -1.2   6.3     9.3   97    65 
+05:00  -1.6   97     0.0   0.0  310   763.1   -1.6   6.9     9.3   97    62 
+06:00  -1.5   97     0.0   0.0  310   763.5   -1.5   6.7     9.3   97    63 
+07:00  -1.3   97     0.0   0.0  310   764.0   -1.3   6.8     9.3   97    62 
+
+TIME LOST weather           11:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloud, ice, freeezing fog etc etc
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Never opened due to weather conditions
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 554608 (target not name                                  11:40        WFC   20.1       Halpha                           
+ 554609 just                                              11:42        WFC    5.1       Halpha                           
+ 554610 Bias frame        0:00:00.00 +00:00:00.0 2007.198 14:05 1.521  WFC    0.0  180  Ha 6805                          
+ 554611 TEST              0:00:00.00 +00:00:00.0 2007.198 14:10 1.521  WFC    2.0  180  V                                
+ 554612 TEST              0:00:00.00 +00:00:00.0 2007.198 14:12 1.521  WFC    2.1  180  V                                
+ 554613 TEST              0:00:00.00 +00:00:00.0 2007.198 14:13 1.521  WFC   10.1  180  V                                
+ 554614 Bias              0:00:00.00 +00:00:00.0 2007.201 14:24 1.139  WFC    0.0  180  V                                
+ 554615 Bias             21:00:00.00 +00:00:00.1 2000.00  14:28 2.085  WFC    0.0  180  V                                
+ 554616 TEST              0:00:00.00 +00:00:00.0 2000.00  14:37 2.469  WFC    2.0  180  R                                
+ 554617 Bias              0:00:00.00 +00:00:00.0 2000.00  18:42 1.000  WFC    0.0  180  R                                
+ 554618 Bias              0:00:00.00 +00:00:00.0 2000.00  18:45 1.000  WFC    0.0  180  Ha 6657                          
+ 554619 Bias              0:00:00.00 +00:00:00.0 2000.00  18:48 1.000  WFC    0.0  180  Ha 6657                          
+ 554620 skyflat h666      4:09:59.99 +03:50:00.0 2000.00  19:33 1.221  WFC   10.1  180  Ha 6657                          
+ 554621 skyflat h666      4:09:59.99 +03:49:59.9 2000.00  19:39 1.236  WFC   10.1  180  Ha 6657                          
+ 554622 skyflat halpha    4:10:00.00 +03:49:59.9 2000.00  19:41 1.240  WFC    9.5  180  Halpha                           
+ 554623 skyflat R         4:10:00.00 +03:50:00.0 2000.00  19:49 1.264  WFC   20.1  180  R                                
+ 554624 skyflat R         4:10:01.33 +03:50:20.0 2000.00  19:52 1.275  WFC   10.1  180  R                                
+ 554625 skyflat R         4:09:59.99 +03:49:59.9 2000.00  19:54 1.280  WFC   15.1  180  R                                
+ 554626 skyflat R         4:09:58.66 +03:49:39.9 2000.00  19:56 1.286  WFC   20.1  180  R                                
+ 554627 Focus run         6:51:39.70 -00:26:41.9 2000.00  20:19 1.148  WFC   20.1  180  R                                
+ 554628 ngc1961 R         5:42:04.80 +69:22:43.0 2000.00  20:50 1.360  WFC  349.9  180  R                                
+ 554629 ngc1961 h666      5:42:04.80 +69:22:43.1 2000.00  20:59 1.372  WFC  749.7  180  Ha 6657                          
+ 554630 ngc2415 R         7:36:56.70 +35:14:30.9 2000.00  21:22 1.007  WFC  349.9  180  R                                
+ 554631 ngc2415 h666      7:36:56.70 +35:14:31.0 2000.00  21:31 1.010  WFC  749.7  180  Ha 6657                          
+ 554632 Focus run         9:21:28.30 +02:46:04.1 2000.00  21:52 1.165  WFC   20.1  180  R                                
+ 554633 pg0918+029 R      9:21:28.30 +02:46:04.0 2000.00  21:56 1.156  WFC   15.1  180  R                                
+ 554634 ugc3829 R         7:23:44.10 +33:26:41.0 2000.00  22:03 1.032  WFC  349.3  180  R                                
+ 554635 ugc3829 h666      7:23:44.09 +33:26:41.0 2000.00  22:12 1.045  WFC  749.7  180  Ha 6657                          
+ 554636 ugc3829 R         7:23:44.10 +33:26:40.9 2000.00  22:27 1.059  WFC  349.9  180  R                                
+ 554637 ngc2715 R         9:08:06.20 +78:05:07.0 2000.00  22:38 1.532  WFC  349.9  180  R                                

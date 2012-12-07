@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 02 08 06:59
+
+TELESCOPE             INT
+DATE                  20120207
+OBSERVER/S            A. del Pino, R. Carrera
+PROGRAMME             C35
+PROPOSAL REF          C 35        
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 16.1
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:02
+EVENING TWILIGHT (UT) 20:15
+MORNING TWILIGHT (UT) 06:36
+SUNRISE (UT)          07:49
+%ILLUM. LUNAR DISK      1
+DARK TIME (HRS)       10:21
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   3.7    9    20.5  28.1  116   772.3   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   3.5   10    16.6  25.8  130   772.4   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   3.1    8    20.3  29.9   81   772.7   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   3.2    5    23.8  27.5  100   772.9   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   3.7    2    18.3  34.1   99   772.7   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   3.8    3    18.7  26.2   91   772.5   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   3.1    6    34.5  39.9   77   772.1   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   2.8   14    23.9  40.9   57   771.6   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   2.7   16    24.2  35.8  112   771.1   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   3.0   13    30.1  34.1  144   770.9   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   3.1    8    21.9  37.3  119   770.7   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+cyrros
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+The humidity increases drastically at the end of teh nigth
+
+

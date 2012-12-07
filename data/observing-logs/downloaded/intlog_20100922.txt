@@ -1,0 +1,60 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 09 23 04:27
+
+TELESCOPE             INT
+DATE                  20100922
+OBSERVER/S            Daniel Lopez
+PROGRAMME             Narrow band Images of M31
+PROPOSAL REF          D
+TELESCOPE OPERATOR    n/a
+SUPPORT ASTRONOMER    n/a
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:16
+EVENING TWILIGHT (UT) 20:28
+MORNING TWILIGHT (UT) 05:41
+SUNRISE (UT)          06:53
+%ILLUM. LUNAR DISK      1
+DARK TIME (HRS)       09:13
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   8.8   99    19.7  29.3  174   769.7    8.8   14.     15.   99     72
+21:00   8.8   99    20.5  26.6  147   769.8    8.8   13.     15.   99     74
+22:00   8.9   99    29.3  49.5  153   769.5    8.9   13.     15.   99     78
+23:00   9.2   99    23.8  40.1  148   770.0    9.2   13.     15.   99     78
+00:00   9.6   99    29.7  41.4  146   770.3    9.6   13.     15.   99     79
+01:00   9.6   99    13.1  16.7  164   770.9    9.6   13.     15.   99     76
+02:00   9.3   99    19.0  21.8  151   770.2    9.3   13.     15.   99     80
+03:00  10.3   99    22.1  39.5  106   769.8   10.3   13.     15.   99     81
+04:00  10.3   99    26.4  36.6  171   769.6   10.3   13.     15.   99     81
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+cloud cover and humidity
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Telescope closed, very bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 759611 Bias frame        0:00:00.00 +00:00:00.0  2000.00 20:34 1.000  WFC    0.0  180  [OII]3727                        
+ 759612 Bias frame        0:00:00.00 +00:00:00.0  2000.00 21:11 1.000  WFC    0.0  180  [OII]3727                        
+ 759613 Bias frame        0:00:00.00 +00:00:00.0  2000.00 21:11 1.000  WFC    0.0  180  [OII]3727                        
+ 759614 Bias frame        0:00:00.00 +00:00:00.0  2000.00 21:12 1.000  WFC    0.0  180  [OII]3727                        
+ 759615 Bias frame        0:00:00.00 +00:00:00.0  2000.00 21:12 1.000  WFC    0.0  180  [OII]3727                        
+ 759616 Bias frame        0:00:00.00 +00:00:00.0  2000.00 21:13 1.000  WFC    0.0  180  [OII]3727                        
+ 759617 Bias frame        0:00:00.00 +00:00:00.0  2000.00 21:13 1.000  WFC    0.0  180  [OII]3727                        
+ 759618 Bias frame        0:00:00.00 +00:00:00.0  2000.00 21:14 1.000  WFC    0.0  180  [OII]3727                        
+ 759619 Bias frame        0:00:00.00 +00:00:00.0  2000.00 21:14 1.000  WFC    0.0  180  [OII]3727                        
+ 759620 Bias frame        0:00:00.00 +00:00:00.0  2000.00 21:15 1.000  WFC    0.0  180  [OII]3727                        
+ 759621 Bias frame        0:00:00.00 +00:00:00.0  2000.00 21:15 1.000  WFC    0.0  180  [OII]3727                        

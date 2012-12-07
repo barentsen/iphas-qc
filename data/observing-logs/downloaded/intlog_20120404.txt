@@ -1,0 +1,44 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 04 05 06:39
+
+TELESCOPE             INT
+DATE                  20120404
+OBSERVER/S            D Wright
+PROGRAMME             ITP4
+PROPOSAL REF          ITP4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Hassan Fathivavsari
+
+TEL STATION / FOCUS   Cassegrain  / 15.9
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:38
+EVENING TWILIGHT (UT) 20:51
+MORNING TWILIGHT (UT) 05:37
+SUNRISE (UT)          06:50
+%ILLUM. LUNAR DISK    95
+DARK TIME (HRS)       08:46
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          05:48
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+00:00  -0.2   99    18.4  22.3  201   766.3   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00  -0.0   99    29.0  33.1  297   766.1   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   0.4   99    26.9  24.1  242   766.0   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00  -0.7   99    21.7  27.5  228   765.5   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   0.1   99    22.8  28.2  324   765.1   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   0.7   99    18.9  29.4  296   765.1   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   0.6   99    19.7  23.0  270   764.9   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           08:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+high humidity, wet and cloudy
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+99% humidity and wet weather all night so didn't open.
+
+

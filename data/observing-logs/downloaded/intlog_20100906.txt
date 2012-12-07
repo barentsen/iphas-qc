@@ -1,0 +1,76 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 09 07 07:10
+
+TELESCOPE             INT
+DATE                  20100906
+OBSERVER/S            Laura Watkins
+PROGRAMME             10B/P9
+PROPOSAL REF          10B/P9
+TELESCOPE OPERATOR    n/a
+SUPPORT ASTRONOMER    n/a
+
+TEL STATION / FOCUS   Prime  / 43.90
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:36
+EVENING TWILIGHT (UT) 20:49
+MORNING TWILIGHT (UT) 05:32
+SUNRISE (UT)          06:45
+%ILLUM. LUNAR DISK    3
+DARK TIME (HRS)       08:43
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         05:32
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  14.2    8    16.6  18.0   40   772.7   14.2   18.     19.    8     20
+21:00  13.7   11    22.6  24.0   24   773.0   13.7   16.     19.   11     16
+22:00  14.0   12    20.0  21.0   55   773.5   14.0   15.     18.   12     16
+23:00  14.0   11    17.5  20.4   50   773.8   14.0   15.     18.   11     16
+00:00  14.1   13    16.1  19.2   70   774.0   14.1   15.     18.   13     16
+01:00  14.9    9    11.2  12.4   55   773.9   14.9   15.     18.    9     14
+02:00  13.6   12    19.1  20.5   47   773.4   13.6   15.     18.   12     16
+03:00  13.8   12    16.0  16.7   61   773.0   13.8   14.     18.   12     17
+04:00  13.5   11     9.5   9.0   64   772.7   13.5   14.     17.   11     15
+05:00  13.1   10     8.4   8.9   27   772.5   13.1   14.     16.   10     15
+06:00  14.2    9     0.2   0.0   35   772.5   14.2   14.     16.    9     14
+
+TIME LOST weather           04:30
+TIME LOST Technical         00:40
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+night started cloudly, cleared up after 0000UT and clouded over again at around 0300 UT.  Seeing moderate.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+0333 UT, connection to lpss81 lost.  shut down obssys and power cycled lpss81 before restarting.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 757329 Focus run        21:40:55.19 +01:50:59.9  2000.00 21:12 1.449  WFC   20.1  180  g                                
+ 757330 SAT2             21:40:55.20 +01:51:00.0  2000.00 21:21 1.363  WFC  899.5  180  g                                
+ 757331 SAT2             21:40:55.19 +01:50:59.9  2000.00 21:37 1.304  WFC  899.5  180  g                                
+ 757332 SAT2             21:40:55.20 +01:50:59.9  2000.00 21:53 1.256  WFC  899.7  180  g                                
+ 757333 SAT2             21:40:55.20 +01:51:00.0  2000.00 22:11 1.213  WFC  899.5  180  r                                
+ 757335 SAT2             21:40:55.20 +01:51:00.0  2000.00 23:10 1.131  WFC  899.5  180  r                                
+ 757337 PISCES_32        23:50:59.99 +01:14:59.9  2000.00 23:41 1.342  WFC  599.6  180  g                                
+ 757339 PISCES_32        23:51:00.00 +01:15:00.0  2000.00 23:55 1.295  WFC  599.6  180  g                                
+ 757340 PISCES_32        23:50:59.99 +01:14:59.9  2000.00 00:06 1.263  WFC  599.7  180  g                                
+ 757341 PISCES_32        23:51:00.00 +01:15:00.0  2000.00 00:17 1.234  WFC  599.6  180  g                                
+ 757342 PISCES_32        23:50:59.99 +01:14:59.9  2000.00 00:29 1.208  WFC  599.7  180  r                                
+ 757343 PISCES_32        23:51:00.00 +01:14:59.9  2000.00 00:39 1.187  WFC  599.8  180  r                                
+ 757344 PISCES_32        23:50:59.99 +01:15:00.0  2000.00 00:50 1.170  WFC  599.6  180  r                                
+ 757345 PISCES_27        23:36:59.99 +04:45:00.0  2000.00 01:04 1.107  WFC  599.7  180  r                                
+ 757346 PISCES_27        23:37:00.00 +04:45:00.0  2000.00 01:15 1.100  WFC  599.8  180  r                                
+ 757347 PISCES_27        23:36:59.99 +04:45:00.0  2000.00 01:26 1.096  WFC  599.6  180  r                                
+ 757348 PISCES_06        22:54:59.99 -05:45:00.0  2000.00 01:39 1.234  WFC  599.8  180  g                                
+ 757349 PISCES_06        22:54:59.99 -05:44:59.9  2000.00 01:50 1.247  WFC  599.7  180  g                                
+ 757350 PISCES_06        22:54:59.99 -05:45:00.0  2000.00 02:01 1.263  WFC  599.7  180  g                                
+ 757351 PISCES_06        22:55:00.00 -05:45:00.0  2000.00 02:13 1.285  WFC  599.8  180  r                                
+ 757352 PISCES_06        22:54:59.99 -05:44:59.9  2000.00 02:24 1.309  WFC  599.7  180  r                                
+ 757353 PISCES_06        22:55:00.00 -05:44:59.9  2000.00 02:34 1.337  WFC  599.2  180  r                                
+ 757354 PISCES_18        23:23:00.00 -05:45:00.0  2000.00 02:48 1.301  WFC  599.8  180  g                                
+ 757355 PISCES_18        23:23:00.00 -05:45:00.0  2000.00 02:59 1.328  WFC  599.7  180  g                                
+ 757356 PISCES_18        23:22:59.99 -05:45:00.0  2000.00 03:10 1.359  WFC  599.7  180  g                                

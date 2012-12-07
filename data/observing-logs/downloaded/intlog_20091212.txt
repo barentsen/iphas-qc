@@ -1,0 +1,54 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 12 12 19:26
+
+TELESCOPE             INT
+DATE                  20091212
+OBSERVER/S            Gavin Ramsay
+PROGRAMME             RATS- a search for ultra compact binaries
+PROPOSAL REF          P3
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:39
+MORNING TWILIGHT (UT) 06:31
+SUNRISE (UT)          07:48
+%ILLUM. LUNAR DISK    12
+DARK TIME (HRS)       10:52
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         05:00
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -2.0   99    46.8  54.6  346   761.5   -2.0                 99      #
+No Met data available for second half of night
+
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+bad. ice and rain.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+leaving at 19.30 on recommendation of TO on WHT
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 712538 Bias              0:00:00.00 +00:00:00.0  2009.95 18:07 4.551  WFC    0.0  180  Halpha                           
+ 712539 Bias              0:00:00.00 +00:00:00.0  2009.95 18:08 4.551  WFC    0.0  180  Halpha                           
+ 712540 Bias              0:00:00.00 +00:00:00.0  2009.95 18:09 4.551  WFC    0.0  180  Halpha                           
+ 712541 Bias              0:00:00.00 +00:00:00.0  2009.95 18:10 4.551  WFC    0.0  180  Halpha                           
+ 712542 Bias              0:00:00.00 +00:00:00.0  2009.95 18:10 4.551  WFC    0.0  180  Halpha                           
+ 712543 Bias              0:00:00.00 +00:00:00.0  2009.95 18:11 4.551  WFC    0.0  180  Halpha                           
+ 712544 Bias              0:00:00.00 +00:00:00.0  2009.95 18:12 4.551  WFC    0.0  180  Halpha                           
+ 712545 Bias              0:00:00.00 +00:00:00.0  2009.95 18:13 4.551  WFC    0.0  180  Halpha                           
+ 712546 Bias              0:00:00.00 +00:00:00.0  2009.95 18:14 4.551  WFC    0.0  180  Halpha                           
+ 712547 Bias              0:00:00.00 +00:00:00.0  2009.95 18:14 4.551  WFC    0.0  180  Halpha                           
+ 712548 Bias              0:00:00.00 +00:00:00.0  2009.95 18:15 4.551  WFC    0.0  180  Halpha                           

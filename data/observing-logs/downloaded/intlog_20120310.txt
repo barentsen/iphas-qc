@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 03 11 07:11
+
+TELESCOPE             INT
+DATE                  20120310
+OBSERVER/S            Hodgkin, Gillen
+PROGRAMME             Low Mass Young EBs
+PROPOSAL REF          N5
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Hugo Ledo
+
+TEL STATION / FOCUS   Cassegrain  / 16.0
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:24
+EVENING TWILIGHT (UT) 20:35
+MORNING TWILIGHT (UT) 06:07
+SUNRISE (UT)          07:19
+%ILLUM. LUNAR DISK    91
+DARK TIME (HRS)       09:32
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         21:45
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   7.5   15    14.7  16.1   77   773.9   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   9.5    2    13.7  14.0   31   774.4   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   9.6    0    11.4  11.8   59   774.8   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   9.6    0    13.7  16.0   63   774.9   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   9.5    0    11.1  11.9   78   774.7   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   9.6    2     0.1   0.8  118   774.4   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00  10.1    2     1.5   3.1  171   774.0   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00  10.5    3     0.8   1.0  237   773.4   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   9.5    3     3.1   2.4  175   772.8   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   9.5    3     1.2   3.7  179   772.4   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   9.3    1    19.0  19.5  265   772.5   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   9.9    4    14.3  14.4  269   772.6   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           02:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloud throughout, thinner for the latter half of the night. Seeing 1.5 arcsecs or slightly better
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

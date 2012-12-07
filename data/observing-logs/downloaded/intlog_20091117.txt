@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 11 18 05:04
+
+TELESCOPE             INT
+DATE                  20091117
+OBSERVER/S            van Spaandonk
+PROGRAMME             UVEX
+PROPOSAL REF          09A/N4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.75
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:25
+EVENING TWILIGHT (UT) 19:39
+MORNING TWILIGHT (UT) 06:15
+SUNRISE (UT)          07:29
+%ILLUM. LUNAR DISK    2
+DARK TIME (HRS)       10:36
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          18:50
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   0.7   99    15.6  16.9   13   768.5    0.7    9.     11.   99     63
+20:00  -0.3   99    12.9  16.4  339   768.9   -0.3    9.     11.   99     63
+21:00   0.6   99    10.0  11.3   31   770.0    0.6    8.     11.   99     63
+22:00   0.5   99    20.8  20.3   33   770.0    0.5    8.     11.   99     67
+23:00   1.1   99    14.9  15.3   67   769.8    1.1    8.     11.   99     66
+00:00   0.7   99    12.2  13.7   48   769.9    0.7                 99      #
+01:00   1.3   98    11.4  14.0   67   769.3    1.3                 98      #
+02:00   1.0   99    13.2  14.1   54   769.1    1.0                 99      #
+03:00   1.1   99    10.5  11.4  102   769.8    1.1                 99      #
+04:00   0.8   96     8.2   8.8  276   769.7    0.8                 96      #
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humidity throughout the night> 90 % 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+humidity conditions prevented opening dome 
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

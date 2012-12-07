@@ -1,0 +1,60 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 12 03 05:12
+
+TELESCOPE             INT
+DATE                  20031202
+OBSERVER/S            Nicholas Walton
+PROGRAMME             IPHAS
+PROPOSAL REF          I/2003B/14
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Robert Greimel
+
+TEL STATION / FOCUS   Prime  / 44.0
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:37
+MORNING TWILIGHT (UT) 06:25
+SUNRISE (UT)          07:40
+%ILLUM. LUNAR DISK    72
+DARK TIME (HRS)       10:48
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:08
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -0.0   95    31.0  33.5  356   768.9   -0.0  10.6    10.2   95    50 
+20:00  -0.1   96    35.4  41.6    1   769.2   -0.1  10.3    10.3   96    51 
+21:00   0.1   96    41.9  45.2    1   769.5    0.1  10.1    10.2   96    53 
+22:00   0.1   98    40.5  45.0   21   769.7    0.1  10.0    10.2   98    53 
+23:00  -0.2   95    42.0  45.5   11   769.8   -0.2   7.2    10.4   95    61 
+00:00   2.5   41    35.8  38.2   28   769.7    2.5   7.7    10.2   41    38 
+01:00  -0.3   93    40.1  47.8   20   769.2   -0.3   6.0     9.9   93    65 
+02:00  -0.5   89    42.5  46.8    1   769.2   -0.5   8.1     9.8   89    57 
+03:00   0.1   72    44.1  47.3   13   768.9    0.1   8.8     9.8   72    50 
+04:00  -1.0   93    46.5  48.8   10   768.5   -1.0   8.9    10.0   93    51 
+05:00  -1.2   94    48.2  56.8    1   768.5   -1.2   8.8     9.8   94    50 
+
+TIME LOST weather           13:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+poor - cloud, ice and rain all night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+opened several times during the night, only tohave to close again due to cloud. managed to get one focus run in - seeing measured at >5 arcsec!
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 378512 Bias              0:00:00.00 +00:00:00.0 A        14:59 1.000  WFC    0.0  180  Halpha                           
+ 378513 Bias              0:00:00.00 +00:00:00.0 A        15:00 1.000  WFC    0.0  180  Halpha                           
+ 378514 Bias              0:00:00.00 +00:00:00.0 A        15:01 1.000  WFC    0.0  180  Halpha                           
+ 378515 Bias              0:00:00.00 +00:00:00.0 A        15:01 1.000  WFC    0.0  180  Halpha                           
+ 378516 Bias              0:00:00.00 +00:00:00.0 A        15:02 1.000  WFC    0.0  180  Halpha                           dark dome
+ 378517 Focus run         3:53:43.70 -00:02:02.8 J2000.00 00:29 1.141  WFC   10.1  180  r                                poor seeing 5"
+ 378518 sa95-42 r         3:53:43.70 -00:04:33.0 J2000.00 00:35 1.144  WFC   19.5  180  r                                
+ 378519 sa95-42 i         3:53:43.70 -00:04:33.0 J2000.00 00:36 1.144  WFC   20.1  180  i                                
+ 378520 sa95-42 Ha        3:53:43.70 -00:04:33.0 J2000.00 00:37 1.145  WFC   65.1  180  Halpha                           

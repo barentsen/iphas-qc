@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 05 03 07:10
+
+TELESCOPE             INT
+DATE                  20120502
+OBSERVER/S            Hoekstra
+PROGRAMME             N3 
+PROPOSAL REF          N3                 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Dora Fohring
+
+TEL STATION / FOCUS   Prime  / 43.45
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:55
+EVENING TWILIGHT (UT) 21:13
+MORNING TWILIGHT (UT) 05:03
+SUNRISE (UT)          06:21
+%ILLUM. LUNAR DISK    86
+DARK TIME (HRS)       07:50
+TWILIGHT TIME (HRS)   02:36
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          04:19
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   2.3   35    11.1  25.8  212   767.6   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   0.7   40    19.8  23.2  273   767.9   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00  -0.4   85    21.4  28.9  263   768.2   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   0.8   41    27.6  34.8  290   768.6   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   1.2   22    33.3  34.9  294   768.9   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   0.9   24    31.8  33.4  300   768.7   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   0.4   35    23.6  26.2  298   768.6   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   0.6   35    23.6  26.0  292   768.4   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   1.1   27    23.8  26.7  266   768.3   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   2.4   16    19.0  21.7  289   768.2   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   3.2   13    14.4  19.4  280   768.2   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Short period of high humidity in the beginning of the night. Rest of the night stable and clear. seeing 1.5"
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Time lost due to high humidity in the beginning of the night.
+
+

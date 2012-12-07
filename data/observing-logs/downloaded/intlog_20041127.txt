@@ -1,0 +1,58 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 12 16 12:54
+
+TELESCOPE             INT
+DATE                  20041127
+OBSERVER/S            Mike Irwin
+PROGRAMME             Planetary transits in the ONC
+PROPOSAL REF          P19               
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    alegria
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:37
+MORNING TWILIGHT (UT) 06:22
+SUNRISE (UT)          07:37
+%ILLUM. LUNAR DISK    99
+DARK TIME (HRS)       10:45
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         18:31
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.0   63    21.7  28.9  154   768.6    5.0   8.3    10.8   63    55 
+20:00   5.9   60    24.8  43.2  186   768.7    5.9   8.7    10.7   60    53 
+21:00   5.9   60    26.0  34.4  170   769.0    5.9   8.8    10.8   60    53 
+22:00   6.4   58    39.3  48.0  145   769.0    6.4   8.8    10.8   58    51 
+23:00   5.1   61    38.0  40.9  163   768.7    5.1   7.2    10.4   61    57 
+00:00   3.1   73    49.2  53.9  137   768.1    3.1   6.3     9.4   73    63 
+01:00   3.3   66    34.5  41.9  150   767.8    3.3   5.7     9.3   66    59 
+02:00   2.8   74    44.0  46.3  162   767.1    2.8   6.4     9.5   74    62 
+03:00   3.8   68    39.9  47.0  167   766.9    3.8   6.6     9.5   68    59 
+04:00   3.5   69    36.4  43.4  163   766.1    3.5   6.9     9.6   69    58 
+05:00   3.2   71    38.6  46.9  158   765.7    3.2   7.1     9.6   71    59 
+06:00   4.1   68    37.7  52.3  156   765.8    4.1   6.8     9.6   68    60 
+07:00   3.2   69    31.5  35.3  167   765.8    3.2   6.8     9.4   69    59 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 433694 Bias frame       17:09:26.00 +20:00:00.0 J2000.00 14:57 1.045  WFC    0.0  180  [OIII]5007                       
+ 433695 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:34 4.601  WFC    0.0  180  i                                
+ 433696 Bias              0:00:00.00 +00:00:00.0 A        22:42 1.000  WFC    0.0  180  [OIII]5007                       
+ 433697 Focus run         1:05:09.20 +38:31:05.0 J2000.00 23:04 1.053  WFC    9.5  180  r                                
+ 433698 Focus run         1:05:09.21 +38:31:05.2 J2000.00 00:36 1.231  WFC   10.1  180  r                                

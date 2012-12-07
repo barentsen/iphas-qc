@@ -1,0 +1,58 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 01 13 03:36
+
+TELESCOPE             INT
+DATE                  20060112
+OBSERVER/S            Deeg
+PROGRAMME             C69
+PROPOSAL REF          C69                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:41
+EVENING TWILIGHT (UT) 19:57
+MORNING TWILIGHT (UT) 06:43
+SUNRISE (UT)          07:58
+%ILLUM. LUNAR DISK    98
+DARK TIME (HRS)       10:46
+TWILIGHT TIME (HRS)   02:31
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          07:44
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -2.4  100    20.2  22.8  296   767.9   -2.4   6.4     7.1  100    56 
+20:00  -1.7  100    22.2  23.3  324   768.0   -1.7   5.4     7.1  100    65 
+21:00  -1.6   91    16.6  17.3  282   768.5   -1.6   5.0     7.2   91    66 
+22:00  -1.3  100    24.9  27.4  321   768.5   -1.3   5.1     7.2  100    74 
+23:00  -1.9  100    22.2  24.3  323   768.9   -1.9   5.6     7.1  100    75 
+00:00  -1.9  100    15.5  17.1  332   769.1   -1.9   6.5     7.1  100    71 
+01:00  -1.1  100    25.4  26.3  327   768.9   -1.1   6.8     7.1  100    70 
+02:00  -0.9  100    19.2  22.0  305   769.0   -0.9   6.8     7.2  100    72 
+03:00  -0.9  100    24.0  25.1  326   768.8   -0.9   6.4     7.2  100    74 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+clouds, snowfall
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+no observations due to clouds
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 489802 ALAN             19:00:00.00 +18:59:59.9 2000.00  14:01 1.066  WFC   15.1  180  B                                
+ 489803 Bias frame       18:59:59.99 +18:59:59.9 2000.00  14:03 1.067  WFC    0.0  180  B                                
+ 489804 Bias              6:52:04.70 -00:21:56.0 2000.00  21:42 1.566  WFC    0.0  180  B                                
+ 489805 Bias              6:52:04.70 -00:21:56.0 2000.00  21:43 1.562  WFC    0.0  180  B                                
+ 489806 Bias              6:52:04.70 -00:21:56.0 2000.00  21:44 1.558  WFC    0.0  180  B                                
+ 489807 Bias              6:52:04.70 -00:21:55.9 2000.00  21:44 1.554  WFC    0.0  180  B                                
+ 489808 Bias              6:52:04.69 -00:21:56.0 2000.00  21:45 1.551  WFC    0.0  180  B                                
+ 489809 Bias              6:52:04.70 -00:21:56.0 2000.00  21:45 1.547  WFC    0.0  180  B                                
+ 489810 Bias              6:52:04.70 -00:21:55.9 2000.00  21:46 1.544  WFC    0.0  180  B                                

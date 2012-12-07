@@ -1,0 +1,62 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 10 10 02:54
+
+TELESCOPE             INT
+DATE                  20031009
+OBSERVER/S            Greimel/Mislis/Hopewell
+PROGRAMME             D
+PROPOSAL REF          D
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Greimel
+
+TEL STATION / FOCUS   Prime  / 43.98
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:57
+EVENING TWILIGHT (UT) 20:08
+MORNING TWILIGHT (UT) 05:51
+SUNRISE (UT)          07:02
+%ILLUM. LUNAR DISK      1
+DARK TIME (HRS)       09:43
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+No Met data available for first half of night
+No Met data available for second half of night
+
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% cloud cover for most of the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 367068 Flat field       19:59:00.00 +02:20:00.0 J2000.00 19:10 1.141  WFC    4.6  180  Halpha                           
+ 367069 Flat field       19:59:00.00 +02:20:00.0 J2000.00 19:13 1.138  WFC    4.3  180  r                                
+ 367070 flat             19:58:59.99 +02:20:00.1 J2000.00 19:14 1.136  WFC    9.1  180  r                                
+ 367071 flat             19:59:00.67 +02:20:09.9 J2000.00 19:16 1.135  WFC   15.1  180  r                                
+ 367072 flat i           19:59:00.66 +02:20:10.0 J2000.00 19:18 1.133  WFC   30.1  180  i                                
+ 367073 flat i           19:59:01.33 +02:20:19.9 J2000.00 19:19 1.132  WFC   45.1  180  i                                
+ 367074 flat i           19:58:58.66 +02:19:40.0 J2000.00 19:21 1.130  WFC   75.0  180  i                                
+ 367075 Focus run        19:59:00.00 +02:22:29.9 J2000.00 19:33 1.123  WFC   10.1  180  r                                
+ 367076 intphas_5529 Ha  20:00:50.13 +39:21:59.9 J2000.00 21:40 1.090  WFC  118.1  180  Halpha                           
+ 367077 intphas_5529 r   20:00:50.13 +39:21:59.6 J2000.00 21:43 1.093  WFC   10.1  180  r                                
+ 367078 intphas_5529 i   20:00:50.13 +39:21:59.6 J2000.00 21:44 1.094  WFC   10.1  180  i                                
+ 367079 intphas_5529o Ha 20:01:16.03 +39:26:59.6 J2000.00 21:45 1.097  WFC  120.1  180  Halpha                           
+ 367080 intphas_5529o r  20:01:16.02 +39:26:59.6 J2000.00 21:48 1.100  WFC   10.1  180  r                                
+ 367081 intphas_5529o i  20:01:16.02 +39:26:59.5 J2000.00 21:49 1.101  WFC   10.1  180  i                                
+ 367082 intphas_5542 Ha  20:01:30.48 +39:54:59.6 J2000.00 21:50 1.105  WFC  120.1  180  Halpha                           
+ 367083 intphas_5542 r   20:01:30.48 +39:54:59.5 J2000.00 21:53 1.109  WFC   10.1  180  r                                
+ 367084 intphas_5542 i   20:01:30.48 +39:54:59.5 J2000.00 21:53 1.110  WFC   10.1  180  i                                
+ 367085 Focus run         1:00:00.00 +00:09:30.0 J2000.00 00:45 1.141  WFC   10.1  180  r                                
+ 367086 Focus run         1:47:35.99 +02:22:33.0 J2000.00 00:53 1.147  WFC   10.1  180  r                                

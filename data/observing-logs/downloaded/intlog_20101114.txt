@@ -1,0 +1,74 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 11 15 04:28
+
+TELESCOPE             INT
+DATE                  20101114
+OBSERVER/S            vdBurg, Koens
+PROGRAMME             Multi-colour imaging of nearby clusters of galaxies
+PROPOSAL REF          N3 Hoekstra       
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Busenbender
+
+TEL STATION / FOCUS   Prime  / 43.80
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:26
+EVENING TWILIGHT (UT) 19:40
+MORNING TWILIGHT (UT) 06:12
+SUNRISE (UT)          07:26
+%ILLUM. LUNAR DISK    62
+DARK TIME (HRS)       10:32
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          02:03
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.6   57    24.6  27.7   23   768.2   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   5.8   55    29.8  34.2   27   768.8   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   5.2   87    31.1  35.4   43   769.1   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   5.2   86    31.4  34.4   58   769.5   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   5.2   95    28.9  31.3   40   769.7   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   5.6   98    29.4  35.3   64   769.8   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   5.4   77    30.3  38.6   62   769.7   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   5.6   78    30.1  33.9   77   769.5   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   6.0   74    20.1  27.6   84   769.6   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   6.1   97    13.4  19.9   60   769.6   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           10:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+at the start bad conditions, only 1 hour observations, we closed down again at around half 2.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+weather. thick cloud at the start, high humidity.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 767610 Bias              0:00:00.00 +00:00:00.0  2000.00 19:28 1.000  WFC    0.0  180  B                                
+ 767611 Bias              0:00:00.00 +00:00:00.0  2000.00 19:32 1.000  WFC    0.0  180  B                                
+ 767612 Bias              0:00:00.00 +00:00:00.0  2000.00 19:33 1.000  WFC    0.0  180  B                                
+ 767613 Bias              0:00:00.00 +00:00:00.0  2000.00 19:33 1.000  WFC    0.0  180  B                                
+ 767614 Bias              0:00:00.00 +00:00:00.0  2000.00 19:34 1.000  WFC    0.0  180  B                                
+ 767615 Bias              0:00:00.00 +00:00:00.0  2000.00 19:34 1.000  WFC    0.0  180  B                                
+ 767616 Bias              0:00:00.00 +00:00:00.0  2000.00 19:35 1.000  WFC    0.0  180  B                                
+ 767617 Bias              0:00:00.00 +00:00:00.0  2000.00 19:35 1.000  WFC    0.0  180  B                                
+ 767618 Bias              0:00:00.00 +00:00:00.0  2000.00 19:36 1.000  WFC    0.0  180  B                                
+ 767619 Bias              0:00:00.00 +00:00:00.0  2000.00 19:36 1.000  WFC    0.0  180  B                                
+ 767620 Bias              0:00:00.00 +00:00:00.0  2000.00 19:37 1.000  WFC    0.0  180  B                                
+ 767621 Abell2426.2 i                                     20:07        WFC  399.9       i                                crap
+ 767623 Bias             22:14:29.56 -10:21:31.6  2000.00 20:16 1.296  WFC    0.0  180  i                                don't use
+ 767624 Abell2703.1 i     0:05:37.32 +16:25:07.8  2000.00 20:20 1.079  WFC  200.0  180  i                                cloud
+ 767625 Abell399.1 i      2:57:38.41 +13:12:32.7  2000.00 01:33 1.073  WFC  399.4  180  i                                
+ 767626 Abell399.2 i      2:57:29.50 +13:05:39.4  2000.00 01:40 1.083  WFC  399.8  180  i                                
+ 767627 Abell399.3 i      2:57:35.95 +12:58:39.4  2000.00 01:48 1.094  WFC  399.9  180  i                                
+ 767628 Abell399.4 i      2:57:55.80 +12:53:22.4  2000.00 01:55 1.106  WFC  399.9  180  i                                
+ 767629 Abell399.5 i      2:58:24.03 +12:51:12.4  2000.00 02:02 1.118  WFC  399.9  180  i                                
+ 767630 Abell399.6 i      2:58:52.76 +12:52:46.6  2000.00 02:10 1.131  WFC  399.9  180  i                                
+ 767631 Abell399.7 i      2:59:14.46 +12:57:37.0  2000.00 02:17 1.145  WFC  399.9  180  i                                
+ 767632 Abell399.8 i      2:59:23.39 +13:04:29.8  2000.00 02:25 1.162  WFC  399.9  180  i                                cloud enters the field
+ 767633 Abell399.9 i      2:59:17.01 +13:11:30.1  2000.00 02:32 1.176  WFC  199.4  180  i                                thick cloud
+ 767634 Abell399.9 i      2:59:17.00 +13:11:29.7  2000.00 02:37 1.189  WFC  200.0  180  i                                thick cloud

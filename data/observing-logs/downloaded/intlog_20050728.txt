@@ -1,0 +1,59 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 07 29 05:42
+
+TELESCOPE             INT
+DATE                  20050728
+OBSERVER/S            Wilbert van Ham
+PROGRAMME             iphas
+PROPOSAL REF          iphas
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / -
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:13
+EVENING TWILIGHT (UT) 21:35
+MORNING TWILIGHT (UT) 05:02
+SUNRISE (UT)          06:23
+%ILLUM. LUNAR DISK    41
+DARK TIME (HRS)       07:27
+TWILIGHT TIME (HRS)   02:43
+MOONRISE (UT)         00:47
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  10.4   97    10.8  11.6  256   774.0   10.4  17.1    16.2   97    66 
+22:00  10.2   92    13.2  15.5  239   774.3   10.2  16.6    16.3   92    65 
+23:00   9.6  100    11.5  11.9  252   774.5    9.6  16.0    16.4  100    69 
+00:00   9.5  100    16.8  18.1  263   774.7    9.5  15.1    16.4  100    76 
+01:00   9.3  100    22.2  23.1  282   774.5    9.3  15.0    16.3  100    75 
+02:00   9.2  100    19.9  20.7  284   774.3    9.2  14.8    16.3  100    74 
+03:00   9.5  100    13.6  14.8  267   774.0    9.5  14.7    16.3  100    76 
+04:00   8.8  100    12.4  12.9  262   773.7    8.8  14.7    16.2  100    75 
+05:00  10.3   89    12.7  13.4  283   773.7   10.3  14.5    16.2   89    64 
+
+TIME LOST weather           08:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+clouds, humid and wet
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 465019 SARAH             7:00:00.00 +06:59:59.9 2000.00  12:52 1.120  WFC   15.1  180  i                                
+ 465020 Bias frame        7:00:00.00 +06:59:59.9 2000.00  12:53 1.122  WFC    0.0  180  i                                
+ 465021 header writing t  0:00:00.00 +00:00:00.0 2000.00  14:15 4.708  WFC   20.1  180  Halpha                           
+ 465022 header writing t  0:00:00.00 +00:00:00.0 2000.00  14:18 4.708  WFC    8.1  180  [OIII]5007                       
+ 465023 header writing t  0:00:00.00 +00:00:00.0 2000.00  14:28 4.708  WFC   60.1  180  r                                
+ 465024 Bias              0:00:00.00 +00:00:00.0 2000.00  20:00 1.000  WFC    0.0  180  Halpha                           
+ 465025 Bias              0:00:00.00 +00:00:00.0 2000.00  20:01 1.000  WFC    0.0  180  Halpha                           
+ 465026 Bias              0:00:00.00 +00:00:00.0 2000.00  20:01 1.000  WFC    0.0  180  Halpha                           
+ 465027 Bias              0:00:00.00 +00:00:00.0 2000.00  20:02 1.000  WFC    0.0  180  Halpha                           
+ 465028 Bias              0:00:00.00 +00:00:00.0 2000.00  20:03 1.000  WFC    0.0  180  Halpha                           

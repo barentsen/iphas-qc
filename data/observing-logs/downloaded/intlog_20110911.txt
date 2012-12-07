@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 09 12 08:09
+
+TELESCOPE             INT
+DATE                  20110911
+OBSERVER/S            Fohring, Ledo
+PROGRAMME             student training + star fields programme
+PROPOSAL REF          D
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Tyndall
+
+TEL STATION / FOCUS   Prime  / 44.6
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:30
+EVENING TWILIGHT (UT) 20:43
+MORNING TWILIGHT (UT) 05:35
+SUNRISE (UT)          06:47
+%ILLUM. LUNAR DISK      1
+DARK TIME (HRS)       08:52
+TWILIGHT TIME (HRS)   02:25
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  14.5   25     8.5  11.0  263   774.9   14.5   18.     18.   25     29
+21:00  13.5   33     8.1  11.0  200   775.0   13.5   15.     18.   33     36
+22:00  13.2   32     5.7   9.0  279   775.4   13.2   14.     18.   32     35
+23:00  13.0   37     7.1   8.7  298   775.5   13.0   14.     18.   37     40
+00:00  12.8   37    11.8  12.6  345   775.3   12.8   14.     17.   37     41
+01:00  13.2   35    12.0  12.1   30   775.0   13.2   13.     17.   35     38
+02:00  13.1   30    12.5  12.8   39   774.7   13.1   13.     17.   30     41
+03:00  12.9   33     9.0   9.6   80   774.2   12.9   13.     17.   33     37
+04:00  12.8   42     0.8   1.7  177   773.6   12.8   13.     16.   42     46
+05:00  12.9   38     1.3   3.6  183   773.3   12.9   13.     15.   38     42
+06:00  12.9   34     1.7   4.2  172   773.3   12.9   13.     16.   34     38
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:45
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+excellent
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+unable to write to disk for evening sky flats. Fault report created.
+
+

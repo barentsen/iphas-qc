@@ -1,0 +1,65 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 11 25 20:09
+
+TELESCOPE             INT
+DATE                  20031124
+OBSERVER/S            Fiona McGroarty
+PROGRAMME             Large Scale HH Outflows From Young Stars
+PROPOSAL REF          P7
+TELESCOPE OPERATOR    David Russell
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.95
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:19
+SUNRISE (UT)          07:34
+%ILLUM. LUNAR DISK    2
+DARK TIME (HRS)       10:41
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          18:56
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -0.9   94    42.6  47.3  349   766.2   -0.9   7.3     9.5   94    62 
+20:00  -2.3   82    48.9  54.3  324   766.3   -2.3   7.2     9.6   82    62 
+22:00  -0.9   94    41.4  46.5  335   767.2   -0.9   6.7     9.5   94    65 
+23:00  -1.0   42    35.9  40.2  337   767.5   -1.0   5.8     9.7   42    68 
+00:00  -0.7   47    39.9  42.9  305   767.8   -0.7   5.3     9.5   47    70 
+01:00   3.8   14    34.8  39.0  335   767.8    3.8   5.1     9.4   14    39 
+02:00   2.1   30    37.0  40.2   10   767.7    2.1   4.3     9.1   30    28 
+03:00   2.5   33    31.3  35.9   20   768.0    2.5   4.7     8.6   33    23 
+04:00   0.5  100    41.9  45.3   34   768.1    0.5   4.1     8.6  100    74 
+05:00  -0.1  100    24.1  28.3    7   768.5   -0.1   4.4     8.4  100    75 
+06:00  -0.6  100    33.2  35.7   25   768.6   -0.6   4.3     8.4  100    76 
+07:00  -0.5  100    31.3  34.5   19   768.7   -0.5   5.0     8.2  100    72 
+
+TIME LOST weather           09:15
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloudy and 100% humidity for most of the night, became dry and humidity dropped for about 1.75 hours at 1.30am
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 376851 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 14:01 1.000  WFC    0.0  180  B                                was done before our run started
+ 376852 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:23 4.729  WFC    0.0  180  I                                Lights were on in dome - don't use this one!
+ 376853 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:24 4.729  WFC    0.0  180  I                                
+ 376854 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:24 4.729  WFC    0.0  180  I                                
+ 376855 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:36 4.729  WFC    0.0  180  I                                
+ 376856 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:36 4.729  WFC    0.0  180  I                                
+ 376857 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:37 4.729  WFC    0.0  180  I                                
+ 376858 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:38 4.729  WFC    0.0  180  I                                
+ 376859 Focus run         4:14:17.00 +28:13:29.0 J2000.00 01:31 1.003  WFC    8.3  180  [SII]6725                        
+ 376860 CWTAU             4:14:16.99 +28:10:58.9 J2000.00 01:41 1.009  WFC  702.4  180  [SII]6725                        Run cut short as focus set incorrectly, don't use
+ 376861 CWTAU   SII       4:14:16.99 +28:10:59.0 J2000.00 01:53 1.028  WFC 2098.9  180  [SII]6725                        
+ 376862 CWTAU   Halpha    4:14:16.99 +28:10:59.1 J2000.00 02:30 1.073  WFC 2098.8  180  Halpha                           
+ 376863 DG Tau SII        4:27:04.70 +26:06:17.0 J2000.00 03:10 1.092  WFC    0.0  180  [SII]6725                        

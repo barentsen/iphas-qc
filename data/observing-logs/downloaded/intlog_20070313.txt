@@ -1,0 +1,121 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 03 15 22:57
+
+TELESCOPE             INT
+DATE                  20070313
+OBSERVER/S            Anderson, James, Percival
+PROGRAMME             Imaging of SN host galaxies
+PROPOSAL REF          P1
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Ian Hunter
+
+TEL STATION / FOCUS   Prime  / n/a
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:25
+EVENING TWILIGHT (UT) 20:37
+MORNING TWILIGHT (UT) 06:05
+SUNRISE (UT)          07:16
+%ILLUM. LUNAR DISK    32
+DARK TIME (HRS)       09:28
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         03:59
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -2.6   96     0.0   0.0  310   760.0   -2.6   5.4    11.8   96    64 
+21:00  -2.7   95     0.0   0.0  310   760.4   -2.7   4.7    11.6   95    66 
+22:00  -3.3   95     0.0   0.0  310   759.3   -3.3   2.4    11.4   95    73 
+23:00  -2.9   95     0.0   0.0  310   759.3   -2.9   1.6    11.3   95    78 
+00:00  -3.3   95     0.0   0.0  310   759.1   -3.3   2.7    11.1   95    73 
+01:00  -2.4   95     0.0   0.0  310   759.0   -2.4   1.8    11.1   95    79 
+02:00  -2.2   95     0.0   0.0  310   758.5   -2.2   1.7    10.8   95    81 
+03:00  -2.0   95     0.0   0.0  310   758.1   -2.0   1.7    11.0   95    82 
+04:00  -1.7   96     0.0   0.0  310   757.9   -1.7   2.7    10.7   96    78 
+05:00  -2.1   96     0.0   0.0  310   757.8   -2.1   2.3    10.6   96    80 
+06:00  -2.1   96     0.0   0.0  310   757.4   -2.1   2.7    10.6   96    77 
+07:00  -2.0   96     0.0   0.0  310   757.7   -2.0   2.4    10.5   96    79 
+
+TIME LOST weather           11:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloud, ice, freeezing fog etc etc
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Never opened due to weather conditions
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 554538 Bias                                              10:59        WFC    0.0       V                                
+ 554539 Bias                                              11:03        WFC    0.0       V                                
+ 554540 Bias                                              11:07        WFC    0.0       V                                
+ 554541 Bias                                              11:09        WFC    0.0       V                                
+ 554542 Bias                                              11:43        WFC    0.0       V                                
+ 554543 Bias                                              11:45        WFC    0.0       V                                
+ 554544 Bias                                              11:47        WFC    0.0       V                                
+ 554545 Bias                                              11:49        WFC    0.0       V                                
+ 554546 Bias                                              11:54        WFC    0.0       V                                
+ 554547 Bias                                              11:58        WFC    0.0       V                                
+ 554548 Bias                                              12:07        WFC    0.0       V                                
+ 554549 Bias                                              12:10        WFC    0.0       V                                
+ 554550 Bias                                              12:15        WFC    0.0       V                                
+ 554551 Bias              0:00:00.00 +00:00:00.0 2007.196 14:05 1.003  WFC    0.0  180  Hbeta narro                      
+ 554552 Bias              0:00:00.00 +00:00:00.0 2007.196 14:06 1.003  WFC    0.0  180  Hbeta narro                      
+ 554553 Bias              0:00:00.00 +00:00:00.0 2000.00  14:28 4.775  WFC    0.0  180  Hbeta narro                      
+ 554554 Bias              0:00:00.00 +00:00:00.0 2000.00  16:54 1.000  WFC    0.0  180  Ha 6805                          rspeed fast
+ 554555 Bias              0:00:00.00 +00:00:00.0 2000.00  16:57 1.000  WFC    0.0  180  Ha 6805                          rspeed fast
+ 554556 Bias              0:00:00.00 +00:00:00.0 2000.00  16:57 1.000  WFC    0.0  180  Ha 6805                          rspeed fast
+ 554557 Bias              0:00:00.00 +00:00:00.0 2000.00  16:58 1.000  WFC    0.0  180  Ha 6805                          rspeed fast
+ 554558 Bias              0:00:00.00 +00:00:00.0 2000.00  16:58 1.000  WFC    0.0  180  Ha 6805                          rspeed fast
+ 554559 Bias              0:00:00.00 +00:00:00.0 2000.00  16:59 1.000  WFC    0.0  180  Ha 6805                          rspeed fast
+ 554560 Bias              0:00:00.00 +00:00:00.0 2000.00  17:00 1.000  WFC    0.0  180  Ha 6805                          rspeed slow
+ 554561 Bias              0:00:00.00 +00:00:00.0 2000.00  17:01 1.000  WFC    0.0  180  Ha 6805                          rspeed slow
+ 554562 Bias              0:00:00.00 +00:00:00.0 2000.00  17:02 1.000  WFC    0.0  180  Ha 6805                          rspeed slow
+ 554563 Bias              0:00:00.00 +00:00:00.0 2000.00  17:02 1.000  WFC    0.0  180  Ha 6805                          rspeed slow
+ 554564 Bias              0:00:00.00 +00:00:00.0 2000.00  17:03 1.000  WFC    0.0  180  Ha 6805                          rspeed slow
+ 554565 Dome flat 1       0:00:00.00 +00:00:00.0 2000.00  17:21 1.161  WFC    2.1  180  Halpha                           rspeed fast
+ 554566 Dome flat 2       0:00:00.00 +00:00:00.0 2000.00  17:22 1.161  WFC    3.1  180  Halpha                           rspeed fast
+ 554567 Dome flat 3       0:00:00.00 +00:00:00.0 2000.00  17:22 1.161  WFC    4.0  180  Halpha                           rspeed fast
+ 554568 Dome flat 4       0:00:00.00 +00:00:00.0 2000.00  17:23 1.161  WFC    5.1  180  Halpha                           rspeed fast
+ 554569 Dome flat 5       0:00:00.00 +00:00:00.0 2000.00  17:24 1.161  WFC    6.1  180  Halpha                           rspeed fast
+ 554570 Dome flat 6       0:00:00.00 +00:00:00.0 2000.00  17:24 1.161  WFC    7.1  180  Halpha                           rspeed fast
+ 554571 Dome flat 7       0:00:00.00 +00:00:00.0 2000.00  17:25 1.161  WFC    8.1  180  Halpha                           rspeed fast
+ 554572 Dome flat 8       0:00:00.00 +00:00:00.0 2000.00  17:26 1.161  WFC    9.1  180  Halpha                           rspeed fast
+ 554573 Dome flat 9       0:00:00.00 +00:00:00.0 2000.00  17:26 1.161  WFC   10.1  180  Halpha                           rspeed fast
+ 554574 Dome flat 10      0:00:00.00 +00:00:00.0 2000.00  17:27 1.161  WFC   11.1  180  Halpha                           rspeed fast
+ 554575 Dome flat 11      0:00:00.00 +00:00:00.0 2000.00  17:28 1.161  WFC   12.1  180  Halpha                           rspeed fast
+ 554576 Dome flat 12      0:00:00.00 +00:00:00.0 2000.00  17:29 1.161  WFC   13.1  180  Halpha                           rspeed fast
+ 554577 Dome flat 13      0:00:00.00 +00:00:00.0 2000.00  17:29 1.161  WFC   14.1  180  Halpha                           rspeed fast
+ 554578 Dome flat 14      0:00:00.00 +00:00:00.0 2000.00  17:30 1.161  WFC   15.1  180  Halpha                           rspeed fast
+ 554579 Dome flat 15      0:00:00.00 +00:00:00.0 2000.00  17:31 1.161  WFC   15.6  180  Halpha                           rspeed fast
+ 554580 Dome flat 16      0:00:00.00 +00:00:00.0 2000.00  17:32 1.161  WFC   16.5  180  Halpha                           rspeed fast
+ 554581 Dome flat 17      0:00:00.00 +00:00:00.0 2000.00  17:32 1.161  WFC   18.1  180  Halpha                           rspeed fast
+ 554582 Dome flat 18      0:00:00.00 +00:00:00.0 2000.00  17:33 1.161  WFC   19.1  180  Halpha                           rspeed fast
+ 554583 Dome flat 19      0:00:00.00 +00:00:00.0 2000.00  17:34 1.161  WFC   20.1  180  Halpha                           rspeed fast
+ 554584 Dome flat 20      0:00:00.00 +00:00:00.0 2000.00  17:35 1.161  WFC   21.1  180  Halpha                           rspeed fast
+ 554585 Dome flat 21      0:00:00.00 +00:00:00.0 2000.00  17:36 1.161  WFC   22.1  180  Halpha                           rspeed fast
+ 554586 Dome flat 22      0:00:00.00 +00:00:00.0 2000.00  17:37 1.161  WFC   23.1  180  Halpha                           rspeed fast
+ 554587 Dome flat 23      0:00:00.00 +00:00:00.0 2000.00  17:38 1.161  WFC   24.1  180  Halpha                           rspeed fast
+ 554588 Dome flat 24      0:00:00.00 +00:00:00.0 2000.00  17:39 1.161  WFC   25.1  180  Halpha                           rspeed fast
+ 554589 Dome flat 25      0:00:00.00 +00:00:00.0 2000.00  17:40 1.161  WFC   26.1  180  Halpha                           rspeed fast
+ 554590 Dome flat 26      0:00:00.00 +00:00:00.0 2000.00  17:41 1.161  WFC   27.1  180  Halpha                           rspeed fast
+ 554591 Dome flat 27      0:00:00.00 +00:00:00.0 2000.00  17:42 1.161  WFC   28.1  180  Halpha                           rspeed fast
+ 554592 Dome flat 28      0:00:00.00 +00:00:00.0 2000.00  17:43 1.161  WFC   29.1  180  Halpha                           rspeed fast
+ 554593 Dome flat 29      0:00:00.00 +00:00:00.0 2000.00  17:44 1.161  WFC   30.1  180  Halpha                           rspeed fast
+ 554594 Dome flat 30      0:00:00.00 +00:00:00.0 2000.00  17:45 1.161  WFC   30.5  180  Halpha                           rspeed fast
+ 554595 Dome flat 31      0:00:00.00 +00:00:00.0 2000.00  17:46 1.161  WFC   32.1  180  Halpha                           rspeed fast
+ 554596 Dome flat 32      0:00:00.00 +00:00:00.0 2000.00  17:47 1.161  WFC   33.1  180  Halpha                           rspeed fast
+ 554597 Domeflast 10 slo  0:00:00.00 +00:00:00.0 2000.00  17:50 1.161  WFC   10.1  180  Halpha                           
+ 554598 Domeflat 20 slow  0:00:00.00 +00:00:00.0 2000.00  17:51 1.161  WFC   20.1  180  Halpha                           
+ 554599 Domeflat 30 slow  0:00:00.00 +00:00:00.0 2000.00  17:52 1.161  WFC   30.1  180  Halpha                           
+ 554600 test bias        20:20:00.00 +29:59:59.9 2000.00  10:04 1.000  WFC    0.0  180  Halpha                           
+ 554601 test             20:20:00.00 +29:59:59.9 2000.00  10:07 1.000  WFC   30.1  180  Halpha                           
+ 554602 test guider+     20:20:00.00 +30:00:00.0 2000.00  10:10 1.001  WFC   29.5  180  Halpha                           
+ 554603 test udas_ro     20:20:00.00 +30:00:00.0 2000.00  10:13 1.001  WFC   30.1  180  Halpha                           
+ 554604 test udas_ro     20:20:00.00 +30:00:00.0 2000.00  10:15 1.001  WFC   30.1  180  Halpha                           
+ 554605 test udas_ro     20:20:00.00 +29:59:59.9 2000.00  10:17 1.001  WFC   30.1  180  Halpha                           
+ 554607 test udas_ro     20:20:00.00 +30:00:00.0 2000.00  10:20 1.002  WFC   30.1  180  Halpha                           

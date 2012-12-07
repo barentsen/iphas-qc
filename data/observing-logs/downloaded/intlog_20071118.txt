@@ -1,0 +1,67 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 11 19 04:12
+
+TELESCOPE             INT
+DATE                  20071118
+OBSERVER/S            S. Weston S.Sale
+PROGRAMME             IPHAS
+PROPOSAL REF          06B/N2             
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:24
+EVENING TWILIGHT (UT) 19:39
+MORNING TWILIGHT (UT) 06:15
+SUNRISE (UT)          07:29
+%ILLUM. LUNAR DISK    61
+DARK TIME (HRS)       10:36
+TWILIGHT TIME (HRS)   02:29
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          01:59
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   3.5   98    29.0  35.3  199   764.8    3.5   7.8    11.0   98    76 
+20:00   4.4   87    26.0  35.7  198   765.3    4.4   7.9    11.0   87    75 
+21:00   4.0   75    35.5  39.6  194   765.1    4.0   7.5    10.7   75    73 
+22:00   4.3   86    49.6  46.4  196   764.9    4.3   5.5     9.5   86    81 
+23:00   4.7   86    31.4  50.6  169   765.2    4.7   6.1    10.0   86    81 
+00:00   4.5  100    51.8  60.3  190   764.2    4.5   6.3    10.1  100    90 
+01:00   4.3  100    53.8  64.6  196   764.1    4.3   8.5    10.2  100    80 
+02:00   4.1  100    53.0  51.9  194   763.6    4.1   8.5    10.3  100    80 
+03:00   5.1  100    52.0  60.3  194   763.6    5.1   8.7    10.4  100    82 
+04:00   5.5  100    57.5  68.3  191   763.3    5.5   8.8    10.6  100    84 
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humidity all night, 100% from 2400 onwards
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 596635 Bias              0:00:00.00 +00:00:00.0  2007.88 12:24 1.000  WFC    0.0  180  r                                
+ 596636 Bias             14:00:59.99 +20:00:00.0  2000.00 12:29 1.047  WFC    0.0  180  r                                
+ 596637 Flat field       14:00:59.99 +20:00:00.0  2000.00 12:30 1.048  WFC    6.1  180  r                                
+ 596638 Flat field        0:00:00.00 +00:00:00.0  2000.00 12:31 1.000  WFC    6.1  180  Halpha                           
+ 596639 Focus run        23:56:40.00 +59:45:00.0  2000.00 21:22 1.167  WFC   10.1  180  r                                
+ 596640 ST_NGC7790 Ha    23:58:26.16 +61:12:56.7  2000.00 21:30 1.186  WFC   60.1  180  Halpha                           
+ 596641 ST_NGC7790 r     23:58:26.16 +61:12:56.9  2000.00 21:32 1.186  WFC   15.1  180  r                                
+ 596642 ST_NGC7790 i     23:58:26.16 +61:12:56.8  2000.00 21:32 1.186  WFC    5.1  180  i                                
+ 596643 ST_L92 Ha         0:54:52.80 +00:39:31.9  2000.00 21:35 1.150  WFC   60.1  180  Halpha                           
+ 596644 ST_L92 r          0:54:52.80 +00:39:32.0  2000.00 21:37 1.149  WFC   15.1  180  r                                
+ 596645 ST_L92 i          0:54:52.80 +00:39:31.8  2000.00 21:38 1.149  WFC    4.5  180  i                                
+ 596646 intphas_7398 Ha  23:18:15.83 +62:16:59.6  2000.00 21:41 1.222  WFC  120.0  180  Halpha                           
+ 596647 intphas_7398 r   23:18:15.82 +62:16:59.6  2000.00 21:44 1.223  WFC   30.1  180  r                                
+ 596648 intphas_7398 i   23:18:15.82 +62:16:59.5  2000.00 21:45 1.224  WFC   10.1  180  i                                
+ 596649 intphas_7398o Ha 23:18:58.95 +62:21:59.7  2000.00 21:46 1.226  WFC  119.5  180  Halpha                           Closing dome due to humidity
+ 596650 intphas_7398o r  23:18:58.94 +62:21:59.5  2000.00 21:48 1.227  WFC   30.1  180  r                                Closing dome due to humidity
+ 596651 intphas_7398o i  23:18:58.94 +62:21:59.5  2000.00 21:49 1.228  WFC   10.1  180  i                                Closing Dome due to humidity

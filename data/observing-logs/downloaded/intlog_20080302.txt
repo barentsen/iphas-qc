@@ -1,0 +1,52 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 03 03 06:57
+
+TELESCOPE             INT
+DATE                  20080302
+OBSERVER/S            Eelco de Groot and Paul Groot
+PROGRAMME             Identification of AMCVn stars from SDSS photometry
+PROPOSAL REF          P24
+TELESCOPE OPERATOR    de Groot / Groot
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS   Cassegrain  / 14.86
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:19
+EVENING TWILIGHT (UT) 20:30
+MORNING TWILIGHT (UT) 06:16
+SUNRISE (UT)          07:27
+%ILLUM. LUNAR DISK    23
+DARK TIME (HRS)       09:46
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         04:37
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   5.2   71    17.2  19.7  196   769.8    5.2    9.     12.   71     60
+21:00   5.0   74    32.8  36.8  204   769.9    5.0    9.     12.   74     63
+22:00   5.4   68     4.9   6.1  259   770.2    5.4    9.     12.   68     62
+23:00   5.1   71    11.2  13.2  206   770.3    5.1    9.     12.   71     58
+00:00   4.6   74    18.1  21.3  220   769.9    4.6    7.     11.   74     66
+01:00   4.3   76    21.4  23.3  195   769.7    4.3    8.     11.   76     63
+02:00   4.7   70    15.0  13.8  303   769.2    4.7    9.     12.   70     60
+03:00   4.5   69    21.3  24.4  302   768.6    4.5    9.     11.   69     58
+04:00   4.8   66    25.1  26.8  316   768.4    4.8    9.     11.   66     57
+05:00   4.9   65    24.3  26.5  288   768.3    4.9    9.     11.   65     59
+06:00   4.7   66    23.4  28.2  294   768.1    4.7    9.     12.   66     57
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+clouds and rain, all night lost
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 609174 Feige 34 30s     10:36:41.98 +43:21:53.7  1950.00 23:41 1.081  IDS   30.0   50  Clear+Clear   1.5  69.5 5383.1   

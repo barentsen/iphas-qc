@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 01 11 12:19
+
+TELESCOPE             INT
+DATE                  20091223
+OBSERVER/S            C. Damiani & L.Balaguer
+PROGRAMME             Multi colour information on CoRoT eclipsing binaries and asteroseismic targets
+PROPOSAL REF          C50                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Dyke
+
+TEL STATION / FOCUS    / 43.70
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:28
+EVENING TWILIGHT (UT) 19:44
+MORNING TWILIGHT (UT) 06:37
+SUNRISE (UT)          07:54
+%ILLUM. LUNAR DISK    43
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          00:44
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+00:00   8.1   92    26.8  43.6  165   760.2    8.1   10.     11.   92     94
+01:00   6.6   38    43.6  84.0  186   759.8    6.6   10.     11.   38     93
+02:00   5.3   79    45.0  59.9  210   759.8    5.3    9.     11.   79     91
+03:00   4.8   56    45.2  98.9  204   759.8    4.8    8.     11.   56     91
+04:00   5.3   92    56.5  01.0  180   759.7    5.3    8.     11.   92     91
+05:00   5.7   81    42.6  50.7  195   759.3    5.7    8.     11.   81     91
+06:00   5.0   59    44.6  83.6  195   760.1    5.0    8.     11.   59     90
+07:00   3.9   50    31.0  48.0  218   760.3    3.9    8.     10.   50     89
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clear
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Lost ~45 minutes due to DAS computer needing to be rebooted (same problem as described in manual)
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

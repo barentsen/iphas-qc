@@ -1,0 +1,84 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 09 28 04:13
+
+TELESCOPE             INT
+DATE                  20050927
+OBSERVER/S            Tanvir, Nial
+PROGRAMME             M31 halo imaging survey
+PROPOSAL REF          P18
+TELESCOPE OPERATOR    AC
+SUPPORT ASTRONOMER    IS
+
+TEL STATION / FOCUS   Prime  / 43.55
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:10
+EVENING TWILIGHT (UT) 20:22
+MORNING TWILIGHT (UT) 05:44
+SUNRISE (UT)          06:56
+%ILLUM. LUNAR DISK    25
+DARK TIME (HRS)       09:22
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         02:20
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  12.9    9    17.4  21.6   67   770.5   12.9  14.1    14.9    9     4 
+21:00  13.4    7    20.2  24.5  105   771.1   13.4  14.2    14.8    7     3 
+22:00  13.6    7    20.1  23.6  103   771.6   13.6  14.3    14.7    7     3 
+23:00  13.7    6     6.8   8.7   76   772.2   13.7  14.2    14.8    6     2 
+00:00  13.0    6    17.6  22.7  158   771.9   13.0  14.1    14.7    6     3 
+01:00  11.7    4    21.9  27.2   72   771.9   11.7  13.0    14.3    4     0 
+02:00  12.7    5    17.5  21.5   67   771.7   12.7  13.5    14.5    5     1 
+03:00  12.4    2    21.2  28.0  102   771.4   12.4  13.5    14.5    2     0 
+04:00  11.7    2    21.5  28.6   63   771.3   11.7  13.2    14.3    2     0 
+
+TIME LOST weather           07:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High cirrus all night.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Some data taken through cloud, but very poor transparency even during the best periods.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 472536 Bias              0:00:00.00 +00:00:00.0 2000.00  19:10 1.000  WFC    0.0  180  Halpha                           
+ 472537 blank4 O3        19:21:29.00 +12:27:48.9 2000.00  19:19 1.062  WFC    5.1  180  [OIII]5007                       
+ 472538 blank4 O3         0:00:00.00 +00:00:00.0 2000.00  19:20 1.061  WFC   17.1  180  [OIII]5007                       
+ 472539 blank4 O3        19:21:28.31 +12:27:39.0 2000.00  19:22 1.059  WFC   18.1  180  [OIII]5007                       
+ 472540 blank4 i         19:21:29.00 +12:27:49.0 2000.00  19:23 1.058  WFC    4.1  180  i                                
+ 472541 blank4 i         19:21:29.68 +12:27:58.9 2000.00  19:24 1.057  WFC    4.5  180  i                                
+ 472542 blank4 i         19:21:28.31 +12:27:38.8 2000.00  19:26 1.056  WFC    6.6  180  i                                
+ 472543 blank4 i         19:21:30.36 +12:28:09.1 2000.00  19:27 1.055  WFC   20.5  180  i                                overexposed
+ 472544 blank4 i         19:21:30.36 +12:28:08.9 2000.00  19:28 1.054  WFC   14.1  180  i                                
+ 472545 blank4 i         19:21:27.62 +12:27:29.0 2000.00  19:30 1.053  WFC   20.1  180  i                                
+ 472546 blank4 V         19:21:29.00 +12:27:48.8 2000.00  19:32 1.052  WFC   45.1  180  V                                
+ 472547 blank4 V          0:00:00.00 +00:00:00.0 2000.00  19:34 1.050  WFC   90.0  180  V                                
+ 472548 blank4 V         19:21:28.31 +12:27:38.7 2000.00  19:37 1.048  WFC  180.0  180  V                                
+ 472549 blank4 V         19:21:30.36 +12:28:09.0 2000.00  19:41 1.046  WFC  250.0  180  V                                
+ 472550 Bias             19:21:30.37 +12:28:09.0 2000.00  19:48 1.044  WFC    0.0  180  Halpha                           
+ 472551 Bias             19:21:30.36 +12:28:08.9 2000.00  19:48 1.044  WFC    0.0  180  Halpha                           
+ 472552 Bias             19:21:30.36 +12:28:08.9 2000.00  19:49 1.044  WFC    0.0  180  Halpha                           
+ 472553 Bias             19:21:30.36 +12:28:09.0 2000.00  19:50 1.044  WFC    0.0  180  Halpha                           
+ 472554 Bias             19:21:30.36 +12:28:08.9 2000.00  19:50 1.044  WFC    0.0  180  Halpha                           
+ 472555 Focus run        18:10:00.00 +40:00:00.0 2000.00  20:12 1.059  WFC   10.1  180  V                                through thin cloud
+ 472556 Focus run        18:09:59.99 +40:00:00.0 2000.00  20:21 1.069  WFC   10.1  180  V                                
+ 472557 CepOB3 300 i     22:55:43.26 +62:40:13.6 2000.00  21:06 1.340  WFC  299.9  180  i                                trailed a bit (and through cloud)
+ 472558 CepOB3 30 i      22:55:43.25 +62:40:13.6 2000.00  21:12 1.333  WFC   30.1  180  i                                
+ 472559 CepOB3 5 i       22:55:43.25 +62:40:13.6 2000.00  21:13 1.331  WFC    5.1  180  i                                
+ 472560 CepOB3 300 i     22:55:43.26 +62:40:13.5 2000.00  21:14 1.325  WFC  299.9  180  i                                
+ 472561 clusterS 600 O3   0:42:55.00 +43:57:27.9 2000.00  21:25 1.519  WFC  599.7  180  [OIII]5007                       
+ 472562 clusterS 600 O3   0:42:54.99 +43:57:28.0 2000.00  21:37 1.457  WFC  599.8  180  [OIII]5007                       
+ 472563 clusterW 600 O3   0:58:15.40 +38:03:02.0 2000.00  22:22 1.329  WFC  599.8  180  [OIII]5007                       
+ 472564 clusterY 600 O3   0:58:17.10 +37:13:48.9 2000.00  22:41 1.261  WFC  599.8  180  [OIII]5007                       
+ 472565 clusterY 600 O3   0:58:17.10 +37:13:49.0 2000.00  00:19 1.054  WFC  599.8  180  [OIII]5007                       
+ 472566 clusterY 600 O3   0:58:17.10 +37:13:49.0 2000.00  00:36 1.037  WFC  599.8  180  [OIII]5007                       
+ 472567 Cand Dwf 600 O3   0:40:56.69 +44:19:34.0 2000.00  00:53 1.043  WFC  599.7  180  [OIII]5007                       
+ 472568 clusterR 600 O3   0:38:19.49 +41:47:15.2 2000.00  01:33 1.028  WFC  599.2  180  [OIII]5007                       
+ 472569 clusterBA 600 O3  0:55:17.30 +38:51:03.1 2000.00  01:56 1.019  WFC  599.8  180  [OIII]5007                       
+ 472570 clusterAL 600 O3  0:45:26.89 +40:13:47.1 2000.00  02:10 1.035  WFC  599.8  180  [OIII]5007                       

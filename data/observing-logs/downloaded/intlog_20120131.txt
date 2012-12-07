@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 02 01 06:59
+
+TELESCOPE             INT
+DATE                  20120131
+OBSERVER/S            P.James
+PROGRAMME             P3
+PROPOSAL REF          P3
+TELESCOPE OPERATOR    --
+SUPPORT ASTRONOMER    NA
+
+TEL STATION / FOCUS   Prime  / 43.51
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:56
+EVENING TWILIGHT (UT) 20:10
+MORNING TWILIGHT (UT) 06:39
+SUNRISE (UT)          07:53
+%ILLUM. LUNAR DISK    58
+DARK TIME (HRS)       10:29
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          02:37
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   3.3   43    21.5  24.8  256   768.9   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   3.3   48    15.2  22.8  251   769.3   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   3.7   39    14.4  21.2  217   769.8   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   3.6   40    19.4  23.0  218   770.1   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   4.1   27    10.1  12.8  225   770.3   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   3.1   50     5.3  10.4  182   770.1   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   2.7   55    14.7  19.9  176   769.5   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   2.7   51    14.5  24.5  186   769.2   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   2.5   50    14.6  22.2  173   768.8   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   2.3   48    18.2  27.1  182   768.7   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   2.3   38     8.9  13.7  167   768.6   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   2.5   19     7.1  18.3  180   768.7   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Good condition all night. Seeing started around 1 arc sec but deteriated to around 1.8 by the end of the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

@@ -1,0 +1,74 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 03 09 04:15
+
+TELESCOPE             INT
+DATE                  20090308
+OBSERVER/S            Baker,D
+PROGRAMME             Magnetic White Dwarfs
+PROPOSAL REF          P14                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Stelios Pyrzas
+
+TEL STATION / FOCUS   Prime  / -
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:23
+EVENING TWILIGHT (UT) 20:34
+MORNING TWILIGHT (UT) 06:10
+SUNRISE (UT)          07:21
+%ILLUM. LUNAR DISK    94
+DARK TIME (HRS)       09:36
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          06:22
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -0.2   99    14.6  14.4  280   763.4   -0.2    8.      9.   99     61
+21:00   0.1   99    12.7  14.0  216   763.0    0.1    7.      9.   99     65
+22:00  -0.7   99    21.1  22.2  243   763.3   -0.7    7.      9.   99     64
+23:00  -0.9   99    21.8  24.4  326   763.8   -0.9    7.      9.   99     64
+00:00  -0.5   99    24.9  25.4  341   763.3   -0.5    7.      9.   99     64
+01:00  -0.8   99    28.8  30.2  343   762.9   -0.8    7.      9.   99     64
+02:00  -0.8   99    21.3  22.3  344   763.3   -0.8    7.      9.   99     62
+03:00  -0.3   99    19.5  23.5  330   762.2   -0.3    7.      9.   99     62
+04:00  -0.2   99    18.3  19.4  347   762.2   -0.2                 99      #
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+99-100% Humidity, weather prevented dome opening
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+99-100% Humidity from arrival 18:00pm through night preventing dome opening. Approx 04:10am weather showing no signs of improvement, thick
+mist and cloud still around with 100% humidity.
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 662272 Bias             22:49:00.00 +40:00:00.0  2000.00 14:07 1.056  WFC    0.0  180  CLEAR                            
+ 662273 Bias frame       22:48:59.99 +39:59:59.9  2000.00 14:11 1.060  WFC    0.0  180  CLEAR                            
+ 662274 Bias frame       22:49:00.00 +40:00:00.0  2000.00 14:18 1.067  WFC    0.0  180  CLEAR                            
+ 662275 Bias              0:00:00.00 +00:00:00.0  2000.00 14:22 1.000  WFC    0.0  180  CLEAR                            
+ 662276 TEST              0:00:00.00 +00:00:00.0  2000.00 14:24 1.000  WFC   10.1  180  CLEAR                            
+ 662277 Bias              0:00:00.00 +00:00:00.0  2000.00 18:15 4.774  WFC    0.0  180  CLEAR                            
+ 662278 Bias              0:00:00.00 +00:00:00.0  2000.00 18:15 4.774  WFC    0.0  180  Halpha                           
+ 662279 Bias              0:00:00.00 +00:00:00.0  2000.00 18:16 4.774  WFC    0.0  180  Halpha                           
+ 662280 Bias              0:00:00.00 +00:00:00.0  2000.00 18:16 4.774  WFC    0.0  180  Halpha                           
+ 662281 Bias              0:00:00.00 +00:00:00.0  2000.00 18:17 4.774  WFC    0.0  180  Halpha                           
+ 662282 Bias              0:00:00.00 +00:00:00.0  2000.00 18:17 4.774  WFC    0.0  180  Halpha                           
+ 662283 Bias              0:00:00.00 +00:00:00.0  2000.00 18:18 4.774  WFC    0.0  180  Halpha                           
+ 662284 Bias              0:00:00.00 +00:00:00.0  2000.00 18:18 4.774  WFC    0.0  180  Halpha                           
+ 662285 Bias              0:00:00.00 +00:00:00.0  2000.00 18:19 4.774  WFC    0.0  180  Halpha                           
+ 662286 Bias              0:00:00.00 +00:00:00.0  2000.00 18:19 4.774  WFC    0.0  180  Halpha                           
+ 662287 Bias              0:00:00.00 +00:00:00.0  2000.00 18:20 4.774  WFC    0.0  180  Halpha                           
+ 662288 Bias              0:00:00.00 +00:00:00.0  2000.00 18:20 4.774  WFC    0.0  180  Halpha                           
+ 662289 Bias              0:00:00.00 +00:00:00.0  2000.00 18:21 4.774  WFC    0.0  180  Halpha                           
+ 662290 Bias              0:00:00.00 +00:00:00.0  2000.00 18:21 4.774  WFC    0.0  180  Halpha                           
+ 662291 Bias              0:00:00.00 +00:00:00.0  2000.00 18:22 4.774  WFC    0.1  180  Halpha                           
+ 662292 Bias              0:00:00.00 +00:00:00.0  2000.00 18:22 4.774  WFC    0.0  180  Halpha                           
+ 662293 Bias              0:00:00.00 +00:00:00.0  2000.00 18:23 4.774  WFC    0.0  180  Halpha                           
+ 662294 Bias              0:00:00.00 +00:00:00.0  2000.00 18:23 4.774  WFC    0.0  180  Halpha                           
+ 662295 Bias              0:00:00.00 +00:00:00.0  2000.00 18:23 4.774  WFC    0.0  180  Halpha                           
+ 662296 Bias              0:00:00.00 +00:00:00.0  2000.00 18:24 4.774  WFC    0.0  180  Halpha                           Bias taken at start weather prevented dome opening

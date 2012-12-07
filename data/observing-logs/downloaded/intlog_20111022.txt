@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 10 23 08:37
+
+TELESCOPE             INT
+DATE                  20111022
+OBSERVER/S            Amy McQuillan 
+PROGRAMME             N2
+PROPOSAL REF          N2
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS    / 43.45
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:43
+EVENING TWILIGHT (UT) 19:55
+MORNING TWILIGHT (UT) 05:58
+SUNRISE (UT)          07:10
+%ILLUM. LUNAR DISK    21
+DARK TIME (HRS)       10:03
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         03:21
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.3   96     7.6  10.1  211   767.8    4.3   12.     13.   96     60
+20:00   3.0   95     7.7  10.1  232   768.0    3.0   12.     14.   95     58
+21:00   2.6   93     5.0   6.7  186   768.4    2.6   12.     14.   93     57
+22:00   3.9   46    11.2  11.9  274   768.8    3.9    7.     13.   46     50
+23:00   3.6   56    13.5  14.5  272   769.0    3.6    6.     11.   56     55
+00:00   3.7   53     4.4   6.0  221   769.0    3.7    5.     10.   53     55
+01:00   4.1   46     7.0   8.0  318   768.9    4.1    6.     11.   46     50
+02:00   3.1   56     4.3   5.1  232   768.7    3.1    5.      8.   56     52
+03:00   3.4   52     4.5   5.0  247   768.6    3.4    5.      7.   52     57
+04:00   4.3   40     1.0   1.7  238   768.4    4.3    6.     10.   40     45
+05:00   3.7   48    14.7  16.3  318   768.0    3.7    6.      9.   48     51
+06:00   4.2   51    12.0  12.8  321   767.9    4.2    6.      9.   51     49
+07:00   4.8   22     6.5   8.7  336   768.1    4.8    6.      8.   22     39
+
+TIME LOST weather           01:00
+TIME LOST Technical         00:20
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+opened dome at 21:00 UTC when humidity dropped below 90%, good for the rest of the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Powercut in the middle of the night, but didn't loose much time to this
+
+

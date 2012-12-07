@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 11 05 07:14
+
+TELESCOPE             INT
+DATE                  20111104
+OBSERVER/S            Kupfer
+PROGRAMME             UVEX survey
+PROPOSAL REF          N2
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.44
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:32
+EVENING TWILIGHT (UT) 19:45
+MORNING TWILIGHT (UT) 06:06
+SUNRISE (UT)          07:19
+%ILLUM. LUNAR DISK    72
+DARK TIME (HRS)       10:21
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          02:54
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   6.2   13    21.6  33.2  307   770.2    6.2    8.     10.   13     19
+20:00   5.8    9    16.6  22.0  246   770.5    5.8    7.     10.    9     16
+21:00   6.4   10    30.7  27.9  312   771.2    6.4    7.     10.   10     17
+22:00   6.9    9    24.3  38.5  316   771.6    6.9    7.     10.    9     16
+23:00   7.2   10    24.0  30.6  287   771.7    7.2    8.     10.   10     16
+00:00   7.5    9    21.1  18.2  295   771.8    7.5    8.     10.    9     16
+01:00   8.2    8    11.1  14.2  327   771.7    8.2    8.     10.    8     14
+02:00   8.3    9    10.3  14.9  295   771.7    8.3    9.     10.    9     15
+03:00   7.9   10    16.3  19.7  284   771.3    7.9    9.     10.   10     15
+04:00   7.3   10    21.4  24.0  296   771.2    7.3    8.     10.   10     16
+05:00   7.2   11    21.0  23.8  255   771.2    7.2    8.     10.   11     16
+06:00   7.2   10    17.1  24.1  211   771.5    7.2    8.     10.   10     15
+07:00   6.9   10    15.4  18.9  274   771.7    6.9    8.     10.   10     15
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+no clouds, in the beginning of the night bad seeing and high wind speed, later very good seeing and low wind speed
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

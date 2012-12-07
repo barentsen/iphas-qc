@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 06 15 07:40
+
+TELESCOPE             INT
+DATE                  20120614
+OBSERVER/S            Ignacio Gonzalez Mtz-Pais
+PROGRAMME             UVEX Survey
+PROPOSAL REF          N2              
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.47
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:19
+EVENING TWILIGHT (UT) 21:45
+MORNING TWILIGHT (UT) 04:39
+SUNRISE (UT)          06:05
+%ILLUM. LUNAR DISK    18
+DARK TIME (HRS)       06:54
+TWILIGHT TIME (HRS)   02:52
+MOONRISE (UT)         03:01
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  11.6   31    41.8  47.8   84   774.5   11.6   13.     14.   31     31
+22:00  11.6   31    35.2  39.8   92   775.0   11.6   11.     14.   31     34
+23:00  11.6   31    35.2  39.5   86   775.3   11.6   11.     13.   31     36
+00:00  11.4   30    21.5  27.4  136   775.7   11.4   11.     13.   30     34
+01:00  11.4   31    25.6  33.5  110   775.6   11.4   11.     13.   31     36
+02:00  11.2   29    18.1  26.0   94   775.4   11.2   11.     13.   29     34
+03:00  11.1   28    12.4  13.1  174   774.9   11.1   11.     13.   28     32
+04:00  11.0   32    18.9  20.9   88   774.7   11.0   10.     13.   32     38
+05:00  11.4   25    17.5  25.7  110   774.5   11.4   10.     13.   25     34
+06:00  11.2   23    18.3  24.9  105   774.5   11.2   11.     13.   23     28
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clear. Variable seeing (~1.2-2.4 arcsec)
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

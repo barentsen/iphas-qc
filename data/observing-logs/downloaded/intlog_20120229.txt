@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 03 01 07:07
+
+TELESCOPE             INT
+DATE                  20120229
+OBSERVER/S            L Hardy and others
+PROGRAMME             XO-2 and IDS tests
+PROPOSAL REF          D-night               
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    LDP
+
+TEL STATION / FOCUS   Cassegrain  / 16.1
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:18
+EVENING TWILIGHT (UT) 20:29
+MORNING TWILIGHT (UT) 06:18
+SUNRISE (UT)          07:29
+%ILLUM. LUNAR DISK    49
+DARK TIME (HRS)       09:49
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          02:11
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -0.5   79    53.6  58.0  140   771.1   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   0.6   73    44.1  46.0   61   771.6   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   0.7   83    40.5  44.2   15   772.1   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   0.7   78    45.5  50.0  269   772.2   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   3.1   22    34.6  40.2  168   772.3   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   4.2    3    30.0  32.6  297   772.0   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   3.6    2    32.4  37.0  138   771.9   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   2.8    4    29.8  35.6  114   771.5   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   2.9    2    25.7  26.5   18   771.3   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   2.5    3    28.8  30.2   30   771.3   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   2.8    2    29.0  31.8  111   771.2   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         03:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+80% humidity at beginning of night, dropping to low humidity by midnight, seeing approx 2-1.5"
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+r886087-886250 for XO-2, standard star observed for Hugo's observers (r886192-193)
+IDS tests done for specialist, including limiting magnitude test, blind offset limit test, and slit alignment test
+some time lost at start of night to technical issues

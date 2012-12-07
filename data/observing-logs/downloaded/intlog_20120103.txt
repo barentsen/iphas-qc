@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 01 04 06:30
+
+TELESCOPE             INT
+DATE                  20120103
+OBSERVER/S            Ivana Damjanov, Jarle Brinchmann
+PROGRAMME             Adaptive Optics Deep Field
+PROPOSAL REF          N3
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Mansour Karami
+
+TEL STATION / FOCUS   Prime  / 43.44
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:34
+EVENING TWILIGHT (UT) 19:50
+MORNING TWILIGHT (UT) 06:41
+SUNRISE (UT)          07:57
+%ILLUM. LUNAR DISK    75
+DARK TIME (HRS)       10:51
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:54
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.4   23     6.7  12.7   97   775.1   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   4.4   29    11.4  18.8  138   775.4   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   4.3   27     9.4  18.8  179   775.6   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   4.3   27     9.5  19.1  178   775.8   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   4.2   26     3.4   5.6  174   775.6   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   4.7   26    23.0  18.1  161   775.7   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   4.0   17     9.7  14.2  173   775.4   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   4.5   13    11.8  21.1  172   775.1   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   4.3   15    15.5  16.4  170   774.8   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   4.2   17    15.2  21.2  182   774.7   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   4.5   18    13.4  29.6  175   774.5   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   4.1   23    12.1  26.9  167   774.5   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           06:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Plenty of cloud, pretty much the entire night lost to clouds. Seeing when possible to measure was aournd 2"
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

@@ -1,0 +1,101 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 11 27 07:21
+
+TELESCOPE             INT
+DATE                  20031126
+OBSERVER/S            Fiona McGroarty
+PROGRAMME             Large Scale HH Outflows From Young Stars
+PROPOSAL REF          P7
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:37
+MORNING TWILIGHT (UT) 06:20
+SUNRISE (UT)          07:36
+%ILLUM. LUNAR DISK    13
+DARK TIME (HRS)       10:43
+TWILIGHT TIME (HRS)   02:31
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:00
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.4   44    30.0  33.1   40   771.1    4.4   7.8     8.8   44    34 
+20:00   4.7   43    26.9  30.6   31   771.6    4.7   7.5     8.7   43    33 
+21:00   5.2   40    26.5  31.3   25   772.1    5.2   6.7     8.4   40    34 
+22:00   4.4   42    32.0  34.3   25   772.2    4.4   5.9     8.3   42    35 
+23:00   4.5   51    22.1  27.9   23   772.2    4.5   6.1     8.1   51    40 
+00:00   5.1   41    35.4  39.0   36   772.1    5.1   6.3     8.1   41    34 
+01:00   5.2   40    34.0  36.2   24   771.9    5.2   6.7     8.0   40    32 
+02:00   5.1   39    34.0  37.1   21   771.4    5.1   6.9     8.1   39    32 
+03:00   6.6   26    28.1  29.4   42   771.3    6.6   7.2     7.9   26    25 
+04:00   5.0   44    24.3  31.0   33   771.1    5.0   7.0     7.9   44    33 
+05:00   5.5   40    15.1  21.3   12   771.1    5.5   6.7     7.9   40    31 
+06:00   6.0   34    28.1  31.2   41   771.0    6.0   6.3     7.8   34    30 
+07:00   6.2   32    24.7  27.9   10   771.3    6.2   6.8     7.9   32    28 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+cirrus cover for most of the night, good seeing
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Lost an hour at the beginning of the night as we had problems getting the telescope back into computer mode after raising the lower shutter
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 376928 Bias             15:59:59.99 +27:00:00.0 J2000.00 14:00 1.037  WFC    0.0  180  Halpha                           
+ 376929 Bias             16:00:00.00 +27:00:00.0 J2000.00 14:03 1.041  WFC    0.0  180  z                                
+ 376930 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 14:05 1.000  WFC    0.0  180  I                                
+ 376931 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 14:10 1.000  WFC    0.0  180  [SII]6725                        
+ 376932 Bias              0:00:00.00 +00:00:00.0 J2000.00 14:22 4.598  WFC    0.0  180  z                                
+ 376933 Halpha Flat       0:00:00.00 +00:00:00.0 J2000.00 18:51 1.000  WFC  200.0  180  Halpha                           flat no good
+ 376934 Flat field       17:59:44.00 +66:21:19.1 J2000.00 18:57 1.650  WFC  200.0  180  Halpha                           Flat no good
+ 376935 MaccH3 R         23:54:26.90 +66:54:21.0 J2000.00 20:17 1.275  WFC   60.1  180  R                                
+ 376936 MaccH3 I         23:54:26.89 +66:54:21.0 J2000.00 20:19 1.274  WFC   60.0  180  I                                
+ 376937 MaccH3 I         23:54:26.90 +66:54:20.9 J2000.00 20:21 1.274  WFC   10.1  180  I                                
+ 376938 MaccH3 R         23:54:26.90 +66:54:20.9 J2000.00 20:23 1.274  WFC   10.1  180  R                                
+ 376939 V536    R        19:38:57.00 +10:30:17.9 J2000.00 20:27 1.907  WFC   60.1  180  R                                
+ 376940 V536    I        19:38:56.99 +10:30:18.0 J2000.00 20:29 1.931  WFC   60.1  180  I                                
+ 376941 V536    SII      19:38:56.99 +10:30:17.9 J2000.00 20:31 1.989  WFC  299.9  180  [SII]6725                        not guiding
+ 376942 V536    I        19:38:57.00 +10:30:18.0 J2000.00 20:38 2.037  WFC   10.1  180  I                                not guiding
+ 376943 Focus run        19:42:55.20 +23:26:44.0 J2000.00 20:47 1.805  WFC    9.6  180  [SII]6725                        
+ 376944 Focus run        21:43:02.30 +66:08:59.2 J2000.00 21:04 1.386  WFC   10.1  180  [SII]6725                        
+ 376945 LKHA233 SII      22:34:40.90 +40:40:04.9 J2000.00 21:41 1.200  WFC 2098.9  180  [SII]6725                        
+ 376946 LKHA233 halpha   22:34:40.90 +40:40:04.9 J2000.00 22:20 1.324  WFC 2098.7  180  Halpha                           
+ 376947 LKHA198 SII       0:11:25.96 +58:49:29.0 J2000.00 23:02 1.274  WFC 2098.8  180  [SII]6725                        
+ 376948 DO TAU   SII      4:38:28.59 +26:10:49.9 J2000.00 23:48 1.055  WFC 2098.4  180  [SII]6725                        
+ 376949 DO TAU   Halpha   4:38:28.59 +26:10:50.1 J2000.00 00:25 1.017  WFC 2098.4  180  Halpha                           
+ 376950 DP TAU   Halpha   4:42:37.19 +25:15:31.0 J2000.00 01:05 1.003  WFC 2098.9  180  Halpha                           
+ 376951 DP TAU   Halpha   4:42:37.19 +25:15:31.0 J2000.00 01:49 1.012  WFC 2098.8  180  [SII]6725                        Is really SI Ifilter
+ 376952 XZTAU   SII       4:31:40.00 +18:13:57.9 J2000.00 02:30 1.083  WFC 2098.2  180  [SII]6725                        
+ 376953 XZTAU   Halpha    4:31:40.00 +18:13:58.0 J2000.00 03:06 1.156  WFC 2098.7  180  Halpha                           
+ 376954 XZTAU   I         4:31:39.99 +18:13:57.9 J2000.00 03:51 1.253  WFC  599.8  180  I                                
+ 376955 DP TAU   I        4:42:37.20 +25:15:31.0 J2000.00 04:07 1.232  WFC  599.2  180  I                                
+ 376956 HARO 6-10 SII     4:29:24.38 +24:33:02.1 J2000.00 04:27 1.444  WFC 2098.7  180  [SII]6725                        
+ 376957 HARO 6-10 Halpha  4:29:24.39 +24:33:02.0 J2000.00 05:04 1.708  WFC 2098.8  180  Halpha                           
+ 376958 HARO 6-10 I       4:29:24.39 +24:33:02.2 J2000.00 05:41 1.952  WFC  599.7  180  I                                
+ 376959 M67     I         8:51:18.00 +11:49:59.9 J2000.00 05:56 1.048  WFC  120.0  180  I                                
+ 376960 M67     R         8:51:18.00 +11:49:59.9 J2000.00 05:59 1.049  WFC  119.5  180  R                                
+ 376961 M67     R         8:51:18.00 +11:50:00.0 J2000.00 06:03 1.050  WFC   20.1  180  R                                
+ 376962 M67     R         8:51:18.00 +11:49:59.9 J2000.00 06:05 1.051  WFC    5.1  180  R                                
+ 376963 M67     R         8:51:18.00 +11:50:00.0 J2000.00 06:08 1.052  WFC    2.1  180  R                                
+ 376964 M67     R         8:51:17.99 +11:49:59.7 J2000.00 06:09 1.053  WFC   10.1  180  U                                
+ 376965 M67    I          8:51:18.00 +11:50:00.1 J2000.00 06:12 1.055  WFC    2.1  180  I                                
+ 376966 UYAUR  SII        4:51:47.30 +30:47:14.0 J2000.00 06:25 2.074  WFC  299.9  180  [SII]6725                        
+ 376967 Flat field I     13:36:18.00 +62:14:10.9 J2000.00 07:06 1.446  WFC   30.1  180  I                                
+ 376968 Flat field R     13:36:17.99 +62:14:10.9 J2000.00 07:08 1.440  WFC   34.5  180  R                                
+ 376969 Flat field R     13:36:17.99 +62:14:11.0 J2000.00 07:10 1.434  WFC   14.6  180  U                                
+ 376970 Flat field U     13:36:17.99 +62:14:11.0 J2000.00 07:12 1.430  WFC   25.1  180  U                                
+ 376971 Flat field U     13:36:17.99 +62:14:11.0 J2000.00 07:13 1.425  WFC   50.1  180  [SII]6725                        
+ 376972 Flat field Halph 13:36:18.00 +62:14:10.9 J2000.00 07:16 1.419  WFC   40.1  180  Halpha                           
+ 376973 Bias             13:36:18.00 +62:14:10.9 J2000.00 07:18 1.415  WFC    0.0  180  Halpha                           
+ 376974 Bias             13:36:18.00 +62:14:10.9 J2000.00 07:18 1.413  WFC    0.0  180  Halpha                           
+ 376975 Bias             13:36:18.00 +62:14:11.0 J2000.00 07:19 1.411  WFC    0.0  180  Halpha                           

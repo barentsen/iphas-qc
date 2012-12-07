@@ -1,0 +1,51 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 11 18 07:46
+
+TELESCOPE             INT
+DATE                  20111117
+OBSERVER/S            Casares
+PROGRAMME             UVEX observations
+PROPOSAL REF          C128
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Lee Patrick + Mansour
+
+TEL STATION / FOCUS   Prime  / 43.53
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:25
+EVENING TWILIGHT (UT) 19:39
+MORNING TWILIGHT (UT) 06:14
+SUNRISE (UT)          07:29
+%ILLUM. LUNAR DISK    57
+DARK TIME (HRS)       10:35
+TWILIGHT TIME (HRS)   02:29
+MOONRISE (UT)         00:07
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.6   29    12.1  14.6  342   769.4    4.6    8.     10.   29     31
+20:00   5.5   12    21.2  28.8  345   769.7    5.5    7.     10.   12     21
+21:00   5.7   11    41.6  46.7  349   770.0    5.7    7.     10.   11     18
+21:00   5.7   11    41.6  46.7  349   770.0    5.7    7.     10.   11     18
+22:00   6.1    9    42.8  49.3    4   770.2    6.1    7.     10.    9     16
+23:00   5.4   10    32.6  36.0  138   770.2    5.4    7.     10.   10     18
+00:00   5.7   11    37.5  40.4    2   770.0    5.7    7.      9.   11     17
+01:00   5.7   12    35.3  39.4  198   769.9    5.7    7.     10.   12     18
+02:00   5.3   13    32.9  37.1   79   769.5    5.3    7.      9.   13     20
+03:00   5.3   15    30.4  34.4    9   769.5    5.3    7.      9.   15     20
+04:00   5.2   16    36.8  40.0  191   769.3    5.2    6.      9.   16     22
+05:00   5.7   15    22.9  32.2  347   769.4    5.7    7.      8.   15     21
+06:00   6.4   11    29.4  34.0  325   769.6    6.4    7.      8.   11     20
+07:00   4.8   19    44.4  51.6  210   769.7    4.8    6.      9.   19     24
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clear night. seeing varying throughout the night (between around 1.1" and 1.8"). Flats taken in evening and morning to make sure to have enough good flats in all filters (see comments for the flats)
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

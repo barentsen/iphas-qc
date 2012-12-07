@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 08 17 06:30
+
+TELESCOPE             INT
+DATE                  20120816
+OBSERVER/S            R. Barrena
+PROGRAMME             Service CAT
+PROPOSAL REF          Service CAT
+TELESCOPE OPERATOR    --
+SUPPORT ASTRONOMER    --
+
+TEL STATION / FOCUS   Prime  / 43.4
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:58
+EVENING TWILIGHT (UT) 21:15
+MORNING TWILIGHT (UT) 05:18
+SUNRISE (UT)          06:34
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       08:03
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         06:20
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  14.7   46    18.1  21.4  253   773.4   14.7   18.     19.   46     38
+21:00  13.1   47    23.1  27.4  289   773.5   13.1   15.     19.   47     42
+22:00  13.2   48    24.0  26.2  213   774.2   13.2   14.     18.   48     47
+23:00  13.4   47    18.5  22.5  223   774.8   13.4   14.     18.   47     46
+00:00  13.2   49    20.6  24.0  265   774.9   13.2   14.     18.   49     49
+01:00  13.3   45    15.3  18.5  277   774.7   13.3   13.     17.   45     46
+02:00  13.5   39    16.6  19.9  280   774.5   13.5   13.     17.   39     42
+03:00  13.7   39    16.6  22.8  275   773.9   13.7   14.     17.   39     42
+04:00  13.7   38    18.1  20.0  274   773.5   13.7   13.     17.   38     42
+05:00  13.7   39    14.9  20.1  278   773.2   13.7   13.     17.   39     42
+06:00  13.5   40    14.2  17.2  261   773.2   13.5   14.     17.   40     42
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+photometric night, seeing stable and about 1.0 arcsec during the whole night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

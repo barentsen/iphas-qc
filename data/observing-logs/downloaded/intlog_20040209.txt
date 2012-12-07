@@ -1,0 +1,58 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 02 10 05:49
+
+TELESCOPE             INT
+DATE                  20040209
+OBSERVER/S            harding & morrison
+PROGRAMME             Spag Formation of the Galactic Halo
+PROPOSAL REF          P23                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    .
+
+TEL STATION / FOCUS   Prime  / 44.05
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:03
+EVENING TWILIGHT (UT) 20:16
+MORNING TWILIGHT (UT) 06:35
+SUNRISE (UT)          07:47
+%ILLUM. LUNAR DISK    86
+DARK TIME (HRS)       10:19
+TWILIGHT TIME (HRS)   02:25
+MOONRISE (UT)         22:03
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -0.2   46    13.7  20.4    1   764.5   -0.2   1.5     5.0   46    43 
+21:00  -0.6   47    18.8  20.8    2   764.6   -0.6   1.5     4.5   47    45 
+22:00  -0.8   47    17.1  18.0    1   764.5   -0.8   1.2     4.2   47    44 
+23:00  -1.1   48    19.7  20.8    2   764.7   -1.1   0.8     4.0   48    46 
+00:00  -1.1   54    27.7  29.1    1   764.3   -1.1   1.6     4.3   54    48 
+01:00  -1.0   45    31.9  33.2  149   763.8   -1.0   1.3     4.0   45    42 
+02:00  -1.0   45    33.2  35.1    7   763.3   -1.0   1.0     3.9   45    42 
+03:00  -1.1   48    29.2  30.1  147   763.1   -1.1   1.2     3.9   48    44 
+04:00  -1.1   45    31.3  33.9  135   762.6   -1.1   1.0     4.0   45    44 
+05:00  -1.2   46    21.9  23.4  160   762.3   -1.2   1.6     4.0   46    40 
+
+TIME LOST weather           07:00
+TIME LOST Technical         02:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+cloudy most of night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+mirror oscillations started again tonight when temp reached 0 C in dome .....see fault report
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 388662 Bias             22:00:00.00 +20:00:00.0 A        14:36 1.025  WFC    0.0  180  Halpha                           
+ 388663 Bias             21:59:59.99 +20:00:00.0 A        14:41 1.029  WFC    0.0  180  Halpha                           
+ 388664 Bias              0:00:00.00 +00:00:00.0 A        14:44 1.251  WFC    0.0  180  Halpha                           
+ 388666 Focus run         1:11:08.40 +29:40:58.1 J2000.00 21:10 1.629  WFC   29.5  180  i                                
+ 388667 WW466C            1:11:08.40 +29:40:33.0 J2000.00 21:26 1.802  WFC  199.9  180  i                                
+ 388668 WW466C            1:11:08.39 +29:40:33.0 J2000.00 21:30 1.846  WFC  239.9  180  V                                airmass 2
+ 388669 WW466C            1:11:08.40 +29:40:32.9 J2000.00 21:36 1.914  WFC  240.0  180  V                                
+ 388670 WW466C            1:11:08.40 +29:40:32.9 J2000.00 21:46 2.143  WFC 1199.3  180  51                               airmass2.2 desperate...

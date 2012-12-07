@@ -1,0 +1,188 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 03 01 04:41
+
+TELESCOPE             INT
+DATE                  20100228
+OBSERVER/S            Maria Munguia & Jorge Garcia
+PROGRAMME             C128 & CAT Service Time
+PROPOSAL REF          C128 - CAT Service Time              
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Dan Hurley
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:17
+EVENING TWILIGHT (UT) 20:29
+MORNING TWILIGHT (UT) 06:19
+SUNRISE (UT)          07:30
+%ILLUM. LUNAR DISK      1
+DARK TIME (HRS)       09:50
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   5.1    0    21.1  23.0  257   764.6    5.1    5.      8.    0      8
+21:00   4.6    1    16.8  18.6  192   765.8    4.6    5.      7.    1     12
+22:00   4.3    1    21.9  23.7  215   765.8    4.3    4.      7.    1     11
+23:00   3.3    3    19.2  26.1  193   764.8    3.3    4.      6.    3     12
+00:00  -1.4   48    18.8  22.3  173   764.5   -1.4    1.      5.   48     44
+01:00  -2.2   83    20.8  23.8  175   764.8   -2.2    0.      3.   83     70
+02:00  -2.0   64    22.0  27.1  184   763.8   -2.0    1.      6.   64     56
+03:00  -2.5   94    25.3  32.6  170   762.8   -2.5    0.      5.   94     76
+04:00  -2.4   99    24.9  32.4  174   762.0   -2.4    1.      5.   99     71
+
+TIME LOST weather           05:20
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+first half of the night clear and dry. Seeing about 1.5": Inversion layer enter at about 1:00, and humidity increases over the limit. We close the telescope and cannot open again. Humidity goes from 70% to 100% and never stay more than 10 minutes at values less than 80%Temperature is about -2 C
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Astronomer at first half of the night goes to the residence at about 01:30. Astronomer at second half of the night goes to the residence at about 4:45 due to bad humidity conditions, that makes unreliable the observing program (verification of the rotation period of an ultracool dwarf)
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 722170 Bias frame        0:00:00.00 +00:00:00.0  2010.16 12:24 4.193  WFC    0.0  180  stromgren u                      
+ 722171 Bias             20:59:59.99 +19:59:59.9  2010.16 13:36 1.135  WFC    0.0  180  stromgren u                      
+ 722172 Bias             21:00:00.00 +19:59:59.9  2010.16 13:48 1.163  WFC    0.0  180  stromgren u                      
+ 722173 Bias             21:00:00.00 +19:59:59.9  2010.16 13:50 1.170  WFC    0.0  180  Hbeta narro                      
+ 722174 TEST             20:59:59.99 +20:00:00.0  2010.16 13:54 1.179  WFC    4.1  180  Hbeta narro                      
+ 722175 Bias              0:00:00.00 +00:00:00.0  2010.16 16:25 4.415  WFC    0.0  180  Hbeta narro                      
+ 722176 Bias              0:00:00.00 +00:00:00.0  2010.16 16:27 4.415  WFC    0.0  180  Hbeta narro                      
+ 722177 Bias              0:00:00.00 +00:00:00.0  2010.16 18:47 4.415  WFC    0.0  180  Hbeta narro                      
+ 722178 Bias              0:00:00.00 +00:00:00.0  2010.16 18:48 4.415  WFC    0.0  180  Hbeta narro                      
+ 722179 Bias              0:00:00.00 +00:00:00.0  2010.16 18:49 4.415  WFC    0.0  180  Hbeta narro                      
+ 722180 Bias              0:00:00.00 +00:00:00.0  2010.16 18:50 4.415  WFC    0.0  180  Hbeta narro                      
+ 722181 Bias              0:00:00.00 +00:00:00.0  2010.16 18:50 4.415  WFC    0.0  180  Hbeta narro                      
+ 722182 Bias              0:00:00.00 +00:00:00.0  2010.16 18:51 4.415  WFC    0.0  180  Hbeta narro                      
+ 722183 Bias              0:00:00.00 +00:00:00.0  2010.16 18:52 4.415  WFC    0.0  180  Hbeta narro                      
+ 722184 Bias              0:00:00.00 +00:00:00.0  2010.16 18:53 4.415  WFC    0.0  180  Hbeta narro                      
+ 722185 Bias              0:00:00.00 +00:00:00.0  2010.16 18:53 4.415  WFC    0.0  180  Hbeta narro                      
+ 722186 Bias              0:00:00.00 +00:00:00.0  2010.16 18:54 4.415  WFC    0.0  180  Hbeta narro                      
+ 722187 Bias              0:00:00.00 +00:00:00.0  2010.16 18:55 4.415  WFC    0.0  180  Hbeta narro                      
+ 722188 Bias              0:00:00.00 +00:00:00.0  2010.16 18:56 4.415  WFC    0.0  180  Hbeta narro                      
+ 722189 Bias              0:00:00.00 +00:00:00.0  2010.16 18:57 4.415  WFC    0.0  180  Hbeta narro                      
+ 722190 Bias              0:00:00.00 +00:00:00.0  2010.16 18:57 4.415  WFC    0.0  180  Hbeta narro                      
+ 722191 Bias              0:00:00.00 +00:00:00.0  2010.16 18:58 4.415  WFC    0.0  180  Hbeta narro                      
+ 722192 Bias              0:00:00.00 +00:00:00.0  2010.16 18:59 4.415  WFC    0.0  180  Hbeta narro                      
+ 722193 Bias              0:00:00.00 +00:00:00.0  2010.16 19:00 4.415  WFC    0.0  180  Hbeta narro                      
+ 722194 Bias              0:00:00.00 +00:00:00.0  2010.16 19:00 4.415  WFC    0.0  180  Hbeta narro                      
+ 722195 Bias              0:00:00.00 +00:00:00.0  2010.16 19:01 4.415  WFC    0.0  180  Hbeta narro                      
+ 722196 Bias              0:00:00.00 +00:00:00.0  2010.16 19:02 4.415  WFC    0.0  180  Hbeta narro                      
+ 722197 HbN               4:09:59.99 +03:49:59.9  2000.00 19:17 1.111  WFC    4.5  180  Hbeta narro                      
+ 722198 HbN               4:09:59.99 +03:49:59.9  2000.00 19:18 1.112  WFC    3.1  180  Hbeta narro                      
+ 722199 HbN               4:09:59.99 +03:49:59.9  2000.00 19:19 1.112  WFC    3.1  180  Hbeta narro                      
+ 722200 HbN               4:09:59.99 +03:50:00.0  2000.00 19:20 1.113  WFC    2.5  180  Hbeta narro                      
+ 722201 HbN               4:10:00.00 +03:50:00.0  2000.00 19:23 1.115  WFC    3.1  180  Hbeta narro                      
+ 722202 HbN               4:10:00.33 +03:50:04.9  2000.00 19:24 1.116  WFC    4.1  180  Hbeta narro                      
+ 722203 stU               4:09:59.99 +03:49:59.8  2000.00 19:25 1.117  WFC    5.1  180  stromgren u                      
+ 722204 stU               4:10:00.33 +03:50:05.0  2000.00 19:27 1.118  WFC    6.1  180  stromgren u                      
+ 722205 stU               4:10:00.33 +03:49:54.9  2000.00 19:28 1.119  WFC    7.1  180  stromgren u                      
+ 722206 stV               4:10:00.00 +03:50:00.0  2000.00 19:30 1.120  WFC    7.1  180  stromgren v                      
+ 722207 stV               4:10:00.33 +03:50:04.1  2000.00 19:31 1.122  WFC    7.1  180  stromgren v                      
+ 722208 stV               4:10:00.33 +03:49:55.0  2000.00 19:32 1.123  WFC    8.5  180  stromgren v                      
+ 722209 stB               4:09:59.99 +03:50:00.0  2000.00 19:34 1.124  WFC    7.6  180  stromgren b                      
+ 722210 stB               4:10:00.33 +03:50:05.0  2000.00 19:35 1.126  WFC   10.1  180  stromgren b                      
+ 722211 stB               4:10:00.33 +03:49:55.0  2000.00 19:37 1.127  WFC   11.1  180  stromgren b                      
+ 722212 Hbb               4:09:59.99 +03:49:59.9  2000.00 19:38 1.129  WFC   14.1  180  Hbeta broad                      
+ 722213 Hbb               4:10:00.33 +03:50:05.0  2000.00 19:40 1.131  WFC   18.1  180  Hbeta broad                      
+ 722214 Hbb               4:10:00.33 +03:49:55.0  2000.00 19:41 1.132  WFC   30.1  180  Hbeta broad                      
+ 722215 stY               4:09:59.99 +03:50:00.0  2000.00 19:44 1.135  WFC   40.1  180  stromgren y                      
+ 722216 stY               4:10:00.33 +03:50:05.0  2000.00 19:46 1.139  WFC  150.0  180  stromgren y                      
+ 722217 stY               4:10:00.33 +03:49:55.0  2000.00 19:50 1.146  WFC  300.0  180  stromgren y                      
+ 722218 Focus run         5:22:42.00 +33:25:00.0  2000.00 20:12 1.004  WFC   10.1  180  stromgren y                      
+ 722219 Focus run         5:46:19.80 +28:13:21.9  2000.00 20:25 1.000  WFC   20.1  180  stromgren y                      
+ 722221 ngc1893c14 stU    5:22:42.00 +33:25:00.0  2000.00 20:33 1.011  WFC   25.1  180  stromgren u                      
+ 722224 n1893c4 stU       5:22:42.00 +33:25:00.0  2000.00 20:37 1.013  WFC   35.1  180  stromgren u                      
+ 722225 n1893c4 stV       5:22:41.99 +33:24:59.9  2000.00 20:38 1.014  WFC   15.1  180  stromgren v                      
+ 722226 n1893c4 stB       5:22:42.00 +33:25:00.0  2000.00 20:40 1.014  WFC   20.1  180  stromgren b                      
+ 722227 n1893c4 stY       5:22:42.00 +33:25:00.0  2000.00 20:41 1.015  WFC   24.5  180  stromgren y                      
+ 722228 n1893c4 Hbb       5:22:42.00 +33:25:00.0  2000.00 20:42 1.016  WFC   20.1  180  Hbeta broad                      
+ 722229 n1893c4 Hbn       5:22:42.00 +33:24:59.9  2000.00 20:43 1.017  WFC   80.0  180  Hbeta narro                      
+ 722230 n1893c3 stU       5:22:42.00 +33:12:59.9  2000.00 20:46 1.018  WFC   35.1  180  stromgren u                      
+ 722231 n1893c3 stV       5:22:41.99 +33:13:00.0  2000.00 20:48 1.019  WFC   15.1  180  stromgren v                      
+ 722232 n1893c3 stB       5:22:41.99 +33:12:59.9  2000.00 20:49 1.020  WFC   20.1  180  stromgren b                      
+ 722233 n1893c3 stY       5:22:42.00 +33:12:59.9  2000.00 20:50 1.021  WFC   25.1  180  stromgren y                      
+ 722234 n1893c3 Hbb       5:22:42.00 +33:13:00.0  2000.00 20:51 1.022  WFC   20.1  180  Hbeta broad                      
+ 722235 n1893c3 Hbn       5:22:41.99 +33:12:59.9  2000.00 20:53 1.023  WFC   80.0  180  Hbeta narro                      
+ 722236 n1893c2 stU       5:23:52.00 +33:31:00.0  2000.00 20:55 1.024  WFC   35.1  180  stromgren u                      
+ 722237 n1893c2 stV       5:23:52.00 +33:30:59.9  2000.00 20:57 1.025  WFC   15.1  180  stromgren v                      
+ 722238 n1893c2 stB       5:23:51.99 +33:31:00.0  2000.00 20:58 1.026  WFC   20.1  180  stromgren b                      
+ 722239 n1893c2 stY       5:23:51.99 +33:31:00.0  2000.00 20:59 1.027  WFC   25.1  180  stromgren y                      
+ 722240 n1893c2 Hbb       5:23:52.00 +33:31:00.0  2000.00 21:00 1.029  WFC   20.1  180  Hbeta broad                      
+ 722241 n1893c2 Hbn       5:23:51.99 +33:30:59.9  2000.00 21:02 1.030  WFC   80.0  180  Hbeta narro                      
+ 722242 n1893c1 stU       5:22:41.99 +33:37:00.0  2000.00 21:05 1.034  WFC   35.1  180  stromgren u                      
+ 722243 n1893c1 stV       5:22:41.99 +33:37:00.2  2000.00 21:06 1.035  WFC   15.1  180  stromgren v                      
+ 722244 n1893c1 stB       5:22:41.99 +33:37:00.0  2000.00 21:07 1.036  WFC   19.5  180  stromgren b                      
+ 722245 n1893c1 stY       5:22:41.99 +33:36:59.9  2000.00 21:08 1.037  WFC   25.1  180  stromgren y                      
+ 722246 n1893c1 Hbb       5:22:42.00 +33:37:00.0  2000.00 21:10 1.039  WFC   19.6  180  Hbeta broad                      
+ 722247 n1893c1 Hbn       5:22:42.00 +33:36:59.9  2000.00 21:11 1.022  WFC   80.0  180  stromgren u                      
+ 722248 ac308 u           5:46:19.79 +28:13:21.9  2000.00 21:25 1.032  WFC  399.9  180  stromgren u                      
+ 722249 ac308a v          5:46:19.80 +28:13:21.9  2000.00 21:33 1.038  WFC  150.0  180  stromgren v                      
+ 722250 ac308a b          5:46:19.80 +28:13:21.9  2000.00 21:37 1.042  WFC   90.1  180  stromgren b                      
+ 722251 ac308a y          5:46:19.79 +28:13:21.9  2000.00 21:40 1.045  WFC   90.0  180  stromgren y                      
+ 722252 ac308a Hbb        5:46:19.80 +28:13:22.0  2000.00 21:42 1.048  WFC   90.0  180  Hbeta broad                      
+ 722253 ac308a Hbn        5:46:19.80 +28:13:21.9  2000.00 21:45 1.058  WFC  599.7  180  Hbeta narro                      
+ 722254 ac207a u          5:42:42.99 +28:21:22.0  2000.00 22:09 1.099  WFC  399.3  180  stromgren u                      
+ 722255 ac207b u          5:42:43.00 +28:21:22.0  2000.00 22:19 1.120  WFC  399.8  180  stromgren u                      
+ 722256 ac207c u          5:42:42.99 +28:21:22.0  2000.00 22:27 1.139  WFC  399.9  180  stromgren u                      
+ 722257 n1893c4 stU       5:22:42.00 +33:25:00.0  2000.00 22:38 1.206  WFC   29.6  180  stromgren u                      
+ 722258 n1893c4 stV       5:22:42.00 +33:24:59.9  2000.00 22:39 1.210  WFC    9.0  180  stromgren v                      
+ 722259 n1893c4 stB       5:22:42.00 +33:25:00.0  2000.00 22:40 1.213  WFC   15.1  180  stromgren b                      
+ 722260 n1893c4 stY       5:22:41.99 +33:25:00.0  2000.00 22:42 1.216  WFC   20.1  180  stromgren y                      
+ 722261 n1893c4 Hbb       5:22:42.00 +33:24:59.9  2000.00 22:43 1.220  WFC   18.1  180  Hbeta broad                      
+ 722262 n1893c1 Hbn       5:22:42.00 +33:25:00.0  2000.00 22:44 1.225  WFC   70.0  180  Hbeta narro                      
+ 722263 n1893c3 stU       5:22:42.00 +33:13:00.0  2000.00 22:47 1.234  WFC   29.5  180  stromgren u                      
+ 722264 n1893c3 stV       5:22:42.00 +33:13:00.0  2000.00 22:48 1.238  WFC    9.5  180  stromgren v                      
+ 722265 n1893c3 stB       5:22:42.00 +33:12:59.9  2000.00 22:49 1.241  WFC   15.1  180  stromgren b                      
+ 722266 n1893c3 stY       5:22:42.00 +33:12:59.9  2000.00 22:50 1.245  WFC   20.1  180  stromgren y                      
+ 722267 n1893c3 Hbb       5:22:42.00 +33:13:00.0  2000.00 22:52 1.249  WFC   18.1  180  Hbeta broad                      
+ 722268 n1893c3 Hbn       5:22:41.99 +33:13:00.0  2000.00 22:53 1.255  WFC   70.0  180  Hbeta narro                      
+ 722269 n1893c2 stU       5:23:52.00 +33:30:59.9  2000.00 22:56 1.259  WFC   30.1  180  stromgren u                      
+ 722270 n1893c2 stV       5:23:52.00 +33:31:00.0  2000.00 22:57 1.263  WFC   10.2  180  stromgren v                      
+ 722271 n1893c2 stB       5:23:51.99 +33:31:00.0  2000.00 22:58 1.267  WFC   15.1  180  stromgren b                      
+ 722272 n1893c2 stY       5:23:52.00 +33:30:59.9  2000.00 22:59 1.271  WFC   20.1  180  stromgren y                      
+ 722273 n1893c2 Hbb       5:23:52.00 +33:31:00.0  2000.00 23:00 1.275  WFC   18.1  180  Hbeta broad                      
+ 722274 n1893c2 Hbn       5:23:52.00 +33:30:59.9  2000.00 23:01 1.281  WFC   70.0  180  Hbeta narro                      
+ 722275 n1893c1 stU       5:22:41.99 +33:37:00.0  2000.00 23:04 1.295  WFC   30.1  180  stromgren u                      
+ 722276 n1893c1 stV       5:22:41.99 +33:37:00.0  2000.00 23:06 1.299  WFC    9.6  180  stromgren v                      
+ 722277 n1893c1 stB       5:22:42.00 +33:37:00.0  2000.00 23:07 1.304  WFC   15.1  180  stromgren b                      
+ 722278 n1893c1 stY       5:22:42.00 +33:37:00.0  2000.00 23:08 1.308  WFC   20.1  180  stromgren y                      
+ 722279 n1893c1 Hbb       5:22:42.00 +33:37:00.0  2000.00 23:09 1.313  WFC   17.6  180  Hbeta broad                      
+ 722280 n1893c1 Hbn       5:22:41.99 +33:37:00.0  2000.00 23:10 1.319  WFC   70.0  180  Hbeta narro                      
+ 722281 ac308b u          5:46:19.80 +28:13:22.0  2000.00 23:17 1.278  WFC  399.8  180  stromgren u                      
+ 722282 ac308b v          5:46:19.80 +28:13:21.9  2000.00 23:24 1.301  WFC  150.0  180  stromgren v                      
+ 722283 ac308b b          5:46:19.79 +28:13:22.0  2000.00 23:28 1.315  WFC   90.1  180  stromgren b                      
+ 722284 ac308b y          5:46:19.79 +28:13:22.0  2000.00 23:31 1.326  WFC   90.2  180  stromgren y                      
+ 722285 ac308b Hbb        5:46:19.79 +28:13:22.0  2000.00 23:34 1.338  WFC   90.0  180  Hbeta broad                      
+ 722286 ac308b Hbn        5:46:19.79 +28:13:21.9  2000.00 23:36 1.370  WFC  599.8  180  Hbeta narro                      
+ 722288 ac307a u          5:44:55.40 +28:33:22.0  2000.00 23:52 1.449  WFC  399.9  180  stromgren u                      
+ 722289 n1893c4 stU       5:22:42.00 +33:25:00.0  2000.00 00:05 1.626  WFC   30.1  180  stromgren u                      
+ 722290 n1893c4 stV       5:22:41.99 +33:24:59.9  2000.00 00:07 1.636  WFC   12.1  180  stromgren v                      
+ 722291 n1893c4 stB       5:22:42.00 +33:25:00.0  2000.00 00:08 1.644  WFC   15.1  180  stromgren b                      
+ 722292 n1893c4 stY       5:22:42.00 +33:24:59.9  2000.00 00:09 1.653  WFC   20.1  180  stromgren y                      
+ 722293 n1893c4 Hbb       5:22:41.99 +33:25:00.0  2000.00 00:10 1.662  WFC   18.1  180  Hbeta broad                      
+ 722294 n1893c4 Hbn       5:22:41.99 +33:24:59.9  2000.00 00:11 1.675  WFC   70.0  180  Hbeta narro                      
+ 722295 n1893c3 stU       5:22:41.99 +33:12:59.9  2000.00 00:30 1.845  WFC   35.0  180  stromgren u                      
+ 722296 n1893c3 stV       5:22:41.99 +33:13:00.0  2000.00 00:32 1.858  WFC   14.1  180  stromgren v                      
+ 722297 n1893c3 stB       5:22:41.99 +33:13:00.0  2000.00 00:33 1.869  WFC   14.5  180  stromgren b                      
+ 722298 n1893c3 stY       5:22:41.99 +33:12:59.9  2000.00 00:34 1.882  WFC   20.1  180  stromgren y                      
+ 722299 n1893c3 Hbb       5:22:41.99 +33:12:59.9  2000.00 00:35 1.894  WFC   18.1  180  Hbeta broad                      
+ 722300 n1893c3 Hbn       5:22:42.00 +33:12:59.9  2000.00 00:37 1.912  WFC   70.2  180  Hbeta narro                      
+ 722301 n1893c2 stU       5:23:51.99 +33:30:59.9  2000.00 00:39 1.921  WFC   34.5  180  stromgren u                      
+ 722302 n1893c2 stV       5:23:51.99 +33:31:00.0  2000.00 00:41 1.935  WFC   14.1  180  stromgren v                      
+ 722303 n1893c2 stB       5:23:52.00 +33:30:59.9  2000.00 00:42 1.948  WFC   15.1  180  stromgren b                      
+ 722304 n1893c2 stY       5:23:52.00 +33:31:00.0  2000.00 00:43 1.961  WFC   20.1  180  stromgren y                      
+ 722305 n1893c2 Hbb       5:23:52.00 +33:30:59.9  2000.00 00:44 1.975  WFC   18.1  180  Hbeta broad                      
+ 722306 n1893c2 Hbn       5:23:51.99 +33:30:59.9  2000.00 00:45 1.994  WFC   70.0  180  Hbeta narro                      
+ 722307 n1893c1 stU       5:22:42.00 +33:36:59.9  2000.00 00:48 2.036  WFC   35.1  180  stromgren u                      
+ 722308 n1893c1 stV       5:22:42.00 +33:36:59.9  2000.00 00:50 2.053  WFC   14.1  180  stromgren v                      
+ 722309 n1893c1 stB       5:22:42.00 +33:36:59.9  2000.00 00:51 2.067  WFC   14.5  180  stromgren b                      
+ 722310 n1893c1 stY       5:22:42.00 +33:37:00.0  2000.00 00:52 2.082  WFC   20.1  180  stromgren y                      
+ 722311 n1893c1 Hbb       5:22:42.00 +33:37:00.0  2000.00 00:53 2.098  WFC   17.5  180  Hbeta broad                      
+ 722312 n1893c1 Hbn       5:22:41.99 +33:36:59.9  2000.00 00:54 2.120  WFC   70.0  180  Hbeta narro                      

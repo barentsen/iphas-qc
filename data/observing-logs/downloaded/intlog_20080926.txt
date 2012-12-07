@@ -1,0 +1,71 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 09 27 03:25
+
+TELESCOPE             INT
+DATE                  20080926
+OBSERVER/S            Huxor/Price
+PROGRAMME             P15
+PROPOSAL REF          P15        
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:11
+EVENING TWILIGHT (UT) 20:22
+MORNING TWILIGHT (UT) 05:44
+SUNRISE (UT)          06:55
+%ILLUM. LUNAR DISK    6
+DARK TIME (HRS)       09:22
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         05:02
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   7.4   92    25.0  31.4  173   770.3    7.4  10.7    13.4   92    83 
+21:00   6.8   96    35.2  39.1  177   770.2    6.8  11.5    13.4   96    79 
+22:00   6.6   96    35.5  42.8  178   770.5    6.6  11.3    13.3   96    80 
+23:00   7.2   92    30.8  41.3  174   770.9    7.2  11.3    13.4   92    80 
+00:00   6.9   95    34.2  40.5  176   770.6    6.9  11.3    13.3   95    80 
+01:00   6.8   95    31.3  37.5  165   770.3    6.8  11.2    13.2   95    80 
+02:00   6.6   97    27.3  32.6  175   770.0    6.6  10.5    13.4   97    83 
+03:00   6.4   99    25.9  35.7  201   769.7    6.4  10.4    13.3   99    83 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+awful- cloudy and humid all  night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+whole night lost to high humidy and could not open dome. But cloudy in any case.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 639977 Bias             11:05:59.99 +19:59:59.9  2000.00 12:58 1.045  WFC    0.0  180  r                                
+ 639978 Bias              0:00:00.00 +00:00:00.0  2000.00 13:01 1.027  WFC    0.0  180  r                                
+ 639979 Flat field        0:00:00.00 +00:00:00.0  2000.00 13:05 2.296  WFC    5.1  180  r                                
+ 639980 Flat field        0:00:00.00 +00:00:00.0  2000.00 13:06 2.296  WFC    5.1  180  r                                
+ 639981 Bias              0:00:00.00 +00:00:00.0  2000.00 19:07 1.069  WFC    0.0  180  V                                
+ 639982 Bias              0:00:00.00 +00:00:00.0  2000.00 19:07 1.069  WFC    0.0  180  V                                
+ 639983 Bias              0:00:00.00 +00:00:00.0  2000.00 19:08 1.069  WFC    0.0  180  V                                
+ 639984 Bias              0:00:00.00 +00:00:00.0  2000.00 19:08 1.069  WFC    0.0  180  V                                
+ 639985 Bias              0:00:00.00 +00:00:00.0  2000.00 19:09 1.069  WFC    0.0  180  V                                
+ 639986 Bias              0:00:00.00 +00:00:00.0  2000.00 19:09 1.069  WFC    0.0  180  V                                
+ 639987 Bias              0:00:00.00 +00:00:00.0  2000.00 19:09 1.069  WFC    0.1  180  V                                
+ 639988 Bias              0:00:00.00 +00:00:00.0  2000.00 19:10 1.069  WFC    0.0  180  V                                
+ 639989 Bias              0:00:00.00 +00:00:00.0  2000.00 19:10 1.069  WFC    0.0  180  V                                
+ 639990 Dome_flat_V       0:00:00.00 +00:00:00.0  2000.00 19:15 1.069  WFC   10.1  180  V                                
+ 639991 Dome_flat_V       0:00:00.00 +00:00:00.0  2000.00 19:16 1.069  WFC    9.5  180  V                                
+ 639992 Dome_flat_V       0:00:00.00 +00:00:00.0  2000.00 19:16 1.069  WFC   10.1  180  V                                
+ 639993 Dome_flat_V       0:00:00.00 +00:00:00.0  2000.00 19:17 1.069  WFC   10.1  180  V                                
+ 639994 Dome_flat_V       0:00:00.00 +00:00:00.0  2000.00 19:18 1.069  WFC   10.1  180  V                                
+ 639995 Dome_flat_i       0:00:00.00 +00:00:00.0  2000.00 19:26 1.069  WFC   11.6  180  i                                
+ 639996 Dome_flat_i       0:00:00.00 +00:00:00.0  2000.00 19:27 1.069  WFC   12.1  180  i                                
+ 639997 Dome_flat_i       0:00:00.00 +00:00:00.0  2000.00 19:27 1.069  WFC   11.6  180  i                                
+ 639998 Dome_flat_i       0:00:00.00 +00:00:00.0  2000.00 19:28 1.069  WFC   11.5  180  i                                
+ 639999 Dome_flat_i       0:00:00.00 +00:00:00.0  2000.00 19:29 1.069  WFC   12.1  180  i                                

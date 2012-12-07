@@ -1,0 +1,62 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 04 20 03:51
+
+TELESCOPE             INT
+DATE                  20100419
+OBSERVER/S            James McCormac
+PROGRAMME             feltzing p11
+PROPOSAL REF          P11
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    James McCormac
+
+TEL STATION / FOCUS   Prime  / 43.80
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:47
+EVENING TWILIGHT (UT) 21:02
+MORNING TWILIGHT (UT) 05:18
+SUNRISE (UT)          06:34
+%ILLUM. LUNAR DISK    31
+DARK TIME (HRS)       08:16
+TWILIGHT TIME (HRS)   02:31
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          00:56
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   6.3  100    26.3  34.3  179   764.3    6.3    9.     10.  100     82
+21:00   6.1  100    18.4  24.2  175   764.6    6.1    8.     10.  100     84
+22:00   5.9  100    19.4  33.9  184   764.7    5.9    8.     10.  100     85
+23:00   6.2  100    23.5  38.2  179   765.7    6.2    8.     10.  100     87
+00:00   6.8  100    24.6  35.5  160   765.3    6.8    8.     10.  100     91
+01:00   6.9  100    26.2  33.5  155   764.2    6.9    8.     10.  100     90
+02:00   6.7  100    30.0  33.5  171   763.5    6.7    8.     10.  100     90
+03:00   6.9  100    28.6  35.3  186   763.0    6.9    8.     10.  100     90
+
+TIME LOST weather           9:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+crap! raining and high humidity all night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+whole night lost due to bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 727073 Bias              1:29:59.99 +20:00:00.0  2000.00 13:58 1.048  WFC    0.0  180  r                                
+ 727074 Flat field        1:30:00.00 +20:00:00.0  2000.00 14:00 1.051  WFC    6.1  180  r                                
+ 727075 Flat field        1:30:00.00 +19:59:59.9  2000.00 14:02 1.053  WFC    6.1  180  Halpha                           
+ 727076 Bias              0:00:00.00 +00:00:00.0  2000.00 16:59 4.566  WFC    0.0  180  stromgren v                      
+ 727077 Bias              0:00:00.00 +00:00:00.0  2000.00 17:00 4.566  WFC    0.0  180  stromgren v                      
+ 727078 Bias              0:00:00.00 +00:00:00.0  2000.00 17:00 4.566  WFC    0.0  180  stromgren v                      
+ 727079 Bias              0:00:00.00 +00:00:00.0  2000.00 17:01 4.566  WFC    0.0  180  stromgren v                      
+ 727080 Bias              0:00:00.00 +00:00:00.0  2000.00 17:01 4.566  WFC    0.0  180  stromgren v                      
+ 727081 Bias              0:00:00.00 +00:00:00.0  2000.00 17:02 4.566  WFC    0.0  180  stromgren v                      
+ 727082 Bias              0:00:00.00 +00:00:00.0  2000.00 17:02 4.566  WFC    0.0  180  stromgren v                      
+ 727083 Bias              0:00:00.00 +00:00:00.0  2000.00 17:03 4.566  WFC    0.0  180  stromgren v                      
+ 727084 Bias              0:00:00.00 +00:00:00.0  2000.00 17:03 4.566  WFC    0.0  180  stromgren v                      
+ 727085 Bias              0:00:00.00 +00:00:00.0  2000.00 17:03 4.566  WFC    0.0  180  stromgren v                      
+ 727086 Bias              0:00:00.00 +00:00:00.0  2000.00 17:04 4.566  WFC    0.0  180  stromgren v                      

@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 09 16 08:05
+
+TELESCOPE             INT
+DATE                  20110915
+OBSERVER/S            McCormac, Skillen
+PROGRAMME             Defocused WASP observations
+PROPOSAL REF          P18      
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:25
+EVENING TWILIGHT (UT) 20:37
+MORNING TWILIGHT (UT) 05:37
+SUNRISE (UT)          06:49
+%ILLUM. LUNAR DISK    88
+DARK TIME (HRS)       09:00
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         20:41
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  10.4   31     6.1   8.4  303   770.3   10.4   15.     15.   31     32
+21:00   9.8   27    15.0   9.5  159   770.4    9.8   13.     15.   27     30
+22:00  10.8   20     4.5   6.5  175   771.2   10.8   12.     15.   20     25
+23:00  10.8   24     4.2   5.0  323   771.5   10.8   12.     14.   24     26
+00:00  10.6   31    11.9  12.5  235   771.5   10.6   12.     15.   31     31
+01:00  10.5   31     9.5  10.0  292   771.4   10.5   12.     15.   31     34
+02:00  10.3   31    11.3  11.7  235   771.2   10.3   11.     15.   31     34
+03:00  10.3   27     9.0   9.7  273   770.9   10.3   11.     14.   27     32
+04:00   9.9   32    10.1  12.6  288   770.6    9.9   11.     14.   32     34
+05:00   9.9   32    13.9  14.1  276   770.4    9.9   11.     14.   32     35
+06:00   9.6   27    14.8  17.4  281   770.2    9.6   10.     14.   27     34
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+excellent seeing all night, typically  0.6'' or less 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

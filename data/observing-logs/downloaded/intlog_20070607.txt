@@ -1,0 +1,66 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 06 08 05:11
+
+TELESCOPE             INT
+DATE                  20070607
+OBSERVER/S            B. Cedres, J. Iglesias
+PROGRAMME             SFR of cluster galaxies
+PROPOSAL REF          C80
+TELESCOPE OPERATOR    Ian Hunter
+SUPPORT ASTRONOMER    Ian Hunter
+
+TEL STATION / FOCUS   Prime  / 43.45
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:16
+EVENING TWILIGHT (UT) 21:41
+MORNING TWILIGHT (UT) 04:39
+SUNRISE (UT)          06:05
+%ILLUM. LUNAR DISK    56
+DARK TIME (HRS)       06:58
+TWILIGHT TIME (HRS)   02:51
+MOONRISE (UT)         01:07
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00   5.3   97    29.1  30.8  213   766.2   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   5.2   97    21.0  26.0  181   766.5   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   5.0   97    22.7  28.8  189   766.9   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   4.2   97    22.5  36.2  213   767.1   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   3.8   98    27.8  33.5  206   766.8   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   2.6   97    29.6  36.7  209   766.4   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   3.2   73    31.4  27.5  231   766.2   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   3.3   85    31.5  42.7  235   765.8   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   3.3   93    26.4  34.7  213   765.7   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           06:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humidity 95% of the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 564608 Bias              4:35:00.00 +20:00:00.0 2000.00  13:47 1.045  WFC    0.0  180  HeI 5870                         
+ 564609 Bias              0:00:00.00 +00:00:00.0 2000.00  13:50 1.113  WFC    0.0  180  HeI 5870                         
+ 564610 Bias              0:00:00.00 +00:00:00.0 2000.00  13:54 2.717  WFC    0.0  180  HeI 5870                         
+ 564611 Bias              0:00:00.00 +00:00:00.0 2000.00  13:57 4.533  WFC    0.0  180  HeI 5870                         
+ 564612 Flat field        0:00:00.00 +00:00:00.0 2000.00  13:59 4.533  WFC    6.1  180  Halpha                           
+ 564613 Bias              0:00:00.00 +00:00:00.0 2000.00  14:32 4.543  WFC    0.0  180  B                                
+ 564614 Bias              0:00:00.00 +00:00:00.0 2000.00  14:33 4.543  WFC    0.0  180  B                                
+ 564615 Bias              0:00:00.00 +00:00:00.0 2000.00  14:49 4.543  WFC    0.0  180  B                                
+ 564616 Bias             13:36:18.00 +62:14:11.0 2000.00  19:46 1.279  WFC    0.0  180  [SII]6725                        crap bias
+ 564617 Bias             13:36:17.99 +62:14:10.9 2000.00  19:51 1.273  WFC    0.0  180  [SII]6725                        crap
+ 564618 Bias              0:00:00.00 +00:00:00.0 2000.00  01:27 1.198  WFC    0.0  180  U                                
+ 564619 Focus run        18:42:57.39 +00:07:23.0 2000.00  01:58 1.171  WFC   10.1  180  r                                
+ 564620 Focus run        18:42:57.39 +00:07:23.0 2000.00  02:05 1.162  WFC    4.1  180  r                                
+ 564621 Focus run        17:41:28.39 +05:26:03.9 1950.00  02:16 1.094  WFC    5.1  180  r                                
+ 564622 Focus run        17:41:28.41 +05:26:04.0 1950.00  02:28 1.101  WFC   12.1  180  Ha 6805                          
+ 564623 A2107_r_p0p0_300 15:39:38.00 +21:46:41.8 2000.00  02:36 1.293  WFC  299.9  180  r                                
+ 564624 A2107_Ha6805_p0p 15:39:37.99 +21:46:42.0 2000.00  02:46 1.347  WFC  627.8  180  Ha 6805                          

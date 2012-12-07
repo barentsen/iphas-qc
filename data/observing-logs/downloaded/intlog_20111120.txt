@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 11 21 07:59
+
+TELESCOPE             INT
+DATE                  20111120
+OBSERVER/S            Angela Hempel
+PROGRAMME             Planck cluster
+PROPOSAL REF          C48
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Dora Fohring
+
+TEL STATION / FOCUS   Prime  / 43.54
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:24
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:16
+SUNRISE (UT)          07:31
+%ILLUM. LUNAR DISK    24
+DARK TIME (HRS)       10:38
+TWILIGHT TIME (HRS)   02:29
+MOONRISE (UT)         03:14
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   6.5    4    41.5  43.8   29   769.5    6.5    7.     11.    4     12
+20:00   6.3    4    38.6  44.2   16   769.9    6.3    7.     11.    4     13
+21:00   6.3    4    40.8  42.7   23   770.3    6.3    7.     10.    4     12
+22:00   6.1    4    36.8  38.1   17   770.8    6.1    7.      9.    4     13
+23:00   6.5    5    40.6  44.5   19   771.0    6.5    7.     10.    5     13
+00:00   6.2    7    35.9  38.9   25   770.9    6.2    7.      9.    7     14
+01:00   5.9   19    35.6  39.8   15   770.7    5.9    7.      9.   19     15
+02:00   6.4   33    34.6  37.7    7   770.7    6.4    6.      9.   33     37
+03:00   6.6   37    43.4  46.4   47   770.5    6.6    7.      8.   37     46
+04:00   5.4   49    41.4  44.6   67   770.4    5.4    6.      9.   49     53
+05:00   4.6   57    44.3  47.0   91   770.4    4.6    6.      9.   57     57
+06:00   4.8   58    34.8  38.4    3   770.6    4.8    6.      8.   58     58
+07:00   4.8   53    32.3  34.8   28   771.1    4.8    5.      9.   53     56
+
+TIME LOST weather           00:00
+TIME LOST Technical         02:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+excellent, 1.3-1.9, not photometric
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+problems with GCS, auto guider, we had to restart the observing system
+
+

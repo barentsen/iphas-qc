@@ -1,0 +1,56 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 10 23 10:13
+
+TELESCOPE             INT
+DATE                  20061018
+OBSERVER/S            JMVilchez&J Hdez Fdez
+PROGRAMME             CAT9 Halpha of Wing clusters
+PROPOSAL REF          Cat9
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    ihunter
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:47
+EVENING TWILIGHT (UT) 19:58
+MORNING TWILIGHT (UT) 05:56
+SUNRISE (UT)          07:07
+%ILLUM. LUNAR DISK    9
+DARK TIME (HRS)       09:58
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         04:42
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   6.6   99    22.3  26.5  279   767.9    6.6  11.1    12.5   99    82 
+20:00   6.2   99    17.0  19.4  262   768.1    6.2  10.8    12.7   99    81 
+21:00   6.0   99    19.2  21.7  285   768.6    6.0  10.8    12.6   99    80 
+22:00   6.0   99    13.5  20.6  284   769.2    6.0  11.1    12.5   99    78 
+23:00   5.8   99    23.1  25.7  292   769.2    5.8  11.1    12.6   99    77 
+00:00   5.8   99    21.3  24.8  283   769.2    5.8  10.9    12.7   99    78 
+01:00   6.0   99    19.1  20.8  273   769.3    6.0  10.8    12.7   99    79 
+02:00   6.0   99    24.6  26.2  259   769.0    6.0  10.8    12.9   99    80 
+03:00   5.7   99    23.2  26.8  253   768.7    5.7  10.7    12.8   99    80 
+04:00   5.5   99    21.1  23.8  258   768.5    5.5  10.7    12.7   99    80 
+05:00   5.2   99    27.1  30.2  271   768.1    5.2  10.5    12.8   99    77 
+06:00   5.3   99    35.2  40.0  272   768.0    5.3  10.3    12.8   99    79 
+07:00   5.9   99    28.9  31.9  279   768.4    5.9  10.1    12.8   99    83 
+
+TIME LOST weather           9:55
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+bad weather all night, no observations
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 532295 Bias frame        0:00:00.00 +00:00:00.0 2006.795 12:50 1.341  WFC    0.0  180  B                                
+ 532296 Bias             12:00:00.00 +28:00:00.0 2006.795 12:52 1.060  WFC    0.0  180  B                                
+ 532297 Bias             11:59:59.99 +27:59:59.9 2006.795 12:53 1.062  WFC    0.0  180  B                                

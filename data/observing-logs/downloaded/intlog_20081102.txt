@@ -1,0 +1,55 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 11 04 21:11
+
+TELESCOPE             INT
+DATE                  20081102
+OBSERVER/S            Gavin Ramsay
+PROGRAMME             P9: determining the space density of ultra compact binaries
+PROPOSAL REF          P9
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.80
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:33
+EVENING TWILIGHT (UT) 19:46
+MORNING TWILIGHT (UT) 06:05
+SUNRISE (UT)          07:18
+%ILLUM. LUNAR DISK    22
+DARK TIME (HRS)       10:19
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:50
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -1.7   99    18.7  23.8  343   767.6   -1.7    5.      8.   99     73
+20:00  -2.6   99    26.4  25.3  343   768.2   -2.6    5.      9.   99     74
+21:00  -1.7   99     7.9  12.0  353   768.8   -1.7    5.      9.   99     74
+22:00  -2.4   99    18.2  27.3  345   768.9   -2.4    6.      8.   99     73
+23:00  -3.2   99    22.6  33.2  342   768.2   -3.2    5.      9.   99     72
+00:00  -2.1   99    20.0  37.6  337   768.3   -2.1    5.      8.   99     73
+01:00  -1.7   99    30.1  36.0  332   768.2   -1.7    5.      9.   99     74
+02:00  -1.5   99     5.9  25.7  350   768.5   -1.5    4.      9.   99     77
+03:00  -1.1   99    14.8  24.6  344   767.9   -1.1    5.      8.   99     78
+04:00  -1.6   99    24.2  30.2  342   767.6   -1.6    5.      8.   99     78
+05:00  -0.6   99    27.2  30.4  345   767.6   -0.6    4.      8.   99     80
+06:00  -0.7   99    32.2  33.9  340   767.6   -0.7    4.      9.   99     80
+07:00  -0.2   99    30.1  36.1  349   768.0   -0.2    5.      8.   99     80
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+weather terrible! low cloud, wind and rain
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+didnt open dome
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 643403 Bias              0:00:00.00 +00:00:00.0  2008.84 14:12 4.542  WFC    0.0  180  U                                
+ 643404 Bias              0:00:00.00 +00:00:00.0  2008.84 18:48 4.542  WFC    0.0  180  U                                

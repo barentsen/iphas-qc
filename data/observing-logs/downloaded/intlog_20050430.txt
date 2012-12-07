@@ -1,0 +1,118 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 05 01 07:30
+
+TELESCOPE             INT
+DATE                  20050430
+OBSERVER/S            W.W. Zeilinger
+PROGRAMME             Varied
+PROPOSAL REF          P5
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    J, Furness
+
+TEL STATION / FOCUS   Prime  / 44:03
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:53
+EVENING TWILIGHT (UT) 21:11
+MORNING TWILIGHT (UT) 05:05
+SUNRISE (UT)          06:23
+%ILLUM. LUNAR DISK    53
+DARK TIME (HRS)       07:54
+TWILIGHT TIME (HRS)   02:36
+MOONRISE (UT)         02:11
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   7.5   82    16.6  20.9  231   768.6    7.5  12.7    12.2   82    59 
+21:00   6.0   91    17.5  20.0  228   768.5    6.0   9.7    12.3   91    75 
+22:00   6.9   84    19.7  22.0  225   768.8    6.9   9.2    11.9   84    78 
+23:00   6.4   84    17.7  20.6  235   769.0    6.4   9.2    11.2   84    73 
+00:00   5.9   93    24.7  27.2  237   768.7    5.9   8.6    11.1   93    85 
+01:00   4.9  100    24.2  29.7  220   768.5    4.9   9.4    11.3  100    84 
+02:00   4.4   99    15.8  23.0  188   767.7    4.4   9.4    11.4   99    77 
+03:00   4.3  100    19.0  27.5  230   767.5    4.3   9.4    11.4  100    78 
+04:00   3.6  100    20.8  25.9  233   767.2    3.6   9.2    11.4  100    78 
+05:00   3.9   64    26.0  29.5  236   766.5    3.9   8.5    11.4   64    57 
+06:00   4.0   50    34.2  35.4  243   766.9    4.0   6.0    10.2   50    53 
+
+TIME LOST weather           05:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+high humidity - clouds
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 448219 Bias frame        0:40:00.00 +45:00:00.0 2000.00  13:22 1.148  WFC    0.0  180  stromgren b                      
+ 448220 Bias              0:00:00.00 +00:00:00.0 2000.00  16:58 4.769  WFC    0.0  180  stromgren b                      
+ 448221 Bias              0:00:00.00 +00:00:00.0 2000.00  16:59 4.769  WFC    0.0  180  stromgren b                      
+ 448222 Bias              0:00:00.00 +00:00:00.0 2000.00  17:00 4.769  WFC    0.0  180  stromgren b                      
+ 448223 Bias              0:00:00.00 +00:00:00.0 2000.00  17:00 4.769  WFC    0.0  180  stromgren b                      
+ 448224 Bias              0:00:00.00 +00:00:00.0 2000.00  17:01 4.769  WFC    0.0  180  stromgren b                      
+ 448225 Bias              0:00:00.00 +00:00:00.0 2000.00  18:28 1.000  WFC    0.0  180  stromgren b                      
+ 448226 Bias              0:00:00.00 +00:00:00.0 2000.00  18:29 1.000  WFC    0.0  180  stromgren b                      
+ 448227 Bias              0:00:00.00 +00:00:00.0 2000.00  18:29 1.000  WFC    0.0  180  stromgren b                      
+ 448228 Bias              0:00:00.00 +00:00:00.0 2000.00  18:30 1.000  WFC    0.0  180  stromgren b                      
+ 448229 Bias              0:00:00.00 +00:00:00.0 2000.00  18:31 1.000  WFC    0.0  180  stromgren b                      
+ 448230 Skyflat Ha        9:13:49.00 +46:13:57.9 2000.00  19:50 1.048  WFC    5.1  180  Halpha                           saturated
+ 448231 Skyflat Ha        9:13:49.00 +46:13:57.9 2000.00  19:52 1.048  WFC    5.1  180  Halpha                           saturated
+ 448232 Skyflat b         9:13:48.99 +46:13:58.0 2000.00  20:17 1.053  WFC   43.1  180  stromgren b                      
+ 448233 Skyflat b         9:13:49.96 +46:14:07.8 2000.00  20:19 1.054  WFC   50.1  180  stromgren b                      
+ 448234 Skyflat b         9:13:49.96 +46:13:48.0 2000.00  20:21 1.054  WFC   70.1  180  stromgren b                      
+ 448235 Focus run         9:57:26.00 -00:17:16.0 2000.00  20:30 1.144  WFC   15.1  180  R                                
+ 448236 Feige 34 60s u   10:36:40.99 +43:21:50.0 1950.00  20:36 1.042  WFC   59.5  180  stromgren u                      no signal
+ 448237 Feige 34 30s u   10:36:40.99 +43:21:50.0 1950.00  20:40 1.040  WFC   30.1  180  R                                wrong filter!
+ 448238 Feige 34 30s u   10:36:41.00 +43:21:50.0 1950.00  20:45 1.038  WFC   30.1  180  stromgren u                      
+ 448239 Feige 34 90s u   10:36:41.00 +43:21:50.0 1950.00  20:47 1.037  WFC   90.0  180  stromgren u                      
+ 448240 Feige 34 60s v   10:36:41.00 +43:21:50.0 1950.00  20:50 1.036  WFC   60.1  180  stromgren v                      
+ 448241 Feige 34 60s b   10:36:40.99 +43:21:49.9 1950.00  20:52 1.035  WFC   59.6  180  stromgren b                      
+ 448242 Feige 34 90s y   10:36:40.99 +43:21:50.0 1950.00  20:55 1.035  WFC   90.0  180  stromgren y                      
+ 448243 Feige 34 120s Ha 10:36:41.00 +43:21:50.0 1950.00  20:59 1.034  WFC  120.0  180  Halpha                           
+ 448244 A0634 600s b      8:14:33.70 +58:02:52.0 2000.00  21:07 1.271  WFC  599.7  180  stromgren b                      
+ 448245 A0634 600s u      8:14:33.70 +58:02:51.9 2000.00  21:20 1.296  WFC  599.7  180  stromgren u                      
+ 448246 A0634 600s v      8:14:33.69 +58:02:51.9 2000.00  21:30 1.320  WFC  599.7  180  stromgren v                      trailed image
+ 448247 A0634 600s b      8:14:33.69 +58:02:51.9 2000.00  21:41 1.346  WFC  599.8  180  stromgren b                      trailed image
+ 448248 A0634 600s y      8:14:33.70 +58:02:51.9 2000.00  21:52 1.375  WFC  599.8  180  stromgren y                      
+ 448249 A0634 600s y      8:14:33.70 +58:02:52.1 2000.00  22:06 1.417  WFC  599.8  180  stromgren y                      
+ 448250 A0634 600s b      8:14:33.69 +58:02:52.0 2000.00  22:17 1.452  WFC  599.8  180  stromgren b                      
+ 448251 A0634 600s v      8:14:33.69 +58:02:52.0 2000.00  22:28 1.491  WFC  599.7  180  stromgren v                      
+ 448252 A0634 600s u      8:14:33.69 +58:02:51.9 2000.00  22:39 1.526  WFC  399.9  180  stromgren u                      stopped at 400s high humidity
+ 448253 Bias              0:00:00.00 +00:00:00.0 2000.00  02:27 1.000  WFC    0.0  180  stromgren u                      
+ 448254 Bias              0:00:00.00 +00:00:00.0 2000.00  02:27 1.000  WFC    0.0  180  stromgren u                      
+ 448255 Bias              0:00:00.00 +00:00:00.0 2000.00  02:28 1.000  WFC    0.0  180  stromgren u                      
+ 448256 Bias              0:00:00.00 +00:00:00.0 2000.00  02:28 1.000  WFC    0.0  180  stromgren u                      
+ 448257 Bias              0:00:00.00 +00:00:00.0 2000.00  02:29 1.000  WFC    0.0  180  stromgren u                      
+ 448258 A2199 600s u     16:28:36.99 +39:31:27.9 2000.00  04:23 1.068  WFC  599.8  180  stromgren u                      
+ 448259 A2199 600s v     16:28:37.00 +39:31:27.9 2000.00  04:34 1.082  WFC  599.8  180  stromgren v                      
+ 448260 A2199 600s b     16:28:36.99 +39:31:28.0 2000.00  04:45 1.098  WFC  599.7  180  stromgren b                      
+ 448261 A2199 600s y     16:28:36.99 +39:31:28.0 2000.00  04:55 1.116  WFC  599.8  180  stromgren y                      
+ 448262 A2199 600s y     16:28:36.99 +39:31:28.0 2000.00  05:10 1.144  WFC  599.8  180  stromgren y                      trailed image
+ 448263 A2199 600s b     16:28:36.99 +39:31:27.8 2000.00  05:20 1.168  WFC  599.8  180  stromgren b                      
+ 448264 A2199 600s v     16:28:37.00 +39:31:28.0 2000.00  05:31 1.195  WFC  599.8  180  stromgren v                      trailed image
+ 448265 A2199 600s u     16:28:37.00 +39:31:27.9 2000.00  05:42 1.224  WFC  599.8  180  stromgren u                      
+ 448266 Skyflat b        17:00:00.00 +41:00:00.0 2000.00  05:59 1.178  WFC   70.0  180  stromgren b                      
+ 448267 Skyflat b        17:00:00.88 +41:00:09.9 2000.00  06:01 1.183  WFC   40.1  180  stromgren b                      
+ 448268 Skyflat b        17:00:00.88 +40:59:49.9 2000.00  06:03 1.187  WFC   20.1  180  stromgren b                      
+ 448269 Skyflat v        17:00:00.88 +40:59:50.0 2000.00  06:04 1.190  WFC   20.1  180  stromgren v                      
+ 448270 Skyflat v        16:59:59.11 +40:59:50.0 2000.00  06:06 1.194  WFC   15.1  180  stromgren v                      
+ 448271 Skyflat v        16:59:59.11 +41:00:10.0 2000.00  06:07 1.197  WFC   10.1  180  stromgren v                      
+ 448272 Skyflat y        16:59:59.11 +41:00:10.0 2000.00  06:08 1.200  WFC   10.1  180  stromgren y                      
+ 448273 Skyflat y        17:00:00.88 +41:00:09.9 2000.00  06:09 1.202  WFC    8.1  180  stromgren y                      
+ 448274 Skyflat y        17:00:00.88 +40:59:50.0 2000.00  06:10 1.205  WFC    5.1  180  stromgren y                      
+ 448275 Skyflat u        17:00:00.88 +40:59:50.0 2000.00  06:12 1.208  WFC    7.1  180  stromgren u                      
+ 448276 Skyflat u        16:59:59.11 +40:59:49.9 2000.00  06:13 1.211  WFC    5.5  180  stromgren u                      
+ 448277 Skyflat u        17:00:00.88 +41:00:10.0 2000.00  06:14 1.214  WFC    4.1  180  stromgren u                      
+ 448278 Skyflat u        17:00:00.88 +41:00:10.0 2000.00  06:15 1.217  WFC    7.1  180  Halpha                           filter Halpha
+ 448279 Skyflat Ha       17:00:00.88 +40:59:49.9 2000.00  06:16 1.220  WFC    5.1  180  Halpha                           
+ 448280 Skyflat Ha       16:59:59.11 +40:59:49.9 2000.00  06:17 1.223  WFC    3.1  180  Halpha                           
+ 448281 Bias              0:00:00.00 +00:00:00.0 2000.00  06:24 4.292  WFC    0.0  180  Halpha                           
+ 448282 Bias              0:00:00.00 +00:00:00.0 2000.00  06:25 4.292  WFC    0.0  180  Halpha                           
+ 448283 Bias              0:00:00.00 +00:00:00.0 2000.00  06:25 4.292  WFC    0.0  180  Halpha                           
+ 448284 Bias              0:00:00.00 +00:00:00.0 2000.00  06:26 4.292  WFC    0.0  180  Halpha                           
+ 448285 Bias              0:00:00.00 +00:00:00.0 2000.00  06:26 4.292  WFC    0.0  180  Halpha                           

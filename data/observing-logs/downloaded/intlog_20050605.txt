@@ -1,0 +1,109 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 06 06 07:08
+
+TELESCOPE             INT
+DATE                  20050605
+OBSERVER/S            E. Hatziminaoglou, A. Afonso
+PROGRAMME             Deep Imaging in SWIRE EN1
+PROPOSAL REF          CAT 1
+TELESCOPE OPERATOR    None
+SUPPORT ASTRONOMER    Furness
+
+TEL STATION / FOCUS    / 43.8
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:15
+EVENING TWILIGHT (UT) 21:40
+MORNING TWILIGHT (UT) 04:40
+SUNRISE (UT)          06:05
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       07:00
+TWILIGHT TIME (HRS)   02:50
+MOONRISE (UT)         05:25
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  11.4   43    11.0  11.6  305   771.4   11.4  14.1    14.8   43    35 
+22:00  10.9   41    12.6  13.3  351   771.7   10.9  12.9    14.6   41    34 
+23:00  10.9   50    10.4  11.6  353   772.0   10.9  12.7    14.4   50    45 
+00:00  10.7   51    12.6  13.3  345   772.2   10.7  12.3    14.2   51    47 
+01:00  11.0   39    22.4  22.8  321   771.8   11.0  12.4    14.1   39    32 
+02:00  10.5   44    18.9  19.2  324   771.5   10.5  12.0    14.0   44    42 
+03:00  10.4   49    22.1  23.1  324   771.1   10.4  11.8    13.4   49    47 
+04:00  10.3   44    12.6  13.4  314   771.1   10.3  11.6    13.7   44    43 
+05:00  12.1   20    14.5  15.9  288   771.1   12.1  12.9    13.4   20    15 
+06:00  12.6   18    13.1  14.9  296   771.0   12.6  13.0    13.5   18    16 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clear all night, variable seeing from 1" to 2"
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 453741 Bias              0:00:00.00 +00:00:00.0 2005.426 19:38 4.327  WFC    0.0  180  i                                
+ 453742 Bias              0:00:00.00 +00:00:00.0 2005.426 19:39 4.327  WFC    0.0  180  i                                
+ 453743 Bias              0:00:00.00 +00:00:00.0 2005.426 19:40 4.327  WFC    0.0  180  i                                
+ 453744 Skyflat g 30secs 13:36:18.00 +62:14:11.0 2000.00  20:36 1.229  WFC   30.1  180  g                                saturated
+ 453745 Skyflat g 30secs 13:36:18.00 +62:14:11.0 2000.00  20:38 1.227  WFC   40.1  180  g                                saturated
+ 453746 Skyflat g 30secs 13:36:18.00 +62:14:11.0 2000.00  20:40 1.226  WFC   20.1  180  g                                saturated
+ 453747 Skyflat g 20secs 13:36:19.43 +62:14:20.9 2000.00  20:42 1.224  WFC   20.1  180  g                                
+ 453748 Skyflat g 27secs 13:36:19.42 +62:14:01.0 2000.00  20:44 1.223  WFC   27.1  180  g                                
+ 453749 Skyflat g 32secs 13:36:16.57 +62:14:21.0 2000.00  20:46 1.221  WFC   32.1  180  g                                
+ 453750 Skyflat g 46secs 13:36:17.99 +62:14:21.0 2000.00  20:48 1.219  WFC   46.1  180  g                                
+ 453751 Skyflat g 60secs 13:36:18.00 +62:14:10.9 2000.00  20:50 1.218  WFC   60.0  180  g                                
+ 453752 Focus run        16:12:33.39 +54:27:17.0 2000.00  21:02 1.412  WFC   20.1  180  r                                
+ 453753 Focus run        16:12:33.40 +54:27:17.0 2000.00  21:17 1.363  WFC   20.0  180  r                                
+ 453754 INT_2 U 10 minut 16:12:33.40 +54:27:16.9 2000.00  21:29 1.308  WFC  599.2  180  U                                bad focus
+ 453755 INT_2 U 10 minut 16:12:33.39 +54:26:37.1 2000.00  21:45 1.269  WFC  599.7  180  U                                bad focus
+ 453756 INT_2 U 10 minut 16:12:33.40 +54:25:56.9 2000.00  22:02 1.233  WFC  599.2  180  U                                bad focus
+ 453757 Focus run        16:12:33.39 +54:27:16.5 2000.00  22:22 1.210  WFC   10.1  180  r                                
+ 453758 INT_2 r 20 secs  16:12:33.40 +54:27:17.0 2000.00  22:29 1.195  WFC   20.0  180  r                                
+ 453759 focus 43.5       16:12:33.40 +54:27:17.0 2000.00  22:36 1.184  WFC   15.1  180  r                                
+ 453760 focus 43.6       16:12:33.40 +54:27:17.0 2000.00  22:41 1.178  WFC   15.1  180  r                                
+ 453761 focus 43.65      16:12:33.40 +54:27:17.0 2000.00  22:45 1.173  WFC   15.1  180  r                                
+ 453762 focus 43.65      16:12:33.40 +54:27:16.9 2000.00  22:51 1.164  WFC   15.1  180  r                                
+ 453763 INT_2 U 20 secs  16:12:33.40 +54:27:17.0 2000.00  23:11 1.144  WFC   20.1  180  U                                
+ 453764 INT_2 r 30 secs  16:12:33.40 +54:27:16.9 2000.00  23:14 1.141  WFC   30.1  180  r                                
+ 453765 INT_2 r 30 secs  16:12:33.40 +54:27:16.9 2000.00  23:21 1.135  WFC   30.0  180  r                                
+ 453766 INT_2 r 10 secs  16:12:33.39 +54:27:16.9 2000.00  23:25 1.132  WFC   10.1  180  U                                U filter, not r
+ 453767 INT_2 r 10 secs  16:12:33.40 +54:27:16.8 2000.00  23:26 1.131  WFC   10.1  180  r                                
+ 453768 INT_2 U 10 minut 16:12:33.40 +54:27:16.4 2000.00  23:30 1.125  WFC  599.6  180  U                                telescope moving ??? horrible focus
+ 453769 INT_2 U 10 minut 16:12:33.40 +54:27:16.9 2000.00  23:44 1.118  WFC  599.7  180  U                                still problems with focus
+ 453770 INT_2 U 10 minut 16:12:33.39 +54:26:37.0 2000.00  23:59 1.112  WFC  599.7  180  U                                still problems with focus
+ 453771 INT_2 U 10 minut 16:12:37.98 +54:26:37.0 2000.00  00:21 1.109  WFC  599.2  180  U                                still problems with focus
+ 453772 INT_2 U 10 minut 16:12:37.98 +54:27:16.9 2000.00  00:36 1.111  WFC  599.8  180  U                                still problems with focus
+ 453773 INT_2 U 10 minut 16:12:28.81 +54:27:17.0 2000.00  00:51 1.115  WFC  599.8  180  U                                still problems with focus
+ 453774 INT_2 U 10 minut 16:12:42.57 +54:27:17.0 2000.00  01:10 1.124  WFC  599.2  180  U                                still problems with focus
+ 453775 INT_2 g 10 minut 16:12:33.40 +54:27:17.4 2000.00  01:27 1.136  WFC  599.2  180  g                                
+ 453776 INT_2 g 10 minut 16:12:33.40 +54:26:37.0 2000.00  01:39 1.147  WFC  599.8  180  g                                
+ 453777 INT_2 g 10 minut 16:12:37.98 +54:26:37.1 2000.00  01:52 1.161  WFC  599.6  180  g                                
+ 453778 INT_2 g 10 minut 16:12:37.99 +54:27:17.0 2000.00  02:05 1.177  WFC  599.7  180  g                                
+ 453779 INT_2 g 10 minut 16:12:37.98 +54:27:57.0 2000.00  02:17 1.195  WFC  599.7  180  g                                
+ 453780 INT_2 g 10 minut 16:12:33.40 +54:27:57.0 2000.00  02:30 1.217  WFC  599.8  180  g                                
+ 453781 GOODS_EN1 g 10 m 16:09:20.00 +54:53:59.9 2000.00  02:44 1.253  WFC  599.7  180  g                                
+ 453782 GOODS_EN1 g 10 m 16:09:24.63 +54:53:59.9 2000.00  03:00 1.289  WFC  599.7  180  g                                
+ 453783 GOODS_EN1 g 10 m 16:09:24.63 +54:53:19.9 2000.00  03:13 1.321  WFC  599.8  180  g                                
+ 453784 GOODS_EN1 g 10 m 16:09:20.00 +54:53:20.1 2000.00  03:26 1.357  WFC  599.8  180  g                                
+ 453785 GOODS_EN1 g 10 m 16:09:15.36 +54:53:20.0 2000.00  03:38 1.395  WFC  599.7  180  g                                
+ 453786 GOODS_EN1 g 10 m 16:09:15.36 +54:53:59.9 2000.00  03:51 1.440  WFC  599.8  180  g                                
+ 453787 GOODS_EN1 U 10 m 16:09:20.00 +54:54:00.0 2000.00  04:03 1.489  WFC  599.8  180  U                                pretty bad focus
+ 453788 GOODS_EN1 U 10 m 16:09:24.63 +54:53:59.9 2000.00  04:16 1.544  WFC  599.7  180  U                                pretty bad focus
+ 453789 GOODS_EN1 U 10 m 16:09:24.63 +54:53:20.0 2000.00  04:29 1.605  WFC  599.3  180  U                                pretty bad focus
+ 453790 Skyflat r 60secs 22:57:59.99 +00:04:59.9 2000.00  05:33 1.248  WFC   60.1  180  r                                
+ 453791 Skyflat r 40secs 22:58:00.66 +00:05:10.0 2000.00  05:36 1.243  WFC   40.1  180  r                                
+ 453792 Skyflat r 26secs 22:58:00.66 +00:04:49.9 2000.00  05:37 1.239  WFC   26.1  180  r                                
+ 453793 Skyflat r 23secs 22:57:59.33 +00:05:10.1 2000.00  05:39 1.235  WFC   23.1  180  r                                
+ 453794 Skyflat r 14secs 22:57:59.33 +00:04:49.9 2000.00  05:40 1.232  WFC   14.1  180  r                                
+ 453795 Skyflat U 38secs 22:57:59.99 +00:05:00.0 2000.00  05:42 1.228  WFC   38.1  180  U                                
+ 453796 Skyflat U 26secs 22:58:00.66 +00:05:10.0 2000.00  05:44 1.225  WFC   26.1  180  U                                
+ 453797 Skyflat U 17secs 22:58:00.66 +00:04:50.0 2000.00  05:45 1.221  WFC   17.1  180  U                                
+ 453798 Skyflat U 13secs 22:57:59.33 +00:04:50.0 2000.00  05:47 1.218  WFC   13.1  180  U                                
+ 453799 Skyflat U 10secs 22:57:59.33 +00:05:09.9 2000.00  05:49 1.215  WFC   10.1  180  U                                

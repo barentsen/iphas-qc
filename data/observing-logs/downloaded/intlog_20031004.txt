@@ -1,0 +1,53 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 10 05 20:06
+
+TELESCOPE             INT
+DATE                  20031004
+OBSERVER/S            Drew/Hopewell
+PROGRAMME             IPHAS
+PROPOSAL REF          C6/P14
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Leisy
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:02
+EVENING TWILIGHT (UT) 20:14
+MORNING TWILIGHT (UT) 05:48
+SUNRISE (UT)          06:59
+%ILLUM. LUNAR DISK    73
+DARK TIME (HRS)       09:34
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          02:30
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   7.7  100    31.6  39.3  284   771.1    7.7  12.7    13.9  100    76 
+21:00   7.3  100    34.8  36.5  276   771.2    7.3  12.2    13.8  100    76 
+22:00   6.8  100    31.8  34.9  321   771.5    6.8  12.5    13.8  100    71 
+23:00   8.5  100    29.9  35.4  327   771.7    8.5  13.0    13.8  100    72 
+00:00   7.3  100    34.6  39.8  308   771.3    7.3  12.8    13.8  100    72 
+01:00   8.4  100    24.1  29.1  329   771.5    8.4  13.1    13.9  100    73 
+02:00   7.7  100    22.5  26.4    0   771.2    7.7  13.2    13.9  100    73 
+03:00   7.3  100    26.0  31.1  355   770.3    7.3  13.3    14.0  100    72 
+04:00   6.4  100    24.2  25.8  333   769.9    6.4  13.3    13.8  100    71 
+05:00   4.2   48    31.7  33.1  301   769.2    4.2  13.0    13.9   48    63 
+06:00   5.6   55    31.6  33.3  336   769.1    5.6  13.1    14.1   55    62 
+
+TIME LOST weather           09:35
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% humid
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+No observation because clouds and high humidity
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 366701 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:15 4.448  WFC    0.0  180  i                                
+ 366702 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:18 4.448  WFC    0.0  180  i                                

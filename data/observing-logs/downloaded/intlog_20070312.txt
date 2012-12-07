@@ -1,0 +1,60 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 03 12 23:06
+
+TELESCOPE             INT
+DATE                  20070312
+OBSERVER/S            Valentini, Santander / Gonzalez Perez
+PROGRAMME             C67 / CAT Service
+PROPOSAL REF          CAT S
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    MSG
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:25
+EVENING TWILIGHT (UT) 20:36
+MORNING TWILIGHT (UT) 06:06
+SUNRISE (UT)          07:17
+%ILLUM. LUNAR DISK    42
+DARK TIME (HRS)       09:30
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         03:06
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   3.1   21    29.7  33.3  302   768.4    3.1  13.4    14.7   21    14 
+21:00   2.0   31    25.3  26.5  322   768.5    2.0  12.8    14.9   31    18 
+22:00   2.9   16    23.8  25.2  324   768.5    2.9  12.3    14.7   16    15 
+23:00   2.8   32    28.5  41.5  303   768.0    2.8  11.9    14.7   32    29 
+No Met data available for second half of night
+
+
+TIME LOST weather           00:00
+TIME LOST Technical         12:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Night completely lost for technical problems. Problems with: dome encoder,  TEM-L slip ring and CAMAC.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 554514 Bias                                              11:41        WFC    0.0       Hbeta broad                      
+ 554515 Preflash only                                     11:42        WFC    0.0       Hbeta broad                      
+ 554516 Bias                                              11:47        WFC    0.0       Hbeta broad                      
+ 554518 Bias                                              11:57        WFC    0.0       Hbeta broad                      
+ 554519 Bias                                              11:58        WFC    0.0       Hbeta broad                      
+ 554520 Preflash only                                     11:59        WFC    0.0       Hbeta broad                      
+ 554521 (target not name                                  12:00        WFC    2.0       Hbeta broad                      
+ 554522 Bias                                              12:03        WFC    0.0       Hbeta broad                      
+ 554523 (target not name                                  12:16        WFC    1.6       Hbeta broad                      
+ 554524 (target not name                                  12:17        WFC    2.1       Hbeta broad                      
+ 554525 Bias                                              13:57        WFC    0.0       Hbeta broad                      
+ 554526 Bias                                              15:37        WFC    0.0       V                                
+ 554527 Preflash only                                     15:38        WFC    0.6       V                                
+ 554528 Bias                                              15:41        WFC    0.0       V                                

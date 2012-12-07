@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 12 16 23:00
+
+TELESCOPE             INT
+DATE                  20111215
+OBSERVER/S            Peter Erwin and Dave Wilman
+PROGRAMME             Star Formation Morphology, Galaxy Environment, and the Origin of S0 Galaxies
+PROPOSAL REF          C73
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Liam Hardy
+
+TEL STATION / FOCUS   Prime  / 43.4
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:24
+EVENING TWILIGHT (UT) 19:40
+MORNING TWILIGHT (UT) 06:33
+SUNRISE (UT)          07:49
+%ILLUM. LUNAR DISK    72
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         23:02
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   7.5   10    25.2  30.6  161   777.1   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   7.9    8    20.2  26.6  168   777.6   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   7.4    9    16.5  23.6  177   777.7   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   8.1    8    12.8  21.8  159   778.3   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   8.4    9     6.4  17.4  140   778.7   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   9.5    4    12.6  24.1  108   778.8   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   8.2    6     3.3   1.5  173   778.6   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   7.9    8    10.0  16.9  169   778.2   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   8.0    8     6.9  12.2  174   778.1   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   7.2    9     2.3   7.7  181   777.9   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   7.5    7     4.9   4.3  163   777.8   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   8.2    4    12.8  12.6  127   777.8   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   7.7    5     8.4  10.8   96   778.1   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:30
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Good transparency. Poor seeing: varied from 1.8 to > 4.0 arcsec.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Repeated problems with CCD readout (bias frames were low, with too much noise). Eventually fixed by cycling detector power supply (done by SA).
+Problems with guiding (mostly due to stars being faint through narrowband filters).
+

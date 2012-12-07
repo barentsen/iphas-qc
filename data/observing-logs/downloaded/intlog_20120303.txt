@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 03 04 08:31
+
+TELESCOPE             INT
+DATE                  20120303
+OBSERVER/S            E. Kourkchi, F. Habibi
+PROGRAMME             Probing the Local Bubble Using Diffuse Interstellar Bands (DIBs).
+PROPOSAL REF          INO3      
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Fathi, Karami
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:20
+EVENING TWILIGHT (UT) 20:31
+MORNING TWILIGHT (UT) 06:15
+SUNRISE (UT)          07:26
+%ILLUM. LUNAR DISK    78
+DARK TIME (HRS)       09:44
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          04:35
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   4.6    0    29.8  33.8   53   776.3   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   4.7    0    32.8  38.2   29   776.7   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   4.5    0    36.9  40.4   35   777.1   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   5.2    0    42.7  48.5   29   776.7   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   4.7    0    44.9  49.2   15   776.2   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   4.1    0    41.3  47.4   71   775.7   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   3.9    1    39.2  44.8   99       N   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   4.5    3    35.7  37.7   58   774.9   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   5.2    1    30.1  35.9   67   775.3   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   6.0    1    29.6  33.4   63   775.6   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

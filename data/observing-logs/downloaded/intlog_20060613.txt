@@ -1,0 +1,72 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 06 14 03:29
+
+TELESCOPE             INT
+DATE                  20060613
+OBSERVER/S            Corradi, Sabin
+PROGRAMME             IDS re-commissioning
+PROPOSAL REF          ids_commissioning         
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Corradi, Sabin
+
+TEL STATION / FOCUS   Cassegrain  / 14.85
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           20:18
+EVENING TWILIGHT (UT) 21:44
+MORNING TWILIGHT (UT) 04:39
+SUNRISE (UT)          06:05
+%ILLUM. LUNAR DISK    94
+DARK TIME (HRS)       06:55
+TWILIGHT TIME (HRS)   02:52
+MOONRISE (UT)         22:11
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00   5.5   47    44.2  55.2  337   767.9    5.5  11.8    14.8   47    39 
+22:00   6.0   44    32.9  37.7  350   768.5    6.0   8.7    13.8   44    36 
+23:00   3.7   80    34.6  42.4  342   768.6    3.7   8.7    13.9   80    64 
+00:00   4.1   75    33.5  40.7  343   769.0    4.1   8.5    13.9   75    55 
+01:00   2.0   94    39.1  41.5    3   768.9    2.0   7.7    13.7   94    68 
+02:00   4.6  100    44.2  49.7   13   768.8    4.6   8.0    13.4  100    85 
+03:00   3.1  100    41.6  44.0  356   768.5    3.1   8.3    13.4  100    83 
+04:00   3.1  100    43.4  47.5  349   768.0    3.1   8.0    13.5  100    80 
+
+TIME LOST weather           07:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+bad, lost the whole night because of high humidity clouds
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 506343 Bias              8:00:00.00 +11:59:59.9 2006.448 14:09 1.130  IDS    0.0  180  GG385+ND0.6   1.0  66.5 5996.3   
+ 506344 Bias              8:00:00.00 +12:00:00.0 2006.448 14:10 1.129  IDS    0.0  180  GG385+ND0.6   1.0  66.5 5996.3   
+ 506345 Arc test          8:00:00.00 +11:59:59.9 2006.448 14:13 1.123  IDS   10.0  180  GG385+ND0.6   1.0  66.5 5996.3   
+ 506346 Arc test 2        8:00:00.00 +11:59:59.9 2006.448 14:20 1.111  IDS   15.0  180  Clear+Clear   1.0  66.5 5996.3   
+ 506347 test rotation     0:00:00.00 +00:00:00.0 2006.448 16:15 1.138  IDS    5.0  180  Clear+Clear   1.2  44.6 7298.7   
+ 506348 Hartmann r        0:00:00.00 +00:00:00.0 2006.448 16:27 1.138  IDS    5.0  180  Clear+Clear   1.2  44.6 7298.7   
+ 506349 hartman l         0:00:00.00 +00:00:00.0 2006.448 16:28 1.138  IDS    5.0  180  Clear+Clear   1.2  44.6 7298.7   
+ 506350 CuNe 5sec         0:00:00.00 +00:00:00.0 2006.448 20:18 1.000  IDS    5.0  180  Clear+Clear   1.2  67.0 5499.7   
+ 506351 CuNe 180sec       0:00:00.00 +00:00:00.0 2006.448 20:19 1.000  IDS  180.0  180  Clear+Clear   1.2  67.0 5499.7   
+ 506352 CuAr 5sec         0:00:00.00 +00:00:00.0 2006.448 20:23 1.000  IDS    5.0  180  Clear+Clear   1.2  67.0 5499.7   
+ 506353 CuAr 180sec       0:00:00.00 +00:00:00.0 2006.448 20:24 1.000  IDS  180.0  180  Clear+Clear   1.2  67.0 5499.7   
+ 506354 skyflat 300V     10:59:10.00 +03:29:59.9 2000.00  20:33 1.245  IDS   60.0   -0  Clear+Clear   1.2  67.0 5499.7   
+ 506355 skyflat 300V     10:59:10.00 +03:30:00.1 2000.00  20:35 1.253  IDS  180.0   -0  Clear+Clear   1.2  67.0 5499.7   
+ 506356 skyflat 300V     10:59:12.00 +03:30:30.0 2000.00  20:39 1.266  IDS  240.0   -0  Clear+Clear   1.2  67.0 5499.7   
+ 506357 Bias              0:00:00.00 +00:00:00.0 2000.00  21:16 1.000  IDS    0.0   -0  Clear+Clear   1.2  67.0 5499.7   
+ 506358 Bias              0:00:00.00 +00:00:00.0 2000.00  21:17 1.000  IDS    0.0   -0  Clear+Clear   1.2  67.0 5499.7   
+ 506359 Bias              0:00:00.00 +00:00:00.0 2000.00  21:17 1.000  IDS    0.0   -0  Clear+Clear   1.2  67.0 5499.7   
+ 506360 Bias              0:00:00.00 +00:00:00.0 2000.00  21:18 1.000  IDS    0.0   -0  Clear+Clear   1.2  67.0 5499.7   
+ 506361 Bias              0:00:00.00 +00:00:00.0 2000.00  21:18 1.000  IDS    0.0   -0  Clear+Clear   1.2  67.0 5499.7   
+ 506362 Bias              0:00:00.00 +00:00:00.0 2000.00  21:19 1.000  IDS    0.0   -0  Clear+Clear   1.2  67.0 5499.7   
+ 506363 Bias              0:00:00.00 +00:00:00.0 2000.00  21:19 1.000  IDS    0.0   -0  Clear+Clear   1.2  67.0 5499.7   
+ 506364 Bias              0:00:00.00 +00:00:00.0 2000.00  21:19 1.000  IDS    0.0   -0  Clear+Clear   1.2  67.0 5499.7   
+ 506365 Bias              0:00:00.00 +00:00:00.0 2000.00  21:20 1.000  IDS    0.0   -0  Clear+Clear   1.2  67.0 5499.7   
+ 506366 Bias              0:00:00.00 +00:00:00.0 2000.00  21:20 1.000  IDS    0.0   -0  Clear+Clear   1.2  67.0 5499.7   

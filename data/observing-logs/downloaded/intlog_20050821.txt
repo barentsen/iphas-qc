@@ -1,0 +1,52 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 08 22 03:48
+
+TELESCOPE             INT
+DATE                  20050821
+OBSERVER/S            I. Todd
+PROGRAMME             P8
+PROPOSAL REF          P8
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.80
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:53
+EVENING TWILIGHT (UT) 21:09
+MORNING TWILIGHT (UT) 05:21
+SUNRISE (UT)          06:37
+%ILLUM. LUNAR DISK    93
+DARK TIME (HRS)       08:12
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         21:05
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  12.0   78    16.9  19.5  233   775.0   12.0  17.5    17.6   78    56 
+21:00  11.0   85    18.4  22.6  256   774.9   11.0  17.4    17.9   85    58 
+22:00  11.2   83    23.5  24.8  277   775.3   11.2  16.9    17.9   83    60 
+23:00  11.5   82    19.3  20.7  284   775.7   11.5  16.3    17.8   82    62 
+00:00  11.7   76    18.9  19.8  272   775.7   11.7  16.0    17.8   76    61 
+01:00  11.8   69    13.6  15.4  272   775.5   11.8  15.9    17.7   69    57 
+02:00  12.2   72    13.1  14.3  282   775.5   12.2  16.0    17.8   72    57 
+03:00  11.9   71    24.3  25.7  285   774.5   11.9  16.3    17.8   71    57 
+
+TIME LOST weather           8:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Thick cloud all night prevented observing
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 468130 Bias              0:00:00.00 +00:00:00.0 2000.00  19:54 4.317  WFC    0.0  180  HeII4686                         
+ 468131 Bias              0:00:00.00 +00:00:00.0 2000.00  19:54 4.317  WFC    0.0  180  HeII4686                         
+ 468132 Bias              0:00:00.00 +00:00:00.0 2000.00  19:55 4.317  WFC    0.0  180  HeII4686                         
+ 468133 Bias              0:00:00.00 +00:00:00.0 2000.00  19:55 4.317  WFC    0.0  180  HeII4686                         

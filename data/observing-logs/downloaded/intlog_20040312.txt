@@ -1,0 +1,82 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 03 14 07:39
+
+TELESCOPE             INT
+DATE                  20040312
+OBSERVER/S            Kerttui, M. Santander
+PROGRAMME             Planetary Nebulae and the intergalactic stellar population in the intragroup medium
+PROPOSAL REF          N1
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    romano
+
+TEL STATION / FOCUS    / 44.0
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:25
+EVENING TWILIGHT (UT) 20:36
+MORNING TWILIGHT (UT) 06:05
+SUNRISE (UT)          07:16
+%ILLUM. LUNAR DISK    60
+DARK TIME (HRS)       09:29
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         01:19
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -0.3   92    49.5  59.3  316   769.6   -0.3   7.9    10.3   92    55 
+21:00  -1.3   89    54.1  59.0  332   769.8   -1.3   6.8    10.4   89    60 
+22:00   0.9   49    44.6  48.5  321   770.3    0.9   5.4    10.1   49    39 
+23:00   1.3   32    28.8  32.7  318   770.8    1.3   3.1     9.7   32    34 
+00:00   1.1   37    28.8  35.7  317   770.7    1.1   3.5     9.3   37    35 
+01:00  -0.4   52    36.2  49.1  300   770.5   -0.4   2.8     8.8   52    53 
+02:00   1.8   22    37.9  46.7  323   770.1    1.8   3.2     8.4   22    28 
+03:00  -0.1   46    54.8  65.6  336   769.5   -0.1   2.4     8.5   46    58 
+04:00   0.5   41    43.9  48.0  348   769.5    0.5   3.1     8.4   41    41 
+05:00  -2.1   71    56.8  62.5  347   769.1   -2.1   3.2     8.3   71    54 
+06:00   0.4   30    51.2  56.2  336   769.8    0.4   3.0     8.2   30    38 
+07:00   0.4   24    35.7  41.0  352   770.5    0.4   3.4     8.2   24    28 
+
+TIME LOST weather           07:29
+TIME LOST Technical         02:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 391107 Dome flat 34      0:00:00.00 +00:00:00.0 J2000.00 11:59 1.254  WFC   33.5  180  Halpha                           
+ 391108 Dome flat 35      0:00:00.00 +00:00:00.0 J2000.00 12:00 1.254  WFC   35.1  180  Halpha                           
+ 391109 Dome flat 36      0:00:00.00 +00:00:00.0 J2000.00 12:02 1.254  WFC   36.1  180  Halpha                           
+ 391110 Dome flat 37      0:00:00.00 +00:00:00.0 J2000.00 12:03 1.254  WFC   37.1  180  Halpha                           
+ 391111 Dome flat 38      0:00:00.00 +00:00:00.0 J2000.00 12:04 1.254  WFC   38.1  180  Halpha                           
+ 391112 Bias              2:00:00.00 +13:59:59.7 A        13:57 1.153  WFC    0.0  180  r                                
+ 391113 Bias              2:00:00.00 +13:59:59.9 A        13:58 1.151  WFC    0.0  180  Halpha                           
+ 391114 test              2:00:00.00 +14:00:00.0 A        14:02 1.140  WFC    6.1  180  Halpha                           
+ 391115 test              1:59:59.99 +14:00:00.0 A        14:05 1.133  WFC    6.1  180  r                                
+ 391116 test              2:00:00.00 +14:00:00.1 A        14:08 1.128  WFC    6.1  180  r                                
+ 391117 test2             1:59:59.99 +13:59:59.9 A        14:11 1.121  WFC    1.0  180  r                                
+ 391118 test2             0:00:00.00 +00:00:00.0 A        14:14 2.900  WFC    1.5  180  r                                
+ 391119 Bias              0:00:00.00 +00:00:00.0 A        20:25 1.000  WFC    0.0  180  r                                
+ 391120 Bias              0:00:00.00 +00:00:00.0 A        20:38 1.000  WFC    0.0  180  r                                
+ 391121 Bias frame        0:00:00.00 +00:00:00.0 A        20:40 1.000  WFC    0.0  180  r                                
+ 391122 Bias frame        0:00:00.00 +00:00:00.0 A        20:41 1.000  WFC    0.0  180  r                                
+ 391123 Bias frame        0:00:00.00 +00:00:00.0 A        20:41 1.000  WFC    0.0  180  r                                
+ 391124 Bias frame        0:00:00.00 +00:00:00.0 A        20:42 1.000  WFC    0.0  180  r                                
+ 391125 Bias frame        0:00:00.00 +00:00:00.0 A        20:42 1.000  WFC    0.0  180  r                                
+ 391126 Bias frame        0:00:00.00 +00:00:00.0 A        20:43 1.000  WFC    0.0  180  r                                
+ 391127 Bias frame        0:00:00.00 +00:00:00.0 A        20:44 1.000  WFC    0.0  180  r                                
+ 391128 Bias frame        0:00:00.00 +00:00:00.0 A        20:44 1.000  WFC    0.0  180  r                                
+ 391129 Bias frame        0:00:00.00 +00:00:00.0 A        20:45 1.000  WFC    0.0  180  r                                
+ 391130 Bias frame        0:00:00.00 +00:00:00.0 A        20:46 1.000  WFC    0.0  180  r                                
+ 391131 Focus run        10:39:36.70 +43:08:39.9 J2000.00 22:27 1.136  WFC   10.1  180  Halpha                           
+ 391132 Focus run        10:39:36.70 +43:08:40.1 J2000.00 23:29 1.056  WFC   10.1  180  Halpha                           
+ 391133 Focus run        10:39:36.70 +43:08:40.0 J2000.00 00:01 1.038  WFC   20.1  180  Halpha                           
+ 391134 Focus run        10:39:36.70 +43:08:39.9 J2000.00 00:17 1.033  WFC   10.1  180  r                                
+ 391135 Focus run        10:39:36.70 +43:09:09.9 J2000.00 00:31 1.032  WFC   10.1  180  Halpha                           
+ 391136 Focus run        10:39:36.70 +43:08:40.0 J2000.00 00:47 1.034  WFC   10.1  180  Halpha                           

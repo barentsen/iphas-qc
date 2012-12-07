@@ -1,0 +1,70 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 02 01 21:06
+
+TELESCOPE             INT
+DATE                  20100201
+OBSERVER/S            G. Jozsa
+PROGRAMME             Halostars
+PROPOSAL REF          N8
+TELESCOPE OPERATOR    Cardwell
+SUPPORT ASTRONOMER    Johnston
+
+TEL STATION / FOCUS   Prime  / 43.75
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:57
+EVENING TWILIGHT (UT) 20:11
+MORNING TWILIGHT (UT) 06:39
+SUNRISE (UT)          07:52
+%ILLUM. LUNAR DISK    89
+DARK TIME (HRS)       10:28
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         21:33
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.2  100    32.5  91.0  180   758.1    5.2    7.      9.  100     88
+20:00   5.7  100    21.3  24.9  204   759.3    5.7    7.      9.  100     88
+No Met data available for second half of night
+
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+rain, clouds
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+we took a bunch of test observations with dome closed
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 719604 Bias             20:49:59.99 +14:59:59.7  2010.09 14:19 1.066  WFC    0.0  180  CLEAR                            
+ 719605 Flat field       20:49:59.99 +14:59:59.9  2010.09 14:20 1.067  WFC    6.1  180  U                                
+ 719606 Bias             20:49:59.99 +14:59:59.9  2010.09 14:23 1.071  WFC    0.0  180  U                                
+ 719607 Bias              0:00:00.00 +00:00:00.0  2010.09 15:57 4.317  WFC    0.0  180  Halpha                           
+ 719608 Bias              0:00:00.00 +00:00:00.0  2010.09 15:58 4.317  WFC    0.0  180  Halpha                           
+ 719609 Bias              0:00:00.00 +00:00:00.0  2010.09 15:58 4.317  WFC    0.0  180  Halpha                           
+ 719610 Bias              0:00:00.00 +00:00:00.0  2010.09 15:59 4.317  WFC    0.0  180  Halpha                           
+ 719611 Bias              0:00:00.00 +00:00:00.0  2010.09 16:00 4.317  WFC    0.0  180  Halpha                           
+ 719612 Bias              0:00:00.00 +00:00:00.0  2010.09 16:01 4.317  WFC    0.0  180  Halpha                           
+ 719613 Bias              0:00:00.00 +00:00:00.0  2010.09 16:01 4.317  WFC    0.0  180  Halpha                           
+ 719614 Bias              0:00:00.00 +00:00:00.0  2010.09 16:02 4.317  WFC    0.0  180  Halpha                           
+ 719615 Bias              0:00:00.00 +00:00:00.0  2010.09 16:03 4.317  WFC    0.0  180  Halpha                           
+ 719616 Bias              0:00:00.00 +00:00:00.0  2010.09 16:04 4.317  WFC    0.0  180  Halpha                           
+ 719618 Bias frame        0:00:00.00 +00:00:00.0  2010.09 19:28 4.317  WFC    0.0  180  Halpha                           
+ 719619 Bias frame        0:00:00.00 +00:00:00.0  2010.09 19:29 4.317  WFC    0.0  180  Halpha                           
+ 719620 04+00             4:05:36.73 +00:10:56.3  2000.00 20:17 1.140  WFC    5.1  180  i                                
+ 719621 04+00             4:05:36.73 +00:10:56.3  2000.00 20:18 1.139  WFC    5.1  180  i                                
+ 719622 04+00             4:05:36.73 +00:10:56.2  2000.00 20:19 1.139  WFC   19.0  180  i                                
+ 719623 04+00             4:05:36.73 +00:10:56.2  2000.00 20:20 1.139  WFC   20.1  180  i                                
+ 719624 04+00             4:05:36.73 +00:10:56.3  2000.00 20:22 1.139  WFC   20.1  180  i                                
+ 719625 04+00             4:05:36.73 +00:10:56.3  2000.00 20:24 1.138  WFC   20.1  180  i                                
+ 719626 NGC0925_R_0       2:27:39.87 +33:36:15.9  2000.00 20:34 1.081  WFC   20.1  180  i                                
+ 719627 NGC0925_R_1       2:27:23.84 +33:40:59.5  2000.00 20:37 1.087  WFC   20.1  180  i                                
+ 719628 NGC0925_R_2       2:27:55.92 +33:31:32.2  2000.00 20:40 1.091  WFC   20.1  180  Halpha                           
+ 719629 NGC0925_R_2       2:27:55.91 +33:31:32.4  2000.00 20:42 1.094  WFC   20.1  180  Halpha                           
+ 719630 NGC0925_R_2       2:27:55.92 +33:31:32.4  2000.00 20:44 1.098  WFC   20.1  180  Halpha                           

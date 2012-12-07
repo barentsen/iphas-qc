@@ -1,0 +1,65 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 11 07 04:36
+
+TELESCOPE             INT
+DATE                  20031106
+OBSERVER/S            Parker, Hales
+PROGRAMME             IPHAS (P14)
+PROPOSAL REF          P14               
+TELESCOPE OPERATOR    None
+SUPPORT ASTRONOMER    None
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:31
+EVENING TWILIGHT (UT) 19:44
+MORNING TWILIGHT (UT) 06:07
+SUNRISE (UT)          07:20
+%ILLUM. LUNAR DISK    96
+DARK TIME (HRS)       10:23
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          06:06
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   8.9   96    28.4  32.7  227   769.2    8.9  12.2    14.2   96    63 
+20:00   8.4  100    23.4  26.2  220   769.3    8.4  13.3    14.2  100    72 
+21:00   8.7  100    22.4  28.1  238   769.3    8.7  13.0    14.2  100    76 
+22:00   8.8  100    29.9  32.5  258   769.5    8.8  13.2    14.1  100    75 
+23:00   8.5  100    23.7  30.5  229   769.5    8.5  13.2    14.2  100    76 
+00:00   7.9  100    19.3  21.8  166   769.2    7.9  13.2    14.1  100    74 
+01:00   7.5  100    17.6  21.7  220   769.0    7.5  12.6    14.0  100    71 
+02:00   8.9   49    19.9  23.8  228   768.7    8.9  10.4    13.4   49    46 
+03:00   8.5   64    23.3  25.2  230   768.2    8.5  10.1    13.3   64    52 
+04:00   6.6  100    21.2  24.0  241   768.0    6.6  10.8    13.4  100    70 
+
+TIME LOST weather           11:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+rain, very high humidity, cloud and thick cirrus for enitre night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 373415 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 12:21 1.000  WFC    0.0  180  Halpha                           
+ 373416 Bias             15:30:00.00 +20:00:00.0 A        14:43 1.045  WFC    0.0  180  B                                
+ 373417 Bias              0:00:00.00 +00:00:00.0 A        19:30 1.000  WFC    0.0  180  r                                
+ 373418 Bias frame        0:00:00.00 +00:00:00.0 A        19:31 1.000  WFC    0.0  180  r                                
+ 373419 Bias frame        0:00:00.00 +00:00:00.0 A        19:33 1.000  WFC    0.0  180  r                                
+ 373420 Bias frame        0:00:00.00 +00:00:00.0 A        19:33 1.000  WFC    0.0  180  r                                
+ 373421 Bias frame        0:00:00.00 +00:00:00.0 A        19:34 1.000  WFC    0.0  180  r                                
+ 373422 Bias frame        0:00:00.00 +00:00:00.0 A        19:35 1.000  WFC    0.0  180  r                                
+ 373423 Bias frame        0:00:00.00 +00:00:00.0 A        19:35 1.000  WFC    0.0  180  r                                
+ 373424 G191B2B-Ha        5:05:30.59 +52:49:54.0 J2000.00 02:04 1.124  WFC   50.0  180  Halpha                           
+ 373425 G191B2B-r         5:05:30.60 +52:49:54.0 J2000.00 02:07 1.122  WFC    5.1  180  r                                
+ 373426 G191B2B-i         5:05:30.59 +52:49:54.1 J2000.00 02:08 1.121  WFC    5.1  180  i                                
+ 373427 HZ4-i             3:55:21.69 +09:47:19.0 J2000.00 02:13 1.058  WFC    5.1  180  i                                
+ 373428 HZ4-r             3:55:21.69 +09:47:19.0 J2000.00 02:14 1.058  WFC    5.1  180  r                                
+ 373429 HZ4-Ha            3:55:21.70 +09:47:18.9 J2000.00 02:15 1.059  WFC   50.1  180  Halpha                           

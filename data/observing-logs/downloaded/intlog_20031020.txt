@@ -1,0 +1,155 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 10 21 05:56
+
+TELESCOPE             INT
+DATE                  20031020
+OBSERVER/S            Harding/Morrison
+PROGRAMME             Spag: Search for distant halo giants
+PROPOSAL REF          N06
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Skillen
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:45
+EVENING TWILIGHT (UT) 19:57
+MORNING TWILIGHT (UT) 05:57
+SUNRISE (UT)          07:08
+%ILLUM. LUNAR DISK    26
+DARK TIME (HRS)       10:00
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         02:37
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   6.8  100    16.2  20.2    4   764.9    6.8  11.6    11.8  100    74 
+20:00   6.8  100    22.0  27.9  167   765.0    6.8  11.7    12.1  100    74 
+21:00   6.8  100    44.5  49.1  143   764.8    6.8  11.7    12.0  100    75 
+22:00   7.2  100    44.0  47.0  142   765.0    7.2  11.9    12.1  100    74 
+23:00   7.5  100    12.2  15.1  144   766.0    7.5  11.9    12.1  100    75 
+00:00   7.1  100    25.0  30.5  168   766.1    7.1  11.9    12.3  100    76 
+01:00   7.4  100    26.0  34.4  167   765.8    7.4  11.8    12.4  100    77 
+02:00   7.0  100    39.7  43.9  153   765.0    7.0  11.5    12.4  100    79 
+03:00   6.7  100    43.0  55.6   15   764.3    6.7  11.2    12.2  100    79 
+04:00   6.5  100    45.4  49.8  137   764.3    6.5  11.0    12.2  100    79 
+05:00   6.4  100    35.6  40.2    1   764.3    6.4  10.7    12.1  100    80 
+
+TIME LOST weather           10:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% clouds,100% fog, 100%humidity all night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+used the night to do linearity test on the wfc
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 370708 Bias             13:00:00.00 +27:00:00.0 J2000.00 13:09 1.021  WFC    0.0  180  HeII4686                         
+ 370709 Bias              0:00:00.00 +00:00:00.0 J2000.00 13:14 1.000  WFC    0.0  180  g                                
+ 370710 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:33 4.259  WFC    0.0  180  51                               
+ 370711 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:34 4.259  WFC    0.0  180  51                               
+ 370712 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:35 4.259  WFC    0.0  180  51                               
+ 370713 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:36 4.259  WFC    0.0  180  51                               
+ 370714 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:36 4.259  WFC    0.0  180  51                               
+ 370715 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:37 4.259  WFC    0.0  180  51                               
+ 370716 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:38 4.259  WFC    0.0  180  51                               
+ 370717 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:38 4.259  WFC    0.0  180  51                               
+ 370718 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:39 4.259  WFC    0.0  180  51                               
+ 370719 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:40 4.259  WFC    0.0  180  51                               
+ 370720 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:40 4.259  WFC    0.0  180  51                               
+ 370721 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:41 4.259  WFC    0.0  180  51                               
+ 370722 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:42 4.259  WFC    0.0  180  51                               
+ 370723 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:42 4.259  WFC    0.0  180  51                               
+ 370724 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:43 4.259  WFC    0.0  180  51                               
+ 370725 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:14 2.215  WFC   10.1  180  r                                linearity tests
+ 370726 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:15 2.215  WFC   10.1  180  r                                with regulated supply
+ 370727 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:16 2.215  WFC    9.6  180  r                                no moon, sky heavy clouds
+ 370728 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:16 2.215  WFC   10.1  180  r                                
+ 370729 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:17 2.215  WFC   10.1  180  r                                
+ 370730 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:23 2.215  WFC   40.1  180  r                                
+ 370731 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:24 2.215  WFC   28.9  180  r                                rubbish
+ 370732 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:26 2.215  WFC   40.1  180  r                                
+ 370733 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:27 2.215  WFC   39.6  180  r                                
+ 370734 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:28 2.215  WFC   40.1  180  r                                
+ 370735 Flat field        0:00:00.00 +00:00:00.0 J2000.00 22:34 2.215  WFC   80.0  180  r                                
+ 370736 Flat field        0:00:00.00 +00:00:00.0 J2000.00 22:39 2.215  WFC   59.5  180  r                                
+ 370737 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:41 2.215  WFC   10.1  180  r                                
+ 370738 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:43 2.215  WFC   90.0  180  r                                
+ 370739 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:45 2.215  WFC   10.1  180  r                                
+ 370740 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:47 2.215  WFC   85.0  180  r                                
+ 370741 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:49 2.215  WFC   95.0  180  r                                
+ 370742 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:52 2.215  WFC   30.1  180  r                                
+ 370743 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:54 2.215  WFC   50.1  180  r                                
+ 370744 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:55 2.215  WFC   10.1  180  r                                
+ 370745 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:57 2.215  WFC   70.1  180  r                                
+ 370746 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 22:59 2.215  WFC   75.0  180  r                                
+ 370747 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:01 2.215  WFC   65.0  180  r                                
+ 370748 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:04 2.215  WFC   55.1  180  r                                
+ 370749 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:06 2.215  WFC   10.1  180  r                                
+ 370750 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:07 2.215  WFC    5.1  180  r                                
+ 370751 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:08 2.215  WFC    3.1  180  r                                
+ 370752 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:10 2.215  WFC    7.1  180  r                                
+ 370753 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:11 2.215  WFC    9.1  180  r                                
+ 370754 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:12 2.215  WFC   10.1  180  r                                
+ 370755 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:13 2.215  WFC   95.0  180  r                                
+ 370756 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:16 2.215  WFC   15.1  180  r                                
+ 370757 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:18 2.215  WFC   20.1  180  r                                
+ 370758 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:19 2.215  WFC   25.1  180  r                                
+ 370759 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:21 2.215  WFC   35.1  180  r                                
+ 370760 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:22 2.215  WFC   45.0  180  r                                
+ 370761 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:24 2.215  WFC   10.1  180  r                                
+ 370762 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:25 2.215  WFC   20.1  180  r                                
+ 370763 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:26 2.215  WFC   40.1  180  r                                
+ 370764 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:27 2.215  WFC   60.1  180  r                                
+ 370765 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:29 2.215  WFC   80.0  180  r                                
+ 370766 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:31 2.215  WFC   10.1  180  r                                
+ 370767 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:32 2.215  WFC    7.1  180  r                                
+ 370768 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:33 2.215  WFC    8.1  180  r                                
+ 370769 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:34 2.215  WFC    8.6  180  r                                
+ 370770 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:35 2.215  WFC   12.1  180  r                                
+ 370771 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:36 2.215  WFC   14.1  180  r                                
+ 370772 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:37 2.215  WFC   16.1  180  r                                
+ 370773 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:39 2.215  WFC   10.1  180  r                                
+ 370774 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:40 2.215  WFC   18.1  180  r                                
+ 370775 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:41 2.215  WFC    5.1  180  r                                
+ 370776 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:42 2.215  WFC   15.1  180  r                                
+ 370777 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:43 2.215  WFC   24.6  180  r                                
+ 370778 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:44 2.215  WFC   34.5  180  r                                
+ 370779 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:46 2.215  WFC   45.1  180  r                                
+ 370780 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:47 2.215  WFC   55.1  180  r                                
+ 370781 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:49 2.215  WFC   10.1  180  r                                
+ 370782 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:50 2.215  WFC   65.1  180  r                                
+ 370783 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:52 2.215  WFC   74.5  180  r                                
+ 370784 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:54 2.215  WFC   85.0  180  r                                
+ 370785 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:56 2.215  WFC   95.0  180  r                                
+ 370786 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 23:59 2.215  WFC   10.1  180  r                                
+ 370787 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 00:00 2.215  WFC  100.0  180  r                                
+ 370788 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 03:33 2.215  WFC   30.1  180  r                                fainter linearity tests
+ 370789 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 03:34 2.215  WFC   10.1  180  r                                
+ 370791 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 03:35 2.215  WFC    4.6  180  r                                
+ 370792 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 03:36 2.215  WFC   30.1  180  r                                
+ 370793 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 03:37 2.215  WFC   60.1  180  r                                
+ 370794 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 03:39 2.215  WFC   90.1  180  r                                
+ 370795 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 03:41 2.215  WFC   10.1  180  r                                
+ 370796 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 03:47 2.215  WFC    5.1  180  r                                
+ 370797 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 03:48 2.215  WFC    7.1  180  r                                
+ 370798 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 03:49 2.215  WFC   15.1  180  r                                
+ 370799 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 03:49 2.215  WFC   25.1  180  r                                
+ 370800 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 03:51 2.215  WFC   45.1  180  r                                
+ 370801 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 03:52 2.215  WFC   70.0  180  r                                
+ 370802 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 03:54 2.215  WFC   30.1  180  r                                
+ 370803 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 03:55 2.215  WFC   54.6  180  r                                
+ 370804 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 03:57 2.215  WFC  150.0  180  r                                
+ 370805 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 04:00 2.215  WFC   20.1  180  r                                
+ 370806 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 04:01 2.215  WFC   40.0  180  r                                
+ 370808 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 04:03 2.215  WFC   30.1  180  r                                
+ 370809 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 04:04 2.215  WFC  200.0  180  r                                
+ 370810 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 04:09 2.215  WFC   30.1  180  r                                
+ 370811 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 04:12 2.215  WFC    5.1  180  r                                
+ 370812 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 04:13 2.215  WFC    7.1  180  r                                
+ 370814 linearity tests   0:00:00.00 +00:00:00.0 J2000.00 04:15 2.215  WFC   12.1  180  r                                

@@ -1,0 +1,75 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 10 28 05:30
+
+TELESCOPE             INT
+DATE                  20031027
+OBSERVER/S            Balcells, Abreu
+PROGRAMME             COSMOS
+PROPOSAL REF          C11                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Greimel
+
+TEL STATION / FOCUS   Prime  / 43.97
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:39
+EVENING TWILIGHT (UT) 19:51
+MORNING TWILIGHT (UT) 06:01
+SUNRISE (UT)          07:13
+%ILLUM. LUNAR DISK    9
+DARK TIME (HRS)       10:10
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          20:19
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   2.4   87    22.4  26.8  229   767.4    2.4   7.9     9.3   87    56 
+20:00   2.6   82    25.2  30.2  238   768.0    2.6   7.9     9.2   82    54 
+21:00   3.1   82    29.1  31.9  233   768.4    3.1   5.8     8.8   82    64 
+22:00   3.9   82    30.1  31.0  230   768.7    3.9   5.6     8.5   82    63 
+23:00   3.7   90    26.5  35.3  228   768.7    3.7   6.3     8.3   90    69 
+00:00   3.4   96    31.1  34.5  194   768.5    3.4   5.1     8.0   96    78 
+01:00   2.7   94    28.0  35.3  217   768.5    2.7   7.0     8.1   94    67 
+02:00   3.6  100    24.4  32.0  229   768.4    3.6   7.3     8.3  100    76 
+03:00   3.8  100    27.1  29.6  173   768.3    3.8   7.5     8.5  100    79 
+04:00   3.5  100    33.1  37.6  220   768.0    3.5   7.6     8.5  100    79 
+05:00   3.6  100    27.4  30.5  219   768.1    3.6   7.8     8.5  100    78 
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+high clouds all night, high humidity after 00h
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Dome closed at 00h
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 371000 Bias frame        0:00:00.00 +00:00:00.0 A        13:55 4.706  WFC    0.0  180  r                                
+ 371001 Focus run        22:43:10.20 +00:23:45.9 J2000.00 21:12 1.141  WFC   20.1  180  r                                
+ 371002 114-176          22:43:10.19 +00:21:15.9 J2000.00 21:24 1.137  WFC   60.1  180  U                                
+ 371003 114-176          22:43:10.19 +00:21:15.9 J2000.00 21:26 1.137  WFC   10.1  180  i                                
+ 371004 92-253            0:54:51.30 +00:40:20.0 J2000.00 21:29 1.354  WFC   60.1  180  U                                
+ 371005 92-253            0:54:51.30 +00:40:20.0 J2000.00 21:31 1.349  WFC   10.1  180  i                                
+ 371006 93-317            1:54:37.80 +00:43:01.0 J2000.00 21:33 1.663  WFC   60.1  180  U                                
+ 371007 93-317            1:54:37.79 +00:43:01.0 J2000.00 21:35 1.649  WFC    5.1  180  i                                
+ 371008 113-156          21:42:21.70 +00:12:10.1 J2000.00 21:38 1.191  WFC   60.0  180  U                                
+ 371009 113-156          21:42:21.70 +00:12:10.0 J2000.00 21:40 1.193  WFC   10.1  180  i                                
+ 371010 NightFlat         0:59:59.99 +00:07:00.0 J2000.00 22:15 1.233  WFC  299.9  180  i                                
+ 371011 NightFlat         1:00:01.99 +00:07:00.0 J2000.00 22:21 1.220  WFC  300.0  180  i                                
+ 371012 NightFlat         1:00:02.33 +00:07:30.0 J2000.00 22:27 1.209  WFC  299.9  180  i                                
+ 371013 NightFlat         1:00:00.32 +00:07:29.9 J2000.00 22:33 1.198  WFC  299.9  180  i                                
+ 371014 NightFlat         0:59:58.32 +00:07:30.0 J2000.00 22:39 1.189  WFC  299.9  180  i                                
+ 371015 NightFlat         0:59:57.99 +00:06:59.8 J2000.00 22:44 1.180  WFC  299.9  180  i                                
+ 371016 NightFlat         0:59:57.66 +00:06:29.8 J2000.00 22:50 1.173  WFC  299.9  180  i                                
+ 371017 NightFlat         0:59:59.66 +00:07:30.1 J2000.00 22:56 1.165  WFC  299.9  180  i                                
+ 371018 NightFlat         1:00:01.66 +00:06:29.8 J2000.00 23:02 1.160  WFC  299.9  180  i                                
+ 371019 NightFlat         1:00:01.66 +00:06:29.9 J2000.00 23:09 1.151  WFC  599.2  180  U                                
+ 371020 NightFlat         1:00:01.99 +00:07:00.1 J2000.00 23:20 1.145  WFC  599.8  180  U                                
+ 371021 NightFlat         1:00:02.33 +00:07:30.1 J2000.00 23:31 1.140  WFC  599.7  180  U                                
+ 371022 NightFlat         1:00:00.32 +00:07:30.1 J2000.00 23:42 1.139  WFC  599.6  180  U                                
+ 371023 NightFlat         0:59:58.32 +00:07:30.0 J2000.00 23:52 1.140  WFC  599.8  180  U                                high humidity close dome

@@ -1,0 +1,71 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 12 11 06:56
+
+TELESCOPE             INT
+DATE                  20041210
+OBSERVER/S            D. Smith
+PROGRAMME             Narrow-band imaging of supercluster
+PROPOSAL REF          P7       
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    mansura
+
+TEL STATION / FOCUS   Prime  / 44.18
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:39
+MORNING TWILIGHT (UT) 06:30
+SUNRISE (UT)          07:47
+%ILLUM. LUNAR DISK    2
+DARK TIME (HRS)       10:51
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         07:07
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.2  100    23.0  27.0  252   766.1    4.2   8.9     8.7  100    82 
+20:00   3.7  100    20.4  25.1  257   766.2    3.7   8.6     8.6  100    82 
+21:00   3.7  100    24.5  30.6  242   766.4    3.7   8.1     8.7  100    81 
+22:00   3.2  100    21.2  23.7  233   766.7    3.2   7.9     8.6  100    83 
+23:00   3.1  100    21.6  24.7  238   766.8    3.1   7.0     8.7  100    85 
+00:00   2.5  100    14.6  17.1  176   766.7    2.5   6.9     8.5  100    85 
+01:00   2.5  100    23.5  26.7  209   766.1    2.5   6.9     8.5  100    86 
+02:00   2.6  100    21.1  27.3  228   765.8    2.6   7.1     8.5  100    84 
+03:00   2.8  100    13.0  16.2  198   765.8    2.8   6.7     8.4  100    81 
+04:00   2.5   99    24.9  30.0  196   765.4    2.5   6.7     8.4   99    82 
+05:00   3.1   66    17.5  21.0  205   765.2    3.1   6.5     8.4   66    68 
+06:00   4.0   46    16.0  20.3  189   765.0    4.0   5.5     7.7   46    30 
+
+TIME LOST weather           11:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Too humid all night - cleared at 5.30am. 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 434351 Bias             16:59:59.99 +25:59:59.7 2000.00  13:37 1.016  WFC    0.0  180  HeII4686                         
+ 434352 Bias              0:00:00.00 +00:00:00.0 2000.00  18:49 1.000  WFC    0.0  180  HeII4686                         
+ 434353 Bias              0:00:00.00 +00:00:00.0 2000.00  18:49 1.000  WFC    0.0  180  HeII4686                         
+ 434354 Bias              0:00:00.00 +00:00:00.0 2000.00  18:50 1.000  WFC    0.0  180  HeII4686                         
+ 434355 Bias              0:00:00.00 +00:00:00.0 2000.00  18:50 1.000  WFC    0.0  180  HeII4686                         
+ 434356 Bias              0:00:00.00 +00:00:00.0 2000.00  18:51 1.000  WFC    0.0  180  HeII4686                         
+ 434357 Bias              0:00:00.00 +00:00:00.0 2000.00  18:52 1.000  WFC    0.0  180  HeII4686                         
+ 434358 Bias              0:00:00.00 +00:00:00.0 2000.00  18:52 1.000  WFC    0.0  180  HeII4686                         
+ 434359 Bias              0:00:00.00 +00:00:00.0 2000.00  18:53 1.000  WFC    0.0  180  HeII4686                         
+ 434360 Bias              0:00:00.00 +00:00:00.0 2000.00  18:53 1.000  WFC    0.0  180  HeII4686                         
+ 434361 Bias              0:00:00.00 +00:00:00.0 2000.00  18:54 1.000  WFC    0.0  180  HeII4686                         
+ 434362 Focus run         8:53:54.50 -00:32:23.9 2000.00  05:31 1.169  WFC   10.1  180  r                                
+ 434363 sa110-394         8:53:54.50 -00:32:24.0 2000.00  05:34 1.174  WFC    5.1  180  r                                Actually sa100-394 in r-band
+ 434364 sa110-394 r       8:53:54.50 -00:32:24.0 2000.00  05:34 1.175  WFC   10.1  180  r                                actually sa100-394 
+ 434365 sa100-394 he2     8:53:54.50 -00:32:24.0 2000.00  05:35 1.176  WFC   20.0  180  HeII4686                         
+ 434366 sa100-394 he2     8:53:54.49 -00:32:24.0 2000.00  05:36 1.178  WFC   40.1  180  HeII4686                         
+ 434367 sc054b r          8:19:17.54 +26:45:22.8 2000.00  05:40 1.072  WFC  599.6  180  r                                
+ 434368 sc054b he2        8:19:17.53 +26:45:22.9 2000.00  05:51 1.122  WFC 2398.7  180  HeII4686                         
+ 434369 sc054b r          8:19:17.54 +26:45:22.4 2000.00  06:33 1.189  WFC  599.7  180  r                                taken just as twilight beginning...

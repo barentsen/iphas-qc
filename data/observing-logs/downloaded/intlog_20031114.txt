@@ -1,0 +1,335 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 11 15 07:49
+
+TELESCOPE             INT
+DATE                  20031114
+OBSERVER/S            Rhys Morris
+PROGRAMME             IPHAS
+PROPOSAL REF          P14
+TELESCOPE OPERATOR    Rhys Morris
+SUPPORT ASTRONOMER    Robert Greimel
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:26
+EVENING TWILIGHT (UT) 19:40
+MORNING TWILIGHT (UT) 06:12
+SUNRISE (UT)          07:26
+%ILLUM. LUNAR DISK    71
+DARK TIME (HRS)       10:32
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         22:26
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  11.1   12    17.8  19.3  276   775.8   11.1  13.1    13.0   12    11 
+20:00  11.2   17    14.3  15.9  280   776.1   11.2  12.1    12.8   17    14 
+21:00  10.9   18    15.0  16.2  299   776.5   10.9  12.0    12.8   18    14 
+22:00  11.7   15    11.5  12.0  289   776.6   11.7  12.4    12.9   15    13 
+23:00  11.4   18    10.6  11.2  294   776.3   11.4  12.3    12.8   18    15 
+00:00  11.8   14    11.9  12.2  273   776.3   11.8  12.5    12.8   14    12 
+01:00  11.6   16    14.2  15.2  293   776.1   11.6  12.3    12.7   16    12 
+02:00  11.9   11    16.9  17.8  277   775.9   11.9  12.4    12.8   11     9 
+03:00  11.8   20    23.2  23.6  283   775.8   11.8  12.7    12.7   20    17 
+04:00  11.9   14    15.4  16.2  290   775.5   11.9  12.9    12.7   14    12 
+05:00  10.9   17    19.0  19.8  283   775.5   10.9  12.3    12.7   17    13 
+06:00  10.2   14    17.9  19.1  291   775.8   10.2  11.6    12.8   14    10 
+07:00  11.0   13    14.1  14.5  290   775.9   11.0  12.0    12.8   13    10 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High cloud. Possibly some long clear patches.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+More shutter alarms (2) than last night (0) and one other error popup. None serious.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 375202 Bias                                              12:33        WFC    0.0       Halpha                           
+ 375203 Bias                                              12:41        WFC    0.0       Halpha                           
+ 375204                                                   12:46        WFC    1.7       Halpha                           
+ 375205 Bias                                              14:23        WFC    0.0       B                                
+ 375206 Focus run                                         19:40        WFC   10.1       i                                
+ 375207 intphas_6307 Ha                                   19:58        WFC  120.0       Halpha                           
+ 375208 intphas_6307 r                                    20:01        WFC    9.5       r                                
+ 375209 intphas_6307 i                                    20:02        WFC    9.6       i                                
+ 375210 intphas_6307o Ha                                  20:03        WFC  120.0       Halpha                           
+ 375211 intphas_6307o r                                   20:06        WFC   10.1       r                                
+ 375212 intphas_6307o i                                   20:07        WFC   10.1       i                                
+ 375213 intphas_6310 Ha                                   20:08        WFC  120.0       Halpha                           
+ 375214 intphas_6310 r                                    20:10        WFC   10.1       r                                
+ 375215 intphas_6310 i                                    20:11        WFC   10.1       i                                
+ 375216 intphas_6310o Ha                                  20:12        WFC  120.0       Halpha                           
+ 375217 intphas_6310o r                                   20:15        WFC   10.1       r                                
+ 375218 intphas_6310o i                                   20:16        WFC   10.1       i                                
+ 375219 intphas_6312 Ha                                   20:17        WFC  120.1       Halpha                           
+ 375220 intphas_6312 r                                    20:20        WFC    8.1       r                                
+ 375221 intphas_6312 i                                    20:21        WFC   10.1       i                                
+ 375222 intphas_6312o Ha                                  20:22        WFC  120.0       Halpha                           
+ 375223 intphas_6312o r                                   20:24        WFC   10.1       r                                
+ 375224 intphas_6312o i                                   20:25        WFC   10.1       i                                
+ 375225 intphas_6314 Ha                                   20:26        WFC  120.0       Halpha                           
+ 375226 intphas_6314 r                                    20:29        WFC   10.1       r                                
+ 375227 intphas_6314 i                                    20:30        WFC   10.1       i                                
+ 375228 intphas_6314o Ha                                  20:31        WFC  120.0       Halpha                           
+ 375229 intphas_6314o r                                   20:34        WFC   10.1       r                                
+ 375230 intphas_6314o i                                   20:35        WFC   10.1       i                                
+ 375231 intphas_6315 Ha                                   20:36        WFC  120.0       Halpha                           
+ 375232 intphas_6315 r                                    20:38        WFC   10.1       r                                
+ 375233 intphas_6315 i                                    20:39        WFC   10.1       i                                
+ 375234 intphas_6315o Ha                                  20:40        WFC  120.1       Halpha                           
+ 375235 intphas_6315o r                                   20:43        WFC   10.1       r                                
+ 375236 intphas_6315o i                                   20:44        WFC    9.5       i                                
+ 375237 intphas_6316 Ha                                   20:45        WFC  120.0       Halpha                           
+ 375238 intphas_6316 r                                    20:48        WFC    9.6       r                                
+ 375239 intphas_6316 i                                    20:49        WFC   10.1       i                                
+ 375240 intphas_6316o Ha                                  20:50        WFC  119.5       Halpha                           
+ 375241 intphas_6316o r                                   20:52        WFC   10.1       r                                
+ 375242 intphas_6316o i                                   20:53        WFC   10.1       i                                
+ 375243 intphas_6318 Ha                                   20:54        WFC  120.0       Halpha                           
+ 375244 intphas_6318 r                                    20:57        WFC   10.1       r                                
+ 375245 intphas_6318 i                                    20:58        WFC   10.1       i                                
+ 375246 intphas_6318o Ha                                  20:59        WFC  120.0       Halpha                           
+ 375247 intphas_6318o r                                   21:02        WFC   10.1       r                                
+ 375248 intphas_6318o i                                   21:03        WFC   10.1       i                                
+ 375249 intphas_6320 Ha                                   21:03        WFC  120.1       Halpha                           
+ 375250 intphas_6320 r                                    21:06        WFC   10.1       r                                
+ 375251 intphas_6320 i                                    21:07        WFC   10.1       i                                
+ 375252 intphas_6320o Ha                                  21:08        WFC  120.0       Halpha                           
+ 375253 intphas_6320o r                                   21:11        WFC   10.1       r                                
+ 375254 intphas_6320o i                                   21:12        WFC   10.1       i                                
+ 375255 intphas_6322 Ha                                   21:13        WFC  120.0       Halpha                           
+ 375256 intphas_6322 r                                    21:15        WFC   10.1       r                                
+ 375257 intphas_6322 i                                    21:16        WFC   10.1       i                                
+ 375258 intphas_6322o Ha                                  21:17        WFC  120.1       Halpha                           
+ 375259 intphas_6322o r                                   21:20        WFC   10.1       r                                
+ 375260 intphas_6322o i                                   21:21        WFC   10.1       i                                
+ 375261 intphas_6323 Ha                                   21:22        WFC  120.0       Halpha                           
+ 375262 intphas_6323 r                                    21:25        WFC   10.1       r                                
+ 375263 intphas_6323 i                                    21:26        WFC   10.1       i                                
+ 375264 intphas_6323o Ha                                  21:27        WFC  120.0       Halpha                           
+ 375265 intphas_6323o r                                   21:29        WFC   10.1       r                                
+ 375266 intphas_6323o i                                   21:30        WFC   10.1       i                                
+ 375267 intphas_6324 Ha                                   21:31        WFC  120.0       Halpha                           
+ 375268 intphas_6324 r                                    21:34        WFC   10.1       r                                
+ 375269 intphas_6324 i                                    21:35        WFC   10.1       i                                
+ 375270 intphas_6324o Ha                                  21:36        WFC  120.0       Halpha                           
+ 375271 intphas_6324o r                                   21:39        WFC   10.1       r                                
+ 375272 intphas_6324o i                                   21:40        WFC   10.1       i                                
+ 375273 intphas_6325 Ha                                   21:41        WFC  119.5       Halpha                           
+ 375274 intphas_6325 r                                    21:43        WFC   10.1       r                                
+ 375275 intphas_6325 i                                    21:44        WFC    9.6       i                                
+ 375276 intphas_6325o Ha                                  21:45        WFC  120.0       Halpha                           
+ 375277 intphas_6325o r                                   21:48        WFC   10.1       r                                
+ 375278 intphas_6325o i                                   21:49        WFC   10.1       i                                
+ 375279 intphas_6327 Ha                                   21:50        WFC  120.0       Halpha                           
+ 375280 intphas_6327 r                                    21:53        WFC    9.6       r                                
+ 375281 intphas_6327 i                                    21:54        WFC   10.1       i                                
+ 375282 intphas_6327o Ha                                  21:55        WFC  119.5       Halpha                           
+ 375283 intphas_6327o r                                   21:57        WFC   10.1       r                                
+ 375284 intphas_6327o i                                   21:58        WFC   10.1       i                                
+ 375285 intphas_6328 Ha                                   21:59        WFC  120.1       Halpha                           
+ 375286 intphas_6328 r                                    22:02        WFC   10.1       r                                
+ 375287 intphas_6328 i                                    22:03        WFC   10.1       i                                
+ 375288 intphas_6328o Ha                                  22:04        WFC  119.5       Halpha                           
+ 375289 intphas_6328o r                                   22:07        WFC    9.6       r                                
+ 375290 intphas_6328o i                                   22:07        WFC   10.1       i                                
+ 375291 intphas_6330 Ha                                   22:08        WFC  120.0       Halpha                           
+ 375292 intphas_6330 r                                    22:11        WFC   10.1       r                                
+ 375293 intphas_6330 i                                    22:12        WFC    9.5       i                                
+ 375294 intphas_6330o Ha                                  22:13        WFC  120.0       Halpha                           
+ 375295 intphas_6330o r                                   22:16        WFC   10.1       r                                
+ 375296 intphas_6330o i                                   22:17        WFC   10.1       i                                
+ 375297 BD+284211 H-Alph                                  22:20        WFC  150.0       Halpha                           
+ 375298 BD+284211 R                                       22:24        WFC   18.2       r                                shutter alarm
+ 375299 BD+284211 I                                       22:26        WFC   20.1       i                                
+ 375300 G158-100 H-Alpha                                  22:31        WFC  150.0       Halpha                           
+ 375301 G158-100 R                                        22:35        WFC   19.6       r                                
+ 375302 G158-100 I                                        22:37        WFC   20.1       i                                
+ 375303 intphas_6476 Ha                                   22:43        WFC  120.0       Halpha                           
+ 375304 intphas_6476 r                                    22:45        WFC   10.1       r                                
+ 375305 intphas_6476 i                                    22:46        WFC   10.1       i                                
+ 375306 intphas_6476o Ha                                  22:47        WFC  119.5       Halpha                           
+ 375307 intphas_6476o r                                   22:50        WFC   10.1       r                                
+ 375308 intphas_6476o i                                   22:51        WFC   10.1       i                                
+ 375309 intphas_0005 Ha                                   22:52        WFC  120.0       Halpha                           
+ 375310 intphas_0005 r                                    22:55        WFC    9.6       r                                
+ 375311 intphas_0005 i                                    22:56        WFC    9.5       i                                
+ 375312 intphas_0005o Ha                                  22:57        WFC  120.0       Halpha                           
+ 375313 intphas_0005o r                                   23:00        WFC   10.1       r                                
+ 375314 intphas_0005o i                                   23:01        WFC   10.1       i                                
+ 375315 intphas_0006 Ha                                   23:02        WFC  120.0       Halpha                           
+ 375316 intphas_0006 r                                    23:04        WFC   10.1       r                                
+ 375317 intphas_0006 i                                    23:05        WFC   10.1       i                                
+ 375318 intphas_0006o Ha                                  23:06        WFC  120.0       Halpha                           
+ 375319 intphas_0006o r                                   23:09        WFC   10.1       r                                
+ 375320 intphas_0006o i                                   23:10        WFC   10.1       i                                
+ 375321 intphas_0007 Ha                                   23:11        WFC  119.5       Halpha                           
+ 375322 intphas_0007 r                                    23:14        WFC   10.1       r                                
+ 375323 intphas_0007 i                                    23:15        WFC   10.1       i                                
+ 375324 intphas_0007o Ha                                  23:15        WFC  120.0       Halpha                           
+ 375325 intphas_0007o r                                   23:18        WFC    8.0       r                                
+ 375326 intphas_0007o i                                   23:19        WFC   10.1       i                                
+ 375327 intphas_0008 Ha                                   23:20        WFC  120.0       Halpha                           
+ 375328 intphas_0008 r                                    23:23        WFC   10.1       r                                
+ 375329 intphas_0008 i                                    23:24        WFC   10.1       i                                
+ 375330 intphas_0008o Ha                                  23:25        WFC  120.0       Halpha                           
+ 375331 intphas_0008o r                                   23:28        WFC   10.1       r                                
+ 375332 intphas_0008o i                                   23:28        WFC   10.1       i                                
+ 375333 intphas_0009 Ha                                   23:29        WFC  120.1       Halpha                           
+ 375334 intphas_0009 r                                    23:32        WFC   10.1       r                                
+ 375335 intphas_0009 i                                    23:33        WFC   10.1       i                                
+ 375336 intphas_0009o Ha                                  23:34        WFC  119.5       Halpha                           
+ 375337 intphas_0009o r                                   23:37        WFC   10.1       r                                
+ 375338 intphas_0009o i                                   23:38        WFC    9.6       i                                
+ 375339 intphas_0010 Ha                                   23:39        WFC  119.5       Halpha                           
+ 375340 intphas_0010 r                                    23:42        WFC   10.1       r                                
+ 375341 intphas_0010 i                                    23:42        WFC   10.1       i                                
+ 375342 intphas_0010o Ha                                  23:43        WFC  120.0       Halpha                           
+ 375343 intphas_0010o r                                   23:46        WFC   10.1       r                                
+ 375344 intphas_0010o i                                   23:47        WFC   10.1       i                                
+ 375345 intphas_0011 Ha                                   23:48        WFC  120.0       Halpha                           
+ 375346 intphas_0011 r                                    23:51        WFC    9.6       r                                
+ 375347 intphas_0011 i                                    23:52        WFC   10.1       i                                
+ 375348 intphas_0011o Ha                                  23:53        WFC  120.0       Halpha                           
+ 375349 intphas_0011o r                                   23:55        WFC   10.1       r                                
+ 375350 intphas_0011o i                                   23:56        WFC   10.1       i                                
+ 375351 intphas_0012 Ha                                   23:57        WFC  120.0       Halpha                           
+ 375352 intphas_0012 r                                    00:00        WFC   10.1       r                                
+ 375353 intphas_0012 i                                    00:01        WFC   10.1       i                                
+ 375354 intphas_0012o Ha                                  00:02        WFC  120.0       Halpha                           
+ 375355 intphas_0012o r                                   00:05        WFC   10.1       r                                
+ 375356 intphas_0012o i                                   00:06        WFC   10.1       i                                
+ 375357 intphas_0013 Ha                                   00:07        WFC  120.0       Halpha                           
+ 375358 intphas_0013 r                                    00:09        WFC   10.1       r                                
+ 375359 intphas_0013 i                                    00:10        WFC    9.5       i                                
+ 375360 intphas_0013o Ha                                  00:11        WFC  120.0       Halpha                           
+ 375361 intphas_0013o r                                   00:14        WFC   10.1       r                                
+ 375362 intphas_0013o i                                   00:15        WFC   10.1       i                                
+ 375363 intphas_0014 Ha                                   00:16        WFC  120.0       Halpha                           
+ 375364 intphas_0014 r                                    00:19        WFC   10.1       r                                
+ 375365 intphas_0014 i                                    00:20        WFC   10.1       i                                
+ 375366 intphas_0014o Ha                                  00:21        WFC  119.5       Halpha                           
+ 375367 intphas_0014o r                                   00:23        WFC   10.1       r                                
+ 375368 intphas_0014o i                                   00:24        WFC   10.1       i                                
+ 375369 intphas_0015 Ha                                   00:25        WFC  120.1       Halpha                           
+ 375370 intphas_0015 r                                    00:28        WFC   10.0       r                                
+ 375371 intphas_0015 i                                    00:29        WFC   10.1       i                                
+ 375372 intphas_0015o Ha                                  00:30        WFC  120.0       Halpha                           
+ 375373 intphas_0015o r   0:04:05.72 +66:12:59.7 J2000.00 00:33 1.430  WFC    9.5  180  r                                
+ 375374 intphas_0015o i   0:04:05.72 +66:12:59.8 J2000.00 00:34 1.432  WFC   10.1  180  i                                
+ 375375 intphas_0016 Ha   0:03:18.69 +62:27:59.4 J2000.00 00:35 1.391  WFC  119.5  180  Halpha                           
+ 375376 intphas_0016 r    0:03:18.70 +62:27:59.5 J2000.00 00:37 1.396  WFC    9.6  180  r                                
+ 375377 intphas_0016 i    0:03:18.70 +62:27:59.5 J2000.00 00:38 1.398  WFC   10.1  180  i                                
+ 375378 intphas_0016o Ha  0:04:02.08 +62:32:59.5 J2000.00 00:39 1.402  WFC  120.1  180  Halpha                           Lot of high cloud
+ 375379 intphas_0016o r   0:04:02.08 +62:32:59.6 J2000.00 00:42 1.407  WFC   10.1  180  r                                
+ 375380 intphas_0016o i   0:04:02.09 +62:32:59.6 J2000.00 00:43 1.409  WFC    9.6  180  i                                
+ 375381 intphas_0017 Ha   0:03:39.91 +58:03:59.2 J2000.00 00:44 1.371  WFC  120.0  180  Halpha                           
+ 375382 intphas_0017 r    0:03:39.90 +58:03:59.3 J2000.00 00:47 1.376  WFC   10.1  180  r                                
+ 375383 intphas_0017 i    0:03:39.91 +58:03:59.3 J2000.00 00:48 1.379  WFC   10.1  180  i                                
+ 375384 intphas_0017o Ha  0:04:17.81 +58:08:59.4 J2000.00 00:49 1.383  WFC  120.0  180  Halpha                           
+ 375385 intphas_0017o r   0:04:17.81 +58:08:59.4 J2000.00 00:51 1.388  WFC   10.1  180  r                                
+ 375386 intphas_0017o i   0:04:17.81 +58:08:59.4 J2000.00 00:52 1.391  WFC   10.1  180  i                                
+ 375387 intphas_0018 Ha   0:03:41.76 +60:15:59.5 J2000.00 00:53 1.416  WFC  119.5  180  Halpha                           
+ 375388 intphas_0018 r    0:03:41.76 +60:15:59.4 J2000.00 00:56 1.422  WFC   10.1  180  r                                
+ 375389 intphas_0018 i    0:03:41.75 +60:15:59.5 J2000.00 00:57 1.424  WFC   10.1  180  i                                
+ 375390 intphas_0018o Ha  0:04:22.19 +60:20:59.4 J2000.00 00:58 1.428  WFC  120.0  180  Halpha                           
+ 375391 intphas_0018o r   0:04:22.18 +60:20:59.5 J2000.00 01:01 1.434  WFC   10.1  180  r                                
+ 375392 intphas_0018o i   0:04:22.18 +60:20:59.4 J2000.00 01:02 1.437  WFC   10.1  180  i                                
+ 375393 intphas_0019 Ha   0:03:46.02 +63:22:59.6 J2000.00 01:03 1.473  WFC  120.0  180  Halpha                           
+ 375394 intphas_0019 r    0:03:46.02 +63:22:59.5 J2000.00 01:05 1.479  WFC   10.1  180  r                                
+ 375395 intphas_0019 i    0:03:46.03 +63:22:59.5 J2000.00 01:06 1.482  WFC   10.1  180  i                                
+ 375396 intphas_0019o Ha  0:04:30.79 +63:27:59.4 J2000.00 01:07 1.486  WFC  120.0  180  Halpha                           
+ 375397 intphas_0019o r   0:04:30.80 +63:27:59.6 J2000.00 01:10 1.491  WFC   10.1  180  r                                
+ 375398 intphas_0019o i   0:04:30.80 +63:27:59.5 J2000.00 01:11 1.494  WFC   10.1  180  i                                
+ 375399 intphas_0020 Ha   0:03:56.14 +66:40:59.8 J2000.00 01:12 1.537  WFC  120.1  180  Halpha                           
+ 375400 intphas_0020 r    0:03:56.14 +66:40:59.7 J2000.00 01:15 1.542  WFC   10.1  180  r                                
+ 375401 intphas_0020 i    0:03:56.15 +66:40:59.8 J2000.00 01:16 1.545  WFC   10.1  180  i                                
+ 375402 intphas_0020o Ha  0:04:46.84 +66:45:59.7 J2000.00 01:17 1.549  WFC  119.5  180  Halpha                           
+ 375403 intphas_0020o r   0:04:46.84 +66:45:59.8 J2000.00 01:19 1.555  WFC    9.5  180  r                                
+ 375404 intphas_0020o i   0:04:46.84 +66:45:59.8 J2000.00 01:20 1.557  WFC   10.1  180  i                                
+ 375405 intphas_0021 Ha   0:04:08.08 +64:17:59.7 J2000.00 01:21 1.539  WFC  120.1  180  Halpha                           
+ 375406 intphas_0021 r    0:04:08.08 +64:17:59.7 J2000.00 01:24 1.545  WFC   10.1  180  r                                
+ 375407 intphas_0021 i    0:04:08.08 +64:17:59.7 J2000.00 01:25 1.548  WFC   10.1  180  i                                
+ 375408 intphas_0021o Ha  0:04:54.34 +64:22:59.6 J2000.00 01:26 1.552  WFC  120.0  180  Halpha                           
+ 375409 intphas_0021o r   0:04:54.34 +64:22:59.6 J2000.00 01:29 1.559  WFC   10.1  180  r                                
+ 375410 intphas_0021o i   0:04:54.34 +64:22:59.6 J2000.00 01:30 1.562  WFC    9.5  180  i                                
+ 375411 intphas_0022 Ha   0:04:21.32 +65:12:59.7 J2000.00 01:31 1.578  WFC  120.1  180  Halpha                           65 degrees from moon
+ 375412 intphas_0022 r    0:04:21.32 +65:12:59.7 J2000.00 01:33 1.584  WFC   10.1  180  r                                
+ 375413 intphas_0022 i    0:04:21.32 +65:12:59.7 J2000.00 01:34 1.588  WFC   10.1  180  i                                
+ 375414 intphas_0896 Ha   2:40:51.76 +54:45:59.2 J2000.00 01:36 1.152  WFC  120.1  180  Halpha                           
+ 375415 intphas_0896 r    2:40:51.76 +54:45:59.4 J2000.00 01:39 1.153  WFC   10.1  180  r                                
+ 375416 intphas_0896 i    2:40:51.76 +54:45:59.3 J2000.00 01:40 1.154  WFC   10.1  180  i                                
+ 375417 intphas_0896o Ha  2:41:26.51 +54:50:59.3 J2000.00 01:41 1.157  WFC  119.5  180  Halpha                           
+ 375418 intphas_0896o r   2:41:26.50 +54:50:59.4 J2000.00 01:44 1.159  WFC   10.1  180  r                                
+ 375419 intphas_0896o i   2:41:26.51 +54:50:59.4 J2000.00 01:45 1.160  WFC   10.1  180  i                                
+ 375420 intphas_0897 Ha   2:41:06.06 +57:19:59.4 J2000.00 01:46 1.186  WFC  120.0  180  Halpha                           
+ 375421 intphas_0897 r    2:41:06.06 +57:19:59.2 J2000.00 01:48 1.188  WFC   10.1  180  r                                
+ 375422 intphas_0897 i    2:41:06.06 +57:19:59.2 J2000.00 01:49 1.189  WFC   10.1  180  i                                
+ 375423 intphas_0897o Ha  2:41:43.19 +57:24:59.2 J2000.00 01:50 1.192  WFC  119.5  180  Halpha                           
+ 375424 intphas_0897o r   2:41:43.19 +57:24:59.2 J2000.00 01:53 1.194  WFC    9.6  180  r                                
+ 375425 intphas_0897o i   2:41:43.20 +57:24:59.3 J2000.00 01:54 1.195  WFC   10.1  180  i                                
+ 375426 intphas_0898 Ha   2:41:07.24 +58:47:59.3 J2000.00 01:55 1.213  WFC  120.0  180  Halpha                           
+ 375427 intphas_0898 r    2:41:07.24 +58:47:59.4 J2000.00 01:58 1.215  WFC    9.5  180  r                                
+ 375428 intphas_0898 i    2:41:07.24 +58:47:59.4 J2000.00 01:59 1.216  WFC    9.5  180  i                                
+ 375429 intphas_0898o Ha  2:41:45.95 +58:52:59.4 J2000.00 02:00 1.219  WFC  120.0  180  Halpha                           
+ 375430 intphas_0898o r   2:41:45.95 +58:52:59.4 J2000.00 02:03 1.221  WFC    9.5  180  r                                
+ 375431 intphas_0898o i   2:41:45.95 +58:52:59.5 J2000.00 02:04 1.222  WFC   10.1  180  i                                
+ 375432 intphas_0899 Ha   2:41:17.20 +62:38:59.6 J2000.00 02:05 1.271  WFC  120.1  180  Halpha                           
+ 375433 intphas_0899 r    2:41:17.21 +62:38:59.6 J2000.00 02:07 1.274  WFC   10.1  180  r                                
+ 375434 intphas_0899 i    2:41:17.20 +62:38:59.6 J2000.00 02:08 1.275  WFC   10.1  180  i                                
+ 375435 intphas_0899o Ha  2:42:00.87 +62:43:59.6 J2000.00 02:09 1.278  WFC  120.0  180  Halpha                           
+ 375436 intphas_0899o r   2:42:00.87 +62:43:59.6 J2000.00 02:12 1.280  WFC   10.1  180  r                                
+ 375437 intphas_0899o i   2:42:00.87 +62:43:59.6 J2000.00 02:13 1.281  WFC   10.1  180  i                                
+ 375438 intphas_0900 Ha   2:41:23.06 +55:18:59.2 J2000.00 02:14 1.204  WFC  119.5  180  Halpha                           
+ 375439 intphas_0900 r    2:41:23.06 +55:18:59.4 J2000.00 02:17 1.207  WFC   10.1  180  r                                
+ 375440 intphas_0900 i    2:41:23.05 +55:18:59.4 J2000.00 02:18 1.208  WFC   10.1  180  i                                
+ 375441 intphas_0900o Ha  2:41:58.28 +55:23:59.4 J2000.00 02:19 1.211  WFC  120.0  180  Halpha                           
+ 375442 intphas_0900o r   2:41:58.28 +55:23:59.4 J2000.00 02:21 1.214  WFC   10.0  180  r                                
+ 375443 intphas_0900o i   2:41:58.28 +55:23:59.4 J2000.00 02:22 1.216  WFC   10.1  180  i                                
+ 375444 intphas_0901 Ha   2:41:26.58 +60:15:59.6 J2000.00 02:23 1.269  WFC  120.0  180  Halpha                           
+ 375445 intphas_0901 r    2:41:26.57 +60:15:59.5 J2000.00 02:26 1.272  WFC    9.6  180  r                                
+ 375446 intphas_0901 i    2:41:26.57 +60:15:59.4 J2000.00 02:27 1.273  WFC   10.1  180  i                                
+ 375447 intphas_0901o Ha  2:42:07.01 +60:20:59.5 J2000.00 02:28 1.276  WFC  120.0  180  Halpha                           
+ 375448 intphas_0901o r   2:42:07.00 +60:20:59.4 J2000.00 02:31 1.279  WFC   10.1  180  r                                
+ 375449 intphas_0901o i   2:42:07.00 +60:20:59.4 J2000.00 02:32 1.281  WFC    9.7  180  i                                
+ 375450 intphas_0902 Ha   2:41:59.66 +61:43:59.5 J2000.00 02:33 1.301  WFC  120.0  180  Halpha                           
+ 375451 intphas_0902 r    2:41:59.66 +61:43:59.6 J2000.00 02:36 1.304  WFC   10.1  180  r                                
+ 375452 intphas_0902 i    2:41:59.66 +61:43:59.6 J2000.00 02:36 1.305  WFC    9.6  180  i                                
+ 375453 intphas_0902o Ha  2:42:42.00 +61:48:59.5 J2000.00 02:37 1.309  WFC  120.1  180  Halpha                           
+ 375454 intphas_0902o r   2:42:42.00 +61:48:59.5 J2000.00 02:40 1.312  WFC    9.6  180  r                                
+ 375455 intphas_0902o i   2:42:42.01 +61:48:59.5 J2000.00 02:41 1.314  WFC   10.1  180  i                                
+ 375456 intphas_0903 Ha   2:41:59.67 +55:51:59.1 J2000.00 02:42 1.257  WFC  120.0  180  Halpha                           
+ 375457 intphas_0903 r    2:41:59.66 +55:51:59.3 J2000.00 02:45 1.259  WFC   10.1  180  r                                
+ 375458 intphas_0903 i    2:41:59.67 +55:51:59.3 J2000.00 02:46 1.259  WFC   10.1  180  i                                
+ 375459 intphas_0903o Ha  2:42:35.38 +55:56:59.3 J2000.00 02:47 1.259  WFC  119.5  180  Halpha                           
+ 375460 intphas_0903o r   2:42:35.39 +55:56:59.3 J2000.00 02:50 1.259  WFC   10.1  180  r                                
+ 375461 intphas_0903o i   2:42:35.39 +55:56:59.2 J2000.00 02:51 1.259  WFC   10.1  180  i                                Had to stop script with ctrl-C after this frame
+ 375462 G191B2B H-Alpha   5:05:30.60 +52:49:54.1 J2000.00 05:59 1.379  WFC  150.0  180  Halpha                           
+ 375463 G191B2B R         5:05:30.60 +52:49:54.0 J2000.00 06:04 1.391  WFC   20.1  180  r                                
+ 375464 G191B2B I         5:05:30.59 +52:49:54.0 J2000.00 06:06 1.397  WFC   20.1  180  i                                
+ 375465 BD+082015 H-Alph  8:15:41.52 +07:37:05.9 J2000.00 06:09 1.076  WFC  150.0  180  Halpha                           
+ 375466 BD+082015 R       8:15:41.52 +07:37:06.0 J2000.00 06:13 1.077  WFC   29.5  180  r                                
+ 375467 BD+082015 I       8:15:41.51 +07:37:05.9 J2000.00 06:15 1.078  WFC   30.1  180  i                                
+ 375468 G193-74 H-Alpha   7:53:27.35 +52:29:35.8 J2000.00 06:21 1.109  WFC  149.5  180  Halpha                           
+ 375469 G193-74 R         7:53:27.35 +52:29:35.9 J2000.00 06:27 1.113  WFC   20.1  180  r                                
+ 375470 G193-74 I         7:53:27.36 +52:29:35.9 J2000.00 06:29 1.115  WFC   30.1  180  i                                
+ 375471 Flat field        8:00:59.99 +49:59:59.9 J2000.00 06:51 1.109  WFC   98.2  180  r                                
+ 375472 Flat field        8:01:01.03 +50:00:10.0 J2000.00 06:54 1.111  WFC   70.8  180  r                                
+ 375473 Flat field        8:00:58.96 +49:59:49.9 J2000.00 06:56 1.113  WFC   62.4  180  r                                
+ 375474 Flat field        8:00:59.99 +49:59:59.9 J2000.00 06:59 1.116  WFC   33.3  180  i                                
+ 375475 Flat field        8:01:01.03 +50:00:09.9 J2000.00 07:00 1.117  WFC   19.9  180  i                                
+ 375476 Flat field        8:00:58.96 +49:59:50.0 J2000.00 07:02 1.119  WFC   14.3  180  i                                
+ 375477 Flat field        8:01:00.00 +50:00:00.0 J2000.00 07:06 1.124  WFC   94.9  180  Halpha                           
+ 375478 Flat field        8:01:01.03 +50:00:09.9 J2000.00 07:08 1.127  WFC   54.1  180  Halpha                           
+ 375480 Flat field        8:00:58.96 +49:59:49.9 J2000.00 07:11 1.130  WFC   30.1  180  Halpha                           
+ 375481 Flat field        8:00:58.96 +50:00:09.9 J2000.00 07:13 1.132  WFC   19.6  180  Halpha                           
+ 375482 Flat field        8:01:01.03 +49:59:49.9 J2000.00 07:14 1.134  WFC   12.8  180  Halpha                           
+ 375483 Flat field        8:01:01.03 +50:00:19.9 J2000.00 07:16 1.136  WFC    5.5  180  Halpha                           
+ 375484 Flat field        8:01:02.07 +50:00:09.9 J2000.00 07:17 1.138  WFC    5.7  180  Halpha                           

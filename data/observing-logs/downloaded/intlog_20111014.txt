@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 10 15 07:54
+
+TELESCOPE             INT
+DATE                  20111014
+OBSERVER/S            Khosroshahi
+PROGRAMME             INO3/11B
+PROPOSAL REF          INO3/11B
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Liam
+
+TEL STATION / FOCUS   Cassegrain  / 14.60
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:51
+EVENING TWILIGHT (UT) 20:03
+MORNING TWILIGHT (UT) 05:53
+SUNRISE (UT)          07:05
+%ILLUM. LUNAR DISK    92
+DARK TIME (HRS)       09:50
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         19:58
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   9.8   50     2.8   4.9  131   771.5    9.8   14.     15.   50     44
+20:00   9.9   37     6.1   7.9  169   771.5    9.9   11.     14.   37     40
+21:00   9.9   38    11.5  17.5  163   771.8    9.9   11.     14.   38     42
+22:00  10.1   35    10.3  11.0  164   772.2   10.1   11.     13.   35     38
+23:00  10.2   35     5.0  10.4  158   772.4   10.2   11.     13.   35     39
+00:00  10.0   37     3.7  13.9  176   772.6   10.0   11.     14.   37     41
+01:00   9.6   39     4.9   8.5  155   772.7    9.6   11.     13.   39     43
+02:00   9.5   40     2.8   5.0  173   772.3    9.5   10.     13.   40     45
+03:00   9.5   45     3.0   8.7  173   772.0    9.5   10.     13.   45     48
+04:00   9.6   44     7.0  10.5  134   771.8    9.6   10.     13.   44     48
+05:00   9.5   44     3.0   7.3  171   771.6    9.5   10.     13.   44     48
+06:00   9.6   44     4.3   7.7  141   771.6    9.6   10.     13.   44     47
+07:00   9.1   46     5.6   7.7  186   772.1    9.1   10.     13.   46     49
+
+TIME LOST weather           02:00
+TIME LOST Technical         02:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+scattered clouds, cloudy
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Engineering rack, HA zeroset, Dome not tracking the telescope
+
+

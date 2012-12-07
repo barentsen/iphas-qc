@@ -1,0 +1,61 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 02 19 05:31
+
+TELESCOPE             INT
+DATE                  20040218
+OBSERVER/S            S. Hameed
+PROGRAMME             The STARFORM/H-alpha Survey
+PROPOSAL REF          N3   
+TELESCOPE OPERATOR    Dimitris
+SUPPORT ASTRONOMER    Dimitris
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:10
+EVENING TWILIGHT (UT) 20:22
+MORNING TWILIGHT (UT) 06:28
+SUNRISE (UT)          07:40
+%ILLUM. LUNAR DISK    3
+DARK TIME (HRS)       10:06
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         07:18
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   0.8   65    27.8  31.7  248   757.3    0.8   6.7     7.7   65    48 
+21:00   1.0   52    31.5  35.0  253   757.5    1.0   6.6     7.7   52    47 
+22:00   1.1   45    24.5  30.0  226   757.5    1.1   6.6     7.5   45    36 
+23:00   1.1   46    28.6  32.3  234   757.3    1.1   6.6     7.6   46    36 
+00:00   1.2   47    24.1  27.9  205   757.0    1.2   6.7     7.6   47    34 
+01:00   1.2   49    16.5  27.1  225   756.6    1.2   6.7     7.7   49    35 
+02:00   0.9   53    25.6  30.2  196   755.8    0.9   6.8     7.6   53    36 
+03:00   0.4   56    19.5  24.4  138   754.9    0.4   6.5     7.8   56    39 
+04:00   0.8   51    26.4  27.5  151   754.1    0.8   6.4     7.7   51    37 
+05:00   0.7   53    28.9  31.6   57   753.2    0.7   5.8     7.6   53    40 
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+cloudy all night.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 389398 Bias frame       19:59:59.99 +39:59:59.9 J2000.00 14:10 1.244  WFC    0.0  180  B                                
+ 389399 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:04 2.900  WFC    0.0  180  B                                
+ 389400 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:09 2.900  WFC    0.0  180  B                                
+ 389401 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:09 2.900  WFC    0.0  180  B                                
+ 389402 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:10 2.900  WFC    0.0  180  B                                
+ 389403 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:11 2.900  WFC    0.0  180  B                                
+ 389404 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:11 2.900  WFC    0.0  180  B                                
+ 389405 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:12 2.900  WFC    0.0  180  B                                
+ 389406 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:13 2.900  WFC    0.0  180  B                                
+ 389407 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:13 2.900  WFC    0.0  180  B                                
+ 389408 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:14 2.900  WFC    0.0  180  B                                

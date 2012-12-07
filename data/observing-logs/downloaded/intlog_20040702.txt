@@ -1,0 +1,84 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 07 03 03:50
+
+TELESCOPE             INT
+DATE                  20040702
+OBSERVER/S            A. Garcia
+PROGRAMME             CoRoT
+PROPOSAL REF          D/S
+TELESCOPE OPERATOR    no one
+SUPPORT ASTRONOMER    .
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:22
+EVENING TWILIGHT (UT) 21:48
+MORNING TWILIGHT (UT) 04:44
+SUNRISE (UT)          06:10
+%ILLUM. LUNAR DISK    99
+DARK TIME (HRS)       06:56
+TWILIGHT TIME (HRS)   02:52
+MOONRISE (UT)         20:38
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  19.9   15     6.3   7.0   12   777.1   19.9  21.8    21.1   15    16 
+22:00  19.4   14    10.0  11.2  327   777.4   19.4  20.8    21.0   14    14 
+23:00  19.3   15    15.0  16.2    2   777.7   19.3  20.2    21.0   15    15 
+00:00  19.3   14    20.8  21.9    2   777.9   19.3  19.9    21.0   14    15 
+01:00  19.2   15    18.9  22.9  346   777.9   19.2  19.9    21.0   15    15 
+02:00  19.3   14    15.8  17.3   12   777.6   19.3  19.7    20.8   14    15 
+03:00  19.4   15    14.1  15.2    3   777.3   19.4  19.5    20.8   15    16 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Focus oscilating all the night until 0.3 mm!! Impossible to observe...
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 406130 Bias              6:59:59.99 +60:00:00.4 A        12:55 1.175  WFC    0.0  180  B                                
+ 406131 Bias              0:00:00.00 +00:00:00.0 A        17:26 4.541  WFC    0.0  180  r                                
+ 406132 Bias              0:00:00.00 +00:00:00.0 A        17:27 4.541  WFC    0.0  180  r                                
+ 406133 Bias              0:00:00.00 +00:00:00.0 A        17:27 4.541  WFC    0.0  180  r                                
+ 406134 Bias              0:00:00.00 +00:00:00.0 A        17:28 4.541  WFC    0.0  180  r                                
+ 406135 Bias              0:00:00.00 +00:00:00.0 A        17:28 4.541  WFC    0.0  180  r                                
+ 406136 Bias              0:00:00.00 +00:00:00.0 A        17:29 4.541  WFC    0.0  180  r                                
+ 406137 Bias              0:00:00.00 +00:00:00.0 A        17:30 4.541  WFC    0.0  180  r                                
+ 406138 Bias              0:00:00.00 +00:00:00.0 A        17:30 4.541  WFC    0.0  180  r                                
+ 406139 Bias              0:00:00.00 +00:00:00.0 A        17:31 4.541  WFC    0.0  180  r                                
+ 406140 Bias              0:00:00.00 +00:00:00.0 A        17:32 4.541  WFC    0.0  180  r                                
+ 406141 Skyflat Ha 1.5   13:47:42.00 +05:37:35.9 J2000.00 20:26 1.089  WFC    1.6  180  Halpha                           
+ 406142 Skyflat Ha 3     13:47:42.67 +05:37:45.9 J2000.00 20:27 1.089  WFC    3.1  180  Halpha                           
+ 406143 Skyflat Ha 3     13:47:41.32 +05:37:26.1 J2000.00 20:29 1.090  WFC    2.5  180  Halpha                           
+ 406144 Skyflat Ha 3     13:47:43.33 +05:37:56.0 J2000.00 20:30 1.090  WFC    3.1  180  Halpha                           
+ 406145 Skyflat O3 4.5   13:47:43.34 +05:37:56.0 J2000.00 20:31 1.090  WFC    4.6  180  [OIII]5007                       
+ 406146 Skyflat O3 7     13:47:42.67 +05:37:45.9 J2000.00 20:32 1.091  WFC    6.5  180  [OIII]5007                       
+ 406147 Skyflat O3 7     13:47:41.33 +05:37:25.9 J2000.00 20:34 1.091  WFC    6.5  180  [OIII]5007                       
+ 406148 Skyflat O3 9     13:47:40.66 +05:37:16.0 J2000.00 20:35 1.092  WFC    8.6  180  [OIII]5007                       
+ 406149 Skyflat r 4      13:47:40.65 +05:37:16.0 J2000.00 20:38 1.093  WFC    4.1  180  r                                counts a little bit high
+ 406150 Skyflat r 3.5    13:47:42.67 +05:37:45.9 J2000.00 20:40 1.094  WFC    3.6  180  r                                
+ 406151 Skyflat r 4.5    13:47:41.32 +05:37:26.0 J2000.00 20:41 1.094  WFC    4.6  180  r                                
+ 406152 Skyflat r 6      13:47:40.65 +05:37:15.9 J2000.00 20:42 1.095  WFC    6.1  180  r                                
+ 406153 Skyflat r 6      13:47:43.34 +05:37:56.0 J2000.00 20:43 1.096  WFC    6.1  180  r                                
+ 406154 Focus run        17:44:12.30 -00:18:53.0 J2000.00 21:25 1.537  WFC   10.1  180  r                                
+ 406155 Focus run        17:44:12.30 -00:18:53.0 J2000.00 21:33 1.487  WFC    9.1  180  r                                
+ 406156 Focus run        17:44:12.29 -00:18:02.9 J2000.00 21:41 1.448  WFC   10.1  180  stromgren u                      low counts
+ 406157 Focus run        17:44:12.30 -00:18:28.0 J2000.00 21:55 1.394  WFC   45.1  180  stromgren u                      
+ 406158 Focus run        17:44:12.29 -00:18:52.9 J2000.00 22:13 1.328  WFC   60.0  180  stromgren v                      
+ 406160 Focus run        17:44:12.30 -00:18:52.9 J2000.00 22:29 1.276  WFC   50.1  180  stromgren b                      
+ 406161 Focus run        17:44:12.30 -00:18:52.9 J2000.00 22:43 1.241  WFC   50.0  180  stromgren y                      
+ 406162 Focus run        17:44:12.30 -00:18:52.9 J2000.00 22:56 1.214  WFC   44.6  180  stromgren u                      
+ 406163 Focus run        17:44:12.30 -00:18:53.0 J2000.00 23:08 1.193  WFC   45.1  180  stromgren v                      
+ 406164 Focus run        17:44:12.29 -00:18:53.0 J2000.00 23:19 1.177  WFC   45.1  180  stromgren b                      
+ 406165 Focus run        17:44:12.30 -00:18:52.8 J2000.00 23:33 1.163  WFC   45.1  180  stromgren y                      focus oscilating
+ 406167 Focus run        19:47:37.09 +27:21:18.0 J2000.00 00:49 1.059  WFC   10.1  180  r                                focus oscilating
+ 406168 Focus run        19:47:37.09 +27:21:18.0 J2000.00 02:12 1.000  WFC   10.1  180  r                                

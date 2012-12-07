@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 09 08 07:09
+
+TELESCOPE             INT
+DATE                  20110907
+OBSERVER/S            Karjalainen, Hrudkova
+PROGRAMME             Astronomy group training
+PROPOSAL REF          D
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Magill
+
+TEL STATION / FOCUS   Prime  / 43.8
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:35
+EVENING TWILIGHT (UT) 20:48
+MORNING TWILIGHT (UT) 05:32
+SUNRISE (UT)          06:45
+%ILLUM. LUNAR DISK    82
+DARK TIME (HRS)       08:44
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:23
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  19.3   15     9.5  18.0  168   776.5   19.3                 15      #
+21:00  19.0   14     9.0  13.9  184   776.8   19.0                 14      #
+22:00  18.6   14     7.2  19.5  183   777.3   18.6                 14      #
+23:00  19.0   12    14.2  18.2  203   777.6   19.0                 12      #
+00:00  19.0    9    18.9  29.1  208   777.5   19.0   19.     20.    9     15
+01:00  19.0    7    20.9  23.5  231   777.3   19.0   19.     20.    7     13
+02:00  18.1    9     3.4  10.6  172   777.0   18.1   19.     19.    9     14
+03:00  18.5    8     4.2  10.8  188   776.6   18.5   19.     19.    8     13
+04:00  18.6    8     5.9  12.1  177   776.3   18.6   19.     19.    8     13
+05:00  18.9    9     9.9  18.7  196   776.1   18.9   19.     20.    9     15
+06:00  18.8   12    13.8  22.0  194   776.0   18.8   19.     20.   12     17
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Good, seeing 1.2-1.8"
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+PR images, Javier, r842193-842200 KjPn 8; M33 842201-842214
+
+

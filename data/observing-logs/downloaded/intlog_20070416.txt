@@ -1,0 +1,87 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 04 17 06:03
+
+TELESCOPE             INT
+DATE                  20070416
+OBSERVER/S            Ingemar Lundstrom/ Daniel Aden
+PROGRAMME             Two new Milky Way dSph galaxies?
+PROPOSAL REF          P7
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.40
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:45
+EVENING TWILIGHT (UT) 20:59
+MORNING TWILIGHT (UT) 05:22
+SUNRISE (UT)          06:37
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       08:23
+TWILIGHT TIME (HRS)   02:29
+MOONRISE (UT)         06:21
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   0.8   94    12.5  13.2  345   764.6   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   0.2   95    20.6  21.0  346   764.6   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00  -0.3   96    26.3  28.1  341   765.0   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00  -1.1   96    27.3  29.4  341   765.4   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00  -1.0   96    33.4  34.5  347   765.3   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00  -0.5   96    40.8  45.8  346   764.5   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00  -0.7   70    39.9  41.3   70   764.5   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   0.2   49    28.7  30.2   77   764.4   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   0.0   52    29.9  35.1   13   764.0   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00  -0.3   47    34.0  36.3    9   763.7   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00  -1.1   95    35.9  39.7  141   763.4   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           07:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Closed for high humidity until 02:00 UT, closed again at 04:45 for the same reason. Lousy seeing.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 557065 Bias frame        0:00:00.00 +00:00:00.0 2007.289 13:07 4.633  WFC    0.0  180  stromgren b                      
+ 557066 Flat field        0:00:00.00 +00:00:00.0 2007.289 13:11 4.633  WFC    6.1  180  stromgren b                      
+ 557067 Bias              0:00:00.00 +00:00:00.0 2007.289 19:05 4.633  WFC    0.0  180  stromgren b                      
+ 557068 Bias              0:00:00.00 +00:00:00.0 2007.289 19:06 3.924  WFC    0.0  180  stromgren b                      
+ 557069 Bias              0:00:00.00 +00:00:00.0 2007.289 19:06 1.494  WFC    0.0  180  stromgren b                      
+ 557070 Bias              0:00:00.00 +00:00:00.0 2007.289 19:07 1.007  WFC    0.0  180  stromgren b                      
+ 557071 Bias              0:00:00.00 +00:00:00.0 2007.289 19:08 1.000  WFC    0.0  180  stromgren b                      
+ 557072 Bias              0:00:00.00 +00:00:00.0 2007.289 19:08 1.000  WFC    0.0  180  stromgren b                      
+ 557073 Bias              0:00:00.00 +00:00:00.0 2007.289 19:09 1.000  WFC    0.0  180  stromgren b                      
+ 557074 Bias              0:00:00.00 +00:00:00.0 2007.289 19:09 1.000  WFC    0.0  180  stromgren b                      
+ 557075 Bias              0:00:00.00 +00:00:00.0 2007.289 19:10 1.000  WFC    0.0  180  stromgren b                      
+ 557076 Bias              0:00:00.00 +00:00:00.0 2007.289 19:10 1.000  WFC    0.0  180  stromgren b                      
+ 557077 HD158226 y       17:26:43.20 +31:04:37.8 2000.00  01:57 1.288  WFC   10.1  180  stromgren y                      
+ 557078 HD158226 b       17:26:43.20 +31:04:37.9 2000.00  01:59 1.280  WFC   15.1  180  stromgren b                      
+ 557079 HD158226 v       17:26:43.20 +31:04:37.8 2000.00  02:01 1.273  WFC   40.1  180  stromgren v                      
+ 557080 HD158226 u       17:26:43.19 +31:04:37.9 2000.00  02:03 1.264  WFC   90.0  180  stromgren u                      
+ 557081 Focus run        14:40:07.00 +00:01:45.0 2000.00  02:13 1.140  WFC   15.1  180  stromgren y                      
+ 557082 Focus run        14:40:07.00 +00:01:45.1 2000.00  02:21 1.141  WFC   15.1  180  stromgren y                      
+ 557083 Hercules b       16:31:01.99 +12:47:30.0 2000.00  02:30 1.097  WFC 1798.7  180  stromgren b                      
+ 557084 HD158226 y       17:26:43.20 +31:04:37.9 2000.00  03:02 1.106  WFC   10.1  180  stromgren y                      
+ 557085 HD158226 b       17:26:43.19 +31:04:37.9 2000.00  03:03 1.103  WFC   15.1  180  stromgren b                      
+ 557086 HD158226 v       17:26:43.19 +31:04:37.8 2000.00  03:05 1.100  WFC   40.1  180  stromgren v                      
+ 557087 HD158226 u       17:26:43.19 +31:04:37.8 2000.00  03:06 1.096  WFC   90.0  180  stromgren v                      
+ 557088 HD158226 u       17:26:43.20 +31:04:37.8 2000.00  03:09 1.091  WFC   90.0  180  stromgren u                      
+ 557089 Hercules v       16:31:01.99 +12:47:29.9 2000.00  03:17 1.049  WFC 1798.5  180  stromgren v                      
+ 557090 HD138648 y       15:33:56.79 -17:00:08.3 2000.00  03:49 1.464  WFC    5.1  180  stromgren y                      
+ 557091 HD138648 b       15:33:56.79 -17:00:08.1 2000.00  03:51 1.467  WFC   10.1  180  stromgren b                      overexposed
+ 557092 HD138648 b       15:33:56.79 -17:00:08.1 2000.00  03:52 1.469  WFC    6.5  180  stromgren b                      
+ 557093 HD138648 v       15:33:56.79 -17:00:08.2 2000.00  03:54 1.471  WFC   20.1  180  stromgren v                      
+ 557094 HD138648 u       15:33:56.80 -17:00:08.1 2000.00  03:55 1.475  WFC   80.1  180  stromgren u                      
+ 557095 Hercules u       16:31:02.00 +12:48:19.9 2000.00  04:06 1.044  WFC 1799.2  180  stromgren u                      
+ 557096 Bias              0:00:00.00 +00:00:00.0 2000.00  04:49 1.060  WFC    0.0  180  stromgren u                      
+ 557097 Bias              0:00:00.00 +00:00:00.0 2000.00  04:50 1.060  WFC    0.0  180  stromgren u                      
+ 557098 Bias              0:00:00.00 +00:00:00.0 2000.00  04:51 1.061  WFC    0.0  180  stromgren u                      
+ 557099 Bias              0:00:00.00 +00:00:00.0 2000.00  04:51 1.061  WFC    0.0  180  stromgren u                      
+ 557100 Bias              0:00:00.00 +00:00:00.0 2000.00  04:52 1.062  WFC    0.0  180  stromgren u                      

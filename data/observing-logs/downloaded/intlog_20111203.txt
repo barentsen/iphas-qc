@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 12 04 15:32
+
+TELESCOPE             INT
+DATE                  20111203
+OBSERVER/S            Evans
+PROGRAMME             UVEX Survey
+PROPOSAL REF          N2
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:37
+MORNING TWILIGHT (UT) 06:25
+SUNRISE (UT)          07:41
+%ILLUM. LUNAR DISK    65
+DARK TIME (HRS)       10:48
+TWILIGHT TIME (HRS)   02:31
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          02:32
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.8   30    29.1  42.2   92   773.4    5.8    7.      9.   30     34
+20:00   5.7   26    40.2  55.3   85   773.3    5.7    6.      9.   26     29
+21:00   6.2   37    45.1  47.8   66   774.0    6.2    7.      9.   37     39
+22:00   5.2   40    45.9  51.0   63   773.9    5.2    6.      8.   40     41
+23:00   5.9   22    46.6  46.2   67   773.6    5.9    7.      8.   22     23
+00:00   6.4   15    35.9  45.8   44   773.5    6.4    7.      9.   15     19
+01:00   6.1   17    26.9  43.2   60   773.1    6.1    7.      8.   17     16
+02:00   4.8   27    41.6  51.9   85   772.7    4.8    6.      8.   27     30
+03:00   5.1   20    32.9  43.3   74   772.4    5.1    7.      9.   20     22
+04:00   5.0   28    27.4  41.8   67   772.2    5.0    7.      8.   28     28
+05:00   4.3   32    35.4  47.8   56   771.7    4.3    7.      8.   32     35
+06:00   5.2   24    18.5  28.8  127   771.4    5.2    7.      8.   24     27
+07:00   5.4   18    24.0  41.0   62   772.0    5.4    6.      8.   18     21
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clear, windy (~40km/h).
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Evening flats in He1 and U were taking in a field close to the Moon by accident; switched to another field away from the Moon for r and g evening flats.
+**Photometric standards taken during the first half of the night were generally quite close to the Moon: 1. GD248, ~12 degrees 2. BD+28411, ~36 degrees 3. SA113-260, ~30 degrees 4. Feige22, ~40 degrees
+

@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 10 07 08:18
+
+TELESCOPE             INT
+DATE                  20111006
+OBSERVER/S            Vazdekis & Sanchez-Blazquez
+PROGRAMME             C93
+PROPOSAL REF          C93
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    .
+
+TEL STATION / FOCUS   Cassegrain  / 14.6
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:00
+EVENING TWILIGHT (UT) 20:11
+MORNING TWILIGHT (UT) 05:49
+SUNRISE (UT)          07:00
+%ILLUM. LUNAR DISK    78
+DARK TIME (HRS)       09:38
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:12
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   8.1   41    61.9  69.1   78   773.7    8.1   15.     16.   41     37
+20:00   7.7   42    64.4  73.4   14   773.8    7.7   11.     16.   42     39
+21:00   8.2   23    61.3  70.1   18   774.2    8.2   10.     15.   23     27
+22:00   8.3   20    58.8  68.0   23   774.5    8.3    9.     15.   20     26
+23:00   7.5   34    53.0  58.4   31   775.0    7.5    9.     14.   34     36
+00:00   7.7   48    48.1  59.6   47   775.2    7.7   10.     14.   48     49
+01:00   7.4   66    55.0  63.2   46   774.3    7.4    9.     14.   66     66
+02:00   7.2   61    52.5  70.9   53   774.3    7.2    9.     13.   61     61
+03:00   7.0   64    51.5  68.7   65   774.2    7.0    9.     12.   64     62
+04:00   6.7   66    53.7  69.8   73   773.8    6.7    9.     13.   66     64
+05:00   6.6   64    59.3  65.8   76   773.2    6.6    8.     13.   64     64
+06:00   6.6   56    59.0  64.1  102   773.2    6.6    9.     12.   56     62
+07:00   6.7   55    60.4  68.3   88   773.3    6.7    8.     12.   55     60
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Dust all night long, getting better at the end. 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+The TCS window display did not show again. The pointing did not work fine the last part of the session.
+
+

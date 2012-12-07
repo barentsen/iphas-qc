@@ -1,0 +1,68 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 01 22 22:39
+
+TELESCOPE             INT
+DATE                  20110122
+OBSERVER/S            Alba Aller, Ana Ulla, Minia Manteiga
+PROGRAMME             Search of planetary nebulae around hot subdwarfs
+PROPOSAL REF          C28
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Annemieke
+
+TEL STATION / FOCUS    / 43.80
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:49
+EVENING TWILIGHT (UT) 20:04
+MORNING TWILIGHT (UT) 06:42
+SUNRISE (UT)          07:56
+%ILLUM. LUNAR DISK    87
+DARK TIME (HRS)       10:38
+TWILIGHT TIME (HRS)   02:29
+MOONRISE (UT)         21:46
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -1.1   98     0.1   0.5  220   759.3   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00  -0.8   98     1.2   1.8  220   759.8   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00  -0.2   98     0.9   2.2  220   760.3   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00  -0.4   98     0.8   2.1  223   760.4   n.a.  n.a.    n.a.  n.a.   n.a.
+No Met data available for second half of night
+
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+wet, more than 90% humidity, impossible to open dome
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+bad weather, all night lost
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 782316 Bias              0:00:00.00 +00:00:00.0  2000.00 14:40 4.450  WFC    0.0  180  r                                
+ 782317 Bias              0:00:00.00 +00:00:00.0  2000.00 14:41 4.450  WFC    0.0  180  r                                
+ 782318 Bias              0:00:00.00 +00:00:00.0  2000.00 14:42 4.450  WFC    0.0  180  r                                
+ 782319 WASP12B           0:00:00.00 +00:00:00.0  2000.00 14:49 4.450  WFC    2.0  180  r                                
+ 782320 Flat field        2:14:59.99 -09:59:59.9  2000.00 19:33 1.283  WFC   80.0  180  [OIII]5007                       NO VALE (MUCHAS CUENTAS)
+ 782321 Flat field        0:00:00.00 +00:00:00.0  2000.00 19:51 1.366  WFC   80.0  180  [OIII]5007                       no vale (muchas cuentas)
+ 782322 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:00 1.382  WFC   79.6  180  [OIII]5007                       no vale (muchas cuentas)
+ 782323 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:03 1.382  WFC   40.1  180  [OIII]5007                       OK (23959 DE CUENTAS)
+ 782324 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:07 1.382  WFC   39.5  180  [OIII]5007                       OK (25000 cuentas aprox)
+ 782325 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:14 1.385  WFC   40.1  180  [OIII]5007                       ok (25000 cuentas aprox)
+ 782326 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:17 1.388  WFC   39.5  180  [OIII]5007                       ok (25000 cuentas aprox)
+ 782327 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:20 1.388  WFC   40.1  180  Halpha                           no vale (muchas cuentas)
+ 782328 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:22 1.388  WFC   10.1  180  Halpha                           
+ 782329 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:24 1.388  WFC    7.1  180  Halpha                           ok (25000 cuentas aprox)
+ 782330 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:27 1.383  WFC    7.1  180  Halpha                           OK
+ 782331 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:30 1.380  WFC    7.1  180  Halpha                           OK
+ 782332 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:37 1.380  WFC    5.1  180  r                                OK
+ 782333 Bias              4:50:13.51 +17:42:06.1  2000.00 21:44 1.020  WFC    0.0  180  g                                
+ 782334 Bias              4:50:13.51 +17:42:06.1  2000.00 21:45 1.020  WFC    0.0  180  g                                
+ 782335 Bias              4:50:13.50 +17:42:06.1  2000.00 21:45 1.019  WFC    0.0  180  g                                
+ 782336 Bias              4:50:13.50 +17:42:06.1  2000.00 21:46 1.019  WFC    0.0  180  g                                
+ 782337 Bias              4:50:13.51 +17:42:06.1  2000.00 21:47 1.019  WFC    0.0  180  g                                

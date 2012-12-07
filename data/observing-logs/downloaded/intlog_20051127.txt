@@ -1,0 +1,1 @@
+<html><body><html><header><LINK REL=StyleSheet HREF="http://www.ing.iac.es/stylesheets/stylesheet.css" TYPE="text/css"></header><body><b>Sorry, no INT observing log available for 2005-11-27.</b><p>It can happen that a log was not created for a particular night.<p> For further queries, please contact astronomy computing (astrosw@ing.iac.es).</body></html>

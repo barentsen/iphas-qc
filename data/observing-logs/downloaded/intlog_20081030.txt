@@ -1,0 +1,54 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 11 04 14:15
+
+TELESCOPE             INT
+DATE                  20081030
+OBSERVER/S            Vilchez, Iglesias
+PROGRAMME             ITP4: Origin and evolution of fossil galaxy groups
+PROPOSAL REF          ITP4              
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.80
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:35
+EVENING TWILIGHT (UT) 19:48
+MORNING TWILIGHT (UT) 06:03
+SUNRISE (UT)          07:16
+%ILLUM. LUNAR DISK    4
+DARK TIME (HRS)       10:15
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          19:23
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   0.1   99    30.2  44.3   89   768.1    0.1    4.      8.   99     87
+20:00  -0.1   99    45.7  44.1    7   768.2   -0.1    4.      8.   99     87
+21:00   0.1   99    29.7  37.9  138   768.4    0.1    4.      8.   99     86
+22:00  -0.0   99    30.0  33.6   80   768.3   -0.0    4.      8.   99     85
+23:00  -0.6   99    17.4  30.7  281   768.5   -0.6    4.      8.   99     85
+00:00  -2.4   99    14.6  16.2  351   768.2   -2.4    4.      8.   99     82
+01:00  -0.6   99    20.5  26.7  348   767.6   -0.6    3.      8.   99     82
+02:00   0.7   99    15.1  17.9  351   767.6    0.7    4.      8.   99     86
+03:00  -0.9   99    25.0  31.9  346   766.6   -0.9    4.      8.   99     85
+04:00   0.5   99    34.8  40.7  329   766.4    0.5    4.      8.   99     87
+05:00   1.0   99    26.1  31.4  309   766.6    1.0    4.      8.   99     87
+05:00   1.0   99    26.1  31.4  309   766.6    1.0    4.      8.   99     87
+06:00   0.1   99    33.6  41.7  326   766.2    0.1    4.      8.   99     87
+07:00   0.9   99    22.9  27.1  316   766.6    0.9    5.      8.   99     86
+
+TIME LOST weather           10:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% humidity
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Night lost to weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

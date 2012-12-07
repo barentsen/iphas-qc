@@ -1,0 +1,62 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 04 17 04:30
+
+TELESCOPE             INT
+DATE                  20040416
+OBSERVER/S            Rigby/Snellen
+PROGRAMME             Distant FR I radio galaxies
+PROPOSAL REF          p5                 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 44.05
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:45
+EVENING TWILIGHT (UT) 21:00
+MORNING TWILIGHT (UT) 05:21
+SUNRISE (UT)          06:37
+%ILLUM. LUNAR DISK    7
+DARK TIME (HRS)       08:21
+TWILIGHT TIME (HRS)   02:31
+MOONRISE (UT)         05:36
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   0.1   95     9.2  10.9  140   764.8    0.1   7.3     6.7   95    68 
+21:00  -0.2   95     6.1   7.8   77   765.3   -0.2   7.4     6.7   95    68 
+22:00  -0.4   95    11.5  12.1   88   765.8   -0.4   7.6     6.7   95    66 
+23:00  -0.4   95     8.2   8.7   68   766.4   -0.4   7.5     6.7   95    68 
+00:00  -0.2   95     7.1   8.8   80   766.7   -0.2   7.6     6.7   95    67 
+01:00   0.2   96     7.7   9.6   31   766.6    0.2   7.5     6.9   96    68 
+02:00  -0.1   96     7.6   8.2   56   766.2   -0.1   7.4     6.9   96    69 
+03:00  -0.1   96     5.2   5.6   45   765.9   -0.1   7.4     7.0   96    69 
+04:00  -0.6   96     4.4   5.1   88   765.4   -0.6   7.5     7.1   96    68 
+
+TIME LOST weather           07:15
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+no observing - bad weather
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 393347 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 12:56 4.557  WFC    0.0  180  r                                
+ 393348 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 13:00 4.557  WFC    0.0  180  V                                
+ 393349 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:27 4.557  WFC    0.0  180  V                                
+ 393350 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:28 4.557  WFC    0.0  180  V                                
+ 393351 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:28 4.557  WFC    0.0  180  V                                
+ 393352 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:29 4.557  WFC    0.0  180  V                                
+ 393353 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:29 4.557  WFC    0.0  180  V                                
+ 393354 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:30 4.557  WFC    0.0  180  V                                
+ 393355 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:31 4.557  WFC    0.0  180  V                                
+ 393356 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:31 4.557  WFC    0.0  180  V                                
+ 393357 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:32 4.557  WFC    0.0  180  V                                
+ 393358 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:33 4.557  WFC    0.0  180  V                                
+ 393359 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:33 4.557  WFC    0.0  180  V                                

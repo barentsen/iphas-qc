@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 11 07 07:16
+
+TELESCOPE             INT
+DATE                  20111106
+OBSERVER/S            Kupfer
+PROGRAMME             UVEX survey
+PROPOSAL REF          N2
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.41
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:31
+EVENING TWILIGHT (UT) 19:44
+MORNING TWILIGHT (UT) 06:07
+SUNRISE (UT)          07:20
+%ILLUM. LUNAR DISK    87
+DARK TIME (HRS)       10:23
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          04:38
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.6   62    46.9  54.7   18   771.8    4.6    6.     10.   62     58
+20:00   4.5   76    51.0  57.2   24   772.1    4.5    6.     10.   76     73
+21:00   5.0   31    47.5  49.2   83   772.2    5.0    5.      9.   31     39
+22:00   5.0   25    52.6  56.8   19   772.2    5.0    6.      9.   25     34
+23:00   5.6   68    42.9  49.2   40   772.3    5.6    6.      9.   68     66
+00:00   4.9   66    37.0  41.5   43   772.3    4.9    6.      9.   66     65
+01:00   5.3   67    37.2  41.5   29   771.9    5.3    6.      9.   67     67
+02:00   5.2   69    37.6  40.8   26   771.5    5.2    7.      9.   69     68
+03:00   5.1   70    40.9  42.0   24   771.0    5.1    6.      9.   70     71
+04:00   5.1   68    39.0  41.9   16   770.6    5.1    6.      9.   68     70
+05:00   4.8   72    32.5  33.7   21   770.7    4.8    6.      8.   72     73
+06:00   4.7   74    26.6  28.4   18   770.7    4.7    5.      8.   74     76
+07:00   5.4   70    32.3  35.1    5   770.8    5.4    6.      8.   70     74
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+no clouds, high humidity up to 77% throughout the whole night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

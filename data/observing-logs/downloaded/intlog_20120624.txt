@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 06 25 07:35
+
+TELESCOPE             INT
+DATE                  20120624
+OBSERVER/S            Dr. Aghaee
+PROGRAMME             INO1
+PROPOSAL REF          INO1
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Cassegrain  / 16.0
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           20:21
+EVENING TWILIGHT (UT) 21:48
+MORNING TWILIGHT (UT) 04:41
+SUNRISE (UT)          06:07
+%ILLUM. LUNAR DISK    27
+DARK TIME (HRS)       06:53
+TWILIGHT TIME (HRS)   02:53
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          23:38
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  17.1    8    10.2  16.6  181   773.1   17.1   17.     17.    8     21
+22:00  16.8    5     9.8  13.9  184   773.3   16.8   16.     17.    5     11
+23:00  16.8    5     6.9  13.4  168   773.5   16.8   16.     17.    5     11
+00:00  16.9    4    13.1  19.5  181   773.8   16.9   16.     17.    4     10
+01:00  16.8    4    11.6  21.2  166   773.6   16.8   16.     17.    4      9
+02:00  16.3    5    11.2  16.5  173   773.1   16.3   16.     17.    5     10
+03:00  17.1    4    11.6  19.0  167   772.7   17.1   16.     17.    4     10
+04:00  18.3    2    20.5  29.0  179   772.4   18.3   17.     17.    2     10
+05:00  16.0    8    12.0  19.3  175   772.4   16.0   16.     17.    8     13
+06:00  15.3   23    22.8  29.6  190   772.3   15.3   15.     17.   23     24
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

@@ -1,0 +1,63 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 09 25 07:26
+
+TELESCOPE             INT
+DATE                  20100924
+OBSERVER/S            Daniel Lopez
+PROGRAMME             Narrow band Images of M31
+PROPOSAL REF          D
+TELESCOPE OPERATOR    n/a
+SUPPORT ASTRONOMER    n/a
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:14
+EVENING TWILIGHT (UT) 20:26
+MORNING TWILIGHT (UT) 05:43
+SUNRISE (UT)          06:54
+%ILLUM. LUNAR DISK    97
+DARK TIME (HRS)       09:17
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         19:22
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  12.4   80    12.8  27.2  168   772.2   12.4   15.     16.   80     72
+21:00  12.0   83     8.8  19.4  168   772.4   12.0   15.     16.   83     71
+22:00  12.2   77    16.9  25.3  172   772.7   12.2   15.     16.   77     70
+23:00  12.1   78    12.1  20.8  182   773.1   12.1   15.     16.   78     71
+00:00  12.6   70    12.0  20.0  159   772.8   12.6   15.     16.   70     68
+01:00  12.8   65    13.6  23.7  159   772.6   12.8   15.     16.   65     64
+02:00  12.5   74    12.1  19.7  170   772.4   12.5   15.     16.   74     65
+03:00  12.0   74     6.4   9.5  166   772.1   12.0   15.     16.   74     67
+04:00  12.1   71    11.1  19.6  156   771.5   12.1   14.     16.   71     66
+05:00  12.0   71    15.3  30.9  182   771.3   12.0   14.     16.   71     66
+06:00  12.0   69    16.2  22.4  186   771.2   12.0   14.     16.   69     64
+
+TIME LOST weather           09:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloud cover and humidity.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+I did not open the telescope, cloud cover and humidity
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 759632 Bias frame        0:00:00.00 +00:00:00.0  2010.73 13:29 1.000  WFC    0.0  180  stromgren y                      
+ 759633 Flat field        0:00:00.00 +00:00:00.0  2010.73 13:51 1.000  WFC   15.1  180  stromgren y                      
+ 759634 Bias frame        0:00:00.00 +00:00:00.0  2010.73 00:45 1.000  WFC    0.0  180  stromgren y                      
+ 759635 Bias frame        0:00:00.00 +00:00:00.0  2010.73 00:45 1.000  WFC    0.0  180  stromgren y                      
+ 759636 Bias frame        0:00:00.00 +00:00:00.0  2010.73 00:46 1.000  WFC    0.0  180  stromgren y                      
+ 759637 Bias frame        0:00:00.00 +00:00:00.0  2010.73 00:46 1.000  WFC    0.0  180  stromgren y                      
+ 759638 Bias frame        0:00:00.00 +00:00:00.0  2010.73 00:47 1.000  WFC    0.0  180  stromgren y                      
+ 759639 Bias frame        0:00:00.00 +00:00:00.0  2010.73 00:47 1.000  WFC    0.0  180  stromgren y                      
+ 759640 Bias frame        0:00:00.00 +00:00:00.0  2010.73 00:48 1.000  WFC    0.0  180  stromgren y                      
+ 759641 Bias frame        0:00:00.00 +00:00:00.0  2010.73 00:48 1.000  WFC    0.0  180  stromgren y                      
+ 759642 Bias frame        0:00:00.00 +00:00:00.0  2010.73 00:49 1.000  WFC    0.0  180  stromgren y                      
+ 759643 Bias frame        0:00:00.00 +00:00:00.0  2010.73 00:49 1.000  WFC    0.0  180  stromgren y                      

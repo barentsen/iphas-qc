@@ -1,0 +1,68 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 04 18 05:49
+
+TELESCOPE             INT
+DATE                  20040417
+OBSERVER/S            Rigby/Snellen
+PROGRAMME             Distant FR I radio galaxies
+PROPOSAL REF          p5                 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:46
+EVENING TWILIGHT (UT) 21:01
+MORNING TWILIGHT (UT) 05:20
+SUNRISE (UT)          06:35
+%ILLUM. LUNAR DISK    3
+DARK TIME (HRS)       08:19
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         06:04
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -0.1   95    24.2  31.7    6   767.2   -0.1   7.5     7.8   95    67 
+21:00  -1.0   95    26.2  32.5  321   767.2   -1.0   7.4     7.8   95    65 
+22:00  -1.1   95    27.9  31.5  349   767.7   -1.1   6.9     7.8   95    66 
+23:00  -2.2   95    35.1  39.3  336   768.1   -2.2   6.5     7.9   95    66 
+00:00  -2.8   95    24.7  25.2  323   768.0   -2.8   5.6     8.0   95    64 
+01:00  -0.4   48    24.6  26.2  307   768.0   -0.4   2.2     7.3   48    36 
+02:00  -1.0   42    26.8  29.3  336   767.4   -1.0   1.5     7.0   42    71 
+03:00  -1.3   94    32.3  38.1  354   767.1   -1.3   1.7     6.8   94    82 
+04:00  -1.8   95    31.0  35.5  344   766.6   -1.8   2.0     6.5   95    84 
+05:00  -2.4   94    31.6  38.4  344   766.1   -2.4   1.7     6.4   94    82 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+opened the dome for one hour
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+bad weather.....again....
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 393360 Bias              0:00:00.00 +00:00:00.0 J2000.00 14:01 4.341  WFC    0.0  180  g                                
+ 393361 Bias              0:00:00.00 +00:00:00.0 J2000.00 14:21 4.341  WFC    0.0  180  g                                
+ 393362 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:51 4.341  WFC    0.0  180  g                                
+ 393363 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:52 4.341  WFC    0.0  180  g                                
+ 393364 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:53 4.341  WFC    0.0  180  g                                
+ 393365 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:53 4.341  WFC    0.0  180  g                                
+ 393366 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:54 4.341  WFC    0.0  180  g                                
+ 393367 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:55 4.341  WFC    0.0  180  g                                
+ 393368 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:55 4.341  WFC    0.0  180  g                                
+ 393369 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:56 4.341  WFC    0.0  180  g                                
+ 393370 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:56 4.341  WFC    0.0  180  g                                
+ 393371 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:57 4.341  WFC    0.0  180  g                                
+ 393372 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:58 4.341  WFC    0.0  180  g                                
+ 393373 Focus run         8:42:13.99 +44:51:51.9 B1950.00 23:21 1.309  WFC   10.1  180  g                                
+ 393374 lynx1 rband 720s  8:42:14.00 +44:49:21.9 B1950.00 23:29 1.367  WFC  719.7  180  r                                
+ 393375 lynx2 rband 720s  8:42:16.80 +44:49:52.1 B1950.00 23:44 1.430  WFC  719.7  180  r                                
+ 393376 lynx3 rband 720s  8:42:08.40 +44:50:22.0 B1950.00 23:59 1.504  WFC  719.6  180  r                                
+ 393378 Bias              0:00:00.00 +00:00:00.0 B1950.00 00:37 1.582  WFC    0.0  180  r                                

@@ -1,0 +1,118 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 03 28 07:49
+
+TELESCOPE             INT
+DATE                  20110327
+OBSERVER/S            Paloma I Martinez Navajas, Katherine Tugwell
+PROGRAMME             ITP
+PROPOSAL REF          ITP2               
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    NA
+
+TEL STATION / FOCUS    / 43.7
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:33
+EVENING TWILIGHT (UT) 20:45
+MORNING TWILIGHT (UT) 05:48
+SUNRISE (UT)          07:00
+%ILLUM. LUNAR DISK    35
+DARK TIME (HRS)       09:03
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         03:16
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   7.8   20     9.5   9.8   28   772.0   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   7.1   25    18.8  19.3   21   772.2   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   7.6   20    22.0  23.6    1   772.8   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   6.6   27    21.8  23.9   19   773.1   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   6.9   24    19.8  20.1   17   773.4   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   6.8   25    23.3  24.7   84   773.2   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   6.0   27    23.4  25.6  145   773.0   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   6.2   27    28.3  29.3   19   772.8   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   6.5   22    25.4  26.0   22   772.5   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   6.8   19    20.9  22.0   33   772.3   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   7.3   21    20.2  21.3   39   772.0   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   7.1   22    21.2  22.1   26   772.3   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+clear all the night, low humidity, good seeing (1.0-1.4 arcsec)
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+problems with computer not responding to offset command at end of night. 
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 790879 skyflat_i         0:00:00.00 +00:00:00.0  2000.00 19:49 1.133  WFC    2.1  180  i                                first i-band flat can be ignored
+ 790880 skyflat_i         8:01:00.00 +50:00:00.0  2000.00 19:59 1.091  WFC    2.1  180  i                                
+ 790881 skyflat_i         8:01:00.00 +50:00:20.0  2000.00 20:00 1.090  WFC    2.1  180  i                                
+ 790882 skyflat_i         8:01:02.07 +50:00:19.9  2000.00 20:02 1.089  WFC    2.1  180  i                                
+ 790883 skyflat_i         8:00:59.99 +50:00:20.0  2000.00 20:04 1.088  WFC    2.1  180  i                                
+ 790884 skyflat_i         8:01:00.00 +50:00:20.0  2000.00 20:05 1.087  WFC    4.6  180  i                                
+ 790885 skyflat_i         8:01:00.00 +50:00:20.0  2000.00 20:07 1.086  WFC   10.1  180  i                                
+ 790886 skyflat_i         8:01:02.07 +49:59:59.8  2000.00 20:09 1.085  WFC   20.1  180  i                                
+ 790887 skyflat_r         8:01:02.07 +50:00:00.0  2000.00 20:11 1.083  WFC   10.1  180  r                                
+ 790888 skyflat_r         8:01:02.07 +49:59:59.9  2000.00 20:13 1.083  WFC   40.1  180  r                                
+ 790889 skyflat_r         8:01:00.00 +50:00:19.9  2000.00 20:15 1.081  WFC   60.0  180  r                                
+ 790890 skyflat_r         8:01:02.07 +50:00:19.9  2000.00 20:17 1.080  WFC  100.1  180  r                                
+ 790891 Focus run        10:51:00.10 +57:39:59.9  2000.00 20:29 1.399  WFC   10.1  180  g                                
+ 790892 Focus run        10:51:00.09 +57:40:00.0  2000.00 20:40 1.366  WFC    8.1  180  g                                
+ 790893 Bias             10:51:00.09 +57:40:00.0  2000.00 20:47 1.343  WFC    0.0  180  g                                
+ 790894 Bias             10:51:00.10 +57:40:00.0  2000.00 20:48 1.341  WFC    0.0  180  g                                
+ 790895 Bias             10:51:00.09 +57:40:00.0  2000.00 20:49 1.339  WFC    0.0  180  g                                
+ 790896 Bias             10:51:00.10 +57:39:59.9  2000.00 20:49 1.337  WFC    0.0  180  g                                
+ 790897 Bias             10:51:00.10 +57:40:00.0  2000.00 20:50 1.335  WFC    0.0  180  g                                
+ 790898 hermes_lock_076  10:51:00.10 +57:39:59.9  2000.00 20:52 1.324  WFC  299.9  180  g                                
+ 790899 hermes_lock_076  10:51:00.10 +57:39:59.9  2000.00 21:02 1.302  WFC  299.9  180  g                                
+ 790900 hermes_lock_076  10:51:00.10 +57:40:00.0  2000.00 21:08 1.288  WFC  299.9  180  g                                
+ 790901 hermes_lock_076  10:51:00.10 +57:40:30.0  2000.00 21:15 1.275  WFC  299.9  180  g                                
+ 790902 hermes_lock_076  10:51:00.10 +57:40:30.0  2000.00 21:21 1.263  WFC  299.9  180  g                                
+ 790903 hermes_lock_076  10:51:00.10 +57:40:29.9  2000.00 21:27 1.252  WFC  299.9  180  g                                
+ 790904 hermes_lock_076  10:51:03.83 +57:40:29.9  2000.00 21:33 1.242  WFC  299.9  180  g                                
+ 790905 hermes_lock_076  10:51:03.83 +57:40:30.0  2000.00 21:39 1.232  WFC  299.9  180  g                                
+ 790906 hermes_lock_076  10:51:03.84 +57:40:29.9  2000.00 21:45 1.223  WFC  299.3  180  g                                
+ 790907 hermes_lock_076  10:51:03.84 +57:40:00.2  2000.00 21:51 1.214  WFC  299.9  180  g                                
+ 790908 hermes_lock_076  10:51:03.83 +57:40:00.0  2000.00 21:57 1.206  WFC  299.9  180  g                                
+ 790909 hermes_lock_076  10:51:03.83 +57:39:59.9  2000.00 22:03 1.198  WFC  299.9  180  g                                
+ 790910 hermes_lock_104  10:58:58.74 +57:40:00.0  2000.00 22:15 1.187  WFC  899.5  180  g                                
+ 790911 hermes_lock_104  10:59:02.48 +57:39:59.9  2000.00 22:32 1.172  WFC  899.5  180  g                                
+ 790912 hermes_lock_104  10:58:58.73 +57:40:29.8  2000.00 22:48 1.159  WFC  899.5  180  g                                
+ 790913 hermes_lock_104  10:59:02.48 +57:40:29.9  2000.00 23:05 1.150  WFC  899.6  180  g                                
+ 790914 hermes_lock_081  10:51:11.73 +59:20:00.0  2000.00 23:27 1.161  WFC  899.5  180  g                                
+ 790915 hermes_lock_081  10:51:11.73 +59:20:29.8  2000.00 23:44 1.161  WFC  899.5  180  g                                guiding failed - retook expsoure
+ 790917 hermes_lock_081  10:51:11.72 +59:20:30.0  2000.00 00:00 1.163  WFC  161.1  180  g                                guilding failed
+ 790918 hermes_lock_081  10:51:15.65 +59:20:30.0  2000.00 00:16 1.170  WFC  899.5  180  g                                
+ 790919 hermes_lock_081  10:51:11.73 +59:20:30.0  2000.00 00:36 1.182  WFC  899.6  180  g                                guiding failed
+ 790920 hermes_lock_081  10:51:15.65 +59:20:00.1  2000.00 00:52 1.195  WFC  899.0  180  g                                guilding failed
+ 790921 hermes_lock_081  10:51:15.65 +59:20:00.0  2000.00 01:17 1.222  WFC  899.4  180  g                                
+ 790922 hermes_lock_081  10:51:11.73 +59:20:30.0  2000.00 01:34 1.246  WFC  899.6  180  g                                guiding failed
+ 790923 hermes_lock_081  10:51:11.73 +59:20:29.9  2000.00 01:55 1.280  WFC  899.5  180  g                                
+ 790924 hermes_lock_073  10:50:53.70 +56:39:59.9  2000.00 02:15 1.297  WFC  899.6  180  g                                
+ 790925 hermes_lock_073  10:50:57.35 +56:40:00.0  2000.00 02:35 1.347  WFC  899.5  180  g                                
+ 790926 hermes_lock_073  10:50:57.35 +56:40:29.9  2000.00 02:53 1.398  WFC  899.0  180  g                                
+ 790927 hermes_lock_073  10:50:53.71 +56:40:30.0  2000.00 03:13 1.469  WFC  899.5  180  g                                
+ 790928 hermes_fls_011   17:11:53.90 +58:29:59.9  2000.00 03:36 1.271  WFC  899.0  180  g                                
+ 790929 hermes_fls_011   17:11:53.90 +58:30:00.0  2000.00 03:52 1.242  WFC  899.5  180  r                                
+ 790930 hermes_fls_011   17:11:53.90 +58:30:00.0  2000.00 04:09 1.218  WFC  899.5  180  i                                
+ 790932 hermes_fls_016   17:11:53.89 +60:10:00.0  2000.00 04:31 1.219  WFC   30.4  180  i                                entered an incorrect pointing - ignor this expsoure
+ 790933 hermes_fls_016   17:11:53.89 +60:10:00.0  2000.00 04:31 1.215  WFC  240.2  180  i                                exposure stopped after 240s - do not know why - ignor expsure
+ 790934 hermes_fls_015   17:11:53.90 +59:49:59.9  2000.00 04:31 1.206  WFC  546.2  180  i                                exposure stopped after 546s - therefore reset time on INT WFC screen - ignor image
+ 790935 hermes_fls_015   17:11:53.90 +59:50:00.0  2000.00 04:45 1.195  WFC  899.6  180  g                                
+ 790936 hermes_fls_015   17:11:53.89 +59:50:00.1  2000.00 05:02 1.183  WFC  899.1  180  r                                
+ 790937 hermes_fls_015   17:11:53.89 +59:50:00.0  2000.00 05:18 1.175  WFC  899.5  180  i                                
+ 790938 skyflat_g        16:59:59.99 +40:59:59.9  2000.00 06:25 1.032  WFC   80.0  180  g                                
+ 790939 skyflat_g        17:00:00.00 +41:00:00.0  2000.00 06:28 1.033  WFC   80.0  180  g                                
+ 790940 skyflat_g         0:00:00.00 +00:00:00.0  2000.00 06:35 1.261  WFC   60.1  180  g                                
+ 790941 skyflat_g        17:59:44.00 +66:21:19.0  2000.00 06:37 1.262  WFC   20.1  180  g                                
+ 790942 skyflat_g        17:59:43.99 +66:21:19.0  2000.00 06:39 1.262  WFC    7.1  180  g                                
+ 790943 skyflat_g        17:59:44.00 +66:21:18.9  2000.00 06:40 1.262  WFC    4.1  180  g                                
+ 790944 skyflat_g        17:59:44.00 +66:21:19.0  2000.00 06:41 1.262  WFC    2.1  180  g                                
+ 790945 skyflat_g        17:59:44.00 +66:21:18.9  2000.00 06:43 1.261  WFC    2.1  180  g                                
+ 790946 skyflat_r        17:59:44.00 +66:21:19.0  2000.00 06:44 1.261  WFC    5.1  180  r                                

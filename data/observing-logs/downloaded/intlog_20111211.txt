@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 12 12 08:35
+
+TELESCOPE             INT
+DATE                  20111211
+OBSERVER/S            Hugo, Mansour, Hassan
+PROGRAMME             Tracking asteroid and testing guiding and flexure of telescope for Ovidiu; extra-solar planet transit for Raine
+PROPOSAL REF          D
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Hugo
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:39
+MORNING TWILIGHT (UT) 06:30
+SUNRISE (UT)          07:47
+%ILLUM. LUNAR DISK    98
+DARK TIME (HRS)       10:51
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         19:06
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.0   33    25.4  28.3  350   772.7    4.0    6.      8.   33     34
+20:00   3.8   40    17.7  21.6    3   773.2    3.8    6.      8.   40     37
+21:00   3.7   45    24.5  26.9    0   773.5    3.7    5.      8.   45     45
+22:00   3.7   49    15.2  15.9   22   773.7    3.7    5.      8.   49     48
+23:00   4.3   29     9.4   9.5   83   773.9    4.3    5.      7.   29     49
+00:00   3.8   36     4.0   4.9  198   773.9    3.8    5.      7.   36     38
+01:00   4.2   29     1.7   4.7  174   773.7    4.2    5.      7.   29     32
+02:00   3.8   34     0.4   2.1  155   773.7    3.8    5.      7.   34     38
+03:00   3.4   44     0.2   0.3  169   773.5    3.4    4.      7.   44     45
+04:00   3.0   46     0.3   0.7  178   773.3    3.0    4.      7.   46     47
+05:00   1.9   96    18.5  20.4   94   773.2    1.9    4.      7.   96     86
+06:00   3.9   32     8.8  14.4  315   773.0    3.9    4.      7.   32     39
+07:00   3.9   30     8.4  10.7  331   773.4    3.9    4.      6.   30     37
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+good except for a wet period
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

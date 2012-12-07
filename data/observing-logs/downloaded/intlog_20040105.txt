@@ -1,0 +1,60 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 01 06 03:48
+
+TELESCOPE             INT
+DATE                  20040105
+OBSERVER/S            Degg+Guterman
+PROGRAMME             The STARFORM/H-alpha survey: Probing the recent history of star formation in spirals
+PROPOSAL REF          N5
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Dimitris
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:35
+EVENING TWILIGHT (UT) 19:52
+MORNING TWILIGHT (UT) 06:42
+SUNRISE (UT)          07:58
+%ILLUM. LUNAR DISK    97
+DARK TIME (HRS)       10:50
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          07:24
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   0.5   95     5.7   6.3  184   764.8    0.5  10.6     9.7   95    57 
+20:00   0.1   95    19.4  20.3    4   764.7    0.1  10.8     9.8   95    55 
+21:00   0.2   96     8.2   8.8    1   765.1    0.2  10.0    10.0   96    56 
+22:00   0.1   96     8.2  10.1  174   765.5    0.1   9.7    10.0   96    56 
+23:00   0.1   96    13.4  14.5  149   765.7    0.1   9.7    10.1   96    58 
+00:00   0.0   96    13.6  14.5  140   765.7    0.0   8.8    10.1   96    58 
+01:00  -0.2   96    27.5  29.4  143   765.5   -0.2   8.4    10.0   96    60 
+02:00  -0.1   96    30.8  32.0  156   765.5   -0.1   7.4     9.9   96    63 
+03:00  -0.1   96    20.7  23.3  159   765.6   -0.1   7.3     9.9   96    63 
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+bad
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+no observation possible
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 384763 Bias              0:00:00.00 +00:00:00.0 J2000.00 11:39 1.000  WFC    0.0  180  r                                
+ 384764 STAR1             0:00:00.00 +00:00:00.0 J2000.00 11:46 1.000  WFC    2.0  180  redshifted                       
+ 384765 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:49 1.000  WFC    0.0  180  redshifted                       
+ 384766 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:50 1.000  WFC    0.0  180  redshifted                       
+ 384767 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:51 1.000  WFC    0.0  180  redshifted                       
+ 384768 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:52 1.000  WFC    0.0  180  redshifted                       
+ 384769 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:52 1.000  WFC    0.0  180  redshifted                       
+ 384770 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:53 1.000  WFC    0.0  180  redshifted                       
+ 384771 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:54 1.000  WFC    0.0  180  redshifted                       
+ 384772 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:55 1.000  WFC    0.0  180  redshifted                       
+ 384773 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:55 1.000  WFC    0.0  180  redshifted                       no observations possible tonight

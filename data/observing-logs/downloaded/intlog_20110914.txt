@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 09 15 06:35
+
+TELESCOPE             INT
+DATE                  20110914
+OBSERVER/S            Dora, Hugo
+PROGRAMME             Donut guiding test, transit and PR observations.
+PROPOSAL REF          D night            
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Marie
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:26
+EVENING TWILIGHT (UT) 20:39
+MORNING TWILIGHT (UT) 05:37
+SUNRISE (UT)          06:49
+%ILLUM. LUNAR DISK    94
+DARK TIME (HRS)       08:58
+TWILIGHT TIME (HRS)   02:25
+MOONRISE (UT)         20:08
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   9.2   41    16.8  17.4   22   769.6    9.2   17.     17.   41     34
+21:00  11.6   15    20.7  22.7   21   769.8   11.6   13.     17.   15     28
+22:00   8.9   47    27.5  28.1   16   769.9    8.9   11.     15.   47     53
+23:00   9.4   42    29.7  33.4    9   770.2    9.4   10.     15.   42     50
+00:00   9.5   42    29.8  31.1   27   770.3    9.5                 42      #
+01:00   9.6   45    27.5  29.0   31   770.2    9.6   10.     15.   45     49
+02:00   9.3   46    27.0  28.2   27   769.9    9.3   10.     15.   46     48
+03:00   9.3   46    26.5  27.1   22   769.6    9.3   10.     15.   46     48
+04:00  10.4   24    29.5  28.3   26   769.2   10.4   10.     15.   24     29
+05:00   9.4   28    30.2  32.1   32   768.9    9.4   10.     15.   28     39
+06:00   9.2   40    27.3  27.5   36   768.8    9.2   10.     14.   40     47
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+clear, seeing got worse in the first half (around 2"), in the second part around 1".
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

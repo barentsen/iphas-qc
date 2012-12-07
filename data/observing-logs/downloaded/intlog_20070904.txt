@@ -1,0 +1,51 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 07 04 08:04
+
+TELESCOPE             INT
+DATE                  20070904
+OBSERVER/S            Fiona McGroart
+PROGRAMME             Final Epoch Observations of Parsec Scale Outflows from Intermediate-Mass Young Stars.
+PROPOSAL REF          P21
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Maria Rubio
+
+TEL STATION / FOCUS    / 43.79
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:38
+EVENING TWILIGHT (UT) 20:52
+MORNING TWILIGHT (UT) 05:30
+SUNRISE (UT)          06:44
+%ILLUM. LUNAR DISK    40
+DARK TIME (HRS)       08:38
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         00:32
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  12.5   30    35.4  38.5   49   772.5   12.5  15.9    19.1   30    28 
+21:00  12.2   32    35.5  42.7   52   772.8   12.2  13.5    18.7   32    33 
+22:00  12.1   29    38.1  43.9   64   773.0   12.1  13.2    18.3   29    31 
+23:00  11.0   41    28.2  32.8   80   773.3   11.0  12.4    17.7   41    41 
+00:00  11.2   37    25.6  33.0   54   773.3   11.2  12.3    17.4   37    40 
+01:00  11.0   36    27.5  29.6   52   773.0   11.0  12.6    16.2   36    37 
+02:00  10.4   46    22.3  24.2    5   772.3   10.4  12.3    16.1   46    44 
+03:00  10.0   53    26.3  28.3   50   771.6   10.0  11.9    16.0   53    51 
+04:00   9.8   56    30.7  36.3   63   771.4    9.8  11.1    16.6   56    55 
+05:00   9.5   59    33.7  37.8  193   770.8    9.5  10.7    16.3   59    59 
+06:00   8.7   52    31.7  37.2  326   770.4    8.7  10.1    16.1   52    53 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Very bad seeing at the start of the night (~3''). Improved to between 2.4'' to 1.5'' after ~22.30UT but was no better than 1.5''. 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Had problems getting flat fields at the start of the night - all the skyflat regins observed had stars in them. About 30 mins lost at the start of the night over this plus have no flat fields from the start of the night.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

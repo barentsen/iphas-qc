@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 06 21 06:50
+
+TELESCOPE             INT
+DATE                  20120620
+OBSERVER/S            Hugo Ledo
+PROGRAMME             D night
+PROPOSAL REF          D
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Hugo Ledo
+
+TEL STATION / FOCUS   Cassegrain  / 15.8
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           20:20
+EVENING TWILIGHT (UT) 21:47
+MORNING TWILIGHT (UT) 04:39
+SUNRISE (UT)          06:06
+%ILLUM. LUNAR DISK    2
+DARK TIME (HRS)       06:52
+TWILIGHT TIME (HRS)   02:54
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:04
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  14.3   35     8.5  10.4  267   773.9   14.3   16.     16.   35     42
+22:00  14.3   30     9.6  12.6  226   774.0   14.3   14.     16.   30     34
+23:00  14.5   27    15.0  18.0  250   774.4   14.5   14.     16.   27     31
+00:00  14.2   31    20.2  22.9  255   774.5   14.2   14.     16.   31     34
+01:00  13.8   31    20.1  24.7  250   774.5   13.8   14.     16.   31     35
+02:00  13.6   32    18.7  21.9  255   774.3   13.6   13.     16.   32     35
+03:00  12.7   30    16.5  18.5  272   773.9   12.7   13.     16.   30     34
+04:00  12.0   37    17.0  20.8  281   773.5   12.0   12.     15.   37     42
+05:00  12.4   34    13.9  17.7  262   773.3   12.4   12.     15.   34     39
+06:00  12.1   36    14.1  15.9  280   773.3   12.1   12.     15.   36     39
+
+TIME LOST weather           00:00
+TIME LOST Technical         02:30
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+TCS and IDS problems
+
+

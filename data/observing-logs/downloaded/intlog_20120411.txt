@@ -1,0 +1,44 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 04 12 02:42
+
+TELESCOPE             INT
+DATE                  20120411
+OBSERVER/S            Y Gomez Maqueo Chew
+PROGRAMME             P12 
+PROPOSAL REF          P12
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    N/A
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:42
+EVENING TWILIGHT (UT) 20:56
+MORNING TWILIGHT (UT) 05:28
+SUNRISE (UT)          06:42
+%ILLUM. LUNAR DISK    66
+DARK TIME (HRS)       08:32
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         00:50
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -1.1   98    27.4  39.1  334   765.4   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00  -2.4   93    18.9  23.8  331   765.9   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00  -2.4   82    33.6  39.4  334   766.3   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00  -2.0   98    26.4  43.7  335   766.6   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00  -2.5   91    42.0  62.2  350   766.5   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00  -1.4   98    32.5  50.6  278   766.7   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00  -0.1   99    29.5  43.7  332   766.6   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           9:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Humidity above 90% all night, and winds of about 40 km/s. Some precipitation. 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+We did not open the telescope and are giving up for the night.  
+
+

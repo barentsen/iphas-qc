@@ -1,0 +1,73 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 09 17 06:28
+
+TELESCOPE             INT
+DATE                  20040916
+OBSERVER/S            Reverte-Paya
+PROGRAMME             Vilchez C4
+PROPOSAL REF          Vilchez C4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    R. Greimel
+
+TEL STATION / FOCUS   Prime  / 43.95
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:23
+EVENING TWILIGHT (UT) 20:35
+MORNING TWILIGHT (UT) 05:38
+SUNRISE (UT)          06:50
+%ILLUM. LUNAR DISK    7
+DARK TIME (HRS)       09:03
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          20:40
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  11.1    8    20.3  21.5    6   770.5   11.1  15.7    14.8    8    19 
+21:00   5.9   99    24.7  27.7   30   770.7    5.9  15.6    15.0   99    37 
+22:00  10.6   15    22.8  24.6   39   771.3   10.6  11.8    14.8   15    21 
+23:00   5.9   97    34.6  39.6   20   771.6    5.9   8.9    14.7   97    74 
+00:00  11.0   22    11.9  13.7   73   771.6   11.0  11.6    14.5   22    40 
+01:00   6.1   96    32.0  35.5   42   771.5    6.1  10.7    14.5   96    65 
+02:00   8.8   34    10.8  12.3    1   771.3    8.8  12.1    14.4   34    58 
+03:00  10.0   19    11.8  14.7  110   771.2   10.0  11.5    14.2   19    25 
+04:00   9.8   25    18.3  21.8  116   770.7    9.8  10.7    14.1   25    27 
+05:00   8.5   40    17.7  18.4  139   770.3    8.5  10.1    13.9   40    36 
+06:00   4.4   96    11.4  13.7  151   770.5    4.4   8.2    13.8   96    72 
+
+TIME LOST weather           04:00
+TIME LOST Technical         01:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Rain and high %RH first half of night. Same conditions intermittent. Bad again at the end of night. 3 good hour in the middle of night. Seeing ~2"
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+The Autoguider was knockout all night. Tracking unsuccesful over 50 seconds. I had to reboot but it still worked bad. Better from second time I rebooted.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 422948 Bias             11:30:00.00 +20:00:00.0 A        13:25 1.018  WFC    0.0  180  Halpha                           
+ 422949 Focus run        23:23:35.63 +15:46:20.0 B1950.00 20:52 1.828  WFC   10.1  180  r                                bad focus
+ 422950 Focus run        23:23:35.63 +15:43:50.0 B1950.00 21:04 1.713  WFC   10.1  180  r                                
+ 422951 SP2323+157 SII   23:23:35.63 +15:43:50.1 B1950.00 21:06 1.666  WFC  120.0  180  [SII]6725                        low signal
+ 422952 SP2323+157 SII   23:23:35.63 +15:43:50.1 B1950.00 21:10 1.625  WFC  240.0  180  [SII]6725                        
+ 422953 SP2323+157 SII   23:23:35.63 +15:43:50.0 B1950.00 21:16 1.583  WFC  239.4  180  [SII]6725                        
+ 422954 A2666E  SII      23:52:21.41 +27:21:25.5 J2000.00 21:23 1.570  WFC  599.7  180  [SII]6725                        
+ 422955 A2666E  SII      23:52:21.40 +27:21:25.8 J2000.00 21:34 1.494  WFC  599.7  180  [SII]6725                        bad guiding. Hunidity increasing. Have to close
+ 422956 A2666E  SII      23:52:21.40 +27:21:25.7 J2000.00 23:10 1.119  WFC  912.9  180  [SII]6725                        Bad guiding. Rubbish. %RH increases. Have to close again
+ 422957 SP2323+157 SII   23:23:35.63 +15:43:50.2 B1950.00 01:16 1.031  WFC  299.4  180  [SII]6725                        
+ 422958 GRB04   r        23:01:29.99 -05:34:59.9 J2000.00 01:25 1.260  WFC  599.7  180  r                                
+ 422959 A2666E  SII      23:52:21.41 +27:21:25.8 J2000.00 01:40 1.008  WFC 1199.4  180  [SII]6725                        Inservible. Bad guiding.
+ 422960 A2666E  Ha       23:52:21.41 +27:21:25.7 J2000.00 02:06 1.021  WFC  599.8  180  Halpha                           
+ 422961 A2666E  Ha       23:52:21.41 +27:21:25.7 J2000.00 02:22 1.037  WFC  599.8  180  Halpha                           bad guiding. Rubbish
+ 422962 A2666E  Ha       23:52:21.41 +27:21:25.7 J2000.00 02:34 1.058  WFC 1199.4  180  Halpha                           
+ 422963 A2666E  Ha       23:52:21.41 +27:21:25.7 J2000.00 02:58 1.088  WFC  599.7  180  Halpha                           
+ 422964 SP0501+527 SII    5:05:30.61 +52:49:55.6 J2000.00 03:12 1.378  WFC   50.1  180  [SII]6725                        Bad guiding.
+ 422965 SP0501+527        5:05:30.62 +52:49:55.5 J2000.00 03:22 1.345  WFC   49.5  180  [SII]6725                        
+ 422966 SP0501+527        5:05:30.61 +52:49:55.5 J2000.00 03:25 1.335  WFC   50.1  180  [SII]6725                        
+ 422967 A400SE  SII       2:59:10.49 +05:47:37.9 J2000.00 03:36 1.101  WFC 1198.8  180  [SII]6725                        
+ 422968 A400SE  SII       2:59:10.49 +05:47:37.9 J2000.00 04:07 1.087  WFC 1199.3  180  [SII]6725                        
+ 422969 A400SE  SII       2:59:10.50 +05:47:38.1 J2000.00 04:30 1.087  WFC  816.5  180  [SII]6725                        Have to finished. %RH Alarm.

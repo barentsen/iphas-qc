@@ -1,0 +1,51 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 04 08 10:31
+
+TELESCOPE             INT
+DATE                  20080406
+OBSERVER/S            Deshev
+PROGRAMME             Wide field imaging of galaxy clusters at z=0.2
+PROPOSAL REF          N4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Tiina
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:39
+EVENING TWILIGHT (UT) 20:53
+MORNING TWILIGHT (UT) 05:34
+SUNRISE (UT)          06:47
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       08:41
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          20:20
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   2.0  100    42.9  47.1  200   757.0    2.0    6.      8.  100     85
+21:00   1.1  100    51.0  58.4  205   757.1    1.1    5.      8.  100     83
+22:00   1.4  100    52.0  60.0  185   757.1    1.4    5.      8.  100     83
+23:00   1.4  100    47.2  55.6  164   757.9    1.4    5.      8.  100     83
+00:00   0.8  100    47.6  54.9  191   758.2    0.8    5.      8.  100     83
+01:00  -0.0  100    47.6  54.7  189   757.6   -0.0    4.      8.  100     82
+02:00  -0.4  100    62.5  73.1  191   757.2   -0.4    4.      7.  100     82
+03:00   0.4  100    53.4  62.2  175   757.0    0.4    3.      7.  100     83
+04:00   0.5  100    62.2  70.9  199   755.8    0.5    4.      7.  100     85
+05:00  -0.2  100    62.2  83.8  198   755.9   -0.2    4.      7.  100     84
+06:00  -0.2  100    64.0  75.3  191   756.4   -0.2    3.      7.  100     83
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% humidity and STRONG winds. 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+complete night lost (~ 9 hours)
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

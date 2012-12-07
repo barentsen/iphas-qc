@@ -1,0 +1,42 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 04 09 07:34
+
+TELESCOPE             INT
+DATE                  20040409
+OBSERVER/S            Aragon
+PROGRAMME             AWM3 filament
+PROPOSAL REF          N7
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:41
+EVENING TWILIGHT (UT) 20:55
+MORNING TWILIGHT (UT) 05:30
+SUNRISE (UT)          06:44
+%ILLUM. LUNAR DISK    74
+DARK TIME (HRS)       08:35
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         00:17
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+No Met data available for second half of night
+
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloudy, I could not observe
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

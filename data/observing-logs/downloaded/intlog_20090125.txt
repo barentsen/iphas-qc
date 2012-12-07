@@ -1,0 +1,80 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 01 26 06:47
+
+TELESCOPE             INT
+DATE                  20090125
+OBSERVER/S            Jarvis, Dyke, Falder
+PROGRAMME             Narrow band imaging of a supercluster
+PROPOSAL REF          C71
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.75
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:52
+EVENING TWILIGHT (UT) 20:06
+MORNING TWILIGHT (UT) 06:41
+SUNRISE (UT)          07:55
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       10:35
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         No Moon all night
+MOONSET (UT)          No Moon all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.9   94    48.9  50.7  349   802.9    4.9    7.      9.   94     78
+20:00   6.5   93    45.4  46.4  327   807.1    6.5    7.      9.   93     80
+21:00   4.8   94    42.1  47.2  346   802.0    4.8    6.      9.   94     79
+22:00   4.3   62    44.9  49.5  353   799.4    4.3    6.      9.   62     62
+23:00   5.4   33    41.4  46.0  338   800.0    5.4    5.      7.   33     40
+00:00   5.8   35    39.7  45.6  340   803.4    5.8    4.      8.   35     39
+01:00   5.2   44    47.8  50.9  354   797.3    5.2    4.      8.   44     50
+02:00   4.4   61    46.3  50.6  359   799.8    4.4    3.      8.   61     54
+03:00   2.4   98    46.0  51.8  293   801.5    2.4    5.      8.   98     64
+04:00   2.3   84    42.9  48.0  353   798.6    2.3    5.      8.   84     62
+05:00   2.4   64    35.3  46.2  347   798.7    2.4    4.      6.   64     53
+06:00   1.8   70    38.3  44.3  349   799.0    1.8    2.      7.   70     59
+
+TIME LOST weather           09:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Bad all night. Very poor seeing and lost all but 3hours to high humidity
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 657201 Bias              0:00:00.00 +00:00:00.0  2000.00 13:47 4.277  WFC    0.0  180  r                                
+ 657202 Bias frame       20:00:00.00 +40:00:00.0  2009.07 13:55 1.047  WFC    0.0  180  r                                
+ 657204 TEST             20:00:00.00 +40:00:00.0  2009.07 13:59 1.051  WFC    2.0  180  r                                
+ 657205 Focus run         3:53:07.49 +00:01:10.1  2000.00 22:38 1.294  WFC    5.1  180  r                                
+ 657206 Bias              3:53:07.49 +00:01:09.9  2000.00 22:40 1.305  WFC    0.0  180  HeII4686                         
+ 657207 Bias              3:53:07.50 +00:01:09.9  2000.00 22:40 1.306  WFC    0.0  180  HeII4686                         
+ 657208 Bias              3:53:07.50 +00:01:10.0  2000.00 22:41 1.308  WFC    0.0  180  HeII4686                         
+ 657209 Bias              3:53:07.50 +00:01:10.0  2000.00 22:41 1.309  WFC    0.0  180  HeII4686                         
+ 657210 Bias              3:53:07.50 +00:01:10.0  2000.00 22:42 1.311  WFC    0.0  180  HeII4686                         
+ 657211 sa95-102 he2      3:53:07.50 +00:01:09.9  2000.00 22:43 1.316  WFC   30.1  180  HeII4686                         
+ 657212 sa95-102 he2      3:53:07.49 +00:01:09.9  2000.00 22:45 1.323  WFC   30.1  180  HeII4686                         
+ 657213 sa95-102 O3       3:53:07.49 +00:01:09.9  2000.00 22:48 1.332  WFC   30.1  180  redshifted                       
+ 657214 sa95-102 stV      3:53:07.50 +00:01:09.9  2000.00 22:49 1.337  WFC   30.1  180  stromgren v                      
+ 657215 sa95-102 g        3:53:07.50 +00:01:09.9  2000.00 22:50 1.340  WFC    5.1  180  g                                
+ 657216 sa95-102 r        3:53:07.50 +00:01:09.9  2000.00 22:52 1.346  WFC    5.1  180  r                                
+ 657217 Focus run         3:53:07.50 +00:01:10.0  2000.00 22:56 1.357  WFC    4.6  180  r                                
+ 657218 Voorwerp          9:41:03.80 +34:43:34.0  2000.00 23:03 1.328  WFC 1798.8  180  stromgren v                      
+ 657219 Focus run         6:51:52.30 -00:20:43.0  2000.00 23:38 1.145  WFC    5.1  180  r                                
+ 657220 cosmos1a         10:01:14.60 +02:28:40.0  2000.00 23:45 1.510  WFC 1799.1  180  stromgren v                      
+ 657221 cosmos1a         10:01:14.60 +02:28:40.0  2000.00 00:16 1.356  WFC 1799.1  180  stromgren v                      
+ 657222 cosmos1a         10:01:14.60 +02:28:40.1  2000.00 00:48 1.250  WFC 1799.1  180  stromgren v                      
+ 657223 cosmos1a         10:01:14.60 +02:28:39.9  2000.00 01:21 1.177  WFC 1799.1  180  stromgren v                      
+ 657224 Focus run         9:21:28.29 +02:46:04.0  2000.00 01:56 1.115  WFC    5.1  180  r                                
+ 657225 cosmos1a         10:01:14.60 +02:28:39.7  2000.00 02:03 1.127  WFC 1798.6  180  stromgren v                      
+ 657226 cosmos2a         10:01:14.59 +02:06:40.0  2000.00 02:36 1.120  WFC  508.8  180  stromgren v                      observation stopped due to high humidity
+ 657227 cosmos2a         10:01:14.59 +02:06:40.0  2000.00 04:56 1.364  WFC 1799.1  180  stromgren v                      
+ 657228 3c305 rtest      14:49:21.60 +63:16:13.9  2000.00 06:07 1.259  WFC   60.1  180  r                                
+ 657229 blob07d r        17:09:52.30 +59:24:21.0  2000.00 06:20 1.468  WFC  599.8  180  r                                

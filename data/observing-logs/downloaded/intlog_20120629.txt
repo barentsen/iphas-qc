@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 06 30 06:52
+
+TELESCOPE             INT
+DATE                  20120629
+OBSERVER/S            Ignacio Negueruela
+PROGRAMME             Red supergiants in obscured regions
+PROPOSAL REF          C107
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Lee Patrick
+
+TEL STATION / FOCUS   Cassegrain  / 16.0
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           20:22
+EVENING TWILIGHT (UT) 21:48
+MORNING TWILIGHT (UT) 04:42
+SUNRISE (UT)          06:09
+%ILLUM. LUNAR DISK    81
+DARK TIME (HRS)       06:54
+TWILIGHT TIME (HRS)   02:53
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:04
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  17.0    0    20.4  28.4  232   775.2   17.0   20.     21.    0     14
+22:00  16.7    2    26.7  29.7  290   775.7   16.7   18.     21.    2     10
+23:00  16.3    5    20.3  26.1  287   776.1   16.3   17.     21.    5     10
+00:00  15.8    5    25.1  29.7  301   776.3   15.8   16.     20.    5     13
+01:00  15.7    6    19.7  24.1  313   776.2   15.7   16.     20.    6     12
+02:00  15.6    7    15.3  20.8  314   776.0   15.6   16.     20.    7     14
+03:00  15.5    8    22.4  25.1  253   775.7   15.5   15.     19.    8     15
+04:00  15.4    7    18.1  21.1  305   775.4   15.4   15.     18.    7     16
+05:00  15.3   10    14.8  17.2  304   775.5   15.3   15.     19.   10     16
+06:00  15.1    9    17.8  19.7  256   775.4   15.1   15.     19.    9     16
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Good, seeing betwen 0.8 and 1.2
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

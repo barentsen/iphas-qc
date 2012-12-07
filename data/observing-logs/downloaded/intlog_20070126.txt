@@ -1,0 +1,84 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 02 01 23:50
+
+TELESCOPE             INT
+DATE                  20070126
+OBSERVER/S            PFLM/DW
+PROGRAMME             Testing models for the progenitors of Type Ia SNe
+PROPOSAL REF          P28
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    MH
+
+TEL STATION / FOCUS   Cassegrain  / 14.95
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:52
+EVENING TWILIGHT (UT) 20:07
+MORNING TWILIGHT (UT) 06:41
+SUNRISE (UT)          07:55
+%ILLUM. LUNAR DISK    62
+DARK TIME (HRS)       10:34
+TWILIGHT TIME (HRS)   02:29
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:00
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -1.1   96    19.0  22.7  169   760.8   -1.1   5.8     8.8   96    68 
+20:00  -0.8   96    38.2  42.6  174   760.3   -0.8   4.6     8.8   96    75 
+21:00   0.0   97    34.5  33.8  173   760.3    0.0   5.5     8.9   97    71 
+22:00   0.0   97    24.2  26.3  168   760.3    0.0   5.5     8.7   97    73 
+23:00  -0.3   97    26.5  27.8  168   760.2   -0.3   5.9     8.8   97    70 
+00:00  -0.4   97    31.2  34.5  168   760.0   -0.4   5.0     8.8   97    76 
+01:00  -0.5   97    21.0  23.3  168   759.5   -0.5   4.6     8.8   97    76 
+02:00  -0.3   97    14.7  15.7  140   759.4   -0.3   5.4     8.7   97    71 
+
+TIME LOST weather           10:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clouds all the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 547975 Hart R            0:00:00.00 +00:00:00.0 2000.00  11:58 1.129  IDS   80.0   -0  Clear+Clear   2.0  30.1 5300.5   
+ 547976 Hart L            0:00:00.00 +00:00:00.0 2000.00  12:03 1.129  IDS   16.0   -0  Clear+Clear   2.0  30.1 5300.5   
+ 547977 Hart R            0:00:00.00 +00:00:00.0 2000.00  12:06 1.129  IDS   16.0   -0  Clear+Clear   2.0  30.1 5300.5   
+ 547978 Hart L            0:00:00.00 +00:00:00.0 2000.00  12:11 1.129  IDS   16.0   -0  Clear+Clear   2.0  30.1 5300.5   
+ 547979 Hart R            0:00:00.00 +00:00:00.0 2000.00  12:11 1.129  IDS   16.0   -0  Clear+Clear   2.0  30.1 5300.5   
+ 547980 Bias             20:00:00.00 -00:00:00.0 2007.070 14:03 1.202  IDS    0.0   -0  Clear+Clear   2.0  30.1 5300.5   
+ 547981 Arc              20:00:00.00 -00:00:00.0 2007.070 14:06 1.208  IDS    3.0   -0  Clear+Clear   2.0  30.1 5300.5   
+ 547982 CuNe              0:00:00.00 +00:00:00.0 2007.070 15:59 1.000  IDS    1.0   -0  Clear+Clear   2.0  31.8 5120.8   
+ 547983 CuAr              0:00:00.00 +00:00:00.0 2007.070 16:01 1.000  IDS    5.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 547984 CuAr+CuNe         0:00:00.00 +00:00:00.0 2007.070 16:03 1.000  IDS    5.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 547985 CuAr+CuNe         0:00:00.00 +00:00:00.0 2007.070 16:03 1.000  IDS   30.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 547986 CuAr+CuNe         0:00:00.00 +00:00:00.0 2007.070 16:07 1.000  IDS   10.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 547987 Flat field        0:00:00.00 +00:00:00.0 2007.070 16:11 1.000  IDS   10.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 547988 Flat field        0:00:00.00 +00:00:00.0 2007.070 16:28 1.000  IDS   60.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 547989 Flat field        0:00:00.00 +00:00:00.0 2007.070 16:30 1.000  IDS   60.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 547990 Flat field        0:00:00.00 +00:00:00.0 2007.070 16:31 1.000  IDS   60.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 547991 Flat field        0:00:00.00 +00:00:00.0 2007.070 16:32 1.000  IDS   60.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 547992 Flat field        0:00:00.00 +00:00:00.0 2007.070 16:34 1.000  IDS   60.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 547993 Flat field        0:00:00.00 +00:00:00.0 2007.070 16:35 1.000  IDS   60.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 547994 Flat field        0:00:00.00 +00:00:00.0 2007.070 16:36 1.000  IDS   60.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 547995 Flat field        0:00:00.00 +00:00:00.0 2007.070 16:38 1.000  IDS   60.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 547996 Flat field        0:00:00.00 +00:00:00.0 2007.070 16:39 1.000  IDS   60.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 547997 Flat field        0:00:00.00 +00:00:00.0 2007.070 16:40 1.000  IDS   60.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 547998 Noise test        0:00:00.00 +00:00:00.0 2007.070 16:47 1.000  IDS   30.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 547999 Noise test        0:00:00.00 +00:00:00.0 2007.070 16:48 1.000  IDS   15.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548000 Noise test        0:00:00.00 +00:00:00.0 2007.070 16:48 1.000  IDS    8.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548001 Noise test        0:00:00.00 +00:00:00.0 2007.070 16:49 1.000  IDS    4.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548002 Noise test        0:00:00.00 +00:00:00.0 2007.070 16:49 1.000  IDS    2.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548003 Noise test        0:00:00.00 +00:00:00.0 2007.070 16:49 1.000  IDS    1.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548004 Noise test        0:00:00.00 +00:00:00.0 2007.070 16:59 1.000  IDS    0.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548005 Noise test        0:00:00.00 +00:00:00.0 2007.070 17:01 1.000  IDS    0.1   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548006 Noise test        0:00:00.00 +00:00:00.0 2007.070 17:01 1.000  IDS    0.5   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548007 Noise test        0:00:00.00 +00:00:00.0 2007.070 17:02 1.000  IDS    0.3   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548008 CuAr+CuNe         0:00:00.00 +00:00:00.0 2007.070 17:06 1.000  IDS   60.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548009 CuNe              0:00:00.00 +00:00:00.0 2007.070 17:26 1.000  IDS   60.0   -0  Clear+Clear   1.2  31.8 5120.8   
+ 548010 CuAr              0:00:00.00 +00:00:00.0 2007.070 17:27 1.000  IDS   60.0   -0  Clear+Clear   1.2  31.8 5120.8   

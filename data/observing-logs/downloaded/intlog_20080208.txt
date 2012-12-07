@@ -1,0 +1,55 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 02 11 23:33
+
+TELESCOPE             INT
+DATE                  20080208
+OBSERVER/S            Beckman
+PROGRAMME             C41
+PROPOSAL REF          C41
+TELESCOPE OPERATOR    JC
+SUPPORT ASTRONOMER    Barker
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:03
+EVENING TWILIGHT (UT) 20:15
+MORNING TWILIGHT (UT) 06:35
+SUNRISE (UT)          07:48
+%ILLUM. LUNAR DISK    4
+DARK TIME (HRS)       10:20
+TWILIGHT TIME (HRS)   02:25
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          20:36
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   1.2  100    39.2  37.5  196   761.1    1.2   6.2     7.5  100    70 
+21:00   1.1  100    49.5  58.9  190   760.0    1.1    6.      7.  100     70
+22:00   0.9  100    47.1  56.2  202   760.7    0.9    6.      7.  100     68
+23:00   0.8  100    44.3  42.6  207   760.4    0.8    6.      7.  100     69
+00:00   1.2  100    30.8  35.5  223   760.4    1.2    6.      7.  100     70
+01:00   1.2  100    29.8  31.5  208   760.3    1.2    6.      7.  100     71
+02:00   0.3  100    30.7  39.3  205   760.3    0.3    5.      7.  100     72
+03:00  -0.5  100    50.0  55.4  200   758.3   -0.5    5.      7.  100     67
+04:00  -0.8  100    40.9  50.0  213   758.2   -0.8    5.      7.  100     67
+05:00  -0.9  100    33.2  39.4  195   758.5   -0.9    6.      7.  100     64
+06:00  -1.7  100    25.9  25.8  192   758.2   -1.7    5.      7.  100     64
+07:00  -1.0  100    45.8  50.0  188   757.9   -1.0    5.      7.  100     62
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+bad weather
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+whole night lost because of the weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 606403 Bias             20:59:59.99 +19:59:59.9  2000.00 14:01 1.043  WFC    0.0  180  Ha 6657                          
+ 606404 Flat field       20:59:59.99 +19:59:59.9  2000.00 14:09 1.052  WFC    5.1  180  R                                
+ 606405 Flat field       21:00:00.00 +19:59:59.9  2000.00 14:11 1.055  WFC    3.1  180  R                                

@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 03 15 06:33
+
+TELESCOPE             INT
+DATE                  20120314
+OBSERVER/S            Ledo, Hugo
+PROGRAMME             Deaths of massive stars
+PROPOSAL REF          ITP4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 16
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:26
+EVENING TWILIGHT (UT) 20:38
+MORNING TWILIGHT (UT) 06:03
+SUNRISE (UT)          07:14
+%ILLUM. LUNAR DISK    51
+DARK TIME (HRS)       09:25
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         02:02
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   5.2   11     7.7  14.5  175   773.0   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   5.2   14     9.2  14.5  178   773.6   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   5.1   17    10.1  15.0  176   774.0   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   4.8   16     6.1  18.0  173   774.0   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   4.4   16     5.9  15.7  174   774.0   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   4.8   22    10.6  17.5  183   773.7   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   4.8   23     5.1  12.4  183   773.5   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   5.4   22    12.1  19.1  159   773.1   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   5.3   23     7.8  12.4  180   772.9   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   5.2   26     8.8  19.9  179   772.8   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   5.2   26     8.1  12.1  178   773.2   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+No clouds, dry, seeing ~1.7
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

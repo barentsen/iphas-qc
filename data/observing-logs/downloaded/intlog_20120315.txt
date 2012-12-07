@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 03 16 07:32
+
+TELESCOPE             INT
+DATE                  20120315
+OBSERVER/S            Habibib, Kourkchi
+PROGRAMME             Deaths of massive stars
+PROPOSAL REF          ITP4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Karami, Fathi
+
+TEL STATION / FOCUS   Cassegrain  / 16.0
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:27
+EVENING TWILIGHT (UT) 20:38
+MORNING TWILIGHT (UT) 06:01
+SUNRISE (UT)          07:13
+%ILLUM. LUNAR DISK    40
+DARK TIME (HRS)       09:23
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         02:55
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   6.7   22     7.0  14.7  174   774.4   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   6.6   22     5.4  11.7  184   774.8   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   6.7   21     2.6   6.2  179   775.2   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   6.5   20     6.8  10.3  181   775.2   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   6.6   19     4.6  10.2  179   775.1   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   6.7   19    11.0  15.2  177   774.5   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   6.5   19    11.0  11.9  180   774.5   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   6.4   20    10.0  10.6  155   774.2   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   6.4   20    14.7  21.8  187   773.5   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   6.0   22    12.3  15.9  177   773.3   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   5.9   25    10.6  13.7  176   773.4   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   5.8   29    15.5  21.6  185   773.6   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Partly clody in the begining and the end of the night.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

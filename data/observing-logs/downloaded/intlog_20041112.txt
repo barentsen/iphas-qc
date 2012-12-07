@@ -1,0 +1,63 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 11 12 23:43
+
+TELESCOPE             INT
+DATE                  20041112
+OBSERVER/S            A. Rosenberg
+PROGRAMME             Formacion y Evolucion de la Via Lactea (III): El Disco Galactico
+PROPOSAL REF          C8
+TELESCOPE OPERATOR    A. Rosenberg
+SUPPORT ASTRONOMER    A. Rosenberg
+
+TEL STATION / FOCUS   Prime  / 43.97
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:27
+EVENING TWILIGHT (UT) 19:41
+MORNING TWILIGHT (UT) 06:11
+SUNRISE (UT)          07:25
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       10:30
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         No Moon all night
+MOONSET (UT)          No Moon all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.0   43    27.3  33.3   17   767.1    5.0   7.0    10.8   43    35 
+20:00   7.0   10    42.3  46.2    5   767.3    7.0   7.0    10.3   10    14 
+21:00   1.2   99    45.3  48.7   10   767.2    1.2   5.2    10.1   99    86 
+22:00   2.1  100    46.8  50.3   10   767.2    2.1   6.4    10.2  100    88 
+23:00   2.2  100    48.6  52.3   10   767.5    2.2   7.1    10.3  100    85 
+No Met data available for second half of night
+
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Very Bad. Wind over 50 Km/h, 100% Humidity, Temo ~0. All kind of clouds.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 431552 Bias frame       14:00:00.00 +17:00:00.0 J2000.00 14:11 1.235  WFC    0.0  180  r                                
+ 431554 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 18:36 1.000  WFC    0.0  180  B                                
+ 431555 Flat field        0:00:00.00 +00:00:00.0 J2000.00 18:43 1.000  WFC    3.1  180  B                                
+ 431556 Flat field        0:00:00.00 +00:00:00.0 J2000.00 18:44 1.000  WFC    5.1  180  B                                
+ 431557 Flat field        0:00:00.00 +00:00:00.0 J2000.00 18:45 1.000  WFC    8.1  180  B                                
+ 431558 Flat field        0:00:00.00 +00:00:00.0 J2000.00 18:46 1.000  WFC   12.1  180  B                                
+ 431559 Flat field        0:00:00.00 +00:00:00.0 J2000.00 18:47 1.000  WFC    3.1  180  V                                Pocas cuentas
+ 431560 Flat field        0:00:00.00 +00:00:00.0 J2000.00 18:48 1.000  WFC   15.1  180  V                                
+ 431561 Flat field        0:00:00.00 +00:00:00.0 J2000.00 18:49 1.000  WFC   25.1  180  V                                
+ 431562 Flat field        0:00:00.00 +00:00:00.0 J2000.00 18:51 1.000  WFC   40.1  180  V                                
+ 431563 Flat field        0:00:00.00 +00:00:00.0 J2000.00 18:52 1.000  WFC   30.0  180  I                                pocas cuentas
+ 431564 Flat field        0:00:00.00 +00:00:00.0 J2000.00 18:54 1.000  WFC  120.0  180  I                                
+ 431565 Focus run        21:41:44.90 +00:20:10.9 J2000.00 19:14 1.138  WFC   10.1  180  V                                
+ 431566 Focus run        21:41:44.90 +00:20:10.9 J2000.00 19:26 1.137  WFC   20.1  180  V                                
+ 431567 Focus run        21:41:44.89 +00:20:11.0 J2000.00 19:40 1.138  WFC   19.6  180  V                                
+ 431568 NGC7044          21:13:08.99 +42:29:41.9 J2000.00 20:23 1.088  WFC  599.8  180  V                                

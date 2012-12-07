@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 03 12 07:19
+
+TELESCOPE             INT
+DATE                  20120311
+OBSERVER/S            Hodgkin, Gillen
+PROGRAMME             Low Mass Young EBs
+PROPOSAL REF          N5
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Hugo Ledo
+
+TEL STATION / FOCUS   Cassegrain  / 15.95
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:25
+EVENING TWILIGHT (UT) 20:36
+MORNING TWILIGHT (UT) 06:06
+SUNRISE (UT)          07:17
+%ILLUM. LUNAR DISK    83
+DARK TIME (HRS)       09:30
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         22:52
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   9.2    0     9.1   8.7   16   771.4   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00  10.0    4    13.4  14.0   31   771.9   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00  10.0    3     5.1   5.7   71   772.4   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   9.9    5     5.6   7.7   84   772.4   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00  10.0   13     8.0   9.7   93   772.2   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   9.9   17     7.6  10.7  117   771.9   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   9.8    0     2.8   3.9  166   771.3   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   9.5    0     0.9   2.5  178   771.0   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   7.7   32     0.4   0.7  176   770.5   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   9.1    7     0.8   2.5  140   770.5   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   8.6   12     1.3   2.5  169   770.6   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   9.0    6     4.1   5.0  258   771.1   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           01:00
+TIME LOST Technical         03:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloud cover throughout night, occasionally thick, becoming clearer. Seeing around 1.2-1.5 arcsecs
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+See Fault report: redplus shutter failed. Took 3 hours to recover
+
+

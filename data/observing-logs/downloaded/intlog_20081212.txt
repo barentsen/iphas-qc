@@ -1,0 +1,71 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 12 13 00:34
+
+TELESCOPE             INT
+DATE                  20081212
+OBSERVER/S            F. Jimenez, D. Jones
+PROGRAMME             D-night: Observations of Nothing
+PROPOSAL REF          D
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    F. Jimenez, D. Jones
+
+TEL STATION / FOCUS   Cassegrain  / 14.84
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:40
+MORNING TWILIGHT (UT) 06:31
+SUNRISE (UT)          07:48
+%ILLUM. LUNAR DISK      1
+DARK TIME (HRS)       10:51
+TWILIGHT TIME (HRS)   02:34
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -0.3   99    49.4  61.3   37   770.7   -0.3    8.      9.   99     62
+20:00  -0.5   99    47.4  50.7   18   771.3   -0.5    8.      9.   99     61
+21:00  -0.9   99    40.0  48.9  156   771.4   -0.9    8.      9.   99     61
+22:00  -1.2   99    45.2  52.7   85   771.5   -1.2    8.      9.   99     62
+23:00  -2.3   99    29.7  38.5   81   771.3   -2.3    7.      9.   99     63
+00:00  -3.1   99    34.9  41.1  215   771.3   -3.1    7.      9.   99     62
+
+TIME LOST weather           11:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% humidity 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+High humidity - Dome never opened.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 651064 FJG2             16:00:00.00 +30:00:00.0  2000.00 11:59 1.002  IDS    2.0  180  Clear+Clear   1.0  67.0 5521.8   
+ 651065 Bias             16:30:59.99 +00:00:00.0  2000.00 13:44 1.229  IDS    0.0  256  Clear+Clear   0.9  67.0 5521.8   
+ 651066 Bias             16:30:59.99 +00:00:00.0  2000.00 13:48 1.239  IDS    0.0  256  Clear+Clear   0.9  67.0 5521.8   
+ 651067 Bias             16:30:59.99 -00:00:00.0  2000.00 13:51 1.247  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651068 Arc              16:31:00.00 +00:00:00.0  2000.00 13:55 1.256  IDS   10.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651069 Bias              0:00:00.00 +00:00:00.0  2000.00 17:10 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651070 Bias              0:00:00.00 +00:00:00.0  2000.00 17:10 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651071 Bias              0:00:00.00 +00:00:00.0  2000.00 17:10 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651072 Bias              0:00:00.00 +00:00:00.0  2000.00 17:10 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651073 Bias              0:00:00.00 +00:00:00.0  2000.00 17:10 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651074 Bias              0:00:00.00 +00:00:00.0  2000.00 17:10 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651075 Bias              0:00:00.00 +00:00:00.0  2000.00 17:11 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651076 Bias              0:00:00.00 +00:00:00.0  2000.00 17:11 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651077 Bias              0:00:00.00 +00:00:00.0  2000.00 17:11 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651078 Bias              0:00:00.00 +00:00:00.0  2000.00 17:11 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651079 Bias              0:00:00.00 +00:00:00.0  2000.00 17:11 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651080 Bias              0:00:00.00 +00:00:00.0  2000.00 17:11 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651081 Bias              0:00:00.00 +00:00:00.0  2000.00 17:11 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651082 Bias              0:00:00.00 +00:00:00.0  2000.00 17:12 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651083 Bias              0:00:00.00 +00:00:00.0  2000.00 17:12 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651084 Bias              0:00:00.00 +00:00:00.0  2000.00 17:12 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651085 Bias              0:00:00.00 +00:00:00.0  2000.00 17:12 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651086 Bias              0:00:00.00 +00:00:00.0  2000.00 17:12 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651087 Bias              0:00:00.00 +00:00:00.0  2000.00 17:12 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   
+ 651088 Bias              0:00:00.00 +00:00:00.0  2000.00 17:13 1.000  IDS    0.0  256  Clear+Clear   1.0  67.0 5521.8   

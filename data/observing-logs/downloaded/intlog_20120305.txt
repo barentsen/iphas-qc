@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 03 06 07:54
+
+TELESCOPE             INT
+DATE                  20120305
+OBSERVER/S            E. Kourkchi, F. Habibi
+PROGRAMME             Probing the Local Bubble Using Diffuse Interstellar Bands (DIBs).
+PROPOSAL REF          INO3      
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Fathi, Karami
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:21
+EVENING TWILIGHT (UT) 20:32
+MORNING TWILIGHT (UT) 06:13
+SUNRISE (UT)          07:24
+%ILLUM. LUNAR DISK    92
+DARK TIME (HRS)       09:41
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          05:59
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   6.6   12     3.2   3.8   64   774.1   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   6.7   19     4.6   5.3   53   774.7   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   6.9    7    11.5  12.9  120   774.8   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   6.7    6    15.6  15.5  122   774.9   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   6.5    5     6.6   7.4  158   774.6   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   6.6    5     6.7   8.8  103   774.3   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   6.6    4     6.5   9.3  175   773.9   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   6.6    4    16.6  22.5  165   773.3   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   6.6    4    11.7   9.8  148   773.1   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   6.7    4    11.0  11.3  164   773.1   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   7.2    3    21.1  23.2  122   773.3   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   7.0    4     5.7   8.5  163   773.5   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Partly Cloudy
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+First four hours (8 -12 PM) were lost due to the technical problem with IDS H1800V grating. At midnight, the problem resolved.
+The IDS control system was restarted several times. Finally, based on the suggestion of the guide astronomers at WHT, the central wavelength
+of the grating was set to 5800 Ang. and then we started the observation. In the middle of the night, the sky was partly cloudy and influenced some of the observed spectra.

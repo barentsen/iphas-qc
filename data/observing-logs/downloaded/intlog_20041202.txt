@@ -1,0 +1,45 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 12 02 19:50
+
+TELESCOPE             INT
+DATE                  20041202
+OBSERVER/S            L. Sabin, M. Matsuura
+PROGRAMME             P10 - IPHAS - the INT/WFC photometric Halpha survey of the northern galactic plane
+PROPOSAL REF          Discretionary              
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Simon/Corradi 
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:37
+MORNING TWILIGHT (UT) 06:25
+SUNRISE (UT)          07:41
+%ILLUM. LUNAR DISK    69
+DARK TIME (HRS)       10:48
+TWILIGHT TIME (HRS)   02:31
+MOONRISE (UT)         22:58
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   0.4  100    28.9  36.0  310   764.5    0.4   6.1     8.0  100    77 
+No Met data available for second half of night
+
+
+TIME LOST weather           10:20
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+cloud cover,high level of humidity(>95%) and low temprature (<0C)
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 434024 Bias frame       15:59:59.99 +15:00:00.0 2000.00  14:09 1.130  WFC    0.0  180  i                                
+ 434025 Bias frame       15:59:59.99 +14:59:59.9 2000.00  14:11 1.134  WFC    0.0  180  Halpha                           

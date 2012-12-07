@@ -1,0 +1,46 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 07 13 06:03
+
+TELESCOPE             INT
+DATE                  20120712
+OBSERVER/S            Mike Irwin
+PROGRAMME             Kepler survey
+PROPOSAL REF          N1
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    HL
+
+TEL STATION / FOCUS   Prime  / 43.37
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:20
+EVENING TWILIGHT (UT) 21:45
+MORNING TWILIGHT (UT) 04:50
+SUNRISE (UT)          06:14
+%ILLUM. LUNAR DISK    32
+DARK TIME (HRS)       07:05
+TWILIGHT TIME (HRS)   02:49
+MOONRISE (UT)         01:38
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  20.2    6     6.4   7.6  250   776.2   20.2   19.     20.    6     15
+22:00  19.4    2    12.9  16.0  280   776.6   19.4   19.     20.    2     11
+23:00  19.2    4    13.9  15.2  291   777.1   19.2   19.     20.    4     11
+00:00  20.2    2     5.9   9.1  266   777.3   20.2   19.     20.    2     11
+01:00  19.7    4     2.9   5.1  160   777.1   19.7   19.     20.    4     10
+02:00  20.1    2     8.2  10.0  187   776.5   20.1   19.     20.    2     10
+03:00  20.0    3     4.3   9.8  188   776.2   20.0   19.     20.    3      9
+04:00  20.2    7    10.5  16.1  248   775.9   20.2   19.     20.    7     14
+05:00  20.0    8    10.8  11.5  213   775.5   20.0   19.     20.    8     14
+
+TIME LOST weather           00:00
+TIME LOST Technical         01:10
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Photometric - seeing 0.9 - 1.3 arcsec
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+time lost due to comms issue with CCD controller - fault report #20271
+
+

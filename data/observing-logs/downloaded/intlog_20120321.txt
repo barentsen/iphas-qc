@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 03 22 07:23
+
+TELESCOPE             INT
+DATE                  20120321
+OBSERVER/S            Burcu Beygu
+PROGRAMME             The Voud Galaxy Survey
+PROPOSAL REF          N4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Hugo Ledo
+
+TEL STATION / FOCUS    / 43.5
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:30
+EVENING TWILIGHT (UT) 20:42
+MORNING TWILIGHT (UT) 05:54
+SUNRISE (UT)          07:06
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       09:12
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         06:42
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   5.2   20     2.4   5.4  182   766.6    5.2    7.     10.   20     35
+21:00   4.9   21     2.8   5.0  184   767.0    4.9    6.      9.   21     24
+22:00   4.5   12     4.1   6.3  184   767.2    4.5    5.      9.   12     18
+23:00   4.8    9     4.7   7.0  188   767.1    4.8    6.      8.    9     14
+00:00   4.9    7    14.2  17.5  172   766.7    4.9                  7      #
+01:00   4.6   10     5.5  12.2  184   766.5    4.6                 10      #
+02:00   3.9   15     4.6   7.5  176   765.8    3.9                 15      #
+03:00   4.0   14     5.8  12.9  178   765.4    4.0                 14      #
+04:00   3.3   41    23.0  22.3  180   764.7    3.3                 41      #
+05:00   3.2   48    13.9  27.3  173   764.2    3.2                 48      #
+06:00   3.2   48    16.0  22.4  182   764.3    3.2                 48      #
+07:00   3.1   54    21.9  43.2  178   764.7    3.1                 54      #
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+wind up to 50 km/s, seeing was more 1.2 most of the time
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

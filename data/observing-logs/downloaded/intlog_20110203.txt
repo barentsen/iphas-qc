@@ -1,0 +1,74 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 02 04 07:19
+
+TELESCOPE             INT
+DATE                  20110203
+OBSERVER/S            Steven Parsons
+PROGRAMME             C146: Multi-longitude astroseismology of the pulsating accreting white dwarf SDSS J0745+4538
+PROPOSAL REF          C146
+TELESCOPE OPERATOR    Steven Parsons
+SUPPORT ASTRONOMER    None
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:59
+EVENING TWILIGHT (UT) 20:12
+MORNING TWILIGHT (UT) 06:38
+SUNRISE (UT)          07:51
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       10:26
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          19:34
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   3.3   11    13.5  12.3  137   772.9   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   3.6    9     9.3  22.7  230   773.1   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   2.7    6       N     N   91   773.7   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   2.4   13       N     N  178   773.6   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   2.8   10       N     N  168   773.7   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   3.2   29       N     N  214   773.4   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   3.8   11       N     N  175   773.2   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   2.2   20       N     N  164   772.7   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   2.4   15       N     N  165   772.6   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   3.2   10     7.4  28.1  162   772.6   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   2.5   12     7.9  12.7  179   772.4   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   2.5   11     4.3   9.4  177   772.5   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   2.2   12     4.0   6.9  168   772.8   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         10:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+mostly clear. One patch of cloud halfway through the night. 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Engineering rack buttons were unresponsive hence I was unable to move out of access park, open the dome, mirror covers etc.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 783485 Bias             18:00:00.00 +19:59:59.9  2000.00 11:30 1.054  WFC    0.0  180  U                                
+ 783486 Bias              0:00:00.00 +00:00:00.0  2000.00 19:17 4.706  WFC    0.0  180  g                                
+ 783487 Bias              0:00:00.00 +00:00:00.0  2000.00 19:17 4.706  WFC    0.0  180  g                                
+ 783488 Bias              0:00:00.00 +00:00:00.0  2000.00 19:17 4.706  WFC    0.0  180  g                                
+ 783489 Bias              0:00:00.00 +00:00:00.0  2000.00 19:17 4.706  WFC    0.0  180  g                                
+ 783490 Bias              0:00:00.00 +00:00:00.0  2000.00 19:17 4.706  WFC    0.0  180  g                                
+ 783491 Bias              0:00:00.00 +00:00:00.0  2000.00 19:17 4.706  WFC    0.0  180  g                                
+ 783492 Bias              0:00:00.00 +00:00:00.0  2000.00 19:17 4.706  WFC    0.0  180  g                                
+ 783493 Bias              0:00:00.00 +00:00:00.0  2000.00 19:17 4.706  WFC    0.0  180  g                                
+ 783494 Bias              0:00:00.00 +00:00:00.0  2000.00 19:17 4.706  WFC    0.0  180  g                                
+ 783495 Bias              0:00:00.00 +00:00:00.0  2000.00 19:17 4.706  WFC    0.0  180  g                                
+ 783496 Bias              0:00:00.00 +00:00:00.0  2000.00 19:17 4.706  WFC    0.0  180  g                                
+ 783497 Bias              0:00:00.00 +00:00:00.0  2000.00 19:17 4.706  WFC    0.0  180  g                                
+ 783498 Bias              0:00:00.00 +00:00:00.0  2000.00 19:18 4.706  WFC    0.0  180  g                                
+ 783499 Bias              0:00:00.00 +00:00:00.0  2000.00 19:18 4.706  WFC    0.0  180  g                                
+ 783500 Bias              0:00:00.00 +00:00:00.0  2000.00 19:18 4.706  WFC    0.0  180  g                                
+ 783501 Bias              0:00:00.00 +00:00:00.0  2000.00 19:18 4.706  WFC    0.0  180  g                                
+ 783502 Bias              0:00:00.00 +00:00:00.0  2000.00 19:18 4.706  WFC    0.0  180  g                                
+ 783503 Bias              0:00:00.00 +00:00:00.0  2000.00 19:18 4.706  WFC    0.0  180  g                                
+ 783504 Bias              0:00:00.00 +00:00:00.0  2000.00 19:18 4.706  WFC    0.0  180  g                                
+ 783505 Bias              0:00:00.00 +00:00:00.0  2000.00 19:18 4.706  WFC    0.0  180  g                                

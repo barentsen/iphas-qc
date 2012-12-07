@@ -1,0 +1,81 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 10 03 04:35
+
+TELESCOPE             INT
+DATE                  20031002
+OBSERVER/S            Cardwell/Walsh
+PROGRAMME             Local Group Census Survey
+PROPOSAL REF          WFS4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Leisy/Garcia
+
+TEL STATION / FOCUS   Prime  / 43.98
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:05
+EVENING TWILIGHT (UT) 20:16
+MORNING TWILIGHT (UT) 05:47
+SUNRISE (UT)          06:58
+%ILLUM. LUNAR DISK    52
+DARK TIME (HRS)       09:31
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          00:24
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   8.6   88    34.8  36.6   99   771.7    8.6  10.5    13.6   88    76 
+21:00   8.3   93    36.4  40.1  152   772.1    8.3   9.8    13.0   93    81 
+22:00   8.0  100    31.4  34.3  154   772.5    8.0  10.9    12.8  100    79 
+23:00   8.4  100    35.1  39.0  150   772.8    8.4  11.9    12.8  100    78 
+00:00   8.4  100    30.8  35.7  158   772.6    8.4  12.1    13.0  100    83 
+01:00   8.4  100    37.9  39.8  155   772.3    8.4  12.0    13.0  100    83 
+02:00   8.8  100    43.1  48.7  142   771.8    8.8  12.1    13.2  100    85 
+03:00   9.0  100    36.7  42.2  144   771.6    9.0  11.8    13.0  100    87 
+04:00   9.0  100    35.8  43.0  169   771.3    9.0  12.0    13.0  100    86 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% colud cover after ~20:30 UT. Telescope closed, night lost due to weather.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 366633 Bias frame        0:00:00.00 +00:00:00.0 A        13:01 4.534  WFC    0.0  180  [OIII]5007                       
+ 366634 Bias              0:00:00.00 +00:00:00.0 A        16:04 4.534  WFC    0.0  180  [OIII]5007                       
+ 366635 Bias              0:00:00.00 +00:00:00.0 A        16:04 4.534  WFC    0.0  180  [OIII]5007                       
+ 366636 Bias              0:00:00.00 +00:00:00.0 A        16:05 4.534  WFC    0.0  180  [OIII]5007                       
+ 366637 Bias              0:00:00.00 +00:00:00.0 A        16:06 4.534  WFC    0.0  180  [OIII]5007                       
+ 366638 Bias              0:00:00.00 +00:00:00.0 A        16:06 4.534  WFC    0.0  180  [OIII]5007                       
+ 366639 Bias              0:00:00.00 +00:00:00.0 A        16:07 4.534  WFC    0.0  180  [OIII]5007                       
+ 366640 Bias              0:00:00.00 +00:00:00.0 A        16:08 4.534  WFC    0.0  180  [OIII]5007                       
+ 366641 Bias              0:00:00.00 +00:00:00.0 A        16:08 4.534  WFC    0.0  180  [OIII]5007                       
+ 366642 Bias              0:00:00.00 +00:00:00.0 A        16:09 4.534  WFC    0.0  180  [OIII]5007                       
+ 366643 Bias              0:00:00.00 +00:00:00.0 A        16:10 4.534  WFC    0.0  180  [OIII]5007                       
+ 366644 Bias              0:00:00.00 +00:00:00.0 A        16:10 4.534  WFC    0.0  180  [OIII]5007                       
+ 366645 Bias              0:00:00.00 +00:00:00.0 A        16:11 4.534  WFC    0.0  180  [OIII]5007                       
+ 366646 skyflat Ha       19:19:08.99 +12:22:04.9 B1950.00 19:09 1.056  WFC    4.1  180  Halpha                           
+ 366647 skyflat Ha       19:19:09.68 +12:22:14.9 B1950.00 19:10 1.055  WFC    6.1  180  Halpha                           
+ 366648 skyflat Ha       19:19:08.31 +12:21:54.9 B1950.00 19:11 1.054  WFC    8.1  180  Halpha                           
+ 366649 skyflat O3       19:19:09.00 +12:22:05.0 B1950.00 19:13 1.053  WFC    6.1  180  [OIII]5007                       
+ 366650 skyflat O3       19:19:09.68 +12:22:15.0 B1950.00 19:14 1.052  WFC    9.1  180  [OIII]5007                       
+ 366651 skyflat O3       19:19:08.32 +12:21:55.0 B1950.00 19:15 1.052  WFC   10.1  180  [OIII]5007                       
+ 366652 skyflat stY      19:19:08.99 +12:22:05.0 B1950.00 19:16 1.051  WFC   12.1  180  stromgren y                      
+ 366653 skyflat stY      19:19:09.68 +12:22:15.0 B1950.00 19:18 1.050  WFC   18.1  180  stromgren y                      
+ 366654 skyflat stY      19:19:08.31 +12:21:55.0 B1950.00 19:19 1.049  WFC   27.0  180  stromgren y                      
+ 366655 skyflat r        19:19:09.00 +12:22:04.9 B1950.00 19:21 1.049  WFC    8.1  180  r                                
+ 366656 skyflat r        19:19:09.67 +12:22:15.0 B1950.00 19:22 1.048  WFC   12.1  180  r                                
+ 366657 skyflat r        19:19:08.31 +12:21:55.2 B1950.00 19:23 1.047  WFC   18.1  180  r                                
+ 366658 skyflat r        19:19:09.34 +12:22:09.8 B1950.00 19:25 1.047  WFC   30.1  180  r                                
+ 366659 skyflat r        19:19:08.65 +12:22:00.0 B1950.00 19:27 1.046  WFC   50.1  180  r                                
+ 366661 Focus run        18:43:07.60 +00:29:02.1 J2000.00 19:37 1.142  WFC   10.1  180  r                                
+ 366662 Focus run        18:43:07.59 +00:29:01.9 J2000.00 19:45 1.147  WFC   10.1  180  r                                
+ 366663 NGC6822nw_out O3 19:42:59.99 -14:25:00.0 J2000.00 19:54 1.371  WFC 1199.3  180  [OIII]5007                       
+ 366664 NGC6822nw_out st 19:43:00.00 -14:24:59.9 J2000.00 20:15 1.371  WFC  298.0  180  stromgren y                      
+ 366665 NGC6822nw_out st 19:42:59.99 -14:24:59.9 J2000.00 20:20 1.372  WFC  147.2  180  stromgren y                      

@@ -1,0 +1,95 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 10 18 06:15
+
+TELESCOPE             INT
+DATE                  20101017
+OBSERVER/S            Y. Schuberth/ R. Toma
+PROGRAMME             Dwarf galaxies 
+PROPOSAL REF          I10BN004
+TELESCOPE OPERATOR    n/a
+SUPPORT ASTRONOMER    L. Magill
+
+TEL STATION / FOCUS    / 46.13
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:48
+EVENING TWILIGHT (UT) 19:59
+MORNING TWILIGHT (UT) 05:55
+SUNRISE (UT)          07:07
+%ILLUM. LUNAR DISK    78
+DARK TIME (HRS)       09:56
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:19
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  10.5   73     3.6   6.3  163   769.3   10.5   14.     13.   73     52
+20:00  10.0   60    18.6  21.2  185   769.5   10.0   12.     13.   60     56
+21:00  10.1   60     8.7  12.0  185   770.0   10.1   11.     13.   60     59
+22:00  10.3   57    19.2  20.6  225   770.5   10.3   11.     13.   57     59
+23:00   8.3   73     3.4   6.0  169   771.0    8.3   11.     13.   73     63
+00:00   9.6   61     3.2   5.4  180   771.1    9.6   10.     13.   61     62
+01:00  11.2   52    11.0  11.6  208   770.8   11.2   11.     13.   52     57
+02:00   9.4   60     7.2   9.6  136   770.4    9.4   10.     13.   60     60
+03:00   7.9   66     2.6  11.4  179   770.2    7.9   10.     13.   66     62
+04:00  10.2   60    12.7  15.4  173   769.8   10.2   11.     12.   60     62
+05:00  10.1   57     7.0  11.1  179   769.7   10.1   11.     12.   57     58
+06:00  10.1   59    17.2  18.3  243   769.7   10.1   11.     13.   59     56
+
+TIME LOST weather           05:00
+TIME LOST Technical         00:10
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+thick cloud cover from 22:30 on. 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+22:40-23:15 dome closed b/c clouds; 2 exposures; 00:00-03:30 clouds, dome closed; 03:30 last attempts, but clouds returned.
+telescope closed down for the night at 05:00
+A small amount of time (~10 min) was lost due to non-responsive autoguider. At least 5h were lost due to a thick and mostly full cloud cover
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 762022 Bias              0:00:00.00 +00:00:00.0  2000.00 15:36 4.361  WFC    0.0  180  HeI 5870                         rubbish
+ 762023 Bias              0:00:00.00 +00:00:00.0  2000.00 18:26 4.539  WFC    0.0  180  HeI 5870                         windowed 1:2048,1024:3062
+ 762024 Bias              0:00:00.00 +00:00:00.0  2000.00 18:26 4.539  WFC    0.0  180  HeI 5870                         windowed 1:2048,1024:3062
+ 762025 Bias              0:00:00.00 +00:00:00.0  2000.00 18:27 4.539  WFC    0.0  180  HeI 5870                         windowed 1:2048,1024:3062
+ 762026 Bias              0:00:00.00 +00:00:00.0  2000.00 18:27 4.539  WFC    0.0  180  HeI 5870                         windowed 1:2048,1024:3062
+ 762027 Bias              0:00:00.00 +00:00:00.0  2000.00 18:27 4.539  WFC    0.0  180  HeI 5870                         windowed 1:2048,1024:3062
+ 762028 Bias              0:00:00.00 +00:00:00.0  2000.00 18:28 4.539  WFC    0.0  180  HeI 5870                         windowed 1:2048,1024:3062
+ 762029 Bias              0:00:00.00 +00:00:00.0  2000.00 18:28 4.539  WFC    0.0  180  HeI 5870                         windowed 1:2048,1024:3062
+ 762030 Bias              0:00:00.00 +00:00:00.0  2000.00 18:28 4.539  WFC    0.0  180  HeI 5870                         windowed 1:2048,1024:3062
+ 762031 Bias              0:00:00.00 +00:00:00.0  2000.00 18:29 4.539  WFC    0.0  180  HeI 5870                         windowed 1:2048,1024:3062
+ 762032 Bias              0:00:00.00 +00:00:00.0  2000.00 18:29 4.539  WFC    0.0  180  HeI 5870                         windowed 1:2048,1024:3062
+ 762033 Bias              0:00:00.00 +00:00:00.0  2000.00 18:34 4.539  WFC    0.0  180  HeI 5870                         
+ 762034 Bias              0:00:00.00 +00:00:00.0  2000.00 18:35 4.539  WFC    0.0  180  HeI 5870                         
+ 762035 Bias              0:00:00.00 +00:00:00.0  2000.00 18:36 4.539  WFC    0.0  180  HeI 5870                         
+ 762036 Bias              0:00:00.00 +00:00:00.0  2000.00 18:37 4.539  WFC    0.0  180  HeI 5870                         
+ 762037 Bias              0:00:00.00 +00:00:00.0  2000.00 18:37 4.539  WFC    0.0  180  HeI 5870                         
+ 762038 Bias              0:00:00.00 +00:00:00.0  2000.00 18:38 4.539  WFC    0.0  180  HeI 5870                         
+ 762039 Bias              0:00:00.00 +00:00:00.0  2000.00 18:39 4.539  WFC    0.0  180  HeI 5870                         
+ 762040 Bias              0:00:00.00 +00:00:00.0  2000.00 18:40 4.539  WFC    0.0  180  HeI 5870                         
+ 762041 Bias              0:00:00.00 +00:00:00.0  2000.00 18:41 4.539  WFC    0.0  180  HeI 5870                         
+ 762042 Bias              0:00:00.00 +00:00:00.0  2000.00 18:41 4.539  WFC    0.0  180  HeI 5870                         
+ 762043 Sky background   19:21:29.00 +12:27:49.0  2000.00 19:00 1.043  WFC   50.1  180  Halpha                           
+ 762044 Sky background   19:21:29.68 +12:27:58.9  2000.00 19:02 1.043  WFC   24.5  180  Halpha                           
+ 762045 Sky background   19:21:29.68 +12:27:59.0  2000.00 19:06 1.044  WFC    8.5  180  i                                
+ 762046 Sky background   19:21:29.68 +12:27:58.9  2000.00 19:07 1.045  WFC   12.1  180  i                                
+ 762047 Sky background   19:21:28.99 +12:27:48.9  2000.00 19:11 1.046  WFC   20.1  180  i                                
+ 762048 Sky background   19:21:29.68 +12:27:38.9  2000.00 19:13 1.047  WFC   34.1  180  i                                
+ 762049 Sky background   19:21:28.31 +12:27:58.9  2000.00 19:14 1.048  WFC   55.1  180  i                                
+ 762050 Sky background   19:21:28.32 +12:27:39.0  2000.00 19:17 1.049  WFC   85.0  180  i                                
+ 762051 Sky background   19:21:29.00 +12:27:48.7  2000.00 19:19 1.051  WFC  120.0  180  i                                
+ 762052 Focus run        20:02:43.81 -00:36:27.1  2000.00 19:59 1.155  WFC   20.1  180  r                                
+ 762053 Focus run        20:02:43.81 -00:36:27.1  2000.00 20:10 1.162  WFC   20.1  180  r                                
+ 762054 PGC 168300        2:24:34.00 +56:00:42.8  2000.00 20:32 2.038  WFC  200.0  180  i                                Elevation too low..
+ 762055 UGC 11891        22:03:34.00 +43:44:57.0  2000.00 20:52 1.044  WFC  200.0  180  i                                
+ 762056 UGC 11891        22:03:34.92 +43:45:06.9  2000.00 20:59 1.041  WFC  200.0  180  i                                
+ 762057 UGC 11891        22:03:34.92 +43:44:47.0  2000.00 21:08 1.038  WFC  200.0  180  i                                
+ 762058 UGC 11891 cloudy 22:03:33.07 +43:44:46.9  2000.00 21:26 1.035  WFC  200.0  180  i                                
+ 762059 UGC 11891 cloudy 22:03:33.07 +43:45:07.0  2000.00 22:21 1.055  WFC  349.8  180  i                                
+ 762060 U11891           22:03:33.99 +43:44:56.9  2000.00 22:33 1.064  WFC  299.9  180  i                                
+ 762061 pgc 168300        2:24:34.00 +56:00:42.9  2000.00 02:50 1.147  WFC  200.0  180  i                                
+ 762062 pgc 168300        2:24:35.19 +56:00:53.0  2000.00 02:59 1.155  WFC  200.0  180  i                                autoguide did not work properly
+ 762063 pgc 168300        2:24:35.19 +56:00:53.0  2000.00 03:18 1.174  WFC  199.4  180  i                                
+ 762064 pgc 168300        2:24:35.19 +56:00:33.0  2000.00 03:29 1.187  WFC  200.0  180  i                                

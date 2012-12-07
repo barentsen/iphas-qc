@@ -1,0 +1,52 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 02 11 23:39
+
+TELESCOPE             INT
+DATE                  20080210
+OBSERVER/S            none
+PROGRAMME             CAT DDT
+PROPOSAL REF          CAT DDT
+TELESCOPE OPERATOR    JC
+SUPPORT ASTRONOMER    Barker
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:04
+EVENING TWILIGHT (UT) 20:17
+MORNING TWILIGHT (UT) 06:34
+SUNRISE (UT)          07:47
+%ILLUM. LUNAR DISK    17
+DARK TIME (HRS)       10:17
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          22:40
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   0.2   88    31.0  32.4   73   763.4    0.2    5.      8.   88     63
+21:00   1.1   69    31.1  32.8   78   763.9    1.1    5.      8.   69     60
+22:00   1.0   74    27.3  29.4   66   764.4    1.0    5.      8.   74     60
+23:00   1.4   94    29.8  37.1   72   764.6    1.4    5.      8.   94     67
+00:00   2.2   69    33.9  35.3   59   764.8    2.2    5.      8.   69     61
+01:00   2.5   64    34.7  35.9   57   764.7    2.5    5.      8.   64     59
+02:00   2.6   54    31.7  33.3   56   764.4    2.6    5.      8.   54     51
+03:00   2.6   60    34.1  35.1   44   764.0    2.6    5.      8.   60     54
+04:00   2.9   55    27.0  26.4   46   763.7    2.9    5.      8.   55     51
+05:00   2.7   56    26.8  28.9   45   763.7    2.7    5.      8.   56     48
+06:00   2.4   59    33.1  34.4   45   763.7    2.4    5.      8.   59     50
+07:00   2.5   52    29.8  33.4   45   764.1    2.5    5.      8.   52     50
+
+TIME LOST weather           04:00
+TIME LOST Technical         00:00
+TIME LOST Other             08:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+variations during night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+4 hours lost because of the bad weather
+telescope not used because visiting astronomers did not sow up
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

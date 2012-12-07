@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 06 27 06:17
+
+TELESCOPE             INT
+DATE                  20120626
+OBSERVER/S            Gavin Ramsay
+PROGRAMME             P5
+PROPOSAL REF          INO1
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Liam Hardy
+
+TEL STATION / FOCUS    / 16.0
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           20:22
+EVENING TWILIGHT (UT) 21:48
+MORNING TWILIGHT (UT) 04:41
+SUNRISE (UT)          06:08
+%ILLUM. LUNAR DISK    48
+DARK TIME (HRS)       06:53
+TWILIGHT TIME (HRS)   02:53
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          00:52
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  18.4   14    20.2  27.5  255   777.4   18.4   19.     20.   14     18
+22:00  18.1   14    20.5  23.1  218   777.8   18.1   18.     20.   14     19
+23:00  18.3   14    21.1  22.6  257   778.1   18.3   18.     19.   14     19
+00:00  18.1   14    22.4  22.7  251   778.3   18.1                 14      #
+01:00  18.0   14    16.4  21.0  219   778.2   18.0                 14      #
+02:00  18.0   12    12.6  16.9  242   777.9   18.0                 12      #
+03:00  18.2   16     9.8  11.5  203   777.5   18.2                 16      #
+04:00  18.4   16     8.8  11.4  186   777.4   18.4                 16      #
+05:00  18.3   16     7.8  10.5  180   777.3   18.3                 16      #
+06:00  18.4   16     5.4   8.4  192   777.5   18.4   17.     19.   16     21
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+dust. variable amounts. seeing 1.0-1.7"
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+good - despite the dust!
+
+

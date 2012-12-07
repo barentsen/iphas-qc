@@ -1,0 +1,75 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 02 08 06:02
+
+TELESCOPE             INT
+DATE                  20040207
+OBSERVER/S            harding & morrison
+PROGRAMME             Spag Formation of the Galactic Halo
+PROPOSAL REF          P23                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    .
+
+TEL STATION / FOCUS   Prime  / 44.09
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:02
+EVENING TWILIGHT (UT) 20:15
+MORNING TWILIGHT (UT) 06:36
+SUNRISE (UT)          07:49
+%ILLUM. LUNAR DISK    97
+DARK TIME (HRS)       10:21
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         20:03
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   4.4   19    21.8  23.0  145   773.1    4.4   5.7     8.2   19    19 
+21:00   4.8    6    28.3  29.0  142   773.3    4.8   6.1     7.9    6     8 
+22:00   4.9    5    26.4  27.1  148   773.4    4.9   6.1     7.8    5     6 
+23:00   5.1    4    23.5  24.5   12   773.5    5.1   6.1     7.7    4     6 
+00:00   4.5    5    30.4  31.8  154   773.1    4.5   5.7     7.6    5     7 
+01:00   4.4    5    32.7  34.2  135   772.7    4.4   5.9     7.5    5     7 
+02:00   4.4    3    29.2  31.1  146   772.4    4.4   5.8     7.3    3     5 
+03:00   4.5    4    23.0  27.1  159   772.2    4.5   6.0     7.2    4     6 
+04:00   4.2    5    20.0  24.1  173   772.1    4.2   5.9     7.1    5     6 
+05:00   4.8    3    17.4  19.0  148   772.0    4.8   6.1     7.0    3     5 
+06:00   4.2    3    19.4  21.3  149   771.8    4.2   5.7     7.3    3     7 
+
+TIME LOST weather           08:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+thin cirrus for first hour, then cirrus thickened to unworkable.  good seeing at start 0.86 arc fwhm in i' , 1.05 arc sec in V
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 388609 Bias frame       21:45:00.00 +65:00:00.0 J2000.00 12:52 1.256  WFC    0.0  180  Halpha                           
+ 388610 Bias frame       21:44:59.99 +65:00:00.0 J2000.00 12:54 1.255  WFC    0.0  180  Halpha                           
+ 388611 TEST              0:00:00.00 +00:00:00.0 J2000.00 12:59 1.088  WFC    5.1  180  Halpha                           
+ 388612 Focus run         1:19:40.90 +29:41:13.4 J2000.00 20:06 1.225  WFC   15.1  180  i                                
+ 388613 WW466             1:19:40.90 +29:40:23.4 J2000.00 20:17 1.276  WFC  199.4  180  V                                
+ 388614 WW466             1:19:40.89 +29:40:23.5 J2000.00 20:22 1.293  WFC  199.9  180  V                                
+ 388615 WW466             1:19:40.90 +29:40:23.5 J2000.00 20:27 1.313  WFC  200.0  180  V                                
+ 388616 WW466             1:19:40.90 +29:40:23.5 J2000.00 20:31 1.330  WFC  200.0  180  V                                
+ 388617 WW466             1:19:40.90 +29:40:23.5 J2000.00 20:35 1.391  WFC 1199.4  180  51                               
+ 388618 WW466             1:19:40.90 +29:40:23.5 J2000.00 20:56 1.506  WFC 1199.5  180  51                               
+ 388619 WW466             1:19:40.90 +29:40:23.6 J2000.00 21:17 1.590  WFC  180.0  180  V                                
+ 388620 WW466             1:19:40.90 +29:40:23.5 J2000.00 21:21 1.617  WFC  179.4  180  V                                
+ 388621 WW466             1:19:40.89 +29:40:23.6 J2000.00 21:24 1.644  WFC  150.0  180  i                                
+ 388622 WW466             1:19:40.90 +29:40:23.5 J2000.00 21:28 1.669  WFC  150.0  180  i                                
+ 388623 Focus run         7:36:15.33 +12:01:18.0 J2000.00 22:03 1.133  WFC   30.1  180  i                                
+ 388624 L2071BP153        7:36:15.33 +12:00:38.1 J2000.00 22:35 1.079  WFC  180.0  180  i                                
+ 388625 L2071BP153        7:36:15.34 +12:00:38.0 J2000.00 22:39 1.075  WFC  180.0  180  i                                
+ 388626 L2071BP153        7:36:15.34 +12:00:38.1 J2000.00 22:42 1.071  WFC  180.0  180  i                                
+ 388627 L2071BP153        7:36:15.34 +12:00:38.1 J2000.00 22:51 1.062  WFC  220.0  180  V                                
+ 388628 L2071BP153        7:36:15.34 +12:00:38.0 J2000.00 22:56 1.059  WFC  220.0  180  V                                
+ 388629 L2071BP153        7:36:15.34 +12:00:38.0 J2000.00 23:00 1.056  WFC  220.0  180  V                                
+ 388630 L2071BP153        7:36:15.34 +12:00:38.0 J2000.00 23:06 1.048  WFC 1799.0  180  51                               
+ 388631 L2071BP153        7:36:15.33 +12:00:38.0 J2000.00 23:36 1.047  WFC 1799.0  180  51                               
+ 388632 L2071BP153        7:36:15.34 +12:00:38.1 J2000.00 00:07 1.063  WFC 1799.0  180  51                               

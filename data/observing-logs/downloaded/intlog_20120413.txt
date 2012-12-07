@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 04 14 07:42
+
+TELESCOPE             INT
+DATE                  20120413
+OBSERVER/S            Y Gomez Maqueo Chew
+PROGRAMME             P12 
+PROPOSAL REF          P12
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    N/A
+
+TEL STATION / FOCUS    / 15.9
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:43
+EVENING TWILIGHT (UT) 20:58
+MORNING TWILIGHT (UT) 05:25
+SUNRISE (UT)          06:40
+%ILLUM. LUNAR DISK    44
+DARK TIME (HRS)       08:27
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         02:24
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   7.9    5    13.9  15.1   44   771.9   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   8.0    5    16.9  17.9   28   772.3   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   7.6    5    16.9  18.3   79   772.8   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   7.5    6    20.2  19.8    7   773.1   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   7.6    4    17.3  17.6   10   773.3   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   7.5    5     9.5   9.9   50   773.4   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   7.9    4    10.6  10.7   37   773.1   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   7.5    3     9.8  10.4   29   772.6   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   7.6    3    10.9  11.4   30   772.3   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   7.6    4    12.2  12.7    5   772.0   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   7.7    3    13.8  14.8   71   772.0   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:05
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+great night!
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+The TCS window froze a couple of times during the night, and came back when the communication was cleared.  The first time this happened
+about 5 mins were lost to that and James at the WHT helped figure it out.
+

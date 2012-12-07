@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 04 07 06:42
+
+TELESCOPE             INT
+DATE                  20120406
+OBSERVER/S            D Wright
+PROGRAMME             ITP4
+PROPOSAL REF          ITP4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Hassan Fathivavsari
+
+TEL STATION / FOCUS   Cassegrain  / 16.0
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:39
+EVENING TWILIGHT (UT) 20:53
+MORNING TWILIGHT (UT) 05:34
+SUNRISE (UT)          06:47
+%ILLUM. LUNAR DISK      1
+DARK TIME (HRS)       08:41
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   1.7   33    15.8  20.8  275   765.4   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   0.5   30    22.4  24.7  296   765.2   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   0.3   30    25.3  27.9  286   765.4   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   0.1   35    14.9  19.4  266   765.9   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   1.4   46    15.4  20.6  276   765.7   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   1.2   54    15.4  17.3  242   765.5   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   0.6   62    15.3  25.0  277   765.1   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   0.3   66    19.0  23.2  264   764.6   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   0.0   72    24.1  30.3  225   764.0   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   0.0   81    17.0  25.1  220   763.5   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   0.3   80    17.8  21.3  241   763.2   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           02:10
+TIME LOST Technical         00:10
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Good conditions at the start of the night with seeing varying between 1.5 and 2.  High level cloud cover for the last few hours.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+The cluod cover for the last few hours of the night meant I couldn't acquire anymore targets.
+At the start of the night the slitarc command would not respond.  IDS was restarted and the problem was resolved.
+

@@ -1,0 +1,93 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 05 13 06:16
+
+TELESCOPE             INT
+DATE                  20050512
+OBSERVER/S            Iglesias
+PROGRAMME             Star formation in nearby clusters of galaxies
+PROPOSAL REF          C12
+TELESCOPE OPERATOR    dd
+SUPPORT ASTRONOMER    P. Leisy
+
+TEL STATION / FOCUS    / 44.05
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:01
+EVENING TWILIGHT (UT) 21:21
+MORNING TWILIGHT (UT) 04:53
+SUNRISE (UT)          06:14
+%ILLUM. LUNAR DISK    20
+DARK TIME (HRS)       07:32
+TWILIGHT TIME (HRS)   02:41
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          00:13
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00   3.9   36    18.0  19.7  261   768.7    3.9   6.9    10.4   36    27 
+22:00   3.3   37    22.9  25.1  266   768.8    3.3   6.0     9.6   37    28 
+23:00   3.1   36    24.4  26.6  261   769.1    3.1   5.7     9.2   36    29 
+00:00   3.0   35    26.2  28.0  264   769.1    3.0   4.7     8.8   35    30 
+01:00   2.6   37    21.7  22.8  263   769.0    2.6   4.6     8.7   37    30 
+02:00   3.3   38    13.7  16.5  248   768.7    3.3   5.5     8.3   38    31 
+03:00   4.2   32    21.4  23.8  228   768.1    4.2   5.9     8.1   32    26 
+04:00   4.2   31    16.6  19.1  238   768.1    4.2   5.9     8.4   31    25 
+05:00   4.7   19    19.2  21.5  252   767.9    4.7   6.3     8.3   19    12 
+06:00   4.6   16    13.3  15.1  266   768.0    4.6   6.2     8.2   16    12 
+
+TIME LOST weather           06:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Almost completely covered during most of the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+We lost a lot of time because no guide stars were detected in the Autoguider due to clouds.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 449366 ALAN              2:00:00.00 +02:00:00.0 2000.00  12:57 1.169  WFC   14.6  180  U                                
+ 449367 Bias frame        1:59:59.99 +02:00:00.0 2000.00  12:59 1.172  WFC    0.0  180  U                                
+ 449368 Bias             13:06:56.00 +29:34:48.0 2000.00  19:24 1.432  WFC    0.0  180  U                                
+ 449369 Flat field       13:06:56.00 +29:34:47.9 2000.00  19:57 1.283  WFC    3.4  180  Unknown                          
+ 449370 Flat field       13:06:58.29 +29:35:18.0 2000.00  19:58 1.278  WFC    3.0  180  Unknown                          
+ 449371 Flat field       13:06:53.69 +29:35:18.0 2000.00  19:59 1.274  WFC    3.3  180  Unknown                          
+ 449372 Flat field       13:06:58.30 +29:34:18.0 2000.00  20:00 1.270  WFC    4.1  180  Unknown                          
+ 449373 Flat field       13:06:55.99 +29:34:48.0 2000.00  20:03 1.257  WFC    6.1  180  U                                
+ 449374 Flat field       13:06:56.00 +29:34:47.6 2000.00  20:05 1.253  WFC   11.6  180  U                                
+ 449375 Flat field       13:06:56.00 +29:34:47.9 2000.00  20:08 1.242  WFC    4.1  180  [SII]6725                        
+ 449376 Flat field       13:06:58.30 +29:35:17.9 2000.00  20:09 1.239  WFC    5.9  180  [SII]6725                        
+ 449377 Flat field       13:06:53.70 +29:35:17.9 2000.00  20:10 1.234  WFC    6.1  180  [SII]6725                        
+ 449378 Flat field       13:06:55.99 +29:34:48.0 2000.00  20:12 1.229  WFC    3.5  180  U                                
+ 449379 Flat field       13:06:58.30 +29:35:18.0 2000.00  20:13 1.225  WFC    4.4  180  U                                
+ 449380 Flat field       13:06:53.69 +29:35:17.9 2000.00  20:14 1.221  WFC    5.4  180  U                                
+ 449381 Flat field       13:06:53.70 +29:34:18.0 2000.00  20:15 1.217  WFC    6.0  180  U                                
+ 449382 Flat field       13:06:58.30 +29:34:18.0 2000.00  20:16 1.213  WFC    6.0  180  U                                
+ 449383 Flat field       13:06:56.00 +29:34:47.9 2000.00  20:18 1.210  WFC    3.9  180  B                                
+ 449384 Flat field       13:06:58.29 +29:35:17.8 2000.00  20:19 1.206  WFC    4.3  180  B                                
+ 449385 Flat field       13:06:53.70 +29:35:17.9 2000.00  20:20 1.202  WFC    5.6  180  B                                
+ 449386 Flat field       13:06:56.00 +29:34:47.9 2000.00  20:22 1.197  WFC   14.5  180  i                                
+ 449387 Flat field       13:06:58.30 +29:35:18.0 2000.00  20:23 1.193  WFC   22.2  180  i                                
+ 449388 Flat field       13:06:53.69 +29:34:17.9 2000.00  20:24 1.189  WFC   34.7  180  i                                
+ 449389 Flat field       13:06:58.29 +29:34:17.9 2000.00  20:26 1.184  WFC   57.3  180  i                                
+ 449390 Bias             13:06:58.29 +29:34:17.9 2000.00  20:28 1.180  WFC    0.0  180  i                                
+ 449391 Focus run         9:57:17.98 -00:24:59.9 2000.00  20:40 1.175  WFC   14.5  180  B                                
+ 449392 Focus run         9:57:18.00 -00:24:59.9 2000.00  20:50 1.187  WFC   25.1  180  Unknown                          
+ 449393 Focus run         9:57:18.00 -00:25:00.0 2000.00  21:09 1.220  WFC   10.1  180  Unknown                          
+ 449394 Focus run         9:57:18.00 -00:24:59.9 2000.00  21:14 1.234  WFC   10.1  180  Unknown                          
+ 449395 Bias              9:57:18.00 -00:24:59.9 2000.00  21:22 1.256  WFC    0.0  180  U                                
+ 449397 Focus run         9:57:17.99 -00:24:59.9 2000.00  22:11 1.407  WFC   10.1  180  Unknown                          
+ 449398 Focus run         9:57:17.99 -00:24:59.9 2000.00  22:22 1.470  WFC   10.1  180  Unknown                          
+ 449399 Focus run        12:43:07.00 -00:32:20.9 2000.00  22:37 1.147  WFC   25.1  180  Unknown                          
+ 449401 Focus run        12:43:07.00 -00:32:21.3 2000.00  23:03 1.155  WFC   30.1  180  B                                
+ 449402 a1831_U_1200s    13:59:41.00 +27:58:32.9 2000.00  23:22 1.002  WFC 1199.5  180  U                                
+ 449403 a1831_U_1200s_of 13:59:44.39 +27:57:48.1 2000.00  23:47 1.001  WFC 1199.4  180  U                                
+ 449404 a1831_U_1200s_of 13:59:37.60 +27:59:17.9 2000.00  00:14 1.010  WFC 1199.5  180  U                                
+ 449405 a1991_U_1200s    14:54:55.50 +18:38:34.0 2000.00  00:38 1.016  WFC 1199.4  180  U                                
+ 449406 a1991_U_1200s_of 14:54:58.66 +18:37:49.1 2000.00  01:01 1.023  WFC 1199.5  180  U                                
+ 449407 a1991_U_1200s_of 14:54:52.32 +18:39:19.0 2000.00  01:25 1.039  WFC 1198.9  180  U                                
+ 449408 Bias             14:54:52.33 +18:39:19.0 2000.00  01:45 1.049  WFC    0.0  180  U                                
+ 449409 mkw3s_U_1200s    15:22:14.80 +07:42:32.0 2000.00  01:49 1.095  WFC 1199.3  180  U                                
+ 449411 Bias             15:22:17.82 +07:41:46.9 2000.00  02:43 1.160  WFC    0.0  180  U                                

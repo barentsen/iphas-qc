@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 01 27 03:13
+
+TELESCOPE             INT
+DATE                  20080126
+OBSERVER/S            R. Barrena
+PROGRAMME             CAT Service
+PROPOSAL REF          CAT Service
+TELESCOPE OPERATOR    Cardwell
+SUPPORT ASTRONOMER    --
+
+TEL STATION / FOCUS   Prime  / 43.60
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:52
+EVENING TWILIGHT (UT) 20:06
+MORNING TWILIGHT (UT) 06:41
+SUNRISE (UT)          07:55
+%ILLUM. LUNAR DISK    79
+DARK TIME (HRS)       10:35
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         22:44
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.0   28    42.0  43.0  188   773.0    5.0   9.4     9.8   28    22 
+20:00   4.6   26    36.4  37.6  192   773.7    4.6   8.8     9.9   26    24 
+21:00   5.2   18    45.5  51.9  194   773.9    5.2   8.6     9.8   18    23 
+22:00   5.8   16    36.5  37.8  189   774.4    5.8   8.5    10.0   16    21 
+23:00   5.7   16    34.9  36.9  196   774.6    5.7   8.3     9.9   16    19 
+00:00   7.0   33    27.7  35.4  203   774.6    7.0   8.1    10.0   33    21 
+01:00   5.9   17    26.5  28.4  198   774.5    5.9   8.4    10.0   17    22 
+02:00   6.9   19    27.7  35.9  194   774.5    6.9   8.7     9.9   19    24 
+03:00   7.0   43    17.4  20.3  272   774.4    7.0   9.1    10.1   43    34 
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Completely covered
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+No data today
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 605081 Bias frame        0:00:00.00 +00:00:00.0  2000.00 03:08 4.243  WFC    0.0  180  U                                

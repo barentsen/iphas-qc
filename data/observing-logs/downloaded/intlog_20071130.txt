@@ -1,0 +1,57 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 11 30 02:53
+
+TELESCOPE             INT
+DATE                  20071130
+OBSERVER/S            J Drew
+PROGRAMME             IPHAS
+PROPOSAL REF          D        
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    M Valentini
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:37
+MORNING TWILIGHT (UT) 06:23
+SUNRISE (UT)          07:39
+%ILLUM. LUNAR DISK    55
+DARK TIME (HRS)       10:46
+TWILIGHT TIME (HRS)   02:31
+MOONRISE (UT)         00:21
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+No Met data available for second half of night
+
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100 percent humidity throughout (again)
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 597354 bias fast         0:00:00.00 +00:00:00.0  2007.91 19:00 1.000  WFC    0.0  180  r                                
+ 597355 bias fast         0:00:00.00 +00:00:00.0  2007.91 19:01 1.000  WFC    0.0  180  r                                
+ 597356 bias fast         0:00:00.00 +00:00:00.0  2007.91 19:01 1.000  WFC    0.0  180  r                                
+ 597357 bias fast         0:00:00.00 +00:00:00.0  2007.91 19:02 1.000  WFC    0.0  180  r                                
+ 597358 bias fast         0:00:00.00 +00:00:00.0  2007.91 19:02 1.000  WFC    0.0  180  r                                
+ 597359 bias fast         0:00:00.00 +00:00:00.0  2007.91 19:03 1.000  WFC    0.0  180  r                                
+ 597360 bias fast         0:00:00.00 +00:00:00.0  2007.91 19:03 1.000  WFC    0.0  180  r                                
+ 597361 bias fast         0:00:00.00 +00:00:00.0  2007.91 19:04 1.000  WFC    0.0  180  r                                
+ 597362 bias fast         0:00:00.00 +00:00:00.0  2007.91 19:04 1.000  WFC    0.0  180  r                                
+ 597363 bias fast         0:00:00.00 +00:00:00.0  2007.91 19:05 1.000  WFC    0.0  180  r                                
+ 597364 bias fast         0:00:00.00 +00:00:00.0  2007.91 19:12 1.000  WFC    0.0  180  r                                
+ 597365 bias fast         0:00:00.00 +00:00:00.0  2007.91 19:13 1.000  WFC    0.0  180  r                                
+ 597366 bias fast         0:00:00.00 +00:00:00.0  2007.91 19:13 1.000  WFC    0.0  180  r                                
+ 597367 bias fast         0:00:00.00 +00:00:00.0  2007.91 19:14 1.000  WFC    0.0  180  r                                
+ 597368 bias fast         0:00:00.00 +00:00:00.0  2007.91 19:14 1.000  WFC    0.0  180  r                                

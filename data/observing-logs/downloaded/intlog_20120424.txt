@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 04 25 07:24
+
+TELESCOPE             INT
+DATE                  20120424
+OBSERVER/S            Milone
+PROGRAMME             c70
+PROPOSAL REF          c70                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Dora Fohring
+
+TEL STATION / FOCUS    / 43.31
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:50
+EVENING TWILIGHT (UT) 21:06
+MORNING TWILIGHT (UT) 05:12
+SUNRISE (UT)          06:28
+%ILLUM. LUNAR DISK    12
+DARK TIME (HRS)       08:06
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          22:47
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   7.4    7    20.0  20.4   70   769.1   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   7.2    7    17.6  20.5   65   769.0   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   7.1    7    17.7  20.2   47   769.1   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   6.6    9    23.7  27.1   32   769.4   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   6.1   10    25.1  27.1   41   769.4   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   5.9   21    25.6  26.0   40   769.3   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   6.4   21    19.1  20.9   51   769.2   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   6.5    1    27.2  29.9   30   768.6   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   6.0   17    30.1  33.7   28   768.0   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   5.8   17    33.3  37.1   85   767.6   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   5.8   22    28.6  32.5   26   767.7   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           03:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+clouds during the first three hours.  quite poor seeing; mostly 1.5 arcsec
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+About 2-3 lost looking for bad wheather.
+
+

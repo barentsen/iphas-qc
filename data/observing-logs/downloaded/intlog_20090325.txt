@@ -1,0 +1,58 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 04 04 16:33
+
+TELESCOPE             INT
+DATE                  20090325
+OBSERVER/S            Sollima
+PROGRAMME             Extratidal structures in outer halo globular clusters
+PROPOSAL REF          C114
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    D.Jones
+
+TEL STATION / FOCUS    / 43.79
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:32
+EVENING TWILIGHT (UT) 20:44
+MORNING TWILIGHT (UT) 05:50
+SUNRISE (UT)          07:02
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       09:06
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         06:38
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -3.1   99     9.7  11.0  174   760.7   -3.1    7.      9.   99     61
+21:00  -3.4   99    10.5  14.5  191   761.3   -3.4    6.      9.   99     58
+22:00  -3.3   99    10.2  12.3  227   761.4   -3.3    6.      9.   99     55
+23:00  -2.5   99    19.4  20.7  250   761.9   -2.5    6.      9.   99     61
+00:00  -3.3   99    20.0  22.6  231   761.0   -3.3    6.      9.   99     61
+01:00  -3.0   99    12.3  16.3  204   761.1   -3.0    5.      9.   99     61
+02:00  -2.8   99     9.3  15.3  216   759.8   -2.8    5.      8.   99     64
+03:00  -3.1   99    14.8  15.1  185   760.1   -3.1    5.      8.   99     65
+04:00  -3.0   99     8.5  13.3  184   759.7   -3.0    4.      8.   99     68
+05:00  -3.2   99    16.8  18.2  199   759.8   -3.2    4.      8.   99     67
+06:00  -3.7   99    16.1  19.0  210   760.1   -3.7    4.      8.   99     64
+07:00  -3.4   99    10.9  14.3  195   760.1   -3.4    4.      8.   99     65
+
+TIME LOST weather           09:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+all night lost due to weather
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 663956 Bias             24:00:00.00 +19:59:59.9  2000.00 14:01 1.044  WFC    0.0  180  [OIII]5007                       
+ 663957 Flat field        0:00:00.00 +20:00:00.0  2000.00 14:04 1.047  WFC    6.1  180  Halpha                           
+ 663958 testofscript-V    0:00:00.00 +00:00:00.0  2000.00 16:37 4.755  WFC    5.1  180  V                                
+ 663959 testofscript-r    0:00:00.00 +00:00:00.0  2000.00 16:38 4.755  WFC    4.1  180  r                                
+ 663960 testofscript-I    0:00:00.00 +00:00:00.0  2000.00 16:39 4.755  WFC    5.1  180  I                                
+ 663961 testofscript-B    0:00:00.00 +00:00:00.0  2000.00 16:40 4.755  WFC   10.1  180  B                                

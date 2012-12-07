@@ -1,0 +1,63 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 12 18 05:21
+
+TELESCOPE             INT
+DATE                  20051217
+OBSERVER/S            J. Irwin
+PROGRAMME             Searching for planetary transits and eclipsing binaries in the ONC
+PROPOSAL REF          P17          
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    A. Cardwell
+
+TEL STATION / FOCUS   Prime  / 43.7
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:25
+EVENING TWILIGHT (UT) 19:41
+MORNING TWILIGHT (UT) 06:34
+SUNRISE (UT)          07:51
+%ILLUM. LUNAR DISK    95
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         19:46
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   1.6  100    13.4  15.9  128   767.3    1.6   6.1     7.7  100    82 
+20:00   2.7  100    13.9  16.5  182   767.7    2.7   6.6     7.8  100    84 
+21:00   2.4  100    10.5  11.3  173   768.2    2.4   6.7     7.6  100    83 
+22:00   2.9  100    12.0  14.1  141   768.3    2.9   6.6     7.8  100    87 
+23:00   3.2  100     7.6   9.1  149   768.5    3.2   6.7     7.7  100    88 
+00:00   2.8  100     8.3   8.8  143   768.3    2.8   6.9     7.7  100    87 
+01:00   2.8  100    12.0  15.8  139   767.3    2.8   6.7     7.7  100    87 
+02:00   2.6  100    18.9  21.5  130   767.5    2.6   6.9     7.8  100    83 
+03:00   2.7  100    15.9  17.5  138   767.3    2.7   6.9     7.9  100    85 
+04:00   3.2  100    10.4  12.6  156   767.3    3.2   7.0     7.8  100    86 
+05:00   3.1  100    14.9  18.3  137   766.8    3.1   6.9     7.9  100    85 
+
+TIME LOST weather           11:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% humidity and low cloud all night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 487571 ONC               0:00:00.00 +00:00:00.0 2000.00  12:25 4.249  WFC   15.1  180  i                                
+ 487572 Bias frame       17:59:59.99 +64:59:59.9 2000.00  12:41 1.250  WFC    0.0  180  V                                
+ 487573 Bias              0:00:00.00 +00:00:00.0 2000.00  15:21 2.469  WFC    0.0  180  Halpha                           
+ 487574 Bias              0:00:00.00 +00:00:00.0 2000.00  15:21 2.469  WFC    0.0  180  Halpha                           
+ 487575 Bias              0:00:00.00 +00:00:00.0 2000.00  15:22 2.469  WFC    0.0  180  Halpha                           
+ 487576 Bias              0:00:00.00 +00:00:00.0 2000.00  15:23 2.469  WFC    0.0  180  Halpha                           
+ 487577 Bias              0:00:00.00 +00:00:00.0 2000.00  15:23 2.469  WFC    0.0  180  Halpha                           
+ 487578 Bias              0:00:00.00 +00:00:00.0 2000.00  15:24 2.469  WFC    0.0  180  Halpha                           
+ 487579 Bias              0:00:00.00 +00:00:00.0 2000.00  15:24 2.469  WFC    0.0  180  Halpha                           
+ 487580 Bias              0:00:00.00 +00:00:00.0 2000.00  15:25 2.469  WFC    0.0  180  Halpha                           
+ 487581 Bias              0:00:00.00 +00:00:00.0 2000.00  15:26 2.469  WFC    0.0  180  Halpha                           
+ 487582 Bias              0:00:00.00 +00:00:00.0 2000.00  15:26 2.469  WFC    0.0  180  Halpha                           

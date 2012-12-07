@@ -1,0 +1,101 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 10 20 05:00
+
+TELESCOPE             INT
+DATE                  20101019
+OBSERVER/S            Magill/Tyndall/Janssen/Busenbender/Rodriguez-Gil
+PROGRAMME             D-night: IDS training
+PROPOSAL REF          D
+TELESCOPE OPERATOR    n/a
+SUPPORT ASTRONOMER    Magill/Tyndall/Janssen/Busenbender/Rodriguez-Gil
+
+TEL STATION / FOCUS   Cassegrain  / 14.85
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:46
+EVENING TWILIGHT (UT) 19:57
+MORNING TWILIGHT (UT) 05:56
+SUNRISE (UT)          07:08
+%ILLUM. LUNAR DISK    91
+DARK TIME (HRS)       09:59
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          05:03
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   7.1   98     6.1   5.7  246   769.2    7.1   13.     14.   98     68
+20:00   5.9   88    10.0  10.7  332   769.3    5.9   13.     14.   88     63
+21:00   6.0   91    12.6  13.7    8   769.5    6.0   13.     13.   91     63
+22:00   6.4   84    15.8  16.6  340   770.0    6.4   13.     14.   84     63
+23:00   6.6   79    11.4  12.2    0   770.5    6.6   12.     14.   79     63
+00:00   6.8   75    10.5  11.1    4   770.6    6.8   12.     14.   75     61
+01:00   6.9   74    11.4  12.0   26   770.5    6.9   12.     14.   74     62
+02:00   5.8   98    10.0  10.7    6   770.2    5.8   12.     14.   98     64
+03:00   5.9   89     9.8  10.2   25   769.9    5.9   12.     14.   89     65
+04:00   6.3   85     7.4   7.8  144   769.7    6.3   12.     14.   85     63
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humidity all night. We called it a night at 05:00 local time.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Quoted telescope focus is only a guess.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 762167 Bias              0:00:00.00 +00:00:00.0  2010.80 10:48 1.000  IDS    0.0   20  Clear+Clear   1.1  66.5 4497.2   
+ 762168 Arc               0:00:00.00 +00:00:00.0  2000.00 11:10 1.000  IDS   10.0   20  Clear+Clear   1.0  64.0 6568.7   
+ 762169 Arc              10:35:00.02 +19:59:59.5  2000.00 11:11 1.060  IDS   10.0   20  Clear+Clear   1.0  64.0 6568.7   
+ 762170 Bias              0:00:00.00 +00:00:00.0  2000.00 12:44 1.000  IDS    0.0   20  Clear+Clear   1.0  64.0 6568.7   
+ 762171 Preflash only     0:00:00.00 +00:00:00.0  2000.00 12:46 1.000  IDS    0.0   20  Clear+Clear   1.0  64.0 6568.7   
+ 762172 Preflash only     0:00:00.00 +00:00:00.0  2000.00 12:47 1.000  IDS    0.0   20  Clear+Clear   1.0  64.0 6568.7   
+ 762173 Bias              0:00:00.00 +00:00:00.0  2000.00 12:49 1.000  IDS    0.0   20  Clear+Clear   1.0  64.0 6568.7   
+ 762174 Arc               0:00:00.00 +00:00:00.0  2000.00 12:52 1.000  IDS    5.0   20  Clear+Clear   1.0  64.0 6568.7   
+ 762175 Arc               0:00:00.00 +00:00:00.0  2000.00 12:53 1.000  IDS    5.0   20  Clear+Clear   1.0  64.0 6568.7   
+ 762176 Rotation test     0:00:00.00 +00:00:00.0  2000.00 17:12 1.000  IDS   20.0   20  Clear+Clear   0.8  66.5 6007.3   
+ 762177 hart l            0:00:00.00 +00:00:00.0  2000.00 17:33 1.000  IDS   20.0   20  Clear+Clear   0.8  66.5 6007.3   
+ 762178 hart r            0:00:00.00 +00:00:00.0  2000.00 17:33 1.000  IDS   20.0   20  Clear+Clear   0.8  66.5 6007.3   
+ 762179 Rotation test     0:00:00.00 +00:00:00.0  2000.00 19:21 1.360  IDS   20.0   20  Clear+Clear   0.8  66.5 6007.3   
+ 762180 hart l            0:00:00.00 +00:00:00.0  2000.00 19:29 1.360  IDS   20.0   20  Clear+Clear   0.8  66.5 6007.3   
+ 762181 hart r            0:00:00.00 +00:00:00.0  2000.00 19:29 1.360  IDS   20.0   20  Clear+Clear   0.8  66.5 6007.3   
+ 762182 hart l            0:00:00.00 +00:00:00.0  2000.00 19:43 1.360  IDS   20.0   20  Clear+Clear   0.8  66.5 6007.3   
+ 762183 hart r            0:00:00.00 +00:00:00.0  2000.00 19:44 1.360  IDS   20.0   20  Clear+Clear   0.8  66.5 6007.3   
+ 762184 hart l            0:00:00.00 +00:00:00.0  2000.00 19:52 1.360  IDS   20.0   20  Clear+Clear   0.8  66.5 6007.3   
+ 762185 hart r            0:00:00.00 +00:00:00.0  2000.00 19:53 1.360  IDS   20.0   20  Clear+Clear   0.8  66.5 6007.3   
+ 762186 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 20:58 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   FIRST USEFUL FRAME
+ 762187 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 20:58 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762188 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 20:58 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762189 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 20:58 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762190 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 20:58 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762191 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 20:59 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762192 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 20:59 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762193 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 20:59 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762194 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 20:59 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762195 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 20:59 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762196 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 21:00 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762197 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 21:00 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762198 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 21:00 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762199 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 21:00 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762200 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 21:00 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762201 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 21:01 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762202 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 21:01 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762203 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 21:01 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762204 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 21:01 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762205 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 21:01 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762206 Bias 2x1          0:00:00.00 +00:00:00.0  2000.00 21:02 1.000  IDS    0.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762207 W Flat 2x1        0:00:00.00 +00:00:00.0  2000.00 21:09 1.000  IDS    4.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762208 W Flat 2x1        0:00:00.00 +00:00:00.0  2000.00 21:10 1.000  IDS    4.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762209 W Flat 2x1        0:00:00.00 +00:00:00.0  2000.00 21:10 1.000  IDS    4.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762210 W Flat 2x1        0:00:00.00 +00:00:00.0  2000.00 21:10 1.000  IDS    4.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762211 W Flat 2x1        0:00:00.00 +00:00:00.0  2000.00 21:10 1.000  IDS    4.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762212 W Flat 2x1        0:00:00.00 +00:00:00.0  2000.00 21:11 1.000  IDS    4.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762213 W Flat 2x1        0:00:00.00 +00:00:00.0  2000.00 21:11 1.000  IDS    4.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762214 W Flat 2x1        0:00:00.00 +00:00:00.0  2000.00 21:11 1.000  IDS    4.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762215 W Flat 2x1        0:00:00.00 +00:00:00.0  2000.00 21:12 1.000  IDS    4.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762216 W Flat 2x1        0:00:00.00 +00:00:00.0  2000.00 21:12 1.000  IDS    4.0   20  Clear+Clear   1.2  66.5 6007.3   
+ 762217 W Flat 2x1        0:00:00.00 +00:00:00.0  2000.00 21:12 1.000  IDS    4.0   20  Clear+Clear   1.2  66.5 6007.3   

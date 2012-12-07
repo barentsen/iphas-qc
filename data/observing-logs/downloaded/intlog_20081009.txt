@@ -1,0 +1,75 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 10 10 04:16
+
+TELESCOPE             INT
+DATE                  20081009
+OBSERVER/S            Scowcroft
+PROGRAMME             P13 M33 Beat Cepheid survey
+PROPOSAL REF          P13             
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Bramich
+
+TEL STATION / FOCUS   Prime  / NA
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:56
+EVENING TWILIGHT (UT) 20:07
+MORNING TWILIGHT (UT) 05:51
+SUNRISE (UT)          07:02
+%ILLUM. LUNAR DISK    74
+DARK TIME (HRS)       09:44
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          02:48
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.7   54    58.0  71.6   25   768.7    5.7  14.0    14.7   54    28 
+20:00   6.7   14    74.1  82.6   20   767.9    6.7  13.8    14.7   14    28 
+21:00   6.7   11    55.1  61.5   21   768.2    6.7  13.7    14.9   11    21 
+22:00   3.0   76    69.4  78.6   19   767.6    3.0  13.0    14.8   76    44 
+23:00   4.0   99    49.2  72.8   78   767.4    4.0  12.4    15.0   99    55 
+00:00   2.5   99    58.4  78.4   12   766.9    2.5  12.3    14.8   99    62 
+01:00   2.2   99    51.9  62.9  135   767.1    2.2  12.1    14.8   99    60 
+02:00   2.4   99    69.4  73.7   16   766.2    2.4  12.2    14.9   99    63 
+03:00   2.5   99    62.2  67.5   17   766.3    2.5  12.0    14.8   99    62 
+04:00   2.2   99    57.6  82.3   20   765.1    2.2  11.7    14.8   99    63 
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Did not open. High humidity and wind all night. 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 640708 Bias              0:00:00.00 +00:00:00.0  2000.00 13:11 4.228  WFC    0.0  180  r                                
+ 640709 Bias              0:00:00.00 +00:00:00.0  2000.00 18:34 4.228  WFC    0.0  180  B                                
+ 640710 Bias              0:00:00.00 +00:00:00.0  2000.00 18:35 4.228  WFC    0.0  180  B                                
+ 640712 Bias              0:00:00.00 +00:00:00.0  2000.00 18:37 4.228  WFC    0.0  180  B                                
+ 640713 Bias              0:00:00.00 +00:00:00.0  2000.00 18:38 4.228  WFC    0.0  180  B                                
+ 640714 Bias              0:00:00.00 +00:00:00.0  2000.00 18:40 4.228  WFC    0.0  180  B                                
+ 640715 Bias              0:00:00.00 +00:00:00.0  2000.00 18:41 4.228  WFC    0.0  180  B                                
+ 640716 Bias              0:00:00.00 +00:00:00.0  2000.00 18:42 4.228  WFC    0.0  180  B                                
+ 640717 Bias              0:00:00.00 +00:00:00.0  2000.00 18:43 4.228  WFC    0.0  180  B                                
+ 640718 Bias              0:00:00.00 +00:00:00.0  2000.00 18:44 4.228  WFC    0.0  180  B                                
+ 640719 Bias              0:00:00.00 +00:00:00.0  2000.00 18:44 4.228  WFC    0.0  180  B                                
+ 640720 Bias              0:00:00.00 +00:00:00.0  2000.00 18:45 4.228  WFC    0.0  180  B                                
+ 640721 Bias              0:00:00.00 +00:00:00.0  2000.00 18:46 4.228  WFC    0.0  180  B                                
+ 640722 Bias              0:00:00.00 +00:00:00.0  2000.00 18:47 4.228  WFC    0.0  180  B                                
+ 640723 Bias              0:00:00.00 +00:00:00.0  2000.00 18:48 4.228  WFC    0.0  180  B                                Do not use biases up to here. Turned the light on by mistake.
+ 640724 Bias              0:00:00.00 +00:00:00.0  2000.00 18:52 1.000  WFC    0.0  180  B                                
+ 640725 Bias              0:00:00.00 +00:00:00.0  2000.00 18:53 1.000  WFC    0.0  180  B                                
+ 640726 Bias              0:00:00.00 +00:00:00.0  2000.00 18:54 1.000  WFC    0.0  180  B                                
+ 640727 Bias              0:00:00.00 +00:00:00.0  2000.00 18:55 1.000  WFC    0.0  180  B                                
+ 640728 Bias              0:00:00.00 +00:00:00.0  2000.00 18:55 1.000  WFC    0.0  180  B                                
+ 640729 Bias              0:00:00.00 +00:00:00.0  2000.00 18:56 1.000  WFC    0.0  180  B                                
+ 640730 Bias              0:00:00.00 +00:00:00.0  2000.00 18:57 1.000  WFC    0.0  180  B                                
+ 640731 Bias              0:00:00.00 +00:00:00.0  2000.00 18:58 1.000  WFC    0.0  180  B                                
+ 640732 Bias              0:00:00.00 +00:00:00.0  2000.00 18:59 1.000  WFC    0.0  180  B                                
+ 640733 Bias              0:00:00.00 +00:00:00.0  2000.00 18:59 1.000  WFC    0.0  180  B                                

@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 06 07 07:17
+
+TELESCOPE             INT
+DATE                  20120606
+OBSERVER/S            Luca Casagrande
+PROGRAMME             photometry of Kepler stars
+PROPOSAL REF          P4                 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.72
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:15
+EVENING TWILIGHT (UT) 21:41
+MORNING TWILIGHT (UT) 04:39
+SUNRISE (UT)          06:05
+%ILLUM. LUNAR DISK    91
+DARK TIME (HRS)       06:58
+TWILIGHT TIME (HRS)   02:52
+MOONRISE (UT)         22:09
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00   9.0   52    24.2  31.0  332   772.3   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   8.2   72    31.9  25.5  341   772.5   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   8.6   72    21.8  24.9  330   772.9   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   8.9   70    17.8  42.2  338   772.9   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   8.8   68    16.7  19.7  336   772.7   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   8.2   78    17.3  19.4  333   772.3   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   7.4   78    18.9  21.2  327   771.8   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   8.1   62    20.5  26.6  249   771.6   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   8.4   57    20.3  24.0  297   771.5   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   7.5   79    20.2  24.8  290   771.3   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+clean
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+The camera's external shutter controlled by MCA failed. I gave the command cmd MCA RESET twice and then everything worked fine 
+
+

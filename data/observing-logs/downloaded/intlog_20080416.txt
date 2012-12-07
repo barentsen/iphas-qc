@@ -1,0 +1,51 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 04 25 16:49
+
+TELESCOPE             INT
+DATE                  20080416
+OBSERVER/S            none
+PROGRAMME             standown
+PROPOSAL REF          none     
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:45
+EVENING TWILIGHT (UT) 21:00
+MORNING TWILIGHT (UT) 05:21
+SUNRISE (UT)          06:37
+%ILLUM. LUNAR DISK    89
+DARK TIME (HRS)       08:21
+TWILIGHT TIME (HRS)   02:31
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          05:02
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   7.3   53    19.2  20.3   21   772.0    7.3   12.     12.   53     49
+21:00   8.7   43    19.3  20.2   18   772.3    8.7   12.     12.   43     47
+22:00   9.2   44    24.0  24.7    8   772.9    9.2   12.     12.   44     46
+23:00   9.0   45    26.7  28.4   72   773.3    9.0   11.     12.   45     46
+00:00   7.7   49    27.5  28.4    2   773.3    7.7   11.     12.   49     47
+01:00   9.0   38    24.9  26.8   74   773.0    9.0   11.     12.   38     44
+02:00   8.2   43    23.4  25.3   52   772.5    8.2   11.     12.   43     44
+03:00   8.5   35    19.6  22.2  141   772.2    8.5   11.     12.   35     46
+04:00  10.2   13    14.8  15.7  141   771.9   10.2   11.     12.   13     32
+05:00   9.0   15    20.2  21.5  194   771.4    9.0   11.     12.   15     31
+06:00   8.7   17    22.1  25.3  140   771.1    8.7   11.     12.   17     29
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+unknown
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+no observing at all, telescope on standown. 
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

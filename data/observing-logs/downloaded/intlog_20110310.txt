@@ -1,0 +1,64 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 03 12 22:59
+
+TELESCOPE             INT
+DATE                  20110310
+OBSERVER/S            Rafael Barrena
+PROGRAMME             CAT S
+PROPOSAL REF          CAT S      
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Shant Baghram
+
+TEL STATION / FOCUS   Prime  / 44.73
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:23
+EVENING TWILIGHT (UT) 20:35
+MORNING TWILIGHT (UT) 06:08
+SUNRISE (UT)          07:19
+%ILLUM. LUNAR DISK    31
+DARK TIME (HRS)       09:33
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          00:35
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -2.6   97    33.6  29.1  253   760.7   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00  -3.2   97    21.0  26.9  265   761.0   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00  -2.2   97    22.9  32.0  262   761.1   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00  -2.4   97    17.1  23.8  271   761.0   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00  -2.1   97     9.1   9.3  208   760.8   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00  -2.3   97    14.3  17.9  252   760.4   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00  -2.2   97    16.5  21.2  274   760.2   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00  -2.3   97    17.0  24.1  256   759.8   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00  -2.4   97    24.0  27.6  225   759.4   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00  -2.5   97    25.8  25.9  245   759.0   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00  -2.6   97    29.2  34.1  258   758.9   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00  -2.6   97    31.0  39.9  248   758.8   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Completely wet/snow
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+dome not opened
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 788125                                                                WFC                                               
+ 788126                                                                WFC                                               
+ 788127 Flat field        0:00:00.00 +00:00:00.0  2011.19 14:00 1.532  WFC    6.1  180  Halpha                           
+ 788128 Bias             23:30:00.00 +19:59:59.9  2000.00 14:30 1.041  WFC    0.0  180  B                                
+ 788129 Bias              0:00:00.00 +00:00:00.0  2000.00 15:03 4.700  WFC    0.0  180  B                                
+ 788130 Bias              0:00:00.00 +00:00:00.0  2000.00 15:07 4.700  WFC    0.0  180  B                                
+ 788131 Bias              0:00:00.00 +00:00:00.0  2000.00 15:09 4.700  WFC    0.0  180  B                                
+ 788132 Bias              0:00:00.00 +00:00:00.0  2000.00 15:11 4.700  WFC    0.0  180  B                                
+ 788133 Bias              0:00:00.00 +00:00:00.0  2000.00 15:12 4.700  WFC    0.0  180  Halpha                           
+ 788134 Bias              0:00:00.00 +00:00:00.0  2000.00 15:13 4.700  WFC    0.0  180  Halpha                           
+ 788135 Bias              0:00:00.00 +00:00:00.0  2000.00 15:14 4.700  WFC    0.0  180  Halpha                           
+ 788136 Bias              0:00:00.00 +00:00:00.0  2000.00 15:15 4.700  WFC    0.0  180  Halpha                           

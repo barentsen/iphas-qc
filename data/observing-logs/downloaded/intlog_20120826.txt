@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 08 27 07:59
+
+TELESCOPE             INT
+DATE                  20120826
+OBSERVER/S            A.Hempel
+PROGRAMME             Stromgren photometry of the Kepler field
+PROPOSAL REF          P1
+TELESCOPE OPERATOR    --
+SUPPORT ASTRONOMER    Lee Patrikck
+
+TEL STATION / FOCUS   Prime  / 43.28
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:48
+EVENING TWILIGHT (UT) 21:03
+MORNING TWILIGHT (UT) 05:25
+SUNRISE (UT)          06:40
+%ILLUM. LUNAR DISK    76
+DARK TIME (HRS)       08:22
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          02:41
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00     #    #       #     #    #       #      #  20.1    20.6    #    34 
+21:00     #    #       #     #    #       #      #  18.7    20.5    #    18 
+22:00     #    #       #     #    #       #      #  18.0    20.5    #    18 
+23:00     #    #       #     #    #       #      #  17.4    20.5    #    19 
+00:00     #    #       #     #    #       #      #  17.2    20.3    #    21 
+01:00     #    #       #     #    #       #      #  17.1    19.8    #    20 
+02:00     #    #       #     #    #       #      #  17.0    19.3    #    21 
+03:00     #    #       #     #    #       #      #  16.8    19.1    #    21 
+04:00     #    #       #     #    #       #      #  16.6    19.4    #    22 
+05:00     #    #       #     #    #       #      #  16.4    19.3    #    21 
+06:00     #    #       #     #    #       #      #  16.4    19.4    #    21 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+not photometric, seeing between 1" and 2.3", but not really cloudy
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+no technical problems
+
+

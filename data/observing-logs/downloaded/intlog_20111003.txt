@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 10 04 07:06
+
+TELESCOPE             INT
+DATE                  20111003
+OBSERVER/S            Vazdekis & Sanchez-Blazquez
+PROGRAMME             C93
+PROPOSAL REF          C93
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    .
+
+TEL STATION / FOCUS   Cassegrain  / 15.4
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:04
+EVENING TWILIGHT (UT) 20:15
+MORNING TWILIGHT (UT) 05:47
+SUNRISE (UT)          06:59
+%ILLUM. LUNAR DISK    49
+DARK TIME (HRS)       09:32
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          00:19
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   9.9   87    15.8  22.4  174   773.7    9.9   13.     14.   87     77
+21:00   9.8   86    16.4  21.7  176   774.1    9.8   11.     14.   86     88
+22:00   9.3   69     8.0  12.3  157   774.6    9.3   10.     14.   69     71
+23:00   9.0   77     8.4  14.8  168   775.0    9.0   10.     13.   77     79
+00:00   8.9   93    10.9  21.0  176   774.9    8.9   10.     13.   93     88
+01:00   9.5   81    15.9  23.2  179   774.9    9.5   11.     13.   81     83
+02:00  10.2   68    12.4  15.7  133   774.9   10.2   11.     13.   68     70
+03:00  10.5   85    15.6  27.3  178   775.1   10.5   11.     13.   85     86
+04:00  10.1   79     2.2   4.1  159   774.9   10.1   11.     13.   79     81
+05:00   9.7   81     4.0   7.1  148   774.7    9.7   11.     13.   81     82
+06:00  10.9   83     5.6  10.8  161   774.9   10.9   11.     13.   83     84
+
+TIME LOST weather           03:00
+TIME LOST Technical         002:40
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+humidity (fisrt part of the night) - cloudy (last part of the night)
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+We lost the AG0 camera image at the beginning of the observation until the SA of the WHT solved it. (19:50 -> 22:30) : Closed because of the humidity (23:45)
+The pointing system did not work fine. (offset ~ .5 arcmin on average). The central wavelenght (blue arm) automatically shifted between 4537.3 to 4532.1 with no apparent influence on the spectra.
+After the SA (WHT) solved the imaging problem, we could not use/see the window (TCS) that shows the state of the telescope (focus,AR/DEC, telescpe/dome position/movement)

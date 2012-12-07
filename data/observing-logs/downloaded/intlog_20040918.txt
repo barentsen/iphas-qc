@@ -1,0 +1,84 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 09 21 15:06
+
+TELESCOPE             INT
+DATE                  20040918
+OBSERVER/S            Reverte-Paya
+PROGRAMME             Vilchez C4
+PROPOSAL REF          Vilchez C4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Skillen
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:21
+EVENING TWILIGHT (UT) 20:33
+MORNING TWILIGHT (UT) 05:39
+SUNRISE (UT)          06:51
+%ILLUM. LUNAR DISK    22
+DARK TIME (HRS)       09:06
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:51
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   6.4   92     7.7   9.3  323   771.0    6.4  13.8    13.9   92    59 
+21:00   5.0   91    18.1  19.6  350   771.1    5.0  13.1    13.8   91    59 
+22:00   5.3   98    22.5  23.4  345   771.3    5.3  12.2    13.8   98    63 
+23:00   5.5  100    18.2  20.5  349   771.6    5.5  11.8    13.8  100    66 
+00:00   5.6  100    16.1  18.2    5   771.5    5.6  11.9    13.9  100    68 
+01:00   4.8  100    15.0  17.9  351   771.1    4.8  11.8    14.0  100    66 
+02:00   4.6  100    27.2  30.2  348   770.5    4.6  11.2    13.8  100    67 
+03:00   4.7  100    13.0  14.3  345   770.3    4.7  11.1    13.9  100    68 
+04:00   4.0  100    25.6  27.3  299   769.8    4.0  11.0    13.9  100    66 
+05:00   4.1  100    22.4  24.0  317   769.3    4.1  11.0    14.0  100    65 
+06:00   4.5  100    28.8  32.1  329   769.2    4.5  10.6    13.8  100    70 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+unknown
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 423012 TEST             12:58:00.00 +44:59:59.9 J2000.00 15:26 1.072  WFC   14.6  180  r                                
+ 423013 TEST              0:00:00.00 +00:00:00.0 J2000.00 15:31 1.000  WFC   15.1  180  r                                
+ 423014 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 15:34 1.000  WFC    0.0  180  r                                
+ 423015 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 15:38 1.000  WFC    0.0  180  r                                
+ 423016 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 15:46 4.391  WFC    0.0  180  r                                
+ 423017 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 15:55 4.391  WFC    0.0  180  r                                
+ 423018 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 15:57 4.391  WFC    0.0  180  r                                
+ 423019 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:22 4.391  WFC    0.0  180  r                                
+ 423020 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:24 4.391  WFC    0.0  180  r                                
+ 423021 TEST              0:00:00.00 +00:00:00.0 J2000.00 16:28 4.391  WFC   10.1  180  r                                
+ 423022 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:30 4.391  WFC    0.0  180  r                                
+ 423023 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:36 4.391  WFC    0.0  180  r                                
+ 423024 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:38 4.391  WFC    0.0  180  r                                
+ 423025 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:48 4.391  WFC    0.0  180  Halpha                           
+ 423026 Dark frame        0:00:00.00 +00:00:00.0 J2000.00 16:52 4.391  WFC   10.0  180  Halpha                           
+ 423027 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:54 4.391  WFC    0.0  180  Halpha                           
+ 423029 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 17:01 4.391  WFC    0.0  180  Halpha                           
+ 423030 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 17:08 4.391  WFC    0.0  180  Halpha                           
+ 423031 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 17:15 4.391  WFC    0.0  180  r                                
+ 423032 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:12 1.000  WFC    0.0  180  U                                
+ 423033 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:13 1.000  WFC    0.0  180  U                                
+ 423034 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:13 1.000  WFC    0.0  180  U                                
+ 423035 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:14 1.000  WFC    0.0  180  U                                
+ 423036 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:14 1.000  WFC    0.0  180  U                                
+ 423037 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:15 1.000  WFC    0.0  180  U                                
+ 423038 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:16 1.000  WFC    0.0  180  U                                
+ 423039 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:16 1.000  WFC    0.0  180  U                                
+ 423040 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:17 1.000  WFC    0.0  180  U                                
+ 423041 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:17 1.000  WFC    0.0  180  U                                
+ 423042 Dark frame        0:00:00.00 +00:00:00.0 J2000.00 21:53 1.000  WFC  600.0  180  U                                
+ 423043 Bias              0:00:00.00 +00:00:00.0 J2000.00 10:36 4.285  WFC    0.0  180  U                                
+ 423044 Bias              0:00:00.00 +00:00:00.0 J2000.00 10:51 4.285  WFC    0.0  180  U                                
+ 423045 Bias              0:00:00.00 +00:00:00.0 J2000.00 11:03 4.285  WFC    0.0  180  U                                

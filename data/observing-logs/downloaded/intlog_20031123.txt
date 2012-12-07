@@ -1,0 +1,56 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 11 24 04:21
+
+TELESCOPE             INT
+DATE                  20031123
+OBSERVER/S            Katherine Inskip
+PROGRAMME             7C radio galaxies
+PROPOSAL REF          P10                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    R Greimel
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:18
+SUNRISE (UT)          07:33
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       10:40
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         No Moon all night
+MOONSET (UT)          No Moon all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -0.4  100    39.9  44.5  268   763.3   -0.4   6.5     9.7  100    66 
+20:00   0.1  100    39.6  43.2  301   763.7    0.1   6.7     9.7  100    67 
+21:00  -0.7  100    46.5  50.4  268   763.9   -0.7   6.1     9.6  100    67 
+22:00  -0.7  100    54.0  58.2  278   763.9   -0.7   5.9     9.7  100    69 
+23:00  -0.6  100    47.9  57.8  278   764.3   -0.6   5.5     9.5  100    70 
+00:00   0.2  100    42.5  50.9  291   764.5    0.2   5.7     9.6  100    72 
+01:00   0.3  100    40.3  50.4  308   764.4    0.3   5.4     9.5  100    73 
+02:00   0.7  100    54.7  65.4  264   764.1    0.7   5.8     9.5  100    74 
+03:00   0.6  100    27.5  33.0  299   764.4    0.6   5.8     9.5  100    73 
+04:00   2.0  100    47.9  56.9  273   763.8    2.0   6.0     9.4  100    76 
+
+TIME LOST weather           12:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+rain, humidity, strong winds, clouds...
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Totally weathered out, for the fifth night running
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 376845 Bias frame        0:00:00.00 +00:00:00.0 A        18:07 1.000  WFC    0.0  180  V                                dome lights on for first bias..
+ 376846 Bias frame        0:00:00.00 +00:00:00.0 A        18:09 1.000  WFC    0.0  180  V                                
+ 376847 Bias frame        0:00:00.00 +00:00:00.0 A        18:09 1.000  WFC    0.0  180  V                                
+ 376848 Bias frame        0:00:00.00 +00:00:00.0 A        18:10 1.000  WFC    0.0  180  V                                
+ 376849 Bias frame        0:00:00.00 +00:00:00.0 A        18:11 1.000  WFC    0.0  180  V                                
+ 376850 Bias frame        0:00:00.00 +00:00:00.0 A        18:11 1.000  WFC    0.0  180  V                                

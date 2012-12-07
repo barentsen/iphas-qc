@@ -1,0 +1,53 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 03 19 18:42
+
+TELESCOPE             INT
+DATE                  20110316
+OBSERVER/S            Vazdekis
+PROGRAMME             C196
+PROPOSAL REF          C196
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 14.80
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:27
+EVENING TWILIGHT (UT) 20:38
+MORNING TWILIGHT (UT) 06:01
+SUNRISE (UT)          07:13
+%ILLUM. LUNAR DISK    89
+DARK TIME (HRS)       09:23
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          05:31
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -1.9   59     0.5   0.8  308   769.1   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   0.1   53     5.8   8.2  308   769.7   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   0.5   43    13.5  18.7  308   770.2   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   1.2   37    14.2  21.4  308   770.4   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   1.8   27    28.1  31.0  308   770.1   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   1.7   36     8.0  10.0  308   770.1   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   1.8   34     7.9   9.4  308   769.7   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   2.0   32     0.3   0.5  308   769.1   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   1.6   32     9.7  10.6  308   768.6   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   2.6   25    19.8  24.4  308   768.4   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   2.7   24    17.1  22.3  308   768.4   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   1.9   30    18.0  18.9  308   768.7   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           09:20
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Snow and ice
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+All night lost to snow and ice
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 788174                                                                IDS                                               

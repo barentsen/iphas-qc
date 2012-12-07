@@ -1,0 +1,70 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 11 04 06:32
+
+TELESCOPE             INT
+DATE                  20061103
+OBSERVER/S            R. Morris, C. Winkworth
+PROGRAMME             IPHAS
+PROPOSAL REF          P10
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.71
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:33
+EVENING TWILIGHT (UT) 19:46
+MORNING TWILIGHT (UT) 06:05
+SUNRISE (UT)          07:18
+%ILLUM. LUNAR DISK    97
+DARK TIME (HRS)       10:19
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          06:15
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   9.6   42    31.8  32.3  240   768.9    9.6     #       #   42     # 
+20:00   9.0   42    28.8  30.1  252   769.3    9.0     #       #   42     # 
+21:00   9.9   44    25.4  28.0  243   769.7    9.9     #       #   44     # 
+22:00  10.1   42    29.0  31.9  243   770.1   10.1     #       #   42     # 
+23:00   9.3   46    28.5  33.6  233   770.3    9.3     #       #   46     # 
+00:00   9.3   47    30.8  36.1  220   770.3    9.3     #       #   47     # 
+01:00   9.3   48    34.4  37.2  248   770.2    9.3     #       #   48     # 
+02:00  10.4   42    34.3  42.6  239   770.1   10.4     #       #   42     # 
+03:00   9.6   44    30.9  38.1  251   769.9    9.6     #       #   44     # 
+04:00   9.4   48    30.9  36.0  231   769.8    9.4     #       #   48     # 
+05:00   9.1   52    25.2  31.8  213   769.7    9.1     #       #   52     # 
+06:00   8.5   57    34.0  36.8  241   769.9    8.5     #       #   57     # 
+
+TIME LOST weather           8:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+cloudy
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 533755 Bias             14:31:00.00 +26:00:00.0 2000.00  13:55 1.032  WFC    0.0  180  [OIII]5007                       
+ 533756 Bias             14:31:00.00 +26:00:00.0 2000.00  13:57 1.034  WFC    0.0  180  i                                
+ 533757 Skyflat r 30s    19:59:00.00 +02:20:00.0 2000.00  18:57 1.132  WFC   30.1  180  r                                High cloud 
+ 533758 Skyflat r 30s    19:59:00.66 +02:20:10.0 2000.00  18:59 1.133  WFC   30.1  180  r                                
+ 533759 Skyflat r 30s    19:58:59.33 +02:19:50.1 2000.00  19:00 1.135  WFC   30.1  180  r                                
+ 533760 Skyflat i 60s    19:59:00.00 +02:20:00.0 2000.00  19:02 1.136  WFC   60.0  180  i                                
+ 533761 Skyflat i 120s   19:59:00.66 +02:20:09.8 2000.00  19:04 1.139  WFC  120.0  180  i                                
+ 533762 Skyflat i 180    19:58:59.32 +02:19:50.2 2000.00  19:07 1.142  WFC  179.4  180  i                                
+ 533763 ST_NGC7006 r 30s 21:01:29.28 +16:11:07.0 2000.00  19:20 1.024  WFC   30.0  180  r                                
+ 533764 ST_NGC7006 i 30s 21:01:29.27 +16:11:07.1 2000.00  19:23 1.024  WFC   30.1  180  r                                
+ 533765 ST_NGC7006 Ha 12 21:01:29.28 +16:11:07.1 2000.00  19:24 1.025  WFC  120.0  180  Halpha                           
+ 533766 SA113-260 r 3s   21:41:48.00 +00:23:53.2 2000.00  19:34 1.144  WFC    3.1  180  r                                
+ 533767 SA113-260 i 3s   21:41:48.00 +00:23:53.2 2000.00  19:35 1.143  WFC    3.1  180  i                                
+ 533768 SA113-260 Ha 15s 21:41:48.00 +00:23:53.3 2000.00  19:36 1.143  WFC   15.1  180  Halpha                           
+ 533769 Focus run        21:41:48.00 +00:23:53.3 2000.00  19:48 1.138  WFC    9.6  180  r                                
+ 533770 ST_L113 r 10s    21:40:58.79 +00:48:37.9 2000.00  20:01 1.131  WFC   10.1  180  r                                
+ 533771 ST_L113 i 10s    21:40:58.79 +00:48:38.0 2000.00  20:02 1.131  WFC   10.1  180  i                                
+ 533772 ST_L113 Ha 40s   21:40:58.80 +00:48:38.0 2000.00  20:03 1.132  WFC   40.1  180  Halpha                           

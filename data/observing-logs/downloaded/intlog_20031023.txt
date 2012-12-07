@@ -1,0 +1,96 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 10 24 08:35
+
+TELESCOPE             INT
+DATE                  20031023
+OBSERVER/S            ARAGON
+PROGRAMME             Spag: Search for distant halo giants
+PROPOSAL REF          I03BN002
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    DIMITRIS. M
+
+TEL STATION / FOCUS   Prime  / 43.95
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:42
+EVENING TWILIGHT (UT) 19:54
+MORNING TWILIGHT (UT) 05:58
+SUNRISE (UT)          07:10
+%ILLUM. LUNAR DISK    4
+DARK TIME (HRS)       10:04
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         05:50
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.0  100    36.8  41.4    5   768.5    4.0  11.7    11.9  100    68 
+20:00   3.8  100    29.6  32.7   21   769.3    3.8  11.7    11.9  100    66 
+21:00   3.6  100    28.1  30.3  336   769.5    3.6  11.7    11.9  100    66 
+22:00   3.0  100    21.6  26.6   29   770.1    3.0  11.7    11.8  100    65 
+23:00   2.9  100    12.2  12.4  339   770.1    2.9  11.5    11.9  100    63 
+00:00   5.6   65     8.8   9.5  258   770.1    5.6  11.3    11.9   65    55 
+01:00   2.6  100    18.9  19.8   23   770.0    2.6  11.4    11.9  100    57 
+02:00   3.4  100    14.7  15.6   19   769.7    3.4  11.4    11.9  100    60 
+03:00   2.4  100    17.4  19.3  340   769.2    2.4  11.5    11.8  100    61 
+04:00   3.0   84    12.8  13.9  308   768.9    3.0  11.3    12.0   84    59 
+05:00   3.3   94    15.9  16.8  243   768.4    3.3  10.8    12.0   94    58 
+06:00   3.4   82    16.6  17.3  254   768.3    3.4   9.0    11.8   82    49 
+07:00   4.3   45    16.2  18.2  308   768.4    4.3   6.6    10.7   45    36 
+
+TIME LOST weather           9:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+cloudy and 100% hum most of the night, but at 6:00 it was possible to observe
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Bad weather most of the night
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 370857 Bias             13:00:00.00 +26:59:59.9 J2000.00 12:44 1.012  WFC    0.0  180  g                                
+ 370858 Bias              0:00:00.00 +00:00:00.0 J2000.00 15:23 4.234  WFC    0.0  180  Halpha                           
+ 370859 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 15:26 4.234  WFC    0.0  180  Halpha                           
+ 370860 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 15:27 4.234  WFC    0.0  180  Halpha                           
+ 370861 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 15:27 4.234  WFC    0.0  180  Halpha                           
+ 370862 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 15:28 4.234  WFC    0.0  180  Halpha                           
+ 370863 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 15:29 4.234  WFC    0.0  180  Halpha                           
+ 370864 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 15:29 4.234  WFC    0.0  180  Halpha                           
+ 370865 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 15:30 4.234  WFC    0.0  180  Halpha                           
+ 370866 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 15:31 4.234  WFC    0.0  180  Halpha                           
+ 370867 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 15:31 4.234  WFC    0.0  180  Halpha                           
+ 370868 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 15:32 4.234  WFC    0.0  180  Halpha                           
+ 370869 Bias              0:00:00.00 +00:00:00.0 J2000.00 15:43 4.234  WFC    0.0  180  Halpha                           
+ 370870 Bias              0:00:00.00 +00:00:00.0 J2000.00 15:44 4.234  WFC    0.0  180  Halpha                           
+ 370871 Bias              0:00:00.00 +00:00:00.0 J2000.00 15:44 4.234  WFC    0.0  180  Halpha                           
+ 370872 Bias              0:00:00.00 +00:00:00.0 J2000.00 15:45 4.234  WFC    0.0  180  Halpha                           
+ 370873 Bias              0:00:00.00 +00:00:00.0 J2000.00 15:46 4.234  WFC    0.0  180  Halpha                           
+ 370874 Bias              0:00:00.00 +00:00:00.0 J2000.00 15:46 4.234  WFC    0.0  180  Halpha                           
+ 370875 Bias              0:00:00.00 +00:00:00.0 J2000.00 15:47 4.234  WFC    0.0  180  Halpha                           
+ 370876 Bias              0:00:00.00 +00:00:00.0 J2000.00 15:48 4.234  WFC    0.0  180  Halpha                           
+ 370877 Bias              0:00:00.00 +00:00:00.0 J2000.00 15:48 4.234  WFC    0.0  180  Halpha                           
+ 370878 Bias              0:00:00.00 +00:00:00.0 J2000.00 15:49 4.234  WFC    0.0  180  Halpha                           
+ 370879 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:23 4.234  WFC    0.0  180  i                                
+ 370880 Bias              0:00:00.00 +00:00:00.0 J2000.00 16:25 4.234  WFC    0.0  180  i                                
+ 370881 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:49 1.000  WFC    0.0  180  i                                
+ 370883 Bias              0:00:00.00 +00:00:00.0 J2000.00 04:22 1.000  WFC    0.0  180  g                                
+ 370884 Bias              0:00:00.00 +00:00:00.0 J2000.00 04:23 1.000  WFC    0.0  180  g                                
+ 370885 Focus run         2:03:45.20 +38:19:34.9 J2000.00 05:02 1.524  WFC   10.1  180  g                                
+ 370887 FIELD_A00         2:03:45.20 +38:17:04.7 J2000.00 05:10 1.607  WFC  499.9  180  g                                
+ 370888 FIELD_A00B        2:03:47.74 +38:17:34.7 J2000.00 05:26 1.725  WFC  499.8  180  g                                
+ 370889 FIELD_A00A        2:00:57.28 +38:12:42.0 J2000.00 05:38 1.861  WFC  499.8  180  g                                
+ 370890 FIELD_A00B        2:00:57.28 +38:12:41.9 J2000.00 05:49 1.976  WFC  499.7  180  g                                
+ 370891 FIELD_A02A        2:00:20.42 +37:36:47.2 J2000.00 06:02 2.168  WFC  699.7  180  g                                
+ 370892 Flat field        5:55:59.99 +04:09:00.0 J2000.00 06:40 1.214  WFC   59.3  180  g                                
+ 370893 Flat field        5:55:59.33 +04:08:49.9 J2000.00 06:42 1.219  WFC   37.5  180  g                                
+ 370894 Flat field        5:56:00.66 +04:08:50.0 J2000.00 06:44 1.224  WFC   25.8  180  g                                
+ 370895 Flat field        5:56:00.66 +04:09:09.9 J2000.00 06:46 1.228  WFC   18.1  180  g                                
+ 370896 Flat field        5:55:59.33 +04:09:10.0 J2000.00 06:47 1.232  WFC   12.5  180  g                                
+ 370897 Flat field        5:56:00.00 +04:09:19.9 J2000.00 06:49 1.235  WFC    8.9  180  g                                
+ 370898 Flat field        5:56:01.33 +04:09:20.0 J2000.00 06:50 1.239  WFC    4.3  180  g                                
+ 370899 Flat field        5:56:01.33 +04:09:10.0 J2000.00 06:52 1.243  WFC    4.5  180  i                                
+ 370900 Flat field        5:56:01.33 +04:09:00.0 J2000.00 06:53 1.246  WFC    5.3  180  i                                
+ 370901 Flat field        5:56:01.33 +04:08:50.0 J2000.00 06:54 1.251  WFC    4.8  180  i                                

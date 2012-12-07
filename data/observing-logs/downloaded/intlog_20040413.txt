@@ -1,0 +1,61 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 04 19 06:10
+
+TELESCOPE             INT
+DATE                  20040413
+OBSERVER/S            Aragon
+PROGRAMME             AWM3 filament
+PROPOSAL REF          N7
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:43
+EVENING TWILIGHT (UT) 20:58
+MORNING TWILIGHT (UT) 05:25
+SUNRISE (UT)          06:40
+%ILLUM. LUNAR DISK    30
+DARK TIME (HRS)       08:27
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         03:56
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -3.4   92    12.3  12.9  293   764.1   -3.4   8.3     8.1   92    49 
+21:00  -3.8   92    22.3  24.4  334   764.3   -3.8   8.0     8.2   92    50 
+22:00  -3.4   92    19.7  20.6  324   764.8   -3.4   7.6     8.2   92    50 
+23:00  -3.5   92    20.8  22.5  345   764.8   -3.5   7.4     8.3   92    52 
+00:00  -3.9   92    25.6  27.2  319   764.5   -3.9   6.8     8.3   92    53 
+01:00  -3.2   92    25.4  27.5  326   764.2   -3.2   6.3     8.4   92    55 
+02:00  -4.3   92    19.2  20.8  336   763.8   -4.3   6.0     8.4   92    55 
+03:00  -5.1   91    23.8  26.0  336   763.1   -5.1   5.9     8.3   91    54 
+04:00  -4.0   92    19.8  21.7  336   762.7   -4.0   4.2     8.3   92    60 
+05:00  -4.2   91    24.6  27.6  336   762.6   -4.2   3.5     8.4   91    64 
+06:00  -3.5   92    22.3  26.5  336   762.2   -3.5   3.1     8.1   92    65 
+
+TIME LOST weather           08:29
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+bad weather
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 393260 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 13:55 4.539  WFC    0.0  180  B                                
+ 393261 Flat field        0:00:00.00 +00:00:00.0 J2000.00 02:27 1.482  WFC   10.1  180  Halpha                           
+ 393262 Dome_flat_B       0:00:00.00 +00:00:00.0 J2000.00 02:29 1.482  WFC   10.1  180  B                                
+ 393263 Dome_flat_B       0:00:00.00 +00:00:00.0 J2000.00 02:41 1.482  WFC   15.1  180  B                                
+ 393264 Dome_flat_B       0:00:00.00 +00:00:00.0 J2000.00 02:45 1.482  WFC   15.1  180  B                                
+ 393265 Dome_flat_B       0:00:00.00 +00:00:00.0 J2000.00 02:49 1.482  WFC   15.1  180  B                                
+ 393266 Dome_flat_B       0:00:00.00 +00:00:00.0 J2000.00 02:55 1.482  WFC   14.5  180  B                                
+ 393267 Dome_flat_B       0:00:00.00 +00:00:00.0 J2000.00 02:58 1.482  WFC   20.1  180  B                                
+ 393268 Dome_flat_B       0:00:00.00 +00:00:00.0 J2000.00 03:01 1.482  WFC   24.5  180  B                                
+ 393269 Dome_flat_B       0:00:00.00 +00:00:00.0 J2000.00 03:34 1.482  WFC   25.1  180  B                                

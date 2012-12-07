@@ -1,0 +1,78 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 04 06 04:32
+
+TELESCOPE             INT
+DATE                  20080405
+OBSERVER/S            Deshev
+PROGRAMME             Wide field imaging of galaxy clusters at z=0.2
+PROPOSAL REF          N4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Tiina Liimets
+
+TEL STATION / FOCUS    / 43.64
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:39
+EVENING TWILIGHT (UT) 20:52
+MORNING TWILIGHT (UT) 05:35
+SUNRISE (UT)          06:49
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       08:43
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         06:43
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   4.5   14    21.6  25.5  220   761.5    4.5                 14      #
+21:00   5.3    8    20.1  22.5  230   761.5    5.3                  8      #
+22:00   4.8   11    17.3  17.9  236   761.8    4.8                 11      #
+23:00   1.7   88    18.4  22.9  198   761.8    1.7                 88      #
+00:00  -0.4   98    24.2  26.5  197   761.5   -0.4                 98      #
+01:00   0.5   85    25.6  24.6  197   761.1    0.5                 85      #
+02:00   0.5  100    25.4  36.7  182   760.5    0.5                100      #
+03:00   0.4  100    30.5  39.5  175   759.8    0.4                100      #
+04:00  -0.6  100    38.7  43.1  192   759.0   -0.6                100      #
+
+TIME LOST weather           08:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+high humidity over the hole night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 612060 Bias              0:00:00.00 +00:00:00.0  2000.00 12:24 4.249  WFC    0.0  180  B                                
+ 612061 Bias              0:00:00.00 +00:00:00.0  2000.00 19:24 1.000  WFC    0.0  180  Halpha                           
+ 612062 Bias              0:00:00.00 +00:00:00.0  2000.00 19:25 1.000  WFC    0.0  180  Halpha                           
+ 612063 Bias              0:00:00.00 +00:00:00.0  2000.00 19:26 1.000  WFC    0.0  180  Halpha                           
+ 612064 Bias              0:00:00.00 +00:00:00.0  2000.00 19:27 1.000  WFC    0.0  180  Halpha                           
+ 612065 Bias              0:00:00.00 +00:00:00.0  2000.00 19:28 1.000  WFC    0.0  180  Halpha                           
+ 612066 Bias              0:00:00.00 +00:00:00.0  2000.00 19:28 1.000  WFC    0.0  180  Halpha                           
+ 612067 Bias              0:00:00.00 +00:00:00.0  2000.00 19:29 1.000  WFC    0.0  180  Halpha                           
+ 612068 Bias              0:00:00.00 +00:00:00.0  2000.00 19:30 1.000  WFC    0.0  180  Halpha                           
+ 612069 Bias              0:00:00.00 +00:00:00.0  2000.00 19:31 1.000  WFC    0.0  180  Halpha                           
+ 612070 sflatB            8:00:59.99 +50:00:00.0  2000.00 19:42 1.079  WFC    1.1  180  B                                saturated
+ 612071 sflatB            8:01:00.00 +49:59:59.9  2000.00 19:45 1.078  WFC    2.5  180  B                                saturated
+ 612072 sflatB            8:01:00.00 +49:59:59.8  2000.00 19:54 1.075  WFC    3.1  180  B                                fast readout
+ 612073 sflatB            8:01:00.00 +50:00:00.0  2000.00 19:55 1.075  WFC    5.1  180  B                                
+ 612074 sflatB            8:01:00.00 +49:59:59.9  2000.00 19:57 1.075  WFC    7.1  180  B                                no offset
+ 612075 sflatB            8:01:00.00 +49:59:59.9  2000.00 19:59 1.074  WFC    9.1  180  B                                no offset
+ 612076 sflatB            8:01:00.00 +49:59:59.9  2000.00 20:00 1.074  WFC   12.1  180  B                                no offset
+ 612077 sflatB            8:00:59.99 +50:00:00.0  2000.00 20:02 1.074  WFC   20.1  180  B                                
+ 612078 sflatB            8:01:03.11 +50:00:30.0  2000.00 20:03 1.073  WFC   30.1  180  B                                
+ 612079 sflatB            8:01:03.11 +49:59:30.0  2000.00 20:05 1.073  WFC   45.1  180  B                                
+ 612080 sflatB            8:00:56.89 +49:59:30.0  2000.00 20:07 1.073  WFC   60.0  180  B                                
+ 612081 sflatB            8:00:56.88 +50:00:29.9  2000.00 20:10 1.073  WFC   90.0  180  B                                
+ 612082 sflatR            8:00:56.88 +50:00:30.0  2000.00 20:13 1.073  WFC  120.0  180  R                                
+ 612083 sflatR            8:01:03.11 +50:00:29.9  2000.00 20:16 1.073  WFC  359.9  180  R                                
+ 612084 sflatR            8:01:03.11 +50:00:30.0  2000.00 20:24 1.074  WFC  479.8  180  R                                
+ 612085 Focus run         8:53:18.40 -00:41:10.9  2000.00 20:54 1.151  WFC   10.1  180  R                                
+ 612086 Focus run         8:53:18.40 -00:41:10.9  2000.00 21:03 1.148  WFC   10.1  180  R                                
+ 612087 Focus run         8:53:18.40 -00:41:10.8  2000.00 21:16 1.149  WFC   10.1  180  B                                
+ 612088 Focus run         8:53:18.40 -00:41:10.9  2000.00 21:24 1.151  WFC    8.1  180  B                                

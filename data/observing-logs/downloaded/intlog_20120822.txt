@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 08 23 05:43
+
+TELESCOPE             INT
+DATE                  20120822
+OBSERVER/S            L. Casagrande, A.Hempel
+PROGRAMME             Stromgren photometry of the Kepler field
+PROPOSAL REF          P1
+TELESCOPE OPERATOR    --
+SUPPORT ASTRONOMER    Lee Patrick
+
+TEL STATION / FOCUS   Prime  / 43.37
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:52
+EVENING TWILIGHT (UT) 21:08
+MORNING TWILIGHT (UT) 05:22
+SUNRISE (UT)          06:38
+%ILLUM. LUNAR DISK    32
+DARK TIME (HRS)       08:14
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          22:58
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00     #    #       #     #    #       #      #  21.7    22.0    #    29 
+21:00     #    #       #     #    #       #      #  20.3    22.1    #    21 
+22:00     #    #       #     #    #       #      #  19.6    21.9    #    24 
+23:00     #    #       #     #    #       #      #  19.1    21.3    #    30 
+00:00     #    #       #     #    #       #      #  18.7    21.6    #    29 
+01:00     #    #       #     #    #       #      #  18.9    21.3    #    26 
+02:00     #    #       #     #    #       #      #  19.0    21.3    #    24 
+03:00     #    #       #     #    #       #      #  18.7    21.0    #    23 
+04:00     #    #       #     #    #       #      #  18.8    21.1    #    23 
+05:00     #    #       #     #    #       #      #  19.0    21.2    #    23 
+
+TIME LOST weather           2:30
+TIME LOST Technical         1:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+stable but calima in the first part of the night, cover with clouds in the second half
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+lost about 1 hour because temperature warning for WFC. Reset the DAS and ICS (see fault report 20314) to bring the system back again
+from UT 3.0 stop because of bad weather
+

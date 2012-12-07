@@ -1,0 +1,54 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 04 08 10:26
+
+TELESCOPE             INT
+DATE                  20080407
+OBSERVER/S            none (McMahon)
+PROGRAMME             .
+PROPOSAL REF          N4                 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Sarah Barker
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:40
+EVENING TWILIGHT (UT) 20:53
+MORNING TWILIGHT (UT) 05:33
+SUNRISE (UT)          06:46
+%ILLUM. LUNAR DISK    5
+DARK TIME (HRS)       08:40
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:31
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   2.9  100    67.8  74.6  198   759.4    2.9    5.      7.  100     89
+21:00   3.9  100    77.2  87.9  186   759.0    3.9    5.      7.  100     90
+22:00   3.9  100    67.8  82.8  189   759.6    3.9    6.      7.  100     90
+23:00   4.3  100    72.9  81.2  194   759.3    4.3    6.      7.  100     91
+00:00   4.1  100    75.6  76.9  193   760.1    4.1    6.      7.  100     91
+01:00   4.6  100    74.9  75.9  186   759.6    4.6    6.      7.  100     91
+02:00   4.4  100    58.3  80.3  178   759.6    4.4    6.      7.  100     91
+03:00   4.6  100    75.8  85.0  192   758.9    4.6    6.      7.  100     91
+04:00   3.9  100    79.0  00.1  202   757.9    3.9    6.      7.  100     90
+05:00   4.3  100    79.0  85.4  192   757.4    4.3    6.      7.  100     91
+06:00   4.2  100    75.8  87.3  184   757.3    4.2    6.      7.  100     91
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% humidity and STRONG winds. 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+complete night lost (~ 9 hours)
+Observer stuck in Tenerife due to all flights grounded! 
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 612089 Bias              0:00:00.00 +00:00:00.0  2008.27 12:52 1.001  WFC    0.0  180  Halpha                           
+ 612090 Bias frame        0:00:00.00 +00:00:00.0  2008.27 12:59 1.605  WFC    0.0  180  Halpha                           
+ 612091 Arc               0:00:00.00 +00:00:00.0  2008.27 13:02 4.506  WFC    6.1  180  Halpha                           

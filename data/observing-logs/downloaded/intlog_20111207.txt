@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 12 08 18:26
+
+TELESCOPE             INT
+DATE                  20111207
+OBSERVER/S            B. Sipocz, G. Kovacs
+PROGRAMME             Follow-up of candidates from the WFCAM Transit Survey
+PROPOSAL REF          P17
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Hugo Ledo
+
+TEL STATION / FOCUS   Prime  / 43.45
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:28
+SUNRISE (UT)          07:44
+%ILLUM. LUNAR DISK    94
+DARK TIME (HRS)       10:50
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          06:03
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.7   19     8.2  18.1  169   773.1    4.7    6.      9.   19     23
+20:00   5.8    9     8.0   9.3  168   773.2    5.8    7.      9.    9     15
+21:00   6.1    6    14.5  18.7  145   773.5    6.1    6.      8.    6     13
+22:00   5.6   11    13.5  20.6  161   773.7    5.6    6.      8.   11     17
+23:00   5.0   17     4.7   7.7  180   773.8    5.0    6.      8.   17     20
+00:00   4.5   30    10.9  16.0  154   773.5    4.5    6.      8.   30     32
+01:00   2.8   46    11.1  20.4  168   773.3    2.8    4.      8.   46     47
+02:00   2.7   49    16.4  26.9  170   772.5    2.7    3.      7.   49     49
+03:00   3.1   42    21.6  33.5  178   772.1    3.1    4.      7.   42     45
+04:00   2.8   49    32.7  37.3  169   772.0    2.8    3.      7.   49     51
+05:00   2.9   48    14.4  23.5  176   772.3    2.9                 48      #
+06:00   3.0   47    10.6  16.8  164   772.1    3.0                 47      #
+07:00   3.0   50    14.1  18.9  176   772.5    3.0                 50      #
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Very poor seeing (>2-4") during the night, otherwise clear sky.  
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

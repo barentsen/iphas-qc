@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 09 15 02:54
+
+TELESCOPE             INT
+DATE                  20100914
+OBSERVER/S            Jesus Corral-Santana, Sandra Greiss
+PROGRAMME             UVEX
+PROPOSAL REF          C36
+TELESCOPE OPERATOR    n/a
+SUPPORT ASTRONOMER    James Mccormac
+
+TEL STATION / FOCUS   Prime  / 43.90
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:26
+EVENING TWILIGHT (UT) 20:38
+MORNING TWILIGHT (UT) 05:37
+SUNRISE (UT)          06:49
+%ILLUM. LUNAR DISK    48
+DARK TIME (HRS)       08:59
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          23:58
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  11.7   76     5.4   9.9  155   775.6   11.7   16.     16.   76     62
+21:00  11.8   76     8.5  12.9  132   775.9   11.8   16.     16.   76     62
+22:00  12.6   73     7.1   9.9  147   776.4   12.6   16.     16.   73     60
+23:00  13.2   74    25.1  31.4  154   776.0   13.2   16.     16.   74     63
+00:00  13.6   70    18.7  29.3  151   776.3   13.6   16.     17.   70     63
+01:00  14.3   64     7.8  14.5  146   776.0   14.3   16.     16.   64     61
+02:00  15.1   57    13.1  16.1  179   775.9   15.1   16.     16.   57     60
+
+TIME LOST weather           09:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+raining, very cloudy all night. we could not observe 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+all night lost due to very bad weather.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 758233 Bias              0:00:00.00 +00:00:00.0  2000.00 01:50 4.416  WFC    0.0  180  HeI 5870                         

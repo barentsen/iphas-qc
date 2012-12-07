@@ -1,0 +1,62 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 12 02 02:14
+
+TELESCOPE             INT
+DATE                  20031201
+OBSERVER/S            Gavin Ramsay
+PROGRAMME             Wide Field Rapid Time Variability Survey
+PROPOSAL REF          P2
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    R Corradi
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:37
+MORNING TWILIGHT (UT) 06:24
+SUNRISE (UT)          07:39
+%ILLUM. LUNAR DISK    63
+DARK TIME (HRS)       10:47
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          02:14
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   1.9   95    38.4  40.9  312   768.6    1.9   9.0     5.6   95    62 
+19:00     #    #       #     #    #       #      #  13.2     1.0    #    64 
+20:00   2.0   79    46.1  49.7  271   769.0    2.0   9.2     9.9   79    60 
+20:00     #    #       #     #    #       #      #  12.0     2.8    #    57 
+21:00   0.7   85    41.5  51.6  324   768.9    0.7  10.2     5.1   85    55 
+21:00     #    #       #     #    #       #      #  11.2     4.9    #    54 
+22:00   0.1   92    43.1  45.4  333   769.2    0.1   8.8     4.7   92    57 
+22:00     #    #       #     #    #       #      #   8.8     2.7    #    55 
+23:00   1.2   92    37.2  40.4  330   769.1    1.2   8.6     4.7   92    57 
+23:00     #    #       #     #    #       #      #  10.0     2.4    #    57 
+00:00   0.5   93    31.8  34.7  336   768.9    0.5  10.8    10.1   93    58 
+00:00     #    #       #     #    #       #      #  10.4     7.7    #    55 
+01:00     #    #       #     #    #       #      #   9.4    -4.9    #    58 
+01:00   1.5   94    34.2  36.8  336   768.7    1.5   8.0     7.4   94    60 
+02:00   1.0   95    46.4  50.7  331   768.0    1.0  11.3     3.8   95    64 
+02:00     #    #       #     #    #       #      #  12.7     3.2    #    60 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+poor. didnt open. cloud and high humidity.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+the filter names seem to have had been reset with no clear filter in the WFC GUI. The WHT TO checked what filters were in place and found
+that a 'clear' was in place. doing 'cmd MCA RESET' gave the correct filter names again. odd!
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 378505 Bias             19:00:00.00 +00:00:00.0 J2000.00 14:04 1.227  WFC    0.0  180  R                                
+ 378506 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:26 4.532  WFC    0.0  180  R                                
+ 378507 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:27 4.532  WFC    0.0  180  R                                
+ 378508 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:28 4.532  WFC    0.0  180  R                                
+ 378509 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:28 4.532  WFC    0.0  180  R                                
+ 378510 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:29 4.532  WFC    0.0  180  R                                

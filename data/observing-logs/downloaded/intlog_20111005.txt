@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 10 06 05:37
+
+TELESCOPE             INT
+DATE                  20111005
+OBSERVER/S            Vazdekis & Sanchez-Blazquez
+PROGRAMME             C93
+PROPOSAL REF          C93
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    .
+
+TEL STATION / FOCUS   Cassegrain  / 14.5
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:01
+EVENING TWILIGHT (UT) 20:12
+MORNING TWILIGHT (UT) 05:48
+SUNRISE (UT)          07:00
+%ILLUM. LUNAR DISK    69
+DARK TIME (HRS)       09:36
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          02:16
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  11.4   65    11.4  17.3  305   776.4   11.4   15.     15.   65     59
+21:00  11.7   63    15.2  18.5  311   776.5   11.7   13.     15.   63     63
+22:00  11.5   66    11.7  14.8  303   777.2   11.5   13.     15.   66     66
+23:00  11.4   69    18.8  20.0  295   777.5   11.4   13.     15.   69     68
+00:00  11.0   72    37.6  40.1  272   777.3   11.0   12.     15.   72     73
+01:00  11.1   71    33.0  35.7   98   777.1   11.1   12.     15.   71     72
+02:00  11.8   65    26.3  29.3   23   776.9   11.8   12.     14.   65     68
+03:00  11.5   68    28.8  31.6    0   776.5   11.5   12.     15.   68     70
+04:00  12.2   62    38.0  40.6  133   776.0   12.2   12.     15.   62     69
+05:00  13.4   51    13.1  14.4  261   775.9   13.4   13.     15.   51     60
+
+TIME LOST weather           04:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Covered but useful until 2:30. Brief window from 3:20 to 4:40 but cloudy after then (left the telescope at 6).
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+The TCS window display did not show again.
+
+

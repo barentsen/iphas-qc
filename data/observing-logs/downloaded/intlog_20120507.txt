@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 05 08 06:50
+
+TELESCOPE             INT
+DATE                  20120507
+OBSERVER/S            Hardy
+PROGRAMME             D-night
+PROPOSAL REF          D-night
+TELESCOPE OPERATOR    LH
+SUPPORT ASTRONOMER    LH
+
+TEL STATION / FOCUS   Cassegrain  / 15.9
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:58
+EVENING TWILIGHT (UT) 21:17
+MORNING TWILIGHT (UT) 04:58
+SUNRISE (UT)          06:17
+%ILLUM. LUNAR DISK    95
+DARK TIME (HRS)       07:41
+TWILIGHT TIME (HRS)   02:38
+MOONRISE (UT)         21:33
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   9.3   10    14.8  19.8  258   772.3   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   9.2    9    10.5  15.7  206   772.5   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   9.1    9    13.6  18.1  260   773.0   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   9.6    6    23.3  27.6  292   773.4   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   9.1   41    18.7  24.6  235   773.5   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   8.6   37    16.7  22.9  244   773.5   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   8.2   48    13.7  13.1  245   772.8   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   8.9   43     8.2  11.1  210   772.3   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   8.4   45     4.1   5.8  173   772.0   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   8.0   43     4.7   6.2  200   771.5   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   8.6   36    10.5  13.9  262   771.6   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           08:00
+TIME LOST Technical         00:30
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Thick cloud cover until after 5am, with some rain and high humidity in the middle of the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+8 hours lost due to thick, impenetrable cloud. 30 mins lost due to fault with slit mechanism
+Off-sky tests completed throughout the night, so it was not a total waste
+Linearity test runs: r896193-412. Flexure test runs: r896424-579. Astigmatism test runs: r896588-615

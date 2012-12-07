@@ -1,0 +1,61 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 01 22 03:04
+
+TELESCOPE             INT
+DATE                  20110121
+OBSERVER/S            Sebastiaan Nefs
+PROGRAMME             Planets and red binaries
+PROPOSAL REF          N3
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Amy Tyndall
+
+TEL STATION / FOCUS   Prime  / 43.8
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:48
+EVENING TWILIGHT (UT) 20:03
+MORNING TWILIGHT (UT) 06:42
+SUNRISE (UT)          07:57
+%ILLUM. LUNAR DISK    94
+DARK TIME (HRS)       10:39
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         20:39
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -2.3   98    34.9  48.4  187   759.7   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00  -2.5   98    25.5  42.8  208   760.0   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00  -2.6   98    23.2  27.2  227   760.0   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00  -2.7   97    34.2  43.6  262   759.8   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00  -3.0   97    20.6  26.1  240   759.7   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00  -2.2   97    23.3  25.3  259   759.4   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00  -2.3   98    17.2  24.5  220   759.4   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00  -1.9   98     9.1  13.4  220   759.0   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00  -2.8   97     2.9   8.1  220   758.7   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           11:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Dome closed all night due to high humidity......
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 782304 Bias              0:00:00.00 +00:00:00.0  2000.00 18:42 4.450  WFC    0.0  180  i                                
+ 782305 WASP12b bias      0:00:00.00 +00:00:00.0  2000.00 18:44 4.450  WFC    0.0  180  i                                
+ 782306 WASP12b bias      0:00:00.00 +00:00:00.0  2000.00 18:44 4.450  WFC    0.0  180  i                                
+ 782307 WASP12b bias      0:00:00.00 +00:00:00.0  2000.00 18:44 4.450  WFC    0.0  180  i                                
+ 782308 WASP12b bias      0:00:00.00 +00:00:00.0  2000.00 18:44 4.450  WFC    0.0  180  i                                
+ 782309 WASP12b bias      0:00:00.00 +00:00:00.0  2000.00 18:44 4.450  WFC    0.0  180  i                                
+ 782310 WASP12b bias      0:00:00.00 +00:00:00.0  2000.00 18:44 4.450  WFC    0.0  180  i                                
+ 782311 WASP12b bias      0:00:00.00 +00:00:00.0  2000.00 18:44 4.450  WFC    0.0  180  i                                
+ 782312 WASP12b bias      0:00:00.00 +00:00:00.0  2000.00 18:44 4.450  WFC    0.0  180  i                                
+ 782313 WASP12b bias      0:00:00.00 +00:00:00.0  2000.00 18:45 4.450  WFC    0.0  180  i                                
+ 782314 WASP12b bias      0:00:00.00 +00:00:00.0  2000.00 18:45 4.450  WFC    0.0  180  i                                
+ 782315 WASP12b bias      0:00:00.00 +00:00:00.0  2000.00 18:45 4.450  WFC    0.0  180  i                                

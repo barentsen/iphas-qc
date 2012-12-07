@@ -1,0 +1,84 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 05 17 06:44
+
+TELESCOPE             INT
+DATE                  20040516
+OBSERVER/S            Rottgering
+PROGRAMME             A survey for lya emission line halos 
+PROPOSAL REF          N8
+TELESCOPE OPERATOR    Renee Pit
+SUPPORT ASTRONOMER    Antonio Garcia 
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:04
+EVENING TWILIGHT (UT) 21:25
+MORNING TWILIGHT (UT) 04:50
+SUNRISE (UT)          06:12
+%ILLUM. LUNAR DISK    5
+DARK TIME (HRS)       07:25
+TWILIGHT TIME (HRS)   02:43
+MOONRISE (UT)         05:05
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00   7.5    4     8.4   8.6  129   766.3    7.5   9.3     8.8    4     7 
+22:00   8.1    1    11.4  11.8  110   766.5    8.1   9.3     8.7    1     6 
+23:00   8.4    1    13.2  14.4  104   767.1    8.4   9.2     8.7    1     4 
+00:00   8.6    1    18.1  18.9  107   767.2    8.6   9.2     8.8    1     4 
+01:00   8.4    2    16.1  17.4  125   767.2    8.4   8.5     8.8    2     6 
+02:00   8.0    3    17.7  18.5  144   766.9    8.0   8.4     8.7    3     6 
+03:00   8.0    2    17.2  17.8  136   766.3    8.0   8.4     8.8    2     5 
+04:00   7.8    3    21.4  22.5  152   765.9    7.8   8.4     8.7    3     6 
+05:00   7.8    2    16.9  18.3  145   765.9    7.8   8.3     8.8    2     5 
+06:00   7.8    2    18.2  19.2  161   765.7    7.8   8.3     8.8    2     5 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+fine 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Only very faint guidestars available. On a number of occassions guiding was lost. Images need carefull scruteny. Towards end of night 
+guidestars got fainter (low airmass?) and search for other stars. No success.  
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 397882 Bias              2:00:00.00 +20:00:00.0 A        12:07 1.021  WFC    0.0  180  Halpha                           
+ 397883 Bias              0:00:00.00 +00:00:00.0 A        15:02 4.773  WFC    0.0  180  [OII]3727                        
+ 397884 Bias             10:59:09.99 +03:29:59.9 J2000.00 19:53 1.120  WFC    0.0  180  [OII]3727                        
+ 397885 Flat field       10:59:10.00 +03:30:00.3 J2000.00 20:03 1.113  WFC    3.5  180  [OII]3727                        
+ 397886 Flat field       10:59:10.00 +03:29:59.9 J2000.00 20:05 1.113  WFC    5.4  180  [OII]3727                        
+ 397887 Flat field       10:59:10.66 +03:30:09.8 J2000.00 20:06 1.112  WFC    4.6  180  [OII]3727                        
+ 397888 Flat field       10:59:10.66 +03:30:09.9 J2000.00 20:07 1.111  WFC   14.4  180  [OII]3727                        
+ 397889 Flat field       10:59:10.66 +03:30:10.0 J2000.00 20:08 1.111  WFC    6.4  180  [OII]3727                        
+ 397890 Flat field       10:59:10.66 +03:30:09.9 J2000.00 20:10 1.110  WFC    6.1  180  [OII]3727                        
+ 397891 Flat field       10:59:10.67 +03:30:10.3 J2000.00 20:11 1.110  WFC   10.6  180  [OII]3727                        
+ 397892 Flat field       10:59:10.66 +03:30:10.0 J2000.00 20:12 1.109  WFC   13.9  180  [OII]3727                        
+ 397893 Flat field       10:59:10.66 +03:30:10.0 J2000.00 20:14 1.109  WFC   18.1  180  [OII]3727                        
+ 397894 Flat field       10:59:10.66 +03:30:09.9 J2000.00 20:15 1.108  WFC   24.7  180  [OII]3727                        
+ 397895 Flat field       10:59:10.66 +03:30:09.9 J2000.00 20:17 1.108  WFC   36.4  180  [OII]3727                        
+ 397896 Flat field       10:59:10.66 +03:30:10.0 J2000.00 20:18 1.107  WFC   61.2  180  [OII]3727                        
+ 397897 Focus run        10:00:47.30 -07:31:00.9 J2000.00 21:14 1.379  WFC    9.6  180  [OII]3727                        
+ 397898 Focus run        10:00:47.30 -07:31:00.9 J2000.00 21:23 1.407  WFC   10.1  180  [OII]3727                        
+ 397899 Bootes2 O2       14:26:03.60 +35:31:37.9 J2000.00 21:44 1.099  WFC 2698.4  180  [OII]3727                        a few times loosing the guidestar. image quality? 
+ 397900 Bootes2 O2       14:26:03.60 +35:31:38.0 J2000.00 22:32 1.036  WFC 2698.6  180  [OII]3727                        
+ 397901 Bootes2 O2       14:26:03.60 +35:31:38.0 J2000.00 23:20 1.010  WFC 2697.9  180  [OII]3727                        
+ 397902 Bootes2 O2       14:26:03.60 +35:31:38.0 J2000.00 00:09 1.016  WFC 2698.3  180  [OII]3727                        
+ 397903 Bootes2 O2       14:26:03.60 +35:31:37.9 J2000.00 00:58 1.058  WFC 2698.3  180  [OII]3727                        
+ 397904 Bootes2 O2       14:26:03.59 +35:31:38.0 J2000.00 02:09 1.196  WFC 2698.5  180  [OII]3727                        
+ 397905 Bootes2 O2       14:26:03.60 +35:31:38.0 J2000.00 02:55 1.282  WFC  426.5  180  [OII]3727                        
+ 397907 Bootes2 O2       14:26:03.59 +35:31:38.1 J2000.00 03:32 1.563  WFC 2698.5  180  [OII]3727                        
+ 397908 BD284211         21:51:11.09 +28:51:52.0 J2000.00 05:05 1.151  WFC    9.6  180  [OII]3727                        
+ 397909 BD284211         21:51:11.10 +28:51:52.0 J2000.00 05:07 1.146  WFC    9.5  180  [OII]3727                        
+ 397910 BD284211         21:51:11.09 +28:51:51.9 J2000.00 05:11 1.136  WFC   10.1  180  [OII]3727                        
+ 397911 G249             20:13:55.99 +06:42:54.8 J2000.00 05:13 1.088  WFC   15.1  180  [OII]3727                        
+ 397912 G249             20:13:56.00 +06:42:55.0 J2000.00 05:14 1.087  WFC   15.1  180  [OII]3727                        
+ 397913 G249             20:13:55.99 +06:42:55.0 J2000.00 05:15 1.087  WFC   30.1  180  [OII]3727                        
+ 397914 G249             20:13:56.00 +06:42:54.9 J2000.00 05:16 1.086  WFC   30.1  180  [OII]3727                        
+ 397915 G249             20:13:56.00 +06:42:55.0 J2000.00 05:18 1.085  WFC   60.1  180  [OII]3727                        
+ 397916 G249             20:13:55.99 +06:42:55.0 J2000.00 05:20 1.084  WFC   60.1  180  [OII]3727                        

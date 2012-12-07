@@ -1,0 +1,79 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 10 26 06:58
+
+TELESCOPE             INT
+DATE                  20031024
+OBSERVER/S            ARAGON
+PROGRAMME             AGalaxy Aignments in A262
+PROPOSAL REF          I03BN002
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.95
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:41
+EVENING TWILIGHT (UT) 19:53
+MORNING TWILIGHT (UT) 05:59
+SUNRISE (UT)          07:11
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       10:06
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         06:57
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.6   84     6.8  10.3  208   767.6    5.6  11.5    11.4   84    49 
+20:00   3.5   74    10.0  12.8  244   767.5    3.5   9.2    11.3   74    49 
+21:00   2.5  100    21.8  23.7  237   767.5    2.5   9.1    11.2  100    58 
+22:00   2.2  100    25.5  27.1  259   767.5    2.2  10.0    11.3  100    58 
+23:00   1.9  100    24.9  27.9  240   767.4    1.9   9.9    11.3  100    62 
+00:00   1.5  100    25.0  29.8  272   766.9    1.5   9.8    11.2  100    62 
+01:00   1.9   89    41.4  45.0  273   766.1    1.9   8.2    11.1   89    59 
+02:00   1.3  100    43.4  47.3  278   765.9    1.3   7.8    11.1  100    65 
+03:00   3.3  100    36.3  41.8  263   765.3    3.3   8.0    11.1  100    72 
+04:00   4.5  100    37.4  44.1  273   764.9    4.5   8.7    11.1  100    74 
+05:00   3.0  100    27.2  32.7  258   764.6    3.0   9.7    11.1  100    69 
+06:00   3.2  100    34.5  40.1  242   764.2    3.2   9.0    11.0  100    72 
+07:00   2.8  100    23.1  30.0  253   764.1    2.8   9.2    11.2  100    69 
+
+TIME LOST weather           09:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Only one hour to observe, resto of the night high humidity.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 370902 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 13:24 1.000  WFC    0.0  180  Halpha                           
+ 370903 Flat field       19:21:28.99 +12:27:48.9 J2000.00 18:57 1.053  WFC    4.2  180  g                                
+ 370904 Flat field       19:21:28.31 +12:27:39.0 J2000.00 18:58 1.054  WFC    6.3  180  g                                
+ 370905 Flat field       19:21:28.31 +12:27:39.0 J2000.00 19:00 1.055  WFC    8.4  180  i                                
+ 370906 Flat field       19:21:29.00 +12:27:49.0 J2000.00 19:01 1.055  WFC    8.0  180  i                                
+ 370907 Flat field       19:21:29.00 +12:27:39.0 J2000.00 19:02 1.057  WFC    8.3  180  g                                
+ 370908 Flat field       19:21:29.00 +12:27:39.0 J2000.00 19:03 1.057  WFC   16.4  180  r                                
+ 370909 Flat field       19:21:29.00 +12:27:49.0 J2000.00 19:05 1.058  WFC   22.8  180  r                                
+ 370910 Flat field       19:21:28.31 +12:27:38.9 J2000.00 19:06 1.060  WFC   31.5  180  r                                
+ 370911 Flat field       19:21:29.68 +12:27:39.1 J2000.00 19:07 1.061  WFC   33.2  180  g                                
+ 370912 Flat field       19:21:29.68 +12:27:44.0 J2000.00 19:09 1.062  WFC   62.5  180  r                                
+ 370913 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 00:40 1.000  WFC    0.0  180  Halpha                           
+ 370914 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 00:41 1.000  WFC    0.0  180  Halpha                           
+ 370915 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 00:41 1.000  WFC    0.0  180  Halpha                           
+ 370916 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 00:42 1.000  WFC    0.0  180  Halpha                           
+ 370917 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 00:43 1.000  WFC    0.0  180  Halpha                           
+ 370918 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 00:44 1.000  WFC    0.0  180  Halpha                           
+ 370919 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 00:44 1.000  WFC    0.0  180  Halpha                           
+ 370920 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 00:45 1.000  WFC    0.0  180  Halpha                           
+ 370921 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 00:46 1.000  WFC    0.0  180  Halpha                           
+ 370922 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 00:46 1.000  WFC    0.0  180  Halpha                           
+ 370923 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 00:47 1.000  WFC    0.0  180  Halpha                           
+ 370924 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 00:48 1.000  WFC    0.0  180  Halpha                           
+ 370925 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 00:48 1.000  WFC    0.0  180  Halpha                           
+ 370926 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 00:49 1.000  WFC    0.0  180  Halpha                           
+ 370927 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 00:50 1.000  WFC    0.0  180  Halpha                           

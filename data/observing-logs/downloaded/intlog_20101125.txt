@@ -1,0 +1,97 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 11 26 06:40
+
+TELESCOPE             INT
+DATE                  20101125
+OBSERVER/S            Montes, Klutsch
+PROGRAMME             Searching for stars comuving with post-Tauri candidates
+PROPOSAL REF          C34
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Cassegrain  / 14.68
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:37
+MORNING TWILIGHT (UT) 06:20
+SUNRISE (UT)          07:35
+%ILLUM. LUNAR DISK    80
+DARK TIME (HRS)       10:43
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         21:49
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.6   98    28.2  34.5  182   761.2   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   5.6   98    28.3  44.2  156   761.0   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   5.2   98    39.9  38.9  169   761.4   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   5.0   98    34.6  36.5  167   761.2   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   4.8   98    30.3  52.6  119   760.6   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   3.7   98    37.8  67.4  129   760.1   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   2.9   98    28.4  53.4  156   759.6   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   2.5   98    29.6  64.3  147   759.6   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   2.4   98    36.5  55.0  185   759.6   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   1.7   98    39.8  54.8  188   759.2   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   2.3   98    35.8  46.0  149   759.2   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   1.8   98    40.5  49.4  230   759.2   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+There is a 100% cloud cover and the humidity was close to 100% during all the night.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 769815 Bias              0:00:00.00 +00:00:00.0  2010.90 21:17 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769816 Bias              0:00:00.00 +00:00:00.0  2010.90 22:12 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769817 Bias              0:00:00.00 +00:00:00.0  2010.90 22:14 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769818 Bias              0:00:00.00 +00:00:00.0  2010.90 22:14 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769819 Bias              0:00:00.00 +00:00:00.0  2010.90 22:14 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769820 Bias              0:00:00.00 +00:00:00.0  2010.90 22:14 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769821 Bias              0:00:00.00 +00:00:00.0  2010.90 22:14 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769822 Bias              0:00:00.00 +00:00:00.0  2010.90 22:15 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769823 Bias              0:00:00.00 +00:00:00.0  2010.90 22:15 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769824 Bias              0:00:00.00 +00:00:00.0  2010.90 22:15 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769825 Bias              0:00:00.00 +00:00:00.0  2010.90 22:15 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769826 Bias              0:00:00.00 +00:00:00.0  2010.90 22:15 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769827 Bias              0:00:00.00 +00:00:00.0  2010.90 22:16 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769828 Bias              0:00:00.00 +00:00:00.0  2010.90 22:16 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769829 Bias              0:00:00.00 +00:00:00.0  2010.90 22:16 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769830 Bias              0:00:00.00 +00:00:00.0  2010.90 22:16 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769831 Bias              0:00:00.00 +00:00:00.0  2010.90 22:16 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769832 Bias              0:00:00.00 +00:00:00.0  2010.90 22:17 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769833 Bias              0:00:00.00 +00:00:00.0  2010.90 22:17 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769834 Bias              0:00:00.00 +00:00:00.0  2010.90 22:17 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769835 Bias              0:00:00.00 +00:00:00.0  2010.90 22:17 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769836 Bias              0:00:00.00 +00:00:00.0  2010.90 22:17 1.000  IDS    0.0    0  Clear         1.0  34.1 6497.9   
+ 769837 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:21 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769838 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:24 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769839 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:24 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769840 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:25 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769841 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:25 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769842 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:26 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769843 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:27 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769844 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:27 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769845 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:28 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769846 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:28 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769847 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:29 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769848 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:30 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769849 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:30 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769850 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:31 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769851 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:31 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769852 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:32 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769853 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:33 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769854 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:33 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769855 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:34 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769856 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:35 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769857 Flat field        0:00:00.00 +00:00:00.0  2010.90 22:35 1.000  IDS   25.0    0  Clear         1.0  34.1 6497.9   
+ 769858 Arc               0:00:00.00 +00:00:00.0  2010.90 22:45 1.000  IDS   10.0    0  Clear+Clear   1.0  34.1 6497.9   
+ 769859 Arc               0:00:00.00 +00:00:00.0  2010.90 22:47 1.000  IDS   20.0    0  Clear+Clear   1.0  34.1 6497.9   

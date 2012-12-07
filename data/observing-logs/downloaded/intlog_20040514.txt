@@ -1,0 +1,57 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 05 15 05:10
+
+TELESCOPE             INT
+DATE                  20040514
+OBSERVER/S            Rottgering
+PROGRAMME             A survey for lya emission line halos 
+PROPOSAL REF          N8
+TELESCOPE OPERATOR    Amado Guillen
+SUPPORT ASTRONOMER    Antonio Garcia 
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:02
+EVENING TWILIGHT (UT) 21:23
+MORNING TWILIGHT (UT) 04:52
+SUNRISE (UT)          06:13
+%ILLUM. LUNAR DISK    16
+DARK TIME (HRS)       07:29
+TWILIGHT TIME (HRS)   02:42
+MOONRISE (UT)         04:08
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  -0.5   94    32.1  35.2    6   766.0   -0.5   8.0     8.1   94    51 
+22:00  -0.1   62    28.2  30.5    1   766.6   -0.1   8.4     8.2   62    53 
+23:00  -0.4   94    18.1  20.3    9   766.9   -0.4   8.3     8.2   94    54 
+00:00  -0.2   95    32.7  35.8    1   766.9   -0.2   8.2     8.4   95    57 
+01:00   4.0   13    20.7  23.0   17   766.8    4.0   8.0     8.3   13    49 
+02:00   5.1   13    18.2  20.5  356   766.6    5.1   6.8     8.1   13    22 
+03:00   3.8   13    19.1  21.3  340   766.1    3.8   5.1     8.0   13    18 
+04:00   1.3   43    25.9  28.0  357   765.7    1.3   3.5     7.7   43    61 
+05:00   0.0   94    29.5  33.0   23   765.7    0.0   4.4     7.7   94    69 
+
+TIME LOST weather           6:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clear afternoon, just after dinner clouds moved in: high humidity. At 00:30 UT, humidity dropped and observing was possible for one hour. then high humidity again
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 397830 Bias              0:00:00.00 +00:00:00.0 J2000.00 12:49 1.000  WFC    0.0  180  HeII4686                         
+ 397831 Bias              0:00:00.00 +00:00:00.0 J2000.00 15:07 1.000  WFC    0.0  180  stromgren u                      
+ 397832 Bias              0:00:00.00 +00:00:00.0 J2000.00 15:10 1.000  WFC    0.0  180  stromgren u                      
+ 397833 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 15:12 1.000  WFC    0.0  180  stromgren u                      
+ 397836 Focus run        15:30:49.89 +06:03:26.8 J2000.00 00:49 1.089  WFC   10.1  180  [OIII]5007                       
+ 397838 Focus run        15:30:49.90 +06:03:26.9 J2000.00 01:21 1.085  WFC   10.1  180  [OII]3727                        
+ 397839 BOOTES3 O2       14:26:03.59 +34:56:40.9 J2000.00 01:58 1.131  WFC 1799.1  180  [OII]3727                        
+ 397840 BOOTES3 O2       14:26:03.59 +34:56:40.8 J2000.00 02:29 1.208  WFC 1798.6  180  [OII]3727                        

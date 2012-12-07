@@ -1,0 +1,99 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 04 19 06:41
+
+TELESCOPE             INT
+DATE                  20040418
+OBSERVER/S            J. A. L. Aguerri
+PROGRAMME             Intercluster Planetary Nebule in Virgo cluster
+PROPOSAL REF          C2           
+TELESCOPE OPERATOR    Antonio Garcia
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.90
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:46
+EVENING TWILIGHT (UT) 21:02
+MORNING TWILIGHT (UT) 05:19
+SUNRISE (UT)          06:34
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       08:17
+TWILIGHT TIME (HRS)   02:31
+MOONRISE (UT)         06:33
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   2.5   68    38.2  42.6  355   769.2    2.5   8.4     6.9   68    54 
+21:00   2.5   68    40.1  43.9  352   769.3    2.5   5.2     6.8   68    63 
+22:00   3.2   62    40.2  43.6  333   769.8    3.2   5.1     6.9   62    61 
+23:00   3.6   71    53.7  56.3    3   770.5    3.6   5.4     6.7   71    70 
+00:00   4.0   67    36.1  38.8  349   770.9    4.0   5.0     6.6   67    70 
+01:00   3.8   70    32.7  37.1  334   770.9    3.8   5.2     6.7   70    70 
+02:00   4.3   63    32.0  35.2  356   771.0    4.3   5.5     6.6   63    68 
+03:00   5.2   53    33.4  35.6  356   770.6    5.2   5.7     6.6   53    59 
+04:00   5.7   56    28.8  30.0    2   770.5    5.7   6.0     6.5   56    61 
+05:00   6.0   32    25.4  25.8    4   770.3    6.0   6.5     6.5   32    35 
+06:00   7.0   30    22.2  22.6  345   770.1    7.0   6.7     6.6   30    46 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+good
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 393379 Bias frame        0:00:00.00 +00:00:00.0 B1950.00 12:51 4.700  WFC    0.0  180  r                                
+ 393380 10                0:00:00.00 +00:00:00.0 A        14:46 4.751  WFC    0.0  180  redshifted                       BIAS
+ 393381 Bias              0:00:00.00 +00:00:00.0 A        14:51 4.751  WFC    0.0  180  redshifted                       
+ 393382 Bias              0:00:00.00 +00:00:00.0 A        14:52 4.751  WFC    0.0  180  redshifted                       
+ 393383 Bias              0:00:00.00 +00:00:00.0 A        14:52 4.751  WFC    0.0  180  redshifted                       
+ 393384 Bias              0:00:00.00 +00:00:00.0 A        14:53 4.751  WFC    0.0  180  redshifted                       
+ 393385 Bias              0:00:00.00 +00:00:00.0 A        14:53 4.751  WFC    0.0  180  redshifted                       
+ 393386 Bias              0:00:00.00 +00:00:00.0 A        14:54 4.751  WFC    0.0  180  redshifted                       
+ 393387 Bias              0:00:00.00 +00:00:00.0 A        14:55 4.751  WFC    0.0  180  redshifted                       
+ 393388 Bias              0:00:00.00 +00:00:00.0 A        14:55 4.751  WFC    0.0  180  redshifted                       
+ 393389 Bias              0:00:00.00 +00:00:00.0 A        14:56 4.751  WFC    0.0  180  redshifted                       
+ 393390 Bias              0:00:00.00 +00:00:00.0 A        14:57 4.751  WFC    0.0  180  redshifted                       
+ 393391 SFF_O3            8:01:00.00 +49:59:59.9 J2000.00 19:52 1.078  WFC    1.7  180  redshifted                       10K
+ 393392 SFF_O3            8:00:59.99 +49:59:59.9 J2000.00 19:53 1.078  WFC    6.1  180  redshifted                       25K
+ 393393 SFF_O3            8:01:01.03 +50:00:10.0 J2000.00 19:55 1.079  WFC    8.1  180  redshifted                       30K
+ 393394 SFF_O3            8:01:01.03 +49:59:59.9 J2000.00 19:56 1.079  WFC   27.6  180  redshifted                       saturated
+ 393395 SFF_O3            8:01:01.03 +50:00:00.0 J2000.00 19:57 1.080  WFC   13.1  180  redshifted                       21K
+ 393396 SFF_O3            8:00:58.96 +50:00:09.9 J2000.00 19:59 1.081  WFC   17.6  180  redshifted                       20K
+ 393397 SFF_O3            8:00:58.96 +49:59:50.0 J2000.00 20:00 1.081  WFC   28.1  180  redshifted                       25K
+ 393398 SFF_O3            8:01:00.00 +49:59:40.0 J2000.00 20:02 1.082  WFC   45.1  180  redshifted                       38K
+ 393399 SFF_KPB           8:00:59.99 +49:59:39.9 J2000.00 20:04 1.083  WFC    6.1  180  B                                38K
+ 393400 SFF_KPB           8:01:01.03 +50:00:09.9 J2000.00 20:05 1.084  WFC    5.6  180  B                                25K
+ 393401 SFF_KPB           8:00:58.96 +50:00:10.0 J2000.00 20:07 1.084  WFC   10.1  180  B                                25K
+ 393402 SFF_KPB           8:00:59.99 +50:00:19.9 J2000.00 20:08 1.085  WFC   11.5  180  B                                26K
+ 393403 SFF_KPB           8:01:02.07 +50:00:00.0 J2000.00 20:09 1.086  WFC   18.1  180  B                                28K
+ 393404 SFF_KPB           8:00:57.92 +49:59:59.9 J2000.00 20:11 1.087  WFC   25.1  180  B                                25K
+ 393405 SFF_KPB           8:00:57.92 +50:00:20.0 J2000.00 20:13 1.088  WFC   33.1  180  B                                25K
+ 393406 Focus run         9:21:28.30 +02:47:44.0 J2000.00 20:25 1.117  WFC   10.1  180  redshifted                       
+ 393407 Focus run        12:27:32.00 +10:45:03.9 J2000.00 21:03 1.371  WFC   10.1  180  redshifted                       
+ 393408 LPR1 O3 test     12:27:31.99 +10:43:24.0 J2000.00 21:12 1.322  WFC   60.1  180  redshifted                       
+ 393409 LPR1_0 O3        12:27:32.00 +10:43:24.0 J2000.00 21:18 1.218  WFC 2998.3  180  redshifted                       1.5" seeing
+ 393410 LPR1_1 O3        12:27:42.00 +10:43:13.9 J2000.00 22:14 1.101  WFC 2997.9  180  redshifted                       1.5"
+ 393411 LPR1_2 O3        12:27:32.00 +10:43:04.0 J2000.00 23:26 1.054  WFC 2997.9  180  redshifted                       1.5"
+ 393412 LPR1_3 O3        12:27:21.99 +10:43:13.9 J2000.00 00:18 1.081  WFC 2998.1  180  redshifted                       1.5"
+ 393413 LPR1_4 O3        12:27:32.00 +10:43:14.0 J2000.00 01:12 1.171  WFC 2997.7  180  redshifted                       
+ 393414 Focus run        12:27:31.99 +10:44:54.1 J2000.00 02:07 1.247  WFC   10.1  180  redshifted                       1.5"
+ 393415 LPR1_5 O3        12:27:42.00 +10:43:03.9 J2000.00 02:15 1.390  WFC 2998.3  180  redshifted                       1.8"
+ 393416 LPR1_0 KPB       12:27:31.99 +10:43:23.9 J2000.00 03:19 1.672  WFC  599.7  180  B                                2.5"
+ 393417 Ros640 O3 CCD4   16:26:39.30 +36:52:11.9 B1950.00 03:35 1.011  WFC   20.1  180  redshifted                       
+ 393418 Ros640 O3 CCD1   16:26:39.30 +36:52:12.1 B1950.00 03:41 1.010  WFC   20.1  180  redshifted                       
+ 393419 Ros640 O3 CCD2   16:26:39.29 +36:52:11.9 B1950.00 03:43 1.010  WFC   20.1  180  redshifted                       
+ 393420 Ros640 O3 CCD3   16:26:39.29 +36:52:12.1 B1950.00 03:46 1.010  WFC   20.1  180  redshifted                       
+ 393421 pg1708 O3 CCD4   17:09:15.89 +60:10:09.9 J2000.00 03:48 1.181  WFC   29.1  180  redshifted                       
+ 393422 kopff27 O3 CCD4  17:41:28.40 +05:26:04.1 B1950.00 04:00 1.131  WFC   30.1  180  redshifted                       
+ 393423 kopff27 O3 CCD4  17:41:28.40 +05:26:04.0 B1950.00 04:03 1.128  WFC   15.1  180  redshifted                       
+ 393424 kopff27 O3 CCD1  17:41:28.40 +05:26:03.9 B1950.00 04:05 1.125  WFC   14.5  180  redshifted                       
+ 393425 kopff27 O3 CCD2  17:41:28.39 +05:26:04.0 B1950.00 04:07 1.123  WFC   15.1  180  redshifted                       
+ 393426 kopff27 O3 CCD3  17:41:28.40 +05:26:03.9 B1950.00 04:09 1.121  WFC   15.1  180  redshifted                       

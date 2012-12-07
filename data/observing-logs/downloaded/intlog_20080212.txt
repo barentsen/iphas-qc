@@ -1,0 +1,77 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 02 13 04:05
+
+TELESCOPE             INT
+DATE                  20080212
+OBSERVER/S            Scowcroft/Bersier
+PROGRAMME             P15
+PROPOSAL REF          P15
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 44.26
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:06
+EVENING TWILIGHT (UT) 20:18
+MORNING TWILIGHT (UT) 06:33
+SUNRISE (UT)          07:45
+%ILLUM. LUNAR DISK    37
+DARK TIME (HRS)       10:15
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          00:52
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -0.7  100    26.4  27.0  278   762.3   -0.7    6.      8.  100     64
+21:00  -0.6  100    30.0  32.4  285   762.7   -0.6    6.      8.  100     65
+21:00  -0.6  100    30.0  32.4  285   762.7   -0.6    6.      8.  100     65
+22:00  -0.6  100    19.6  22.7  281   763.1   -0.6    6.      8.  100     65
+23:00  -1.2  100    27.3  25.7  318   762.8   -1.2    5.      8.  100     67
+00:00  -2.2  100    35.6  37.6  306   762.3   -2.2    4.      8.  100     67
+01:00  -1.9  100    22.9  25.1  283   762.6   -1.9    5.      8.  100     64
+02:00  -1.2  100    25.0  29.7  286   762.1   -1.2    5.      8.  100     65
+03:00  -0.8  100    20.4  22.9  286   761.8   -0.8    6.      8.  100     65
+04:00  -2.4  100    21.3  25.6  285   761.1   -2.4    5.      8.  100     64
+
+TIME LOST weather           10:10
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% Humidity all night, could not open. Ice.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Focus given is not from focus run. Only bias frames taken, no other observations. Humidity at 100% all night.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 606494 Bias             21:00:00.00 +19:59:59.9  2008.12 13:49 1.047  WFC    0.0  180  i                                
+ 606495 Flat field       21:00:00.00 +20:00:00.0  2008.12 13:53 1.053  WFC    6.1  180  g                                
+ 606496 Flat field        0:00:00.00 +00:00:00.0  2008.12 14:01 1.893  WFC    1.0  180  g                                
+ 606497 Flat field        0:00:00.00 +00:00:00.0  2008.12 14:02 2.469  WFC    2.1  180  g                                
+ 606498 Flat field        0:00:00.00 +00:00:00.0  2008.12 14:04 2.847  WFC    5.1  180  r                                
+ 606499 Flat field        0:00:00.00 +00:00:00.0  2008.12 14:06 4.257  WFC    2.1  180  r                                
+ 606500 Flat field        0:00:00.00 +00:00:00.0  2008.12 14:08 4.257  WFC    2.1  180  r                                
+ 606501  Bias Slow        0:00:00.00 +00:00:00.0  2008.12 16:23 1.000  WFC    0.0  180  r                                
+ 606502  Bias Slow        0:00:00.00 +00:00:00.0  2008.12 16:24 1.000  WFC    0.0  180  r                                
+ 606503  Bias Slow        0:00:00.00 +00:00:00.0  2008.12 16:24 1.000  WFC    0.0  180  r                                
+ 606504  Bias Slow        0:00:00.00 +00:00:00.0  2008.12 16:25 1.000  WFC    0.0  180  r                                
+ 606505  Bias Slow        0:00:00.00 +00:00:00.0  2008.12 16:26 1.000  WFC    0.0  180  r                                
+ 606506  Bias Slow        0:00:00.00 +00:00:00.0  2008.12 16:27 1.000  WFC    0.0  180  r                                
+ 606507  Bias Slow        0:00:00.00 +00:00:00.0  2008.12 16:28 1.000  WFC    0.0  180  r                                
+ 606508  Bias Slow        0:00:00.00 +00:00:00.0  2008.12 16:28 1.000  WFC    0.0  180  r                                
+ 606509  Bias Slow        0:00:00.00 +00:00:00.0  2008.12 16:29 1.000  WFC    0.0  180  r                                
+ 606510  Bias Slow        0:00:00.00 +00:00:00.0  2008.12 16:30 1.000  WFC    0.0  180  r                                
+ 606511  Bias Fast        0:00:00.00 +00:00:00.0  2008.12 16:32 1.000  WFC    0.0  180  r                                
+ 606512  Bias Fast        0:00:00.00 +00:00:00.0  2008.12 16:33 1.000  WFC    0.0  180  r                                
+ 606513  Bias Fast        0:00:00.00 +00:00:00.0  2008.12 16:33 1.000  WFC    0.0  180  r                                
+ 606514  Bias Fast        0:00:00.00 +00:00:00.0  2008.12 16:34 1.000  WFC    0.0  180  r                                
+ 606515  Bias Fast        0:00:00.00 +00:00:00.0  2008.12 16:34 1.000  WFC    0.0  180  r                                
+ 606516  Bias Fast        0:00:00.00 +00:00:00.0  2008.12 16:34 1.000  WFC    0.0  180  r                                
+ 606517  Bias Fast        0:00:00.00 +00:00:00.0  2008.12 16:35 1.000  WFC    0.0  180  r                                
+ 606518  Bias Fast        0:00:00.00 +00:00:00.0  2008.12 16:35 1.000  WFC    0.0  180  r                                
+ 606519  Bias Fast        0:00:00.00 +00:00:00.0  2008.12 16:36 1.000  WFC    0.0  180  r                                
+ 606520  Bias Fast        0:00:00.00 +00:00:00.0  2008.12 16:36 1.000  WFC    0.0  180  r                                

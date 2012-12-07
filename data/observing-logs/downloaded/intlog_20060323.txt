@@ -1,0 +1,129 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 03 24 07:02
+
+TELESCOPE             INT
+DATE                  20060323
+OBSERVER/S            Damian Christian
+PROGRAMME             Eclipsing Binaries in Nearby Galaxies
+PROPOSAL REF          P12
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.64
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:31
+EVENING TWILIGHT (UT) 20:43
+MORNING TWILIGHT (UT) 05:52
+SUNRISE (UT)          07:04
+%ILLUM. LUNAR DISK    37
+DARK TIME (HRS)       09:09
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         03:35
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   8.8   19     0.7   1.0    0   770.4    8.8  10.7    10.6   19    13 
+21:00   9.2   18     0.9   1.4    0   770.9    9.2  10.4    11.1   18    14 
+22:00   9.2   17     0.9   1.3    0   771.5    9.2  10.5    10.9   17    12 
+23:00   9.3   18     0.8   1.2    0   771.6    9.3  10.5    10.9   18    11 
+00:00   9.6   13     0.9   1.3    0   771.3    9.6  10.7    10.8   13     8 
+01:00   9.0   17     0.9   2.6    0   771.1    9.0  10.5    10.7   17    11 
+02:00   8.3   21     0.9   1.5    0   770.7    8.3   9.8    10.6   21    15 
+03:00   8.9   14     1.0   2.0    0   770.3    8.9  10.1    10.7   14     8 
+04:00   8.6   16     0.6   1.0    0   769.9    8.6   9.9    10.5   16    10 
+05:00   9.4   14     0.8   1.4    0   770.0    9.4  10.3    10.8   14     9 
+06:00   9.1   14     1.0   1.5    0   769.9    9.1  10.1    10.5   14    10 
+07:00   8.8   15     1.0   1.2    0   770.2    8.8  10.0    10.5   15    11 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+poor; thick cirrus at start and some loss of signal during the night; never photometric. 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 495501 Bias              0:59:59.99 +20:00:00.0 2006.223 14:57 1.032  WFC    0.0  180  g                                
+ 495502 B band test       5:56:00.00 +50:04:08.9 2000.00  20:04 1.097  WFC  130.0  180  B                                thick cirrus/clouds at star; RH 20%
+ 495503 Bias              9:59:26.45 +30:44:47.0 2000.00  20:12 1.261  WFC    0.0  180  B                                
+ 495504 Bias              9:59:26.46 +30:44:47.0 2000.00  20:13 1.259  WFC    0.0  180  B                                
+ 495505 Bias              9:59:26.46 +30:44:47.0 2000.00  20:13 1.257  WFC    0.0  180  B                                
+ 495506 Bias              9:59:26.46 +30:44:46.9 2000.00  20:14 1.255  WFC    0.0  180  B                                
+ 495507 LeoA B test       9:59:26.46 +30:44:46.9 2000.00  20:27 1.204  WFC  299.9  180  B                                poor; stars faint
+ 495509 Focus run         9:59:26.46 +30:44:46.6 2000.00  20:42 1.174  WFC   15.1  180  B                                ambig use 43.64
+ 495510 LeoA B band       9:59:26.45 +30:44:46.8 2000.00  20:50 1.143  WFC  299.9  180  B                                smeared; lost guide stars
+ 495511 SextansA B test  10:11:00.50 -04:41:29.0 2000.00  21:02 1.447  WFC  299.9  180  B                                faint; too cloudy...
+ 495512 LeoA B test       9:59:26.45 +30:44:47.0 2000.00  21:20 1.082  WFC  299.9  180  B                                
+ 495513 SextansA B test  10:11:00.49 -04:41:28.9 2000.00  21:31 1.340  WFC  299.8  180  B                                faint; only 5% of last nights counts!!!
+ 495514 LeoA B test       9:59:26.45 +30:44:46.9 2000.00  21:39 1.054  WFC  299.4  180  B                                about 30% of previous nights counts 
+ 495515 SextansA B test  10:11:00.50 -04:41:29.1 2000.00  21:47 1.296  WFC  299.9  180  B                                continuing without guiding ...
+ 495516 LeoA B band       9:59:26.46 +30:44:47.0 2000.00  21:56 1.034  WFC  299.3  180  B                                
+ 495517 SextansA B band  10:11:00.50 -04:41:28.8 2000.00  22:03 1.264  WFC  299.9  180  B                                
+ 495518 LeoA B band       9:59:26.45 +30:44:46.8 2000.00  22:10 1.022  WFC  300.0  180  B                                
+ 495519 SextansA B band  10:11:00.49 -04:41:28.8 2000.00  22:16 1.240  WFC  299.4  180  B                                
+ 495520 LeoA B band       9:59:26.45 +30:44:46.8 2000.00  22:23 1.012  WFC  299.9  180  B                                
+ 495521 SextansA B band  10:11:00.50 -04:41:29.0 2000.00  22:30 1.222  WFC  299.3  180  B                                
+ 495522 LeoA B band       9:59:26.45 +30:44:47.0 2000.00  22:37 1.005  WFC  299.9  180  B                                
+ 495523 SextansA B band  10:11:00.49 -04:41:28.6 2000.00  22:44 1.210  WFC  299.9  180  B                                
+ 495524 LeoA B band       9:59:26.45 +30:44:47.5 2000.00  22:51 1.002  WFC  299.9  180  B                                
+ 495525 SextansA B band  10:11:00.50 -04:41:29.0 2000.00  22:58 1.202  WFC  299.9  180  B                                
+ 495526 LeoA B band       9:59:26.46 +30:44:47.4 2000.00  23:05 1.001  WFC  299.9  180  B                                
+ 495527 SextansA B band  10:11:00.50 -04:41:28.8 2000.00  23:12 1.199  WFC  299.9  180  B                                
+ 495528 LeoA B band       9:59:26.45 +30:44:47.6 2000.00  23:19 1.002  WFC  300.0  180  B                                
+ 495529 SextansA B band  10:11:00.49 -04:41:28.9 2000.00  23:26 1.200  WFC  299.9  180  B                                
+ 495530 LeoA B band       9:59:26.46 +30:44:46.6 2000.00  23:33 1.007  WFC  299.9  180  B                                
+ 495531 SextansA B band  10:11:00.50 -04:41:28.9 2000.00  23:40 1.206  WFC  299.9  180  B                                
+ 495532 LeoA B band       9:59:26.46 +30:44:47.3 2000.00  23:47 1.015  WFC  299.9  180  B                                
+ 495533 SextansA B band  10:11:00.49 -04:41:28.9 2000.00  23:54 1.218  WFC  299.4  180  B                                
+ 495534 LeoA B band       9:59:26.46 +30:44:47.3 2000.00  00:01 1.025  WFC  299.9  180  B                                
+ 495535 SextansA B band  10:11:00.50 -04:41:28.9 2000.00  00:08 1.234  WFC  299.9  180  B                                
+ 495536 LeoA B band       9:59:26.45 +30:44:46.8 2000.00  00:21 1.046  WFC  299.9  180  B                                started guiding again, guider 0.9" seeing 
+ 495537 SextansA B band  10:11:00.50 -04:41:28.9 2000.00  00:30 1.269  WFC  299.9  180  B                                
+ 495538 LeoA B band       9:59:26.46 +30:44:47.4 2000.00  00:39 1.070  WFC  300.0  180  B                                
+ 495539 SextansA B band  10:11:00.50 -04:41:29.0 2000.00  00:47 1.310  WFC  299.9  180  B                                
+ 495540 LeoA B band       9:59:26.46 +30:44:47.1 2000.00  00:56 1.100  WFC  299.4  180  B                                guider seeing 1.2"; no dimm data
+ 495541 SextansA B band  10:11:00.50 -04:41:29.0 2000.00  01:04 1.358  WFC  299.9  180  B                                
+ 495542 LeoA B band       9:59:26.45 +30:44:46.8 2000.00  01:12 1.133  WFC  299.9  180  B                                
+ 495543 SextansA B band  10:11:00.49 -04:41:28.7 2000.00  01:20 1.414  WFC  299.9  180  B                                
+ 495544 LeoA B band       9:59:26.46 +30:44:47.0 2000.00  01:28 1.171  WFC  299.9  180  B                                
+ 495545 SextansA B band  10:11:00.50 -04:41:28.6 2000.00  01:35 1.483  WFC  299.9  180  B                                
+ 495546 LeoA B band       9:59:26.46 +30:44:46.9 2000.00  01:43 1.216  WFC  299.9  180  B                                
+ 495547 SextansA B band  10:11:00.49 -04:41:28.8 2000.00  01:51 1.566  WFC  299.9  180  B                                
+ 495548 LeoA B band       9:59:26.45 +30:44:46.8 2000.00  01:59 1.268  WFC  299.9  180  B                                fainter ~40% of nt 7's counts
+ 495549 SextansA B band  10:11:00.49 -04:41:29.0 2000.00  02:07 1.668  WFC  299.9  180  B                                smeared by guider; faint
+ 495550 LeoA B band       9:59:26.44 +30:44:47.1 2000.00  02:14 1.331  WFC  299.9  180  B                                
+ 495551 SextansA B band  10:11:00.49 -04:41:29.0 2000.00  02:22 1.793  WFC  299.9  180  B                                smeared; faint
+ 495552 LeoA B band       9:59:26.46 +30:44:47.1 2000.00  02:33 1.420  WFC  299.8  180  B                                
+ 495553 SextansA B band  10:11:00.50 -04:41:28.8 2000.00  02:45 2.035  WFC  299.9  180  B                                
+ 495554 LeoA B band       9:59:26.46 +30:44:47.1 2000.00  02:53 1.536  WFC  299.9  180  B                                
+ 495555 SextansA B band  10:11:00.49 -04:41:28.9 2000.00  03:02 2.286  WFC  299.9  180  B                                lower shutter up (LSU)
+ 495556 LeoA B band       9:59:26.46 +30:44:47.0 2000.00  03:11 1.671  WFC  299.5  180  B                                Lower shutter down 
+ 495557 LeoA B band       9:59:26.45 +30:44:46.9 2000.00  03:20 1.750  WFC  300.0  180  B                                guider seeing 1.3"; image 4.2 pix
+ 495558 LeoA B band       9:59:26.46 +30:44:47.0 2000.00  03:28 1.825  WFC  299.9  180  B                                
+ 495559 LeoA B band       9:59:26.46 +30:44:46.9 2000.00  03:35 1.890  WFC  299.9  180  B                                
+ 495560 LeoA B band       9:59:26.46 +30:44:46.8 2000.00  03:45 2.016  WFC  299.8  180  B                                lower shutter up
+ 495561 LeoA B band       9:59:26.46 +30:44:47.1 2000.00  03:54 2.135  WFC  299.9  180  B                                lower shutter up
+ 495562 LeoA B band       9:59:26.45 +30:44:46.9 2000.00  04:01 2.238  WFC  299.9  180  B                                
+ 495563 LeoA B band       9:59:26.45 +30:44:46.9 2000.00  04:09 2.373  WFC  299.9  180  B                                
+ 495564 NGC6822 B test   19:44:54.00 -14:49:00.0 2000.00  05:28 2.347  WFC  299.4  180  B                                moon 11 deg away; poor 
+ 495565 NGC6822 B test   19:44:54.00 -14:49:00.0 2000.00  05:39 2.199  WFC  299.9  180  B                                guider claims 1.1" seeing 
+ 495566 NGC6822 B test   19:44:54.00 -14:48:59.9 2000.00  05:48 2.089  WFC  299.9  180  B                                
+ 495567 NGC6822 B test   19:44:53.99 -14:48:59.9 2000.00  05:54 2.018  WFC  299.9  180  B                                
+ 495568 NGC6822 B band   19:44:53.99 -14:49:00.0 2000.00  06:10 1.875  WFC  299.9  180  B                                lower shutter up
+ 495569 NGC6822 B band   19:44:54.00 -14:49:00.0 2000.00  06:16 1.827  WFC  299.9  180  B                                
+ 495570 SkyFlat B        16:59:59.99 +40:59:59.9 2000.00  06:37 1.030  WFC   70.0  180  B                                
+ 495571 SkyFlat B        17:00:02.20 +41:00:24.9 2000.00  06:40 1.031  WFC   40.1  180  B                                
+ 495572 SkyFlat B        17:00:02.21 +41:00:24.9 2000.00  06:42 1.032  WFC   22.1  180  B                                lost connection to CCDs
+ 495573 SkyFlat B        17:00:02.21 +41:00:25.0 2000.00  06:46 1.034  WFC    4.6  180  B                                
+ 495574 Bias              0:00:00.00 +00:00:00.0 2000.00  06:54 4.555  WFC    0.0  180  B                                
+ 495575 Bias              0:00:00.00 +00:00:00.0 2000.00  06:55 4.555  WFC    0.0  180  B                                
+ 495576 Bias              0:00:00.00 +00:00:00.0 2000.00  06:56 4.555  WFC    0.0  180  B                                
+ 495577 Bias              0:00:00.00 +00:00:00.0 2000.00  06:56 4.555  WFC    0.0  180  B                                
+ 495578 Bias              0:00:00.00 +00:00:00.0 2000.00  06:57 4.555  WFC    0.0  180  B                                

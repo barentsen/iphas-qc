@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 10 21 04:11
+
+TELESCOPE             INT
+DATE                  20111020
+OBSERVER/S            Amy McQuillan 
+PROGRAMME             N2
+PROPOSAL REF          N2
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Liam Hardy
+
+TEL STATION / FOCUS    / 43.4
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:45
+EVENING TWILIGHT (UT) 19:57
+MORNING TWILIGHT (UT) 05:57
+SUNRISE (UT)          07:08
+%ILLUM. LUNAR DISK    41
+DARK TIME (HRS)       10:00
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         01:15
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   6.9   83     5.5   7.5  209   771.5    6.9   13.     14.   83     61
+20:00   6.3   76     9.1  11.2  268   771.5    6.3   11.     13.   76     62
+21:00   6.1   77    10.4  13.5  269   771.6    6.1   10.     13.   77     67
+22:00   6.1   78     9.4  10.2  233   771.8    6.1    9.     13.   78     69
+23:00   5.9   80     8.1   9.4  324   771.8    5.9    8.     13.   80     73
+00:00   6.1   77     7.6   8.9  292   771.6    6.1    8.     13.   77     73
+01:00   6.1   77     6.7   8.9  327   771.1    6.1    9.     12.   77     71
+02:00   6.2   75    16.3  18.4  178   770.6    6.2    9.     12.   75     70
+03:00   5.7   80     6.9  10.9  267   770.3    5.7    9.     11.   80     72
+04:00   5.1   86     7.7   9.0  237   769.9    5.1    9.     12.   86     76
+
+TIME LOST weather           8:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Some clear patches but seeing too poor for required observations. Observing abandoned from ~3:00 due to rain.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+It went from being clear to raining suddenly but no alarms went off so it took me a few minutes to notice and close up. Would reccomend an alarm similar to the humidity one for rain.
+
+

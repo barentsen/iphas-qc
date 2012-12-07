@@ -1,0 +1,52 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 03 13 20:07
+
+TELESCOPE             INT
+DATE                  20110312
+OBSERVER/S            OV+Students
+PROGRAMME             CAT DDT
+PROPOSAL REF          DDT
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Amy Tyndall
+
+TEL STATION / FOCUS   Prime  / 44.73
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:25
+EVENING TWILIGHT (UT) 20:36
+MORNING TWILIGHT (UT) 06:06
+SUNRISE (UT)          07:17
+%ILLUM. LUNAR DISK    50
+DARK TIME (HRS)       09:30
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          02:24
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -1.2   98     9.0  15.2  180   759.9   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00  -1.2   98    14.9  19.6  244   760.1   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00  -1.5   98    18.7  22.6  226   760.1   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00  -1.8   98     6.9   9.8  198   759.9   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00  -1.8   98     9.7  12.8  266   759.5   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00  -1.7   98     9.5   8.5  280   758.8   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00  -2.2   98    18.8  26.4  152   757.9   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00  -2.5   97     7.2  26.0  355   757.3   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00  -2.6   97    28.1     N  230   756.2   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00  -3.0   97    28.6  35.6  209   755.6   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00  -3.0   97    17.7  30.0  233   755.5   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00  -3.5   97    22.2  34.6  228   755.5   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           9:28
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+While night lost to snow. 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Technical Problems : RA QUICK motion did not work. Dome frozen in place. Controller turned off to prolong cryostat hold time.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

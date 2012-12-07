@@ -1,0 +1,68 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 03 13 04:51
+
+TELESCOPE             INT
+DATE                  20080312
+OBSERVER/S            Daniel Faria
+PROGRAMME             P22
+PROPOSAL REF          P22
+TELESCOPE OPERATOR    Daniel Faria
+SUPPORT ASTRONOMER    Sarah Barker
+
+TEL STATION / FOCUS   Prime  / 43.65
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:25
+EVENING TWILIGHT (UT) 20:36
+MORNING TWILIGHT (UT) 06:05
+SUNRISE (UT)          07:16
+%ILLUM. LUNAR DISK    34
+DARK TIME (HRS)       09:29
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          01:02
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   7.3   13     7.6   8.4  218   770.0    7.3    9.     11.   13     17
+21:00   7.4    5    18.7  19.1  200   770.3    7.4    8.     11.    5      9
+22:00   8.9    2    21.6  25.1  204   770.6    8.9    9.     11.    2      6
+23:00   8.9    2    20.2  24.4  207   770.6    8.9    9.     11.    2      8
+00:00   8.9    2    18.6  21.5  205   770.2    8.9    9.     11.    2      8
+01:00   7.4    3    23.0  23.9  197   770.0    7.4    9.     11.    3      8
+02:00   7.1    5    19.5  20.8  199   769.5    7.1    8.     10.    5      8
+03:00   5.9   18    28.1  33.4  258   768.5    5.9    7.     10.   18     21
+04:00   5.5   26    37.0  40.5  263   767.9    5.5    6.     10.   26     27
+
+TIME LOST weather           09:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+cloudy
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+cloudy. Opebed up twice but clouds prevented observations.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 609959 Bias              0:00:00.00 +00:00:00.0  2000.00 14:40 1.169  WFC    0.0  180  r                                
+ 609960 Flat field        0:00:00.00 +00:00:00.0  2000.00 14:47 1.009  WFC    6.1  180  stromgren y                      
+ 609961 Bias              0:00:00.00 +00:00:00.0  2008.20 15:32 2.463  WFC    0.0  180  r                                
+ 609962 Bias              0:00:00.00 +00:00:00.0  2008.20 19:49 1.000  WFC    0.0  180  r                                
+ 609963 Bias              0:00:00.00 +00:00:00.0  2008.20 19:49 1.000  WFC    0.0  180  r                                
+ 609964 Bias              0:00:00.00 +00:00:00.0  2008.20 19:50 1.000  WFC    0.0  180  r                                
+ 609965 Bias              0:00:00.00 +00:00:00.0  2008.20 19:50 1.000  WFC    0.0  180  r                                
+ 609966 Bias              0:00:00.00 +00:00:00.0  2008.20 19:51 1.000  WFC    0.0  180  r                                
+ 609967 Bias              0:00:00.00 +00:00:00.0  2008.20 19:51 1.000  WFC    0.0  180  r                                
+ 609968 Bias              0:00:00.00 +00:00:00.0  2008.20 19:52 1.000  WFC    0.0  180  r                                
+ 609969 Focus run         5:58:45.50 -00:04:45.9  2000.00 21:29 1.258  WFC   15.1  180  r                                
+ 609970 N2 r 300s         8:12:18.96 +39:09:44.9  2000.00 21:49 1.017  WFC  299.9  180  r                                
+ 609971 N2 r 300s         8:12:18.95 +39:09:44.9  2000.00 21:56 1.017  WFC  299.9  180  r                                
+ 609972 N2 r 300s         8:12:18.96 +39:09:44.9  2000.00 22:08 1.017  WFC  299.9  180  r                                clouds - closing down
+ 609974 N9 i 300s        10:49:23.34 +35:44:40.1  2000.00 01:44 1.041  WFC  299.9  180  i                                clouds
+ 609975 SDSSJ1058 r 600s 10:58:03.99 +28:42:39.0  2000.00 01:53 1.040  WFC  599.7  180  r                                
+ 609976 SDSSJ1058 r 600s 10:58:04.00 +28:42:38.9  2000.00 02:05 1.055  WFC  599.8  180  r                                
+ 609977 SDSSJ1058 r 600s 10:58:04.00 +28:42:38.9  2000.00 02:17 1.072  WFC  599.7  180  r                                
+ 609978 SDSSJ1058 r 600s 10:58:04.00 +28:42:38.9  2000.00 02:29 1.092  WFC  599.8  180  r                                more clouds - closing

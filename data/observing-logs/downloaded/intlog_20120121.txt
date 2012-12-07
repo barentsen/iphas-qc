@@ -1,0 +1,40 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 01 22 07:52
+
+TELESCOPE             INT
+DATE                  20120121
+OBSERVER/S            Rubino, Hempel
+PROGRAMME             C48
+PROPOSAL REF          D night
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Hugo
+
+TEL STATION / FOCUS   Prime  / 43.48
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:48
+EVENING TWILIGHT (UT) 20:03
+MORNING TWILIGHT (UT) 06:42
+SUNRISE (UT)          07:57
+%ILLUM. LUNAR DISK    2
+DARK TIME (HRS)       10:39
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         07:03
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+No Met data available for first half of night
+No Met data available for second half of night
+
+
+TIME LOST weather           03:00
+TIME LOST Technical         00:10
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+not photometric, seeing between 1 and 2 arcsec
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+time lost due to problems with guiding
+
+

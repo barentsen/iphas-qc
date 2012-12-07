@@ -1,0 +1,77 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 04 14 01:49
+
+TELESCOPE             INT
+DATE                  20100413
+OBSERVER/S            Busenbender
+PROGRAMME             Deep Ha imaging of spiral galaxies.
+PROPOSAL REF          C167               
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    EJ
+
+TEL STATION / FOCUS   Prime  / 43.8
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:43
+EVENING TWILIGHT (UT) 20:57
+MORNING TWILIGHT (UT) 05:26
+SUNRISE (UT)          06:40
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       08:29
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         06:17
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   2.7  100    69.3  95.4  173   754.0    2.7    5.      8.  100     85
+21:00   3.1  100    71.4  78.8  168   753.9    3.1    5.      8.  100     87
+22:00   3.1  100    57.2  15.2  176   754.2    3.1    5.      8.  100     87
+23:00   3.0  100    59.8  40.2  164   753.2    3.0    5.      8.  100     84
+00:00   2.9  100    61.0  28.4  147   754.9    2.9    5.      8.  100     86
+01:00   2.6  100    84.5  72.4  166   752.7    2.6    5.      8.  100     85
+
+TIME LOST weather           8:29
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% humidity all night.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 726587 Bias              0:00:00.00 +00:00:00.0  2000.00 21:24 4.506  WFC    0.0  180  Halpha                           
+ 726588 Bias              0:00:00.00 +00:00:00.0  2000.00 21:25 4.506  WFC    0.0  180  Halpha                           
+ 726589 Bias              0:00:00.00 +00:00:00.0  2000.00 21:26 4.506  WFC    0.0  180  Halpha                           
+ 726590 Bias              0:00:00.00 +00:00:00.0  2000.00 21:26 4.506  WFC    0.0  180  Halpha                           
+ 726591 Bias              0:00:00.00 +00:00:00.0  2000.00 21:27 4.506  WFC    0.0  180  Halpha                           
+ 726592 Bias              0:00:00.00 +00:00:00.0  2000.00 21:28 4.506  WFC    0.0  180  Halpha                           
+ 726593 Bias              0:00:00.00 +00:00:00.0  2000.00 21:29 4.506  WFC    0.0  180  Halpha                           
+ 726594 Bias              0:00:00.00 +00:00:00.0  2000.00 21:30 4.506  WFC    0.0  180  Halpha                           
+ 726595 Bias              0:00:00.00 +00:00:00.0  2000.00 21:30 4.506  WFC    0.0  180  Halpha                           
+ 726596 Bias              0:00:00.00 +00:00:00.0  2000.00 21:31 4.506  WFC    0.0  180  Halpha                           
+ 726597 Bias              0:00:00.00 +00:00:00.0  2000.00 21:32 4.506  WFC    0.0  180  Halpha                           
+ 726598 Bias              0:00:00.00 +00:00:00.0  2000.00 21:33 4.506  WFC    0.0  180  Halpha                           
+ 726599 Bias              0:00:00.00 +00:00:00.0  2000.00 21:33 4.506  WFC    0.0  180  Halpha                           
+ 726600 Bias              0:00:00.00 +00:00:00.0  2000.00 21:34 4.506  WFC    0.0  180  Halpha                           
+ 726601 Bias              0:00:00.00 +00:00:00.0  2000.00 21:35 4.506  WFC    0.0  180  Halpha                           
+ 726602 Bias              0:00:00.00 +00:00:00.0  2000.00 21:36 4.506  WFC    0.0  180  Halpha                           
+ 726603 Bias              0:00:00.00 +00:00:00.0  2000.00 21:37 4.506  WFC    0.0  180  Halpha                           
+ 726604 Bias              0:00:00.00 +00:00:00.0  2000.00 21:37 4.506  WFC    0.0  180  Halpha                           
+ 726605 Bias              0:00:00.00 +00:00:00.0  2000.00 21:38 4.506  WFC    0.0  180  Halpha                           
+ 726606 Bias              0:00:00.00 +00:00:00.0  2000.00 21:39 4.506  WFC    0.0  180  Halpha                           
+ 726607 Bias              0:00:00.00 +00:00:00.0  2000.00 21:40 4.506  WFC    0.0  180  Halpha                           
+ 726608 Bias              0:00:00.00 +00:00:00.0  2000.00 21:40 4.506  WFC    0.0  180  Halpha                           
+ 726609 Bias              0:00:00.00 +00:00:00.0  2000.00 21:41 4.506  WFC    0.0  180  Halpha                           
+ 726610 Bias              0:00:00.00 +00:00:00.0  2000.00 21:42 4.506  WFC    0.0  180  Halpha                           
+ 726611 Bias              0:00:00.00 +00:00:00.0  2000.00 21:43 4.506  WFC    0.0  180  Halpha                           
+ 726612 Dark frame        0:00:00.00 +00:00:00.0  2000.00 21:44 4.506  WFC 1800.0  180  Halpha                           
+ 726613 Dark frame        0:00:00.00 +00:00:00.0  2000.00 22:14 4.506  WFC 1800.0  180  Halpha                           
+ 726614 Dark frame        0:00:00.00 +00:00:00.0  2000.00 22:45 4.506  WFC 1800.0  180  Halpha                           
+ 726615 Dark frame        0:00:00.00 +00:00:00.0  2000.00 23:16 4.506  WFC 1800.0  180  Halpha                           
+ 726616 Dark frame        0:00:00.00 +00:00:00.0  2000.00 23:47 4.506  WFC 1800.0  180  Halpha                           
+ 726617 Dark frame        0:00:00.00 +00:00:00.0  2000.00 00:18 4.506  WFC 1800.0  180  Halpha                           

@@ -1,0 +1,52 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 03 21 20:05
+
+TELESCOPE             INT
+DATE                  20070319
+OBSERVER/S            Castro
+PROGRAMME             Diffuse light around M87
+PROPOSAL REF          C16
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    IH
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:29
+EVENING TWILIGHT (UT) 20:40
+MORNING TWILIGHT (UT) 05:58
+SUNRISE (UT)          07:09
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       09:18
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          20:11
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -0.1   98    39.2  46.5  109   763.8   -0.1   5.6     7.6   98    74 
+21:00   0.0   98    54.7  65.1  117   764.5    0.0   5.6     7.6   98    74 
+22:00   0.0   98    34.6  40.8  106   764.8    0.0   5.6     7.6   98    75 
+23:00   0.6   98    31.9  35.8  144   765.2    0.6   5.7     7.6   98    74 
+00:00   0.1   98    46.5  48.7  176   765.0    0.1   5.7     7.7   98    75 
+01:00   0.3   98    40.1  44.1  112   764.9    0.3   5.7     7.6   98    74 
+02:00   0.3   98    20.8  36.1  101   764.5    0.3   5.7     7.6   98    75 
+03:00   0.1   98    36.2  38.8  126   764.0    0.1   5.4     7.6   98    76 
+04:00   0.2   98    37.7  49.2  300   764.0    0.2   5.3     7.7   98    76 
+05:00   0.3   98    36.9  52.8  109   763.5    0.3   5.7     7.7   98    75 
+06:00   0.3   98    24.4  37.6  109   764.2    0.3   5.8     7.7   98    75 
+07:00   0.1   98    29.9  28.4  348   764.5    0.1   6.0     7.8   98    74 
+
+TIME LOST weather           09:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+snow
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+All night lost due to bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

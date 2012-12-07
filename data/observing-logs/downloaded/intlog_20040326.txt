@@ -1,0 +1,53 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 03 30 17:11
+
+TELESCOPE             INT
+DATE                  20040326
+OBSERVER/S            Lee Clewley
+PROGRAMME             A wide field search for lyman alpha haloes
+PROPOSAL REF          P1
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:33
+EVENING TWILIGHT (UT) 20:45
+MORNING TWILIGHT (UT) 05:48
+SUNRISE (UT)          07:00
+%ILLUM. LUNAR DISK    32
+DARK TIME (HRS)       09:03
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          00:56
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   0.8   95    23.3  26.4  165   757.5    0.8   5.4     6.7   95    75 
+21:00   0.9   95    35.0  40.6  173   757.4    0.9   6.0     6.7   95    71 
+22:00  -0.4   95    22.8  33.0  124   757.5   -0.4   5.3     6.8   95    74 
+23:00  -0.4   95    32.7  35.8   46   756.9   -0.4   4.8     6.7   95    74 
+00:00  -0.6   95    31.0  36.9  145   756.2   -0.6   4.5     6.7   95    75 
+01:00  -0.4   95    35.8  40.7  171   755.9   -0.4   4.3     6.6   95    76 
+02:00  -0.9   95    32.6  38.0  181   755.5   -0.9   4.6     6.7   95    72 
+03:00  -0.9   95    26.2  34.1  158   755.5   -0.9   4.2     6.7   95    75 
+04:00  -0.0   95    28.8  34.6  215   755.1   -0.0   4.4     6.6   95    74 
+05:00  -0.2   95    21.4  28.3  148   754.6   -0.2   4.5     6.5   95    74 
+06:00  -1.0   95    32.1  48.6  213   754.7   -1.0   3.6     6.4   95    77 
+07:00  -0.7   95    32.0  37.1  203   754.3   -0.7   3.6     6.4   95    75 
+
+TIME LOST weather           09:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+all night lost
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 392466 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 14:21 1.000  WFC    0.0  180  [OIII]5007                       

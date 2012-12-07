@@ -1,0 +1,62 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 10 12 02:53
+
+TELESCOPE             INT
+DATE                  20071011
+OBSERVER/S            Ramsay/Barclay
+PROGRAMME             Determining the space density of ultra compact binaries
+PROPOSAL REF          P2
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Corradi/Valentini
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:54
+EVENING TWILIGHT (UT) 20:06
+MORNING TWILIGHT (UT) 05:52
+SUNRISE (UT)          07:03
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       09:46
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No Moon all night
+MOONSET (UT)          No Moon all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.7  100    19.8  24.1  209   764.0    4.7  10.4    12.2  100    74 
+20:00   4.9  100    26.6  29.4  196   764.0    4.9  10.5    12.3  100    73 
+21:00   5.4  100    28.7  30.9  202   764.3    5.4  10.4    12.1  100    77 
+22:00   5.3  100    35.0  36.4  188   764.2    5.3  10.7    12.2  100    74 
+23:00   5.1  100    37.2  37.1  194   764.3    5.1  10.8    12.2  100    74 
+00:00   5.5  100    47.6  50.9  198   763.7    5.5  10.9    12.3  100    73 
+01:00   5.1  100    36.5  42.4  194   763.5    5.1  10.8    12.3  100    74 
+02:00   5.3  100    35.5  37.8  196   763.2    5.3  10.6    12.2  100    75 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+poor. cloud and rain. left at 03.00 local time since it was unlikely to clear.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 587413 Bias             12:19:59.99 +39:59:59.9  2000.00 13:11 1.043  WFC    0.0  180  B                                
+ 587414 Flat field       12:19:59.99 +40:00:00.0  2000.00 13:17 1.048  WFC    6.1  180  Halpha                           
+ 587415 Flat field       12:20:00.00 +40:00:00.2  2000.00 13:20 1.051  WFC    6.1  180  Halpha                           
+ 587416 Bias              0:00:00.00 +00:00:00.0  2000.00 15:36 1.000  WFC    0.0  180  U                                fast readout 1st useful
+ 587417 Bias              0:00:00.00 +00:00:00.0  2000.00 15:37 1.000  WFC    0.0  180  U                                
+ 587418 Bias              0:00:00.00 +00:00:00.0  2000.00 15:37 1.000  WFC    0.0  180  U                                
+ 587419 Bias              0:00:00.00 +00:00:00.0  2000.00 15:38 1.000  WFC    0.0  180  U                                
+ 587420 Bias              0:00:00.00 +00:00:00.0  2000.00 15:38 1.000  WFC    0.0  180  U                                
+ 587421 Bias             16:24:32.99 +55:43:59.0  2000.00 15:45 1.127  WFC    0.0  180  U                                
+ 587422 Bias              0:00:00.00 +00:00:00.0  2000.00 16:36 1.000  WFC    0.0  180  B                                
+ 587423 Bias              0:00:00.00 +00:00:00.0  2000.00 16:37 1.000  WFC    0.0  180  B                                
+ 587424 Bias              0:00:00.00 +00:00:00.0  2000.00 16:37 1.000  WFC    0.0  180  B                                
+ 587425 Bias              0:00:00.00 +00:00:00.0  2000.00 16:38 1.000  WFC    0.0  180  B                                
+ 587426 Bias              0:00:00.00 +00:00:00.0  2000.00 16:38 1.000  WFC    0.0  180  B                                

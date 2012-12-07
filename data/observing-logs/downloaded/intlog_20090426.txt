@@ -1,0 +1,78 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 04 27 04:30
+
+TELESCOPE             INT
+DATE                  20090426
+OBSERVER/S            Boris Deshev, Tiina Liimets
+PROGRAMME             A963, A2192
+PROPOSAL REF          N6
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Maria del Mar
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:51
+EVENING TWILIGHT (UT) 21:08
+MORNING TWILIGHT (UT) 05:10
+SUNRISE (UT)          06:27
+%ILLUM. LUNAR DISK    5
+DARK TIME (HRS)       08:02
+TWILIGHT TIME (HRS)   02:34
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:43
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   2.2   44    29.5  33.0  145   768.8    2.2    8.     12.   44     39
+21:00   2.0   47    27.2  30.6  150   769.2    2.0    5.     12.   47     44
+22:00   0.5   56    34.5  36.5   23   769.6    0.5    7.     11.   56     51
+23:00   0.6   69    31.2  32.5   25   769.2    0.6    8.     11.   69     48
+00:00  -0.1   91    32.5  33.7   87   769.2   -0.1    9.     11.   91     51
+01:00  -0.2   90    29.8  33.1   15   769.5   -0.2    9.     11.   90     53
+02:00  -0.0   99    31.4  37.6   31   768.7   -0.0    9.     11.   99     53
+03:00  -1.5   99    27.7  33.3   80   768.1   -1.5    9.     11.   99     54
+04:00  -1.6   98    34.8  40.2   15   767.7   -1.6    9.     11.   98     53
+
+TIME LOST weather           09:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Horrible
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 666392 Bias frame        1:00:00.00 +30:00:00.0  2009.32 12:09 1.002  WFC    0.0  180  Halpha                           
+ 666393 TEST              0:59:59.99 +29:59:59.9  2009.32 12:12 1.003  WFC    2.1  180  i                                
+ 666394 Bias              0:00:00.00 +00:00:00.0  2009.32 16:01 1.271  WFC    0.0  180  B                                
+ 666395 Bias              0:00:00.00 +00:00:00.0  2009.32 16:02 1.271  WFC    0.0  180  B                                
+ 666396 Bias              0:00:00.00 +00:00:00.0  2009.32 16:03 1.271  WFC    0.0  180  B                                
+ 666397 Bias              0:00:00.00 +00:00:00.0  2009.32 16:04 1.271  WFC    0.0  180  B                                
+ 666398 Bias              0:00:00.00 +00:00:00.0  2009.32 16:04 1.271  WFC    0.0  180  B                                
+ 666399 Bias              0:00:00.00 +00:00:00.0  2009.32 16:05 1.271  WFC    0.0  180  B                                
+ 666400 Bias              0:00:00.00 +00:00:00.0  2009.32 16:06 1.271  WFC    0.0  180  B                                
+ 666401 Bias              0:00:00.00 +00:00:00.0  2009.32 16:07 1.271  WFC    0.0  180  B                                
+ 666402 Bias              0:00:00.00 +00:00:00.0  2009.32 16:08 1.271  WFC    0.0  180  B                                
+ 666403 Flat field        9:13:48.99 +46:13:57.9  2000.00 19:57 1.049  WFC    5.1  180  [OIII]5007                       overexposed
+ 666404 Flat field        9:13:48.99 +46:13:57.9  2000.00 19:59 1.048  WFC    3.1  180  [OIII]5007                       
+ 666405 Flat field        9:13:51.89 +46:14:28.0  2000.00 20:00 1.048  WFC    5.1  180  [OIII]5007                       
+ 666406 Flat field        9:13:51.89 +46:13:27.9  2000.00 20:02 1.048  WFC    6.1  180  [OIII]5007                       
+ 666407 Flat field        9:13:51.89 +46:13:28.0  2000.00 20:03 1.048  WFC    3.1  180  B                                saturated
+ 666408 Flat field        9:13:51.89 +46:14:27.9  2000.00 20:05 1.048  WFC    3.1  180  B                                saturated
+ 666409 Flat field        9:13:51.89 +46:14:28.0  2000.00 20:08 1.048  WFC    3.1  180  B                                
+ 666410 Flat field        9:13:51.88 +46:13:28.1  2000.00 20:10 1.048  WFC    4.1  180  B                                offset +30 -30
+ 666411 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:11 1.048  WFC    5.1  180  B                                without tracking
+ 666412 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:13 1.048  WFC    7.1  180  B                                without tracking
+ 666413 Flat field        9:13:48.99 +46:13:57.9  2000.00 20:14 1.048  WFC   10.1  180  B                                
+ 666414 Flat field        9:13:46.11 +46:13:28.0  2000.00 20:15 1.049  WFC   15.1  180  B                                offset +30 -30
+ 666415 Flat field        9:13:46.10 +46:14:28.0  2000.00 20:17 1.049  WFC   15.1  180  B                                
+ 666416 Flat field        9:13:46.10 +46:14:37.9  2000.00 20:18 1.049  WFC   12.1  180  R                                offset -30 -30
+ 666417 Flat field        9:13:46.11 +46:13:28.0  2000.00 20:19 1.049  WFC   29.6  180  R                                offset +30 -30
+ 666418 Flat field        9:13:51.88 +46:13:28.0  2000.00 20:21 1.050  WFC   45.1  180  R                                offset -60 -30
+ 666419 Flat field        9:13:43.21 +46:13:27.9  2000.00 20:23 1.050  WFC   60.0  180  R                                
+ 666420 Flat field        9:13:43.22 +46:12:57.9  2000.00 20:25 1.051  WFC  120.1  180  R                                

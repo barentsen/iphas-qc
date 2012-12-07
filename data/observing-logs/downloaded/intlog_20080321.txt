@@ -1,0 +1,125 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 03 22 07:08
+
+TELESCOPE             INT
+DATE                  20080321
+OBSERVER/S            Copperwheat
+PROGRAMME             Subdwarf-B stars: tracers of binary evolution
+PROPOSAL REF          D11
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Liimets
+
+TEL STATION / FOCUS   Cassegrain  / 14.8
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:30
+EVENING TWILIGHT (UT) 20:42
+MORNING TWILIGHT (UT) 05:54
+SUNRISE (UT)          07:06
+%ILLUM. LUNAR DISK      1
+DARK TIME (HRS)       09:12
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   0.6   17    33.2  37.1   29   765.1    0.6                 17      #
+21:00   1.2   15    32.7  38.8   31   765.6    1.2                 15      #
+22:00   1.3   18    37.1  42.0   34   765.9    1.3                 18      #
+23:00   2.5   13    34.3  36.0   23   766.0    2.5    3.      7.   13     17
+00:00   2.6    7    36.4  39.4   38   765.8    2.6    3.      7.    7     11
+01:00   2.4    8    27.8  29.4   35   765.8    2.4    3.      7.    8     10
+02:00   4.1    5    29.1  31.4   21   765.6    4.1    4.      6.    5     10
+03:00   4.4    3    29.5  33.4   36   765.0    4.4    4.      6.    3     10
+04:00   4.8    4    20.1  20.3   43   765.0    4.8    4.      6.    4     11
+05:00   6.2    2    16.6  16.6    8   764.9    6.2    5.      6.    2      9
+06:00   5.8    2    12.5  14.9    7   765.0    5.8    5.      6.    2      9
+07:00   6.5    2    11.8  12.2   15   765.3    6.5    5.      7.    2     13
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloud throughout night, initially light but rather thick towards end of night. Seeing good, in the 1.2-1.5" range.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+ccd readout slow, binning 1 1, window [675:1095,1:4200]
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 610829 Bias             21:19:59.99 +19:59:59.9  2008.22 11:48 1.058  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610830 Bias             21:20:00.00 +20:00:00.0  2008.22 11:50 1.061  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610831 Arc              21:20:00.00 +20:00:00.0  2008.22 11:54 1.066  IDS    5.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610832 Bias              0:00:00.00 +00:00:00.0  2008.22 19:23 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610833 Bias              0:00:00.00 +00:00:00.0  2008.22 19:23 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610834 Bias              0:00:00.00 +00:00:00.0  2008.22 19:23 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610835 Bias              0:00:00.00 +00:00:00.0  2008.22 19:23 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610836 Bias              0:00:00.00 +00:00:00.0  2008.22 19:24 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610837 Bias              0:00:00.00 +00:00:00.0  2008.22 19:24 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610838 Bias              0:00:00.00 +00:00:00.0  2008.22 19:24 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610839 Bias              0:00:00.00 +00:00:00.0  2008.22 19:24 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610840 Bias              0:00:00.00 +00:00:00.0  2008.22 19:24 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610841 Bias              0:00:00.00 +00:00:00.0  2008.22 19:25 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610842 Bias              0:00:00.00 +00:00:00.0  2008.22 19:25 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610843 Bias              0:00:00.00 +00:00:00.0  2008.22 19:25 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610844 Bias              0:00:00.00 +00:00:00.0  2008.22 19:25 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610845 Bias              0:00:00.00 +00:00:00.0  2008.22 19:26 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610846 Bias              0:00:00.00 +00:00:00.0  2008.22 19:26 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610847 Bias              0:00:00.00 +00:00:00.0  2008.22 19:26 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610848 Bias              0:00:00.00 +00:00:00.0  2008.22 19:26 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610849 Bias              0:00:00.00 +00:00:00.0  2008.22 19:26 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610850 Bias              0:00:00.00 +00:00:00.0  2008.22 19:27 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610851 Bias              0:00:00.00 +00:00:00.0  2008.22 19:27 1.000  IDS    0.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610852 W Flat            0:00:00.00 +00:00:00.0  2008.22 19:28 1.000  IDS   30.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610853 W Flat            0:00:00.00 +00:00:00.0  2008.22 19:28 1.000  IDS   30.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610854 W Flat            0:00:00.00 +00:00:00.0  2008.22 19:29 1.000  IDS   30.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610855 W Flat            0:00:00.00 +00:00:00.0  2008.22 19:30 1.000  IDS   30.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610856 W Flat            0:00:00.00 +00:00:00.0  2008.22 19:30 1.000  IDS   30.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610857 W Flat            0:00:00.00 +00:00:00.0  2008.22 19:31 1.000  IDS   30.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610858 W Flat            0:00:00.00 +00:00:00.0  2008.22 19:32 1.000  IDS   30.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610859 W Flat            0:00:00.00 +00:00:00.0  2008.22 19:33 1.000  IDS   30.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610860 W Flat            0:00:00.00 +00:00:00.0  2008.22 19:33 1.000  IDS   30.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610861 W Flat            0:00:00.00 +00:00:00.0  2008.22 19:34 1.000  IDS   30.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610862 BD +08 2015       8:13:00.57 +07:46:38.5  1950.00 20:01 1.144  IDS  240.0    0  Clear+Clear   5.0  55.5 4504.8   Seeing about 3" - very windy outside
+ 610863 BD +08 2015       8:13:00.74 +07:46:37.8  1950.00 20:07 1.135  IDS  240.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610864 CuAr Arc          8:13:00.72 +07:46:37.7  1950.00 20:12 1.128  IDS  120.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610865 CuAr Arc         10:21:11.18 -04:55:51.4  2000.00 20:30 1.755  IDS  120.0  320  Clear+Clear   1.0  55.5 4504.8   
+ 610866 PG1018-047       10:21:11.19 -04:55:51.4  2000.00 20:37 1.574  IDS 2400.0  320  Clear+Clear   1.0  55.5 4504.8   Guiding is poor - only available star is very faint
+ 610867 PG1018-047       10:21:11.64 -04:55:53.9  2000.00 21:18 1.386  IDS 2400.0  320  Clear+Clear   1.0  55.5 4504.8   
+ 610868 CuAr Arc         10:21:12.05 -04:55:58.1  2000.00 21:59 1.316  IDS  120.0  320  Clear+Clear   1.0  55.5 4504.8   
+ 610869 CuAr Arc         10:00:45.57 +07:34:02.1  2000.00 22:07 1.114  IDS  120.0  330  Clear+Clear   1.0  55.5 4504.8   
+ 610870 GD108            10:00:45.57 +07:34:02.1  2000.00 22:09 1.101  IDS 1200.0  330  Clear+Clear   1.0  55.5 4504.8   Seeing is quite nice - maybe about 1.3"
+ 610871 GD108            10:00:45.57 +07:34:02.1  2000.00 22:30 1.081  IDS 1800.0  330  Clear+Clear   1.0  55.5 4504.8   
+ 610872 CuAr Arc         10:00:45.62 +07:34:02.4  2000.00 23:00 1.074  IDS  120.0  330  Clear+Clear   1.0  55.5 4504.8   
+ 610873 CuAr Arc         10:41:51.07 +21:40:37.1  2000.00 23:07 1.025  IDS  120.0  310  Clear+Clear   1.0  55.5 4504.8   
+ 610874 PG1039+219       10:41:51.07 +21:40:37.0  2000.00 23:09 1.018  IDS 1200.0  310  Clear+Clear   1.0  55.5 4504.8   
+ 610875 PG1039+219       10:41:51.16 +21:40:37.2  2000.00 23:29 1.010  IDS 1200.0  310  Clear+Clear   1.0  55.5 4504.8   Some patches of high cloud out there
+ 610876 CuAr Arc         10:41:51.32 +21:40:38.0  2000.00 23:50 1.008  IDS  120.0  310  Clear+Clear   1.0  55.5 4504.8   
+ 610877 CuAr Arc         10:43:38.56 +23:09:13.6  2000.00 23:57 1.005  IDS  120.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 610878 PG1040+234       10:43:38.56 +23:09:13.6  2000.00 23:59 1.007  IDS 1200.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 610879 PG1040+234       10:43:38.56 +23:09:13.6  2000.00 00:19 1.014  IDS 1200.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 610880 CuAr Arc         10:43:38.56 +23:09:13.5  2000.00 00:40 1.021  IDS  120.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 610881 CuAr Arc         11:32:57.99 +05:06:42.0  2000.00 00:47 1.092  IDS  120.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610882 PG1130+054       11:32:58.00 +05:06:42.0  2000.00 00:49 1.095  IDS 1500.0    0  Clear+Clear   1.0  55.5 4504.8   Cloud is getting worse - really screwing this target up
+ 610883 PG1130+054       11:32:57.99 +05:06:42.0  2000.00 01:15 1.111  IDS 1500.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610884 CuAr Arc         11:32:58.00 +05:06:42.0  2000.00 01:40 1.124  IDS  120.0    0  Clear+Clear   1.0  55.5 4504.8   
+ 610886 CuAr Arc         10:21:09.99 -04:56:11.9  2000.00 02:05 1.554  IDS  120.0   55  Clear+Clear   1.0  55.5 4504.8   Lost a bit of time there due to a computer problem. Had to shut down and restart the obssys
+ 610887 PG1018           10:21:10.00 -04:56:12.0  2000.00 02:08 1.622  IDS 1056.1   55  Clear+Clear   1.0  55.5 4504.8   Junk (forgot to restart guiding after crash)
+ 610888 PG1018           10:21:10.00 -04:56:12.0  2000.00 02:27 1.870  IDS 2400.0   55  Clear+Clear   1.0  55.5 4504.8   Getting rather cloudy out there. Telescope vignetting towards end so lower shutter raised. Airmass >2
+ 610889 PG1018           10:21:10.00 -04:56:12.0  2000.00 03:08 2.404  IDS 2100.0   55  Clear+Clear   1.0  55.5 4504.8   
+ 610890 CuAr Arc         10:21:10.00 -04:56:11.9  2000.00 03:44 2.808  IDS  120.0   55  Clear+Clear   1.0  55.5 4504.8   
+ 610891 CuAr Arc         13:06:04.00 +09:24:29.9  2000.00 03:51 1.149  IDS  120.0   50  Clear+Clear   1.0  55.5 4504.8   Worst of the cloud has passed, although it's still not great. Getting a nasty reflection from the moon on this one.
+ 610892 PG1303+097       13:06:04.00 +09:24:30.0  2000.00 03:54 1.180  IDS 1500.0   50  Clear+Clear   1.0  55.5 4504.8   
+ 610893 PG1303+097       13:06:03.99 +09:24:29.9  2000.00 04:19 1.251  IDS 1500.0   50  Clear+Clear   1.0  55.5 4504.8   
+ 610894 CuAr Arc         13:06:04.00 +09:24:30.0  2000.00 04:44 1.300  IDS  120.0   50  Clear+Clear   1.0  55.5 4504.8   
+ 610895 CuAr Arc         14:26:52.55 +32:57:33.3  2000.00 04:56 1.048  IDS  120.0  270  Clear+Clear   1.0  55.5 4504.8   
+ 610896 PG1424+332       14:26:52.55 +32:57:33.4  2000.00 04:58 1.063  IDS 1200.0  270  Clear+Clear   1.0  55.5 4504.8   
+ 610897 PG1424+332       14:26:52.54 +32:57:33.4  2000.00 05:18 1.095  IDS 1200.0  270  Clear+Clear   1.0  55.5 4504.8   
+ 610898 CuAr Arc         14:26:52.55 +32:57:33.3  2000.00 05:39 1.117  IDS  120.0  270  Clear+Clear   1.0  55.5 4504.8   
+ 610899 CuAr Arc         15:28:34.00 +13:00:47.9  2000.00 05:46 1.080  IDS  120.0  230  Clear+Clear   1.0  55.5 4504.8   
+ 610900 PG1526+132       15:28:34.00 +13:00:47.9  2000.00 05:48 1.100  IDS 1500.0  230  Clear+Clear   1.0  55.5 4504.8   
+ 610901 PG1526+132       15:28:33.99 +13:00:48.0  2000.00 06:13 1.147  IDS 1500.0  230  Clear+Clear   1.0  55.5 4504.8   Still rather cloudy at the end of the night
+ 610902 CuAr Arc         15:28:33.99 +13:00:47.9  2000.00 06:39 1.180  IDS  120.0  230  Clear+Clear   1.0  55.5 4504.8   

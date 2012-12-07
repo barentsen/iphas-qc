@@ -1,0 +1,109 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 03 27 03:03
+
+TELESCOPE             INT
+DATE                  20080326
+OBSERVER/S            Copperwheat
+PROGRAMME             Subdwarf-B stars: tracers of binary evolution
+PROPOSAL REF          P11                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Liimets
+
+TEL STATION / FOCUS   Cassegrain  / 14.8
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:33
+EVENING TWILIGHT (UT) 20:45
+MORNING TWILIGHT (UT) 05:48
+SUNRISE (UT)          07:00
+%ILLUM. LUNAR DISK    76
+DARK TIME (HRS)       09:03
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         23:52
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -1.2  100     0.0   0.0   91   767.9   -1.2    6.     10.  100     64
+21:00  -1.3   81     0.0   0.0   97   768.0   -1.3    6.     10.   81     58
+22:00  -1.1   91     0.0   0.0   93   768.0   -1.1    5.     10.   91     62
+23:00   0.6   47     0.0   0.0  138   768.8    0.6    5.      9.   47     49
+00:00  -0.0   67     0.0   0.0   81   769.1   -0.0    5.      9.   67     53
+01:00   1.2   26     0.0   0.0  187   768.6    1.2    4.      9.   26     30
+02:00  -1.0   75     0.0   0.0   99   767.8   -1.0    3.      9.   75     61
+03:00  -0.9  100     0.0   0.0   65   767.5   -0.9    5.      9.  100     68
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humidity through most of night. Very high wind
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Another wasted night due to high humidity. Opened for a brief spell at approx 1UT, but not long enough to take any science data
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 611151 Bias              0:00:00.00 +00:00:00.0  2000.00 19:29 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611152 Bias              0:00:00.00 +00:00:00.0  2000.00 19:29 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611153 Bias              0:00:00.00 +00:00:00.0  2000.00 19:29 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611154 Bias              0:00:00.00 +00:00:00.0  2000.00 19:29 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611155 Bias              0:00:00.00 +00:00:00.0  2000.00 19:29 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611156 Bias              0:00:00.00 +00:00:00.0  2000.00 19:30 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611157 Bias              0:00:00.00 +00:00:00.0  2000.00 19:30 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611158 Bias              0:00:00.00 +00:00:00.0  2000.00 19:30 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611159 Bias              0:00:00.00 +00:00:00.0  2000.00 19:30 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611160 Bias              0:00:00.00 +00:00:00.0  2000.00 19:31 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611161 Bias              0:00:00.00 +00:00:00.0  2000.00 19:31 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611162 Bias              0:00:00.00 +00:00:00.0  2000.00 19:31 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611163 Bias              0:00:00.00 +00:00:00.0  2000.00 19:31 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611164 Bias              0:00:00.00 +00:00:00.0  2000.00 19:31 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611165 Bias              0:00:00.00 +00:00:00.0  2000.00 19:32 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611166 Bias              0:00:00.00 +00:00:00.0  2000.00 19:32 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611167 Bias              0:00:00.00 +00:00:00.0  2000.00 19:32 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611168 Bias              0:00:00.00 +00:00:00.0  2000.00 19:32 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611169 Bias              0:00:00.00 +00:00:00.0  2000.00 19:32 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611170 Bias              0:00:00.00 +00:00:00.0  2000.00 19:33 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611171 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:33 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611172 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:34 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611173 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:35 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611174 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:35 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611175 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:36 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611176 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:37 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611177 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:37 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611178 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:38 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611179 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:39 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611180 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:40 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611181 Bias              0:00:00.00 +00:00:00.0  2000.00 19:40 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611182 Bias              0:00:00.00 +00:00:00.0  2000.00 19:41 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611183 Bias              0:00:00.00 +00:00:00.0  2000.00 19:41 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611184 Bias              0:00:00.00 +00:00:00.0  2000.00 19:41 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611185 Bias              0:00:00.00 +00:00:00.0  2000.00 19:41 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611186 Bias              0:00:00.00 +00:00:00.0  2000.00 19:42 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611187 Bias              0:00:00.00 +00:00:00.0  2000.00 19:42 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611188 Bias              0:00:00.00 +00:00:00.0  2000.00 19:42 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611189 Bias              0:00:00.00 +00:00:00.0  2000.00 19:42 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611190 Bias              0:00:00.00 +00:00:00.0  2000.00 19:42 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611191 Bias              0:00:00.00 +00:00:00.0  2000.00 19:43 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611192 Bias              0:00:00.00 +00:00:00.0  2000.00 19:43 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611193 Bias              0:00:00.00 +00:00:00.0  2000.00 19:43 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611194 Bias              0:00:00.00 +00:00:00.0  2000.00 19:43 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611195 Bias              0:00:00.00 +00:00:00.0  2000.00 19:43 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611196 Bias              0:00:00.00 +00:00:00.0  2000.00 19:44 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611197 Bias              0:00:00.00 +00:00:00.0  2000.00 19:44 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611198 Bias              0:00:00.00 +00:00:00.0  2000.00 19:44 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611199 Bias              0:00:00.00 +00:00:00.0  2000.00 19:44 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611200 Bias              0:00:00.00 +00:00:00.0  2000.00 19:45 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611201 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:45 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611202 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:46 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611203 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:46 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611204 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:47 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611205 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:48 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611206 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:49 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611207 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:49 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611208 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:50 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611209 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:51 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611210 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:51 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611211 CuAr Arc         10:00:48.44 +07:33:42.1  2000.00 01:03 1.260  IDS  120.0   60  Clear+Clear   1.0  55.5 4504.8   Humidity has finally dropped, but seeing is just awful due to high wind. At end of arc, humidity shot up. Closed.

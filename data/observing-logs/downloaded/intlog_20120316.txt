@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 03 17 07:03
+
+TELESCOPE             INT
+DATE                  20120316
+OBSERVER/S            Habibi, Kourkchi
+PROGRAMME             Coma - Halpha Negative .. Redshift Survey
+PROPOSAL REF          INO2
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Karami
+
+TEL STATION / FOCUS   Cassegrain  / 16.0
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:27
+EVENING TWILIGHT (UT) 20:39
+MORNING TWILIGHT (UT) 06:00
+SUNRISE (UT)          07:12
+%ILLUM. LUNAR DISK    30
+DARK TIME (HRS)       09:21
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         03:42
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   5.7   43    21.2  25.3  216   773.6    5.7    7.     11.   43     44
+21:00   5.1   50    14.0  25.3  163   773.7    5.1    6.     10.   50     51
+22:00   6.0   46    13.8  21.0  188   774.3    6.0    7.     10.   46     49
+23:00   6.1   40     9.5  11.7  163   774.9    6.1    8.     10.   40     51
+00:00   6.4   37    13.8  19.4  174   774.4    6.4    8.     10.   37     45
+01:00   6.4   35    15.1  18.2  201   774.1    6.4    7.     10.   35     39
+02:00   6.3   35    14.4  18.4  170   773.7    6.3    7.     10.   35     39
+03:00   5.9   39    17.6  24.2  213   773.3    5.9    7.     10.   39     42
+04:00   6.1   38    12.3  14.9  174   773.3    6.1    7.      9.   38     41
+05:00   6.2   36    10.0  24.3  178   773.2    6.2    7.      9.   36     40
+06:00   6.3   33     6.4  17.7  174   773.3    6.3    7.      9.   33     38
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Partly cloudy, rainy, and dusty (no good weather condition)
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+We missed 22:30-00:30 for wet weather, a little bit raning. We lost 1;00-1:40 due to IDS shutter failer. We lost 2:10-2:20 due to wet wather. rain in dome.
+We lost 3:50-4:20, ICS computer had been switched off. We restarted the computer and IDS system.
+We lost Coma1457, because we could not get arc exposures and then restarted the IDS system.

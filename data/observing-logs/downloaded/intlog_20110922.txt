@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 09 30 11:06
+
+TELESCOPE             INT
+DATE                  20110922
+OBSERVER/S            Sandra Greiss
+PROGRAMME             Observing the real-time evolution of non-radial pulsations in a cooling dwarf
+PROPOSAL REF          P11                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:17
+EVENING TWILIGHT (UT) 20:28
+MORNING TWILIGHT (UT) 05:41
+SUNRISE (UT)          06:53
+%ILLUM. LUNAR DISK    26
+DARK TIME (HRS)       09:13
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         02:26
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   8.0   86     9.0  16.5  177   775.1    8.0   13.     17.   86     69
+21:00   8.8   79     9.6   7.9  170   774.7    8.8   13.     17.   79     65
+22:00   9.2   75     2.7   9.0  153   774.9    9.2   13.     16.   75     64
+23:00   8.8   78    55.7  67.7  216   774.8    8.8   13.     16.   78     63
+00:00   8.7   78    25.2  38.1  184   775.0    8.7   13.     16.   78     65
+01:00   8.3   79    12.8  42.0  183   774.4    8.3   12.     16.   79     67
+02:00   9.4   72    30.3  38.1  194   774.1    9.4   13.     16.   72     62
+03:00   9.4   74    26.8  40.2  190   773.2    9.4   13.     16.   74     65
+04:00   7.7   92    37.5  46.7  278   772.1    7.7   13.     16.   92     67
+05:00   8.9   74    37.0  48.1  223   772.1    8.9   13.     16.   74     64
+06:00   8.7   84    39.6  49.5  272   771.5    8.7   13.     16.   84     69
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

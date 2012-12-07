@@ -1,0 +1,42 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 03 18 22:56
+
+TELESCOPE             INT
+DATE                  20120318
+OBSERVER/S            Habibi, Kourkchi
+PROGRAMME             Coma - Halpha Negative .. Redshift Survey
+PROPOSAL REF          INO2
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Karami
+
+TEL STATION / FOCUS   Cassegrain  / 16.0
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:29
+EVENING TWILIGHT (UT) 20:40
+MORNING TWILIGHT (UT) 05:58
+SUNRISE (UT)          07:09
+%ILLUM. LUNAR DISK    13
+DARK TIME (HRS)       09:18
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         05:01
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   3.9   50    23.8  29.6  102   773.0    3.9    6.     11.   50     50
+21:00   3.9   50    24.5  27.3  114   773.3    3.9    8.     10.   50     48
+22:00   3.7   50    28.3  31.3   93   773.4    3.7    8.     11.   50     46
+No Met data available for second half of night
+
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clear Sky ... Dome is broken, we could not take any data ... 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+We are told to leave telescoep till tomorrow morning ... (23:00 PM)
+
+

@@ -1,0 +1,63 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 10 31 07:26
+
+TELESCOPE             INT
+DATE                  20111030
+OBSERVER/S            Vilardell
+PROGRAMME             Extending a variability survey in the Andromeda Galaxy
+PROPOSAL REF          C77                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.54
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:36
+EVENING TWILIGHT (UT) 19:48
+MORNING TWILIGHT (UT) 06:03
+SUNRISE (UT)          07:15
+%ILLUM. LUNAR DISK    23
+DARK TIME (HRS)       10:15
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          22:05
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   6.7   30    38.9  44.3   21   769.8    6.7    9.     12.   30     33
+20:00   6.6   30    38.4  47.6   17   770.1    6.6    8.     12.   30     32
+21:00   6.6   20    40.9  47.2   18   770.4    6.6    8.     11.   20     23
+22:00   6.1   18    38.5  43.0   81   770.8    6.1    7.     11.   18     23
+23:00   6.4   25    42.5  45.7   84   770.7    6.4    7.     11.   25     30
+00:00   8.3   37    34.0  39.3   56   772.0    8.3    9.     11.   37     35
+01:00   8.3   37    32.9  39.3   57   771.6    8.3    9.     11.   37     40
+01:00   8.8   41    26.2  33.2   88   771.4    8.8    9.     11.   41     45
+01:00   8.8   41    26.2  33.2   88   771.4    8.8    9.     11.   41     45
+01:00   8.8   41    26.2  33.2   88   771.4    8.8    9.     11.   41     45
+01:00   8.8   41    26.2  33.2   88   771.4    8.8    9.     11.   41     45
+01:00   8.8   41    26.2  33.2   88   771.4    8.8    9.     11.   41     45
+01:00   8.8   41    26.2  33.2   88   771.4    8.8    9.     11.   41     45
+01:00   8.8   41    26.2  33.2   88   771.4    8.8    9.     11.   41     45
+01:00   8.8   41    26.2  33.2   88   771.4    8.8    9.     11.   41     45
+01:00   8.8   41    26.2  33.2   88   771.4    8.8    9.     11.   41     45
+01:00   8.8   41    26.2  33.2   88   771.4    8.8    9.     11.   41     45
+01:00   8.8   41    26.2  33.2   88   771.4    8.8    9.     11.   41     45
+01:00   8.8   41    26.2  33.2   88   771.4    8.8    9.     11.   41     45
+01:00   8.8   41    26.2  33.2   88   771.4    8.8    9.     11.   41     45
+02:00   8.9   37    28.9  38.2   65   771.1    8.9    9.     11.   37     41
+03:00   8.8   40    27.9  35.0   55   770.5    8.8    8.     11.   40     47
+04:00   9.3   35    23.2  28.7   69   770.4    9.3    9.     11.   35     41
+05:00   9.0   32    25.6  32.4   77   770.3    9.0   10.     11.   32     37
+06:00   8.1   20    24.5  31.6   62   770.3    8.1    9.     11.   20     22
+07:00   7.8   -1    27.4  34.9   76   770.4    7.8    9.     11.   -1      8
+
+TIME LOST weather           1:15
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clouds during the first half of the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+1h15m lost due to clouds during the first half of the night
+
+

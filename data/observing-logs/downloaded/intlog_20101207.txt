@@ -1,0 +1,53 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 01 21 14:39
+
+TELESCOPE             INT
+DATE                  20101207
+OBSERVER/S            Pilar
+PROGRAMME             CAT SERVICE NIGHT.
+PROPOSAL REF          CAT-S        
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Amy Tyndall
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:28
+SUNRISE (UT)          07:44
+%ILLUM. LUNAR DISK    6
+DARK TIME (HRS)       10:50
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          20:10
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   1.8   99    18.6  26.7  197   760.8   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   1.4   99    27.3  34.2  179   761.0   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   0.7   99    35.8  51.1  240   760.9   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   1.8   98    25.7  45.3  161   760.8   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   1.3   98    20.0  31.2  156   760.7   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   1.1   98    25.9  41.9  183   760.3   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   1.5   98    19.5  32.1  151   759.7   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   1.8   99    32.2  44.6  177   758.9   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   2.5   99    30.1  51.4  174   759.0   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   2.5   99    40.3  56.1  182   756.0   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   1.8   99    45.5  59.0  184   757.1   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   1.8   99    42.3  56.8  206   757.7   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   1.2   99    35.3  53.0  174   757.9   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+dome open only for a very short period around twilight. High humidity for the rest of the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

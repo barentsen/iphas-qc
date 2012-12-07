@@ -1,0 +1,52 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 02 02 12:02
+
+TELESCOPE             INT
+DATE                  20100131
+OBSERVER/S            Barrena and Montanes
+PROGRAMME             Service CAT
+PROPOSAL REF          INTP6
+TELESCOPE OPERATOR    --
+SUPPORT ASTRONOMER    Johnston
+
+TEL STATION / FOCUS    / 43.75
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:57
+EVENING TWILIGHT (UT) 20:10
+MORNING TWILIGHT (UT) 06:39
+SUNRISE (UT)          07:53
+%ILLUM. LUNAR DISK    95
+DARK TIME (HRS)       10:29
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         20:26
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   2.9  100    24.1  31.9  180   759.3    2.9                100      #
+21:00   2.9  100    22.2  29.8  174   760.2    2.9                100      #
+22:00   2.8  100    15.8  20.0  180   760.0    2.8                100      #
+23:00   2.9  100    23.9  35.2  181   760.4    2.9                100      #
+00:00   3.5  100    24.9  25.3  175   760.5    3.5                100      #
+01:00   3.2  100    24.3  25.0  169   761.0    3.2                100      #
+02:00   3.5  100    29.5  37.7  158   759.8    3.5                100      #
+03:00   4.1  100    28.6  32.1  173   759.7    4.1                100      #
+04:00   3.8  100    53.5  64.6  174   760.0    3.8                100      #
+05:00   3.9  100    35.7  03.9  162   759.0    3.9                100      #
+06:00   3.8  100    30.3  45.5  168   759.4    3.8                100      #
+07:00   3.9  100    40.5  56.4  169   759.6    3.9                100      #
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+rain, clouds
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+we took a bunch of test observations with dome closed
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

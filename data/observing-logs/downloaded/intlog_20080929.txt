@@ -1,0 +1,61 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 09 30 04:33
+
+TELESCOPE             INT
+DATE                  20080929
+OBSERVER/S            Huxor/Tanvir
+PROGRAMME             P15 M31 survey
+PROPOSAL REF          P15                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS   Prime  / 43.8
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:07
+EVENING TWILIGHT (UT) 20:19
+MORNING TWILIGHT (UT) 05:46
+SUNRISE (UT)          06:57
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       09:27
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No Moon all night
+MOONSET (UT)          No Moon all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   6.6   99     7.7   7.3  282   771.9    6.6  12.8    13.4   99    74 
+21:00   6.6   99     5.3   5.8  315   772.0    6.6  13.0    13.4   99    74 
+22:00   5.6   99     8.9  10.8  296   772.3    5.6  12.8    13.5   99    75 
+23:00   5.2   99     4.6   7.5  208   772.5    5.2  12.6    13.7   99    73 
+00:00   4.2   99    13.5  20.5   90   772.4    4.2  12.8    13.6   99    70 
+01:00   4.0   99     6.4   8.1  352   772.2    4.0  12.9    13.6   99    67 
+02:00   2.8   97    10.0  14.4  283   771.7    2.8  12.6    13.6   97    65 
+03:00   2.2   81    23.1  24.3   32   771.1    2.2  12.5    13.8   81    60 
+04:00   1.5   85    14.5  16.5   74   770.7    1.5  12.3    13.7   85    58 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloud at start of night, lifted later, but high humidity all night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+High humidity all night, so unable to open dome
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 640067 Bias              0:00:00.00 +00:00:00.0  2000.00 15:35 4.663  WFC    0.0  180  V                                
+ 640068 Bias              0:00:00.00 +00:00:00.0  2000.00 15:38 4.663  WFC    0.0  180  V                                
+ 640069 Flat field        0:00:00.00 +00:00:00.0  2000.00 15:44 4.663  WFC   19.5  180  r                                
+ 640070 Bias              0:00:00.00 +00:00:00.0  2000.00 02:02 4.712  WFC    0.0  180  V                                
+ 640071 Bias              0:00:00.00 +00:00:00.0  2000.00 02:03 4.712  WFC    0.0  180  V                                
+ 640072 Bias              0:00:00.00 +00:00:00.0  2000.00 02:03 4.712  WFC    0.0  180  V                                
+ 640073 Bias              0:00:00.00 +00:00:00.0  2000.00 02:04 4.712  WFC    0.0  180  V                                
+ 640074 Bias              0:00:00.00 +00:00:00.0  2000.00 02:04 4.712  WFC    0.0  180  V                                
+ 640075 Bias              0:00:00.00 +00:00:00.0  2000.00 02:05 4.712  WFC    0.0  180  V                                
+ 640076 Bias              0:00:00.00 +00:00:00.0  2000.00 02:05 4.712  WFC    0.0  180  V                                
+ 640077 Bias              0:00:00.00 +00:00:00.0  2000.00 02:06 4.712  WFC    0.0  180  V                                
+ 640078 Bias              0:00:00.00 +00:00:00.0  2000.00 02:06 4.712  WFC    0.0  180  V                                

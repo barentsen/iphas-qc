@@ -1,0 +1,51 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 11 21 22:36
+
+TELESCOPE             INT
+DATE                  20031121
+OBSERVER/S            Katherne Inskip
+PROGRAMME             Radio Galaxies
+PROPOSAL REF          P10
+TELESCOPE OPERATOR    Katherine Inskip
+SUPPORT ASTRONOMER    r greimel
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:17
+SUNRISE (UT)          07:32
+%ILLUM. LUNAR DISK    6
+DARK TIME (HRS)       10:39
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         05:41
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   2.7  100    24.7  27.2  265   763.3    2.7   9.8    11.4  100    64 
+20:00   2.8  100    21.7  27.0  256   763.2    2.8   9.6    11.4  100    65 
+21:00   3.5  100    10.8  13.6  226   763.5    3.5   9.5    11.3  100    68 
+22:00   3.0  100    37.4  43.9  272   763.2    3.0   8.8    11.4  100    70 
+No Met data available for second half of night
+
+
+TIME LOST weather           12:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+rain, rain, rain. Wet and 100% humidity throughout night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Full night lost to poor weather. Advised by duty tech to leave early before conditions become too icy.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 376835 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 14:09 1.000  WFC    0.0  180  B                                
+ 376836 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 14:13 1.000  WFC    0.0  180  B                                
+ 376837 Bias              0:00:00.00 +00:00:00.0 J2000.00 14:15 1.000  WFC    0.0  180  U                                
+ 376838 Bias              0:00:00.00 +00:00:00.0 J2000.00 14:17 1.000  WFC    0.0  180  i                                
+ 376839 Bias              0:00:00.00 +00:00:00.0 J2000.00 14:29 4.681  WFC    0.0  180  i                                

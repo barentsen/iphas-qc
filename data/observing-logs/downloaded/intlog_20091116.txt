@@ -1,0 +1,84 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 11 17 06:07
+
+TELESCOPE             INT
+DATE                  20091116
+OBSERVER/S            van Spaandonk
+PROGRAMME             UVEX
+PROPOSAL REF          09A/N4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.75
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:25
+EVENING TWILIGHT (UT) 19:39
+MORNING TWILIGHT (UT) 06:14
+SUNRISE (UT)          07:28
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       10:35
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         No Moon all night
+MOONSET (UT)          No Moon all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.2   99     9.8  15.3  210   766.0    4.2    9.     11.   99     76
+20:00   4.4   99    13.6  14.7  236   766.9    4.4   10.     11.   99     74
+21:00   4.6   99    18.0  22.2  170   768.1    4.6    9.     11.   99     77
+22:00   4.3   99    10.8  13.4  207   767.6    4.3    9.     11.   99     75
+23:00   4.0   99    14.8  18.9  190   767.9    4.0    9.     11.   99     75
+00:00   4.0   99    12.1  14.9  185   767.2    4.0    9.     11.   99     75
+01:00   3.3   99    12.6  16.0  175   767.9    3.3    9.     11.   99     72
+02:00   1.6   99    20.0  28.5  154   766.6    1.6    9.     11.   99     69
+03:00   1.2   99    21.6  31.0  164   766.8    1.2    8.     11.   99     69
+04:00  -0.7   99    16.7  16.5  215   767.1   -0.7    8.     11.   99     63
+05:00   1.8   63    16.7  17.9  226   766.4    1.8    5.      9.   63     57
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humidity throughout the night> 90 % 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+humidity conditions prevented opening dome until 5am, closed again at 520 due to rise in humidity again
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 707032 Bias              0:00:00.00 +00:00:00.0  2000.00 18:27 1.000  WFC    0.0  180  HeI 5870                         
+ 707033 Bias              0:00:00.00 +00:00:00.0  2000.00 18:28 1.000  WFC    0.0  180  HeI 5870                         
+ 707034 Bias              0:00:00.00 +00:00:00.0  2000.00 18:28 1.000  WFC    0.0  180  HeI 5870                         
+ 707035 Bias              0:00:00.00 +00:00:00.0  2000.00 18:29 1.000  WFC    0.0  180  HeI 5870                         
+ 707036 Bias              0:00:00.00 +00:00:00.0  2000.00 18:29 1.000  WFC    0.0  180  HeI 5870                         
+ 707037 Bias              0:00:00.00 +00:00:00.0  2000.00 18:31 1.000  WFC    0.0  180  HeI 5870                         
+ 707038 Bias              0:00:00.00 +00:00:00.0  2000.00 18:32 1.000  WFC    0.0  180  HeI 5870                         
+ 707039 Bias              0:00:00.00 +00:00:00.0  2000.00 18:32 1.000  WFC    0.0  180  HeI 5870                         
+ 707040 Bias              0:00:00.00 +00:00:00.0  2000.00 18:33 1.000  WFC    0.0  180  HeI 5870                         
+ 707041 Bias              0:00:00.00 +00:00:00.0  2000.00 18:33 1.000  WFC    0.0  180  HeI 5870                         
+ 707042 Bias              0:00:00.00 +00:00:00.0  2000.00 18:34 1.000  WFC    0.0  180  HeI 5870                         
+ 707043 Bias              0:00:00.00 +00:00:00.0  2000.00 18:34 1.000  WFC    0.0  180  HeI 5870                         
+ 707044 Bias              0:00:00.00 +00:00:00.0  2000.00 18:35 1.000  WFC    0.0  180  HeI 5870                         
+ 707045 Bias              0:00:00.00 +00:00:00.0  2000.00 18:35 1.000  WFC    0.0  180  HeI 5870                         
+ 707046 Bias              0:00:00.00 +00:00:00.0  2000.00 18:36 1.000  WFC    0.0  180  HeI 5870                         
+ 707047 Bias              0:00:00.00 +00:00:00.0  2000.00 18:36 1.000  WFC    0.0  180  HeI 5870                         
+ 707048 Bias              0:00:00.00 +00:00:00.0  2000.00 18:37 1.000  WFC    0.0  180  HeI 5870                         
+ 707049 Bias              0:00:00.00 +00:00:00.0  2000.00 18:37 1.000  WFC    0.0  180  HeI 5870                         
+ 707050 Bias              0:00:00.00 +00:00:00.0  2000.00 18:38 1.000  WFC    0.0  180  HeI 5870                         
+ 707051 Bias              0:00:00.00 +00:00:00.0  2000.00 18:38 1.000  WFC    0.0  180  HeI 5870                         
+ 707052 Bias              0:00:00.00 +00:00:00.0  2000.00 18:39 1.000  WFC    0.0  180  HeI 5870                         
+ 707053 G191B2B He1       5:05:30.60 +52:49:54.1  2000.00 04:58 1.237  WFC   60.1  180  HeI 5870                         Open up hum < 80
+ 707054 G191B2B r         5:05:30.60 +52:49:54.1  2000.00 05:00 1.240  WFC    2.1  180  r                                
+ 707055 G191B2B U         5:05:30.60 +52:49:54.1  2000.00 05:01 1.242  WFC    6.1  180  U                                
+ 707056 G191B2B g         5:05:30.60 +52:49:54.0  2000.00 05:02 1.243  WFC    1.6  180  g                                
+ 707057 uvex_2826 He1     5:51:32.89 +27:37:59.9  2000.00 05:05 1.095  WFC  180.0  180  HeI 5870                         Seeing > 3 
+ 707058 uvex_2826 r       5:51:32.89 +27:37:59.8  2000.00 05:09 1.099  WFC   30.1  180  r                                
+ 707059 uvex_2826 U       5:51:32.89 +27:37:59.8  2000.00 05:10 1.103  WFC  120.1  180  U                                
+ 707060 uvex_2826 g       5:51:32.89 +27:37:59.8  2000.00 05:13 1.107  WFC   30.1  180  g                                
+ 707061 uvex_2825o He1    5:51:47.60 +34:29:59.9  2000.00 05:14 1.109  WFC  180.0  180  HeI 5870                         hum > 90
+ 707062 uvex_2825o r      5:51:47.59 +34:29:59.6  2000.00 05:18 1.114  WFC   30.1  180  r                                
+ 707063 uvex_2825o U      5:51:47.59 +34:29:59.6  2000.00 05:19 1.118  WFC  120.0  180  U                                
+ 707064 uvex_2825o g      5:51:47.60 +34:29:59.7  2000.00 05:22 1.122  WFC   30.1  180  g                                

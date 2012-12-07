@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 12 25 07:43
+
+TELESCOPE             INT
+DATE                  20111224
+OBSERVER/S            Carlos Gonzalez-Fernandez
+PROGRAMME             Deep photometry of NGC2345
+PROPOSAL REF          C151
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    L. Hardy
+
+TEL STATION / FOCUS    / 43.47
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:28
+EVENING TWILIGHT (UT) 19:44
+MORNING TWILIGHT (UT) 06:37
+SUNRISE (UT)          07:54
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          18:28
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.5   18    23.1  34.2  104   773.7   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   5.1   21    19.1  27.1  139   774.0   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   5.5   17    15.9  28.1  156   774.1   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   5.2   16    17.9  25.5   48   774.0   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   4.6   27     4.5   8.2  172   774.1   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   5.5   15    17.6  21.0  188   773.9   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   5.0   13     8.5  10.3  151   773.5   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   6.0    9     9.3  38.5  160   773.1   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   5.3   10    17.0  28.4  155   773.3   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   5.1   13    18.9  31.6  157   772.7   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   5.5    8     8.3  12.8  173   772.8   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   6.1    7    11.2  11.8  180   772.7   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   5.4    8     7.9   9.7  184   772.5   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Possible thin cirrus, low RH, variable seeing from 2" to 3"
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

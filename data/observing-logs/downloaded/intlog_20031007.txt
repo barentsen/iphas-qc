@@ -1,0 +1,66 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 10 08 06:34
+
+TELESCOPE             INT
+DATE                  20031007
+OBSERVER/S            Drew/Hopewell
+PROGRAMME             IPHAS
+PROPOSAL REF          C6/P14
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Leisy
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:59
+EVENING TWILIGHT (UT) 20:10
+MORNING TWILIGHT (UT) 05:49
+SUNRISE (UT)          07:01
+%ILLUM. LUNAR DISK    95
+DARK TIME (HRS)       09:39
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          05:28
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   6.0   81    26.2  29.4   84   770.3    6.0  12.5    13.6   81    54 
+20:00   5.4  100    35.0  38.3    1   770.3    5.4  12.0    13.6  100    66 
+21:00   5.6  100    34.7  42.4   38   770.5    5.6  11.8    13.7  100    70 
+22:00   5.5  100    39.0  45.3   52   770.9    5.5  11.2    13.5  100    72 
+23:00   6.6  100    19.4  21.6   58   771.5    6.6  11.2    13.5  100    74 
+00:00   6.7  100    19.3  26.1    3   771.5    6.7  11.8    13.6  100    74 
+01:00   5.9  100    33.8  39.1   90   771.1    5.9  12.0    13.5  100    72 
+02:00   6.5  100    21.0  27.2   84   770.9    6.5  11.7    13.5  100    74 
+03:00   5.5  100    21.7  26.0   88   770.7    5.5  12.0    13.4  100    72 
+04:00   5.4  100    10.6  11.8  144   770.7    5.4  12.5    13.4  100    66 
+05:00   5.4  100    15.0  16.9   72   770.7    5.4  12.5    13.5  100    63 
+06:00   5.9   85    13.2  13.9   33   770.8    5.9   9.0    13.2   85    68 
+
+TIME LOST weather           09:10
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Very brief end of night observation - after humidity finally dropped (briefly)
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 366709 Bias frame        0:00:00.00 +00:00:00.0 A        14:06 4.710  WFC    0.0  180  [OIII]5007                       
+ 366710 Focus run         3:48:50.11 -00:57:39.8 J2000.00 04:44 1.178  WFC   10.1  180  r                                
+ 366711 gd50 ha           3:48:50.11 -00:58:30.0 J2000.00 04:55 1.194  WFC  120.0  180  Halpha                           
+ 366712 gd50 r            3:48:50.11 -00:58:30.0 J2000.00 04:58 1.198  WFC   10.1  180  r                                
+ 366713 gd50 i            3:48:50.11 -00:58:30.0 J2000.00 05:00 1.200  WFC   10.1  180  i                                
+ 366714 intphas_0385 Ha   1:09:26.94 +57:52:59.3 J2000.00 05:03 1.516  WFC  120.0  180  Halpha                           
+ 366715 intphas_0385 r    1:09:26.94 +57:52:59.4 J2000.00 05:06 1.523  WFC   10.1  180  r                                
+ 366716 intphas_0385 i    1:09:26.94 +57:52:59.4 J2000.00 05:07 1.527  WFC   10.1  180  i                                
+ 366717 intphas_0385o Ha  1:10:04.66 +57:57:59.4 J2000.00 05:08 1.533  WFC  119.5  180  Halpha                           
+ 366718 intphas_0385o r   1:10:04.66 +57:57:59.4 J2000.00 05:11 1.540  WFC   10.1  180  r                                
+ 366719 intphas_0385o i   1:10:04.66 +57:57:59.5 J2000.00 05:12 1.544  WFC   10.1  180  i                                
+ 366720 intphas_0387 Ha   1:09:37.52 +58:25:59.3 J2000.00 05:13 1.556  WFC  120.1  180  Halpha                           
+ 366721 intphas_0387 r    1:09:37.52 +58:25:59.3 J2000.00 05:16 1.564  WFC   10.1  180  r                                
+ 366722 intphas_0387 i    1:09:37.52 +58:25:59.3 J2000.00 05:17 1.568  WFC   10.1  180  i                                

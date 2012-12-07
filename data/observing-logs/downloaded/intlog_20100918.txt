@@ -1,0 +1,77 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 09 19 03:31
+
+TELESCOPE             INT
+DATE                  20100918
+OBSERVER/S            Amy Tyndall, Lindsay Magill, Annemieke Janssen, Ilona Bussenbender, Andrew Cardwell
+PROGRAMME             training
+PROPOSAL REF          D
+TELESCOPE OPERATOR    n/a
+SUPPORT ASTRONOMER    Annemieke Janssen
+
+TEL STATION / FOCUS    / 42.73
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:21
+EVENING TWILIGHT (UT) 20:33
+MORNING TWILIGHT (UT) 05:39
+SUNRISE (UT)          06:51
+%ILLUM. LUNAR DISK    84
+DARK TIME (HRS)       09:06
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:39
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00   5.6   98    32.0  37.0   33   768.7    5.6   14.     16.   98     59
+22:00   5.7   99    24.6  28.5   29   769.2    5.7   13.     16.   99     63
+23:00   5.2   99    27.6  35.4   50   769.4    5.2   13.     16.   99     63
+00:00   3.6   99    29.6  35.5   38   769.2    3.6   13.     16.   99     61
+01:00   3.9   99    39.6  43.9   34   768.6    3.9   12.     16.   99     62
+02:00   4.1   99    36.7  39.8   46   768.3    4.1   12.     16.   99     61
+03:00   5.4   99    30.2  32.8   47   768.4    5.4   12.     16.   99     64
+
+TIME LOST weather           09:10
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+raining, all night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 759207 Bias              0:00:00.00 +00:00:00.0  2010.71 20:28 4.543  WFC    0.0  180  r                                
+ 759208 Bias              0:00:00.00 +00:00:00.0  2010.71 20:32 4.543  WFC    0.0  180  r                                
+ 759209 Bias              0:00:00.00 +00:00:00.0  2010.71 20:32 4.543  WFC    0.0  180  r                                
+ 759210 Bias              0:00:00.00 +00:00:00.0  2010.71 20:33 4.543  WFC    0.0  180  r                                
+ 759211 Bias              0:00:00.00 +00:00:00.0  2010.71 20:33 4.543  WFC    0.0  180  r                                
+ 759212 Bias              0:00:00.00 +00:00:00.0  2010.71 20:34 4.543  WFC    0.0  180  r                                
+ 759213 Bias              0:00:00.00 +00:00:00.0  2010.71 20:44 4.543  WFC    0.0  180  Halpha                           
+ 759214 Bias              0:00:00.00 +00:00:00.0  2010.71 20:44 4.543  WFC    0.0  180  Halpha                           
+ 759215                   0:00:00.00 +00:00:00.0  2010.71 23:05 4.543  WFC    3.1  180  Halpha                           
+ 759216 Bias              0:00:00.00 +00:00:00.0  2010.71 23:07 4.543  WFC    0.0  180  Halpha                           
+ 759217 Bias              0:00:00.00 +00:00:00.0  2010.71 23:09 4.543  WFC    0.0  180  Halpha                           
+ 759218 Bias              0:00:00.00 +00:00:00.0  2010.71 23:09 4.543  WFC    0.0  180  Halpha                           
+ 759219 Bias              0:00:00.00 +00:00:00.0  2010.71 23:10 4.543  WFC    0.0  180  Halpha                           
+ 759220 Bias              0:00:00.00 +00:00:00.0  2010.71 23:10 4.543  WFC    0.0  180  Halpha                           
+ 759221 Bias              0:00:00.00 +00:00:00.0  2010.71 23:11 4.543  WFC    0.0  180  Halpha                           
+ 759222 Bias              0:00:00.00 +00:00:00.0  2010.71 23:11 4.543  WFC    0.0  180  Halpha                           
+ 759223 Bias              0:00:00.00 +00:00:00.0  2010.71 23:12 4.543  WFC    0.0  180  Halpha                           
+ 759224 Bias              0:00:00.00 +00:00:00.0  2010.71 23:12 4.543  WFC    0.0  180  Halpha                           
+ 759225 Bias              0:00:00.00 +00:00:00.0  2010.71 23:12 4.543  WFC    0.0  180  Halpha                           
+ 759226 Bias              0:00:00.00 +00:00:00.0  2010.71 23:13 4.543  WFC    0.0  180  Halpha                           
+ 759227 Bias              0:00:00.00 +00:00:00.0  2010.71 23:14 4.543  WFC    0.0  180  Halpha                           
+ 759228 Bias              0:00:00.00 +00:00:00.0  2010.71 23:15 4.543  WFC    0.0  180  Halpha                           
+ 759229                   0:00:00.00 +00:00:00.0  2010.71 23:16 4.543  WFC    3.1  180  Halpha                           
+ 759230                   0:00:00.00 +00:00:00.0  2010.72 23:57 4.543  WFC    3.1  180  Halpha                           
+ 759231                   0:00:00.00 +00:00:00.0  2010.72 23:57 4.543  WFC    3.1  180  Halpha                           
+ 759232                   0:00:00.00 +00:00:00.0  2010.72 23:58 4.543  WFC    3.1  180  Halpha                           
+ 759233                   0:00:00.00 +00:00:00.0  2010.72 23:59 4.543  WFC    3.1  180  Halpha                           
+ 759234                   0:00:00.00 +00:00:00.0  2010.72 00:05 4.543  WFC    3.1  180  Halpha                           
+ 759235                   0:00:00.00 +00:00:00.0  2010.72 00:18 4.543  WFC    3.1  180  Halpha                           
+ 759236 Bias              0:00:00.00 +00:00:00.0  2010.72 01:07 4.543  WFC    0.0  180  Halpha                           

@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 01 31 07:49
+
+TELESCOPE             INT
+DATE                  20120130
+OBSERVER/S            P.James
+PROGRAMME             P3
+PROPOSAL REF          P3
+TELESCOPE OPERATOR    --
+SUPPORT ASTRONOMER    NA
+
+TEL STATION / FOCUS   Prime  / 43.53
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:55
+EVENING TWILIGHT (UT) 20:09
+MORNING TWILIGHT (UT) 06:40
+SUNRISE (UT)          07:53
+%ILLUM. LUNAR DISK    48
+DARK TIME (HRS)       10:31
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          01:44
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -0.0   98    10.2  13.9  109   767.0   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00  -0.0   98    14.3  15.5  123   767.3   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00  -1.2   98     5.3   8.2  143   767.6   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   0.7   59     1.8   2.6  176   767.6   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   1.6   35     2.2   2.5  176   767.8   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   1.3   32     2.4   8.9  178   768.0   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   1.0   33     1.9   7.3  183   768.0   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   1.2   22     1.5   2.1  182   767.7   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   1.7   26     4.2   5.6  182   767.5   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   1.7   30     4.2   5.3  184   767.3   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   0.7   39     4.3  12.0  179   767.4   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   0.6   37     1.0   2.0  178   767.5   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   1.6   19     3.1   7.2  176   767.7   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           02:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Humidity ~98% at star of night - clearing later
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Average seeing conditions improving during the night once the cloud had lifted
+
+

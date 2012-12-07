@@ -1,0 +1,79 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 02 03 04:44
+
+TELESCOPE             INT
+DATE                  20080202
+OBSERVER/S            Anderson
+PROGRAMME             P5
+PROPOSAL REF          P5
+TELESCOPE OPERATOR    Barker
+SUPPORT ASTRONOMER    Barker
+
+TEL STATION / FOCUS    / 42.55
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:58
+EVENING TWILIGHT (UT) 20:11
+MORNING TWILIGHT (UT) 06:38
+SUNRISE (UT)          07:52
+%ILLUM. LUNAR DISK    17
+DARK TIME (HRS)       10:27
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         05:09
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   1.1   24    40.1  50.8  339   766.5    1.1   5.9     7.7   24    23 
+20:00   0.6   29    33.3  39.0  341   767.0    0.6   2.2     7.1   29    29 
+21:00  -0.3   60    38.6  44.8   78   767.2   -0.3   1.5     6.6   60    55 
+22:00  -0.3   74    40.6  43.2  144   767.4   -0.3   0.8     6.4   74    72 
+23:00  -0.9  100    43.9  44.5    2   767.0   -0.9   2.3     6.1  100    76 
+00:00  -0.5  100    31.4  36.3  338   767.1   -0.5   3.0     6.2  100    79 
+01:00  -0.5  100    32.4  35.5  271   766.9   -0.5   3.3     6.2  100    79 
+02:00  -0.6  100    37.8  40.8  209   766.5   -0.6   3.3     6.2  100    79 
+03:00   0.1  100    33.6  37.0  218   766.3    0.1   3.5     6.1  100    82 
+04:00  -1.0  100    43.2  46.5  279   765.7   -1.0   3.4     6.1  100    79 
+
+TIME LOST weather           08:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+observed until 22.30 (seeing ~1.5 arc sec) then shut down due to high humidity for the rest of the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 605795 flat Ha rest      2:15:00.00 -10:00:00.0  2000.00 19:16 1.302  WFC   20.1  180  Halpha                           
+ 605796 flat Ha rest      2:15:00.67 -09:59:50.1  2000.00 19:18 1.304  WFC   20.1  180  Halpha                           
+ 605797 flat Ha rest      2:15:00.67 -10:00:10.0  2000.00 19:19 1.306  WFC    8.1  180  Halpha                           
+ 605798 flat Ha rest      2:14:59.32 -10:00:10.0  2000.00 19:21 1.307  WFC    5.1  180  Halpha                           
+ 605799 flat R            2:14:59.32 -10:00:10.1  2000.00 19:23 1.310  WFC    5.1  180  R                                
+ 605800 flat R            2:14:59.32 -10:00:09.9  2000.00 19:24 1.311  WFC    2.1  180  R                                
+ 605801 Bias              2:15:00.67 -09:59:49.9  2000.00 19:26 1.314  WFC    0.0  180  R                                
+ 605802 Bias              2:15:00.67 -09:59:49.9  2000.00 19:27 1.315  WFC    0.0  180  R                                
+ 605803 Bias              2:15:00.67 -09:59:50.0  2000.00 19:28 1.316  WFC    0.0  180  R                                
+ 605804 Bias              2:15:00.67 -09:59:49.9  2000.00 19:28 1.317  WFC    0.0  180  R                                
+ 605805 Bias              2:15:00.67 -09:59:49.9  2000.00 19:29 1.318  WFC    0.0  180  R                                
+ 605806 Bias              2:15:00.67 -09:59:49.8  2000.00 19:30 1.320  WFC    0.0  180  R                                
+ 605807 Bias              2:15:00.67 -09:59:49.9  2000.00 19:31 1.321  WFC    0.0  180  R                                
+ 605808 Bias              2:15:00.67 -09:59:50.0  2000.00 19:31 1.322  WFC    0.0  180  R                                
+ 605809 Bias              2:15:00.68 -09:59:50.0  2000.00 19:32 1.323  WFC    0.0  180  R                                
+ 605810 Bias              2:15:00.67 -09:59:49.9  2000.00 19:33 1.324  WFC    0.0  180  R                                
+ 605811 Focus run         2:56:14.29 +00:35:12.0  2000.00 19:48 1.142  WFC   10.1  180  R                                
+ 605812 mcg+11-12Ha#2     6:08:30.40 +64:43:24.8  2000.00 20:07 1.350  WFC  249.9  180  Ha 6657                          
+ 605813 mcg+11-12Ha#2     6:08:30.40 +64:43:25.0  2000.00 20:12 1.341  WFC  250.0  180  Ha 6657                          
+ 605814 mcg+11-12Ha#2     6:08:30.40 +64:43:24.9  2000.00 20:17 1.333  WFC  249.9  180  Ha 6657                          
+ 605815 mcg+11-12R        6:08:30.40 +64:43:25.0  2000.00 20:23 1.324  WFC  250.0  180  R                                
+ 605816 ngc2268Ha         7:14:17.40 +84:22:56.1  2000.00 20:30 1.850  WFC  749.6  180  Halpha                           
+ 605817 ngc2268R          7:14:17.39 +84:22:55.8  2000.00 20:44 1.841  WFC  250.0  180  R                                
+ 605818 ugc4060Ha#2       7:51:26.19 +14:01:14.0  2000.00 20:53 1.471  WFC  749.6  180  Ha 6657                          
+ 605819 ugc4060R          7:51:26.19 +14:01:13.9  2000.00 21:09 1.405  WFC  250.0  180  R                                
+ 605821 ugc4195Ha#2       8:05:06.90 +66:46:59.0  2000.00 21:17 1.463  WFC  749.7  180  Ha 6657                          
+ 605822 ugc4195R          8:05:06.90 +66:46:58.9  2000.00 21:31 1.442  WFC  200.0  180  R                                
+ 605823 ngc2608Ha         8:35:17.30 +28:28:23.9  2000.00 21:39 1.341  WFC  749.5  180  Halpha                           
+ 605824 ngc2608R          8:35:17.30 +28:28:24.1  2000.00 21:55 1.291  WFC  200.0  180  R                                

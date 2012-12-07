@@ -1,0 +1,42 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 03 13 21:02
+
+TELESCOPE             INT
+DATE                  20110313
+OBSERVER/S            OV+Students
+PROGRAMME             CAT DDT
+PROPOSAL REF          DDT
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Amy Tyndall
+
+TEL STATION / FOCUS   Prime  / 44.73
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:25
+EVENING TWILIGHT (UT) 20:37
+MORNING TWILIGHT (UT) 06:05
+SUNRISE (UT)          07:16
+%ILLUM. LUNAR DISK    61
+DARK TIME (HRS)       09:28
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:16
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+No Met data available for second half of night
+
+
+TIME LOST weather           9:28
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Whole night lost to snow. 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Technical Problems : RA QUICK motion did not work. Dome frozen in place. Controller turned off to prolong cryostat hold time.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

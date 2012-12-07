@@ -1,0 +1,41 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 02 14 22:52
+
+TELESCOPE             INT
+DATE                  20120214
+OBSERVER/S            C. munoz & J. Sanchez
+PROGRAMME             rotation i n tadpole galax.
+PROPOSAL REF          C22
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Cassegrain  / 16.1
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:07
+EVENING TWILIGHT (UT) 20:20
+MORNING TWILIGHT (UT) 06:31
+SUNRISE (UT)          07:43
+%ILLUM. LUNAR DISK    47
+DARK TIME (HRS)       10:11
+TWILIGHT TIME (HRS)   02:25
+MOONRISE (UT)         02:08
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -3.7   96     0.0   0.0   20   767.7   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00  -4.1   96     0.0   0.0   46   768.2   n.a.  n.a.    n.a.  n.a.   n.a.
+No Met data available for second half of night
+
+
+TIME LOST weather           10:11
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+humidity too high abd temp too low to open.  NIght abandoned at 23:00.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

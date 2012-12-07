@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 08 03 06:29
+
+TELESCOPE             INT
+DATE                  20120802
+OBSERVER/S            Lee Patrick
+PROGRAMME             D
+PROPOSAL REF          D                  
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Lee Patrick
+
+TEL STATION / FOCUS   Prime  / 43.46
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:10
+EVENING TWILIGHT (UT) 21:30
+MORNING TWILIGHT (UT) 05:06
+SUNRISE (UT)          06:26
+%ILLUM. LUNAR DISK    99
+DARK TIME (HRS)       07:36
+TWILIGHT TIME (HRS)   02:40
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  20.5   11    18.3  22.0   24   776.1   20.5   21.     22.   11     15
+22:00  20.3   11    22.0  24.1   17   776.4   20.3   20.     22.   11     16
+23:00  20.1   11    23.1  25.3   66   776.9   20.1   20.     22.   11     16
+00:00  20.1   11    26.5  27.7   32   777.1   20.1   20.     22.   11     16
+01:00  19.7   12    19.7  25.3   25   777.2   19.7   19.     22.   12     18
+02:00  19.7   12    23.3  26.3   51   776.8   19.7   19.     21.   12     18
+03:00  19.2   14    24.2  26.1   52   776.3   19.2   19.     21.   14     18
+04:00  19.2   14    27.2  26.9   68   776.1   19.2   19.     21.   14     19
+05:00  19.0   14    19.3  18.9   92   776.1   19.0   19.     21.   14     19
+06:00  19.3   12    27.4  30.8   43   776.0   19.3   19.     21.   12     18
+
+TIME LOST weather           02:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+some clour cover, observed the whole night. Dust also throughout the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

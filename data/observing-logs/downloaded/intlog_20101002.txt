@@ -1,0 +1,51 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 10 03 05:50
+
+TELESCOPE             INT
+DATE                  20101002
+OBSERVER/S            Simone Scaringi
+PROGRAMME             UVEX survey
+PROPOSAL REF          D
+TELESCOPE OPERATOR    n/a
+SUPPORT ASTRONOMER    James 
+
+TEL STATION / FOCUS    / 42.63
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:04
+EVENING TWILIGHT (UT) 20:16
+MORNING TWILIGHT (UT) 05:47
+SUNRISE (UT)          06:58
+%ILLUM. LUNAR DISK    30
+DARK TIME (HRS)       09:31
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         02:05
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   9.0   83    24.9  32.9  146   769.9    9.0   12.     14.   83     72
+21:00   9.2   81    29.5  51.3  164   770.0    9.2   12.     14.   81     70
+22:00   9.1   84    31.8  46.9  156   771.1    9.1   12.     14.   84     72
+23:00   9.4   76    35.6  54.3  124   771.9    9.4   12.     14.   76     73
+00:00   9.9   83    28.9  43.3  164   772.1    9.9   12.     14.   83     73
+01:00  10.5   73    29.3  37.8  122   772.1   10.5   12.     14.   73     67
+02:00   9.7   80    28.5  37.1  148   771.3    9.7   12.     14.   80     72
+03:00  10.0   86    17.3  44.5  140   771.3   10.0   12.     14.   86     76
+04:00  11.0   84    35.1  39.6  127   770.8   11.0   13.     14.   84     77
+05:00  10.9   85    33.1  54.3  172   771.1   10.9   13.     14.   85     77
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+high clouds, high humidity
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+no observing performed due to bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 760624 Bias              0:00:00.00 +00:00:00.0  2000.00 19:05 4.538  WFC    0.0  180  HeI 5870                         

@@ -1,0 +1,101 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 04 18 07:56
+
+TELESCOPE             INT
+DATE                  20060417
+OBSERVER/S            Jose A. Caballero
+PROGRAMME             Comm/D
+PROPOSAL REF          Comm/D              
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Caballero
+
+TEL STATION / FOCUS   Prime  / 43.70
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:45
+EVENING TWILIGHT (UT) 21:00
+MORNING TWILIGHT (UT) 05:21
+SUNRISE (UT)          06:36
+%ILLUM. LUNAR DISK    82
+DARK TIME (HRS)       08:21
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         23:31
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   5.6    6    25.5  29.0   17   767.7    5.6  11.3    10.2    6     9 
+21:00   5.3    4    30.8  31.9    1   767.6    5.3  10.7    10.3    4     7 
+22:00   6.3    1    19.5  20.8   11   768.4    6.3   8.8    10.1    1     3 
+23:00   4.6    4    26.0  30.3   41   768.5    4.6   7.7     9.9    4     5 
+00:00   6.2    1    18.7  20.0   55   768.4    6.2   7.6     9.3    1     3 
+01:00   7.1    7     3.4   4.5  137   768.2    7.1   8.0     9.5    7     4 
+02:00   7.1    7    13.8  14.7  290   767.7    7.1   7.7     9.5    7     7 
+03:00   6.8    5     6.8   7.0  314   767.3    6.8   8.0     9.4    5     4 
+04:00   5.4    6    12.8  13.6  302   766.8    5.4   7.0     9.3    6     2 
+05:00   4.6    4    20.3  21.6  356   766.5    4.6   6.1     8.3    4     5 
+06:00   4.3   11    20.0  21.9  338   766.1    4.3   6.3     8.4   11     9 
+
+TIME LOST weather           00:30
+TIME LOST Technical         00:30
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloudy at the very beginning, clear afterwards; low humidity except at the end
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+At sunset: clouds
+At midnight: see report by fjg (telescope stopped in declination)
+At sunrise: humidity
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 499103 Bias              0:00:00.00 +00:00:00.0 2000.00  12:38 1.273  WFC    0.0  180  V                                
+ 499104 Bias frame        4:08:30.00 +39:59:59.9 2000.00  12:40 1.269  WFC    0.0  180  V                                
+ 499105 Bias frame        3:23:00.00 +14:59:59.9 2000.00  12:55 1.159  WFC    0.0  180  V                                
+ 499106 BIGDON            3:23:00.00 +14:59:59.9 2000.00  12:58 1.151  WFC   15.1  180  V                                
+ 499107 Bias              3:23:00.00 +15:00:00.0 2000.00  12:59 1.148  WFC    0.0  180  V                                
+ 499108 Bias              0:00:00.00 +00:00:00.0 2006.292 19:59 1.538  WFC    0.0  180  stromgren v                      
+ 499109 test R sigma Ori  5:38:44.80 -02:36:00.0 2000.00  20:19 1.768  WFC    9.6  180  R                                Closed petals!
+ 499110 test LeoII defoc 11:13:29.20 +22:09:16.9 2000.00  22:49 1.007  WFC   10.1  180  i                                Different calibrations during this time
+ 499111 Focus run        11:13:29.20 +22:09:17.0 2000.00  22:58 1.008  WFC   10.1  180  i                                wfc_starfocus fwhm: flat, not a parabola
+ 499112 LeoII i 1200     11:13:29.20 +22:09:17.0 2000.00  23:06 1.017  WFC 1199.4  180  i                                Not properly guiding
+ 499113 LeoII i 1200 AG  11:13:29.20 +22:09:16.8 2000.00  23:30 1.034  WFC 1199.4  180  i                                
+ 499114 NGC5457a r 100   14:03:12.52 +54:20:52.9 2000.00  23:56 1.162  WFC  100.1  180  r                                
+ 499115 NGC5457a Ha 1800 14:03:12.52 +54:20:52.9 2000.00  00:00 1.144  WFC 1799.2  180  Halpha                           
+ 499116 NGC5457a Ha666 1 14:03:12.51 +54:20:52.9 2000.00  00:34 1.119  WFC 1799.0  180  Ha 6657                          Cosmic ray in AG detector: guiding failed for a few seconds
+ 499117 NGC5457a r 100   14:03:12.52 +54:20:52.9 2000.00  01:07 1.111  WFC   99.5  180  r                                
+ 499118 NGC5457a r 100   14:03:12.52 +54:20:53.0 2000.00  01:11 1.110  WFC  100.0  180  r                                
+ 499119 NGC4321 r 100    12:22:46.96 +15:51:20.8 2000.00  01:17 1.095  WFC  100.1  180  r                                The seeing of the direction of NGC5457 was 1 arcsec
+ 499120 NGC4321 Ha 1800  12:22:46.95 +15:51:21.1 2000.00  01:21 1.130  WFC 1799.0  180  Halpha                           
+ 499121 NGC4321 Ha666 18 12:22:46.96 +15:51:21.0 2000.00  01:53 1.213  WFC 1799.1  180  Ha 6657                          
+ 499122 NGC4321 r 100    12:22:46.96 +15:51:21.1 2000.00  02:26 1.272  WFC  100.0  180  r                                
+ 499123 NGC4321 r 100    12:22:46.96 +15:51:20.6 2000.00  02:28 1.281  WFC   30.1  180  r                                AG moving: refresh to 30
+ 499124 NGC4321 r 100    12:22:46.96 +15:51:21.1 2000.00  02:30 1.289  WFC   99.5  180  r                                
+ 499125 NGC4414a r 100   12:26:27.08 +31:13:21.0 2000.00  02:36 1.223  WFC  100.0  180  r                                
+ 499126 NGC4414a Ha 1800 12:26:27.07 +31:13:20.9 2000.00  02:39 1.286  WFC 1798.6  180  Halpha                           
+ 499127 NGC4414a Ha666 1 12:26:27.07 +31:13:20.8 2000.00  03:12 1.434  WFC 1799.0  180  Ha 6657                          Seeing much worse than before
+ 499128 NGC4414a r 100   12:26:27.07 +31:13:21.1 2000.00  03:43 1.537  WFC  100.0  180  r                                
+ 499129 NGC4414a r 100   12:26:27.07 +31:13:20.8 2000.00  03:46 1.557  WFC  100.0  180  r                                
+ 499130 UMinNE i 20min   15:12:06.60 +67:26:52.1 2000.00  03:53 1.318  WFC 1199.3  180  i                                Comienza a subir humedad: aumento del seeing
+ 499131 UMinNW i 20min   15:08:29.70 +67:24:52.0 2000.00  04:16 1.346  WFC 1199.4  180  i                                
+ 499132 UMinSE i 20min   15:11:56.30 +67:04:51.8 2000.00  04:49 1.383  WFC 1199.5  180  i                                
+ 499133 UMinSW i 20min   15:08:29.70 +67:03:52.0 2000.00  05:11 1.430  WFC 1199.5  180  i                                
+ 499134 V2362Cyg r 3s    21:11:32.56 +44:48:03.6 2000.00  05:41 1.274  WFC    3.1  180  r                                seeing > 2.0 arcsec
+ 499135 V2362Cyg r 180s  21:11:32.56 +44:48:03.7 2000.00  05:42 1.265  WFC  179.5  180  r                                
+ 499136 V2362Cyg Ha 30s  21:11:32.55 +44:48:03.6 2000.00  05:46 1.257  WFC   30.1  180  Halpha                           Too bright: retime to 900 s
+ 499137 V2362Cyg Ha 1200 21:11:32.56 +44:48:03.6 2000.00  05:48 1.233  WFC  899.0  180  Halpha                           
+ 499138 flat sky r       18:06:00.00 +00:29:59.9 2000.00  06:08 1.149  WFC   90.0  180  r                                Stars can be seen
+ 499139 flat sky r       18:06:00.66 +00:30:10.0 2000.00  06:11 1.151  WFC   44.5  180  r                                
+ 499140 flat sky r       18:05:59.33 +00:29:49.9 2000.00  06:13 1.153  WFC   25.1  180  r                                
+ 499141 flat sky r       18:05:58.66 +00:29:40.1 2000.00  06:14 1.154  WFC   20.1  180  r                                
+ 499142 flat sky r       18:06:01.33 +00:30:20.0 2000.00  06:16 1.156  WFC   12.1  180  r                                
+ 499143 flat sky Ha      18:06:01.99 +00:30:00.0 2000.00  06:17 1.158  WFC   99.0  180  Halpha                           
+ 499144 flat sky Ha      18:06:00.66 +00:30:10.0 2000.00  06:20 1.160  WFC   44.5  180  Halpha                           
+ 499145 flat sky Ha      18:05:59.33 +00:29:49.9 2000.00  06:22 1.162  WFC   25.1  180  Halpha                           
+ 499146 flat sky Ha      18:05:58.66 +00:29:40.0 2000.00  06:24 1.164  WFC   16.1  180  Halpha                           
+ 499147 flat sky Ha      18:06:01.33 +00:30:20.0 2000.00  06:25 1.165  WFC   12.1  180  Halpha                           Sudden raise of humidity (>75 %)
+ 499148 Bias              0:00:00.00 +00:00:00.0 2000.00  06:45 4.773  WFC    0.0  180  Halpha                           
+ 499149 Bias              0:00:00.00 +00:00:00.0 2000.00  06:46 4.773  WFC    0.0  180  Halpha                           
+ 499150 Bias              0:00:00.00 +00:00:00.0 2000.00  06:46 4.773  WFC    0.0  180  Halpha                           
+ 499151 Bias              0:00:00.00 +00:00:00.0 2000.00  06:47 4.773  WFC    0.0  180  Halpha                           
+ 499152 Bias              0:00:00.00 +00:00:00.0 2000.00  06:47 4.773  WFC    0.0  180  Halpha                           

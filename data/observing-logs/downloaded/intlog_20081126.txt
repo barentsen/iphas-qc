@@ -1,0 +1,80 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 11 27 15:47
+
+TELESCOPE             INT
+DATE                  20081126
+OBSERVER/S            V. Bejar y Karla Pena
+PROGRAMME             T dwarf candidates in Sigma Orionis
+PROPOSAL REF          C101
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:37
+MORNING TWILIGHT (UT) 06:21
+SUNRISE (UT)          07:36
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       10:44
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         07:28
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -2.7   99    17.8  23.7  348   766.5   -2.7    7.     10.   99     65
+20:00  -3.2   99    15.9  22.7  353   766.4   -3.2    6.     10.   99     66
+21:00  -2.9   99    22.5  28.7   80   766.4   -2.9    5.     10.   99     67
+22:00  -2.4   99    17.3  23.2  349   766.3   -2.4    5.     10.   99     70
+23:00  -3.1   99    22.9  29.8  142   766.2   -3.1    5.      9.   99     70
+00:00  -3.4   99     0.0   0.0   79   767.0   -3.4    5.      9.   99     70
+01:00  -3.4   99     0.0   0.0  282   766.6   -3.4    5.      9.   99     69
+02:00  -3.5   99     0.0   0.0  144   766.5   -3.5    4.      9.   99     70
+03:00  -2.5   99     0.0   0.0  280   765.8   -2.5    4.      9.   99     72
+04:00  -3.4   99     0.0   0.0  214   765.3   -3.4    4.      9.   99     71
+05:00  -2.3   99     0.0   0.0  355   765.5   -2.3    5.      9.   99     72
+06:00  -3.7   99     0.0   0.0  355   765.6   -3.7    5.      9.   99     69
+07:00  -3.5   99     0.0   0.0  355   766.3   -3.5    5.      9.   99     69
+
+TIME LOST weather           11:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Humidity 100%,  Temperature below 0 C, Ice
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+100% of time lost due to bad weather conditions
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 648017 Bias frame        0:00:00.00 +00:00:00.0  2008.90 13:59 1.000  WFC    0.0  180  z                                
+ 648018                   0:00:00.00 +00:00:00.0  2008.90 14:01 1.000  WFC   15.1  180  z                                
+ 648019 Bias frame        0:00:00.00 +00:00:00.0  2008.90 14:03 1.000  WFC    0.0  180  z                                
+ 648020 Bias frame       16:19:00.00 +40:00:00.0  2000.00 14:10 1.046  WFC    0.0  180  z                                
+ 648021 Bias              0:00:00.00 +00:00:00.0  2000.00 14:14 1.000  WFC    0.0  180  z                                
+ 648022 Bias              0:00:00.00 +00:00:00.0  2000.00 14:15 1.000  WFC    0.0  180  z                                
+ 648023 Bias              0:00:00.00 +00:00:00.0  2000.00 14:17 1.000  WFC    0.0  180  z                                Bias rspeed fast
+ 648024 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:38 4.802  WFC    0.0  180  z                                
+ 648025 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:38 4.802  WFC    0.0  180  z                                20 Bias rspeed slow
+ 648026 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:39 4.802  WFC    0.0  180  z                                
+ 648027 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:40 4.802  WFC    0.0  180  z                                
+ 648028 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:41 4.802  WFC    0.0  180  z                                
+ 648029 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:42 4.802  WFC    0.0  180  z                                
+ 648030 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:42 4.802  WFC    0.0  180  z                                
+ 648031 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:43 4.802  WFC    0.0  180  z                                
+ 648032 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:44 4.802  WFC    0.0  180  z                                
+ 648033 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:45 4.802  WFC    0.0  180  z                                
+ 648034 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:45 4.802  WFC    0.0  180  z                                
+ 648035 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:46 4.802  WFC    0.0  180  z                                
+ 648036 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:47 4.802  WFC    0.0  180  z                                
+ 648037 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:48 4.802  WFC    0.0  180  z                                
+ 648038 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:49 4.802  WFC    0.0  180  z                                
+ 648039 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:49 4.802  WFC    0.0  180  z                                
+ 648040 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:50 4.802  WFC    0.0  180  z                                
+ 648041 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:51 4.802  WFC    0.0  180  z                                
+ 648042 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:52 4.802  WFC    0.0  180  z                                
+ 648043 BIAS              0:00:00.00 +00:00:00.0  2000.00 16:52 4.802  WFC    0.0  180  z                                

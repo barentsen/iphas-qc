@@ -1,0 +1,106 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 01 11 23:53
+
+TELESCOPE             INT
+DATE                  20070111
+OBSERVER/S            A. Rosenberg, J. Blasco Herrera
+PROGRAMME             CAT Service night
+PROPOSAL REF          CAT-S
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Miguel Santander
+
+TEL STATION / FOCUS   Prime  / 43.72
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:40
+EVENING TWILIGHT (UT) 19:56
+MORNING TWILIGHT (UT) 06:43
+SUNRISE (UT)          07:58
+%ILLUM. LUNAR DISK    46
+DARK TIME (HRS)       10:47
+TWILIGHT TIME (HRS)   02:31
+MOONRISE (UT)         01:47
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   0.6   80    52.7  66.4  186   767.0    0.6   2.2     6.3   80    75 
+20:00   1.2   52    40.8  45.6  186   768.3    1.2   2.7     5.9   52    52 
+21:00   1.6   38    47.9  56.9  197   768.4    1.6   2.9     5.3   38    39 
+22:00   1.3   47    62.4  64.5  181   768.6    1.3   3.7     6.0   47    44 
+23:00   1.4   58    75.3  92.6  158   768.0    1.4   4.9     6.5   58    46 
+No Met data available for second half of night
+
+
+TIME LOST weather           08:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Very BAD
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Bad seeing at the beginning of the night (worst than 2.0) and heavy wind. Since 21:20 close due to very bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 546136 Bias frame        0:00:00.00 +00:00:00.0 2007.029 15:03 1.153  WFC    0.0  180  i                                
+ 546137                   0:00:00.00 +00:00:00.0 2007.029 15:10 1.153  WFC    2.0  180  i                                
+ 546138                   0:00:00.00 +00:00:00.0 2007.029 15:12 1.153  WFC    5.6  180  i                                
+ 546139                   0:00:00.00 +00:00:00.0 2007.029 15:14 1.153  WFC    5.1  180  i                                
+ 546140                   0:00:00.00 +00:00:00.0 2007.029 15:16 1.153  WFC    5.1  180  i                                
+ 546141 Bias frame       20:00:00.00 +30:00:00.0 2007.029 15:21 1.066  WFC    0.0  180  i                                
+ 546142 skyflat Ha        1:00:00.00 +00:06:59.7 2000.00  18:40 1.139  WFC   15.1  180  Halpha                           
+ 546143 skyflat Ha        1:00:00.00 +00:07:00.1 2000.00  18:44 1.139  WFC    3.1  180  Halpha                           
+ 546144 skyflat Ha        1:00:00.00 +00:06:59.9 2000.00  18:47 1.139  WFC    3.5  180  Halpha                           
+ 546145 skyflat Ha        1:00:00.00 +00:06:59.9 2000.00  18:48 1.139  WFC    3.6  180  Halpha                           
+ 546146 skyflat Ha        1:00:00.00 +00:06:59.7 2000.00  18:49 1.139  WFC    5.1  180  Halpha                           
+ 546147 skyflat Hac       1:00:00.00 +00:07:00.2 2000.00  18:51 1.139  WFC    5.5  180  Ha 6657                          
+ 546148 skyflat Hac       0:59:59.99 +00:07:00.0 2000.00  18:52 1.139  WFC   11.6  180  Ha 6657                          
+ 546149 skyflat Hac       1:00:00.00 +00:06:59.9 2000.00  18:54 1.139  WFC   18.1  180  Ha 6657                          
+ 546150 skyflat Hac       0:59:59.99 +00:06:59.9 2000.00  18:55 1.139  WFC   27.1  180  Ha 6657                          
+ 546151 skyflat B         1:00:00.00 +00:06:59.7 2000.00  18:57 1.140  WFC    4.1  180  B                                
+ 546152 skyflat B         1:00:00.00 +00:06:59.9 2000.00  18:59 1.140  WFC    6.1  180  B                                
+ 546153 skyflat B         0:59:59.99 +00:07:00.0 2000.00  19:01 1.141  WFC    9.1  180  B                                
+ 546154 skyflat B         1:00:00.00 +00:06:59.9 2000.00  19:02 1.141  WFC   11.6  180  B                                
+ 546155 skyflat R         0:59:59.99 +00:07:00.1 2000.00  19:05 1.142  WFC   16.1  180  r                                
+ 546156 skyflat R         0:59:59.99 +00:07:00.0 2000.00  19:06 1.142  WFC   24.1  180  r                                
+ 546157 skyflat R         0:59:59.99 +00:07:00.1 2000.00  19:08 1.143  WFC   36.1  180  r                                
+ 546158 skyflat I         1:00:00.00 +00:07:00.0 2000.00  19:10 1.144  WFC   30.1  180  i                                
+ 546159 skyflat I         0:59:59.99 +00:06:59.9 2000.00  19:11 1.145  WFC   45.0  180  i                                
+ 546160 skyflat I         0:59:59.99 +00:07:00.1 2000.00  19:13 1.146  WFC   70.0  180  i                                
+ 546161 skyflat I         1:00:00.66 +00:07:10.1 2000.00  19:16 1.148  WFC  100.0  180  i                                
+ 546162 skyflat Free      0:59:59.99 +00:07:00.0 2000.00  19:18 1.149  WFC   20.1  180  Unknown                          
+ 546163 skyflat Free      1:00:00.66 +00:07:10.0 2000.00  19:20 1.150  WFC   30.1  180  Unknown                          
+ 546164 skyflat Free      1:00:01.33 +00:07:20.1 2000.00  19:21 1.151  WFC   60.1  180  Unknown                          
+ 546165 skyflat Free      1:00:00.00 +00:07:20.1 2000.00  19:23 1.153  WFC  120.0  180  Unknown                          
+ 546166 skyflat Free      1:00:01.33 +00:07:00.0 2000.00  19:27 1.157  WFC  200.0  180  Unknown                          
+ 546167 Bias frame        1:00:01.33 +00:07:00.0 2000.00  19:32 1.160  WFC    0.0  180  Unknown                          
+ 546168 Bias frame        1:00:01.33 +00:07:00.0 2000.00  19:32 1.161  WFC    0.0  180  Unknown                          
+ 546169 Bias frame        1:00:01.33 +00:07:00.0 2000.00  19:33 1.161  WFC    0.0  180  Unknown                          
+ 546170 Bias frame        1:00:01.33 +00:07:00.1 2000.00  19:34 1.162  WFC    0.0  180  Unknown                          
+ 546171 Bias frame        1:00:01.33 +00:07:00.0 2000.00  19:34 1.162  WFC    0.0  180  Unknown                          
+ 546172 Bias frame        1:00:01.33 +00:06:59.9 2000.00  19:35 1.163  WFC    0.0  180  Unknown                          
+ 546173 Bias frame        1:00:01.33 +00:06:59.9 2000.00  19:35 1.164  WFC    0.0  180  Unknown                          
+ 546174 Bias frame        1:00:01.33 +00:07:00.0 2000.00  19:36 1.164  WFC    0.0  180  Unknown                          
+ 546175 Bias frame        1:00:01.33 +00:07:00.0 2000.00  19:37 1.165  WFC    0.0  180  Unknown                          
+ 546176 Bias frame        1:00:01.32 +00:07:00.0 2000.00  19:37 1.166  WFC    0.0  180  Unknown                          
+ 546177 Bias frame        1:00:01.33 +00:07:00.0 2000.00  19:38 1.166  WFC    0.0  180  Unknown                          
+ 546178 Bias frame        1:00:01.33 +00:07:00.0 2000.00  19:38 1.167  WFC    0.0  180  Unknown                          
+ 546179 Bias frame        1:00:01.34 +00:07:00.0 2000.00  19:39 1.168  WFC    0.0  180  Unknown                          
+ 546180 Bias frame        1:00:01.33 +00:06:59.9 2000.00  19:39 1.168  WFC    0.0  180  Unknown                          
+ 546181 Bias frame        1:00:01.33 +00:07:00.0 2000.00  19:40 1.169  WFC    0.0  180  Unknown                          
+ 546182 Bias frame        1:00:01.33 +00:06:59.9 2000.00  19:41 1.170  WFC    0.0  180  Unknown                          
+ 546183 Bias frame        1:00:01.33 +00:06:59.8 2000.00  19:41 1.170  WFC    0.0  180  Unknown                          
+ 546184 Bias frame        1:00:01.33 +00:06:59.9 2000.00  19:42 1.171  WFC    0.0  180  Unknown                          
+ 546185 Bias frame        1:00:01.33 +00:06:59.9 2000.00  19:42 1.172  WFC    0.0  180  Unknown                          
+ 546186 Bias frame        1:00:01.33 +00:06:59.9 2000.00  19:43 1.173  WFC    0.0  180  Unknown                          
+ 546187 Focus run         1:29:54.70 -04:49:12.0 2000.00  20:04 1.223  WFC   15.1  180  Unknown                          
+ 546188 Focus run         1:29:54.69 -04:49:12.1 2000.00  20:14 1.235  WFC   15.1  180  r                                
+ 546189 Focus run         1:29:54.70 -04:49:12.0 2000.00  20:26 1.253  WFC   10.1  180  Unknown                          
+ 546190 Focus run         1:29:54.70 -04:49:12.1 2000.00  20:42 1.284  WFC    9.5  180  Unknown                          
+ 546191 Focus run         1:29:54.70 -04:49:12.0 2000.00  20:50 1.305  WFC   10.1  180  Unknown                          
+ 546192 2006UX184         1:29:54.70 -04:49:12.0 2000.00  20:56 1.338  WFC  499.8  180  Unknown                          
+ 546193 2006UY184         1:44:17.30 +09:05:46.1 2000.00  21:09 1.165  WFC  499.8  180  Unknown                          
+ 546194 2006UZ184         1:46:11.30 +17:23:14.0 2000.00  21:21 1.133  WFC  499.8  180  Unknown                          

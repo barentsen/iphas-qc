@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 10 17 06:39
+
+TELESCOPE             INT
+DATE                  20111016
+OBSERVER/S            Carlos Gonzalez
+PROGRAMME             C24
+PROPOSAL REF          C24
+TELESCOPE OPERATOR    Liam Hardy
+SUPPORT ASTRONOMER    None
+
+TEL STATION / FOCUS    / 14.6
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:49
+EVENING TWILIGHT (UT) 20:01
+MORNING TWILIGHT (UT) 05:54
+SUNRISE (UT)          07:06
+%ILLUM. LUNAR DISK    80
+DARK TIME (HRS)       09:53
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         21:29
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  13.6   36     1.2   1.4   29   773.1   13.6   15.     15.   36     45
+20:00  12.0   44     4.1   5.1  169   773.2   12.0   13.     15.   44     45
+21:00  11.6   48     2.9   4.6  124   773.7   11.6   13.     15.   48     50
+22:00  11.4   47     3.9   5.3  162   774.1   11.4   12.     15.   47     50
+23:00  11.4   46     1.7   4.2  177   774.1   11.4   12.     14.   46     48
+00:00  11.4   44     0.6   2.1  178   774.1   11.4   12.     14.   44     47
+01:00  11.4   43     4.4   7.6  119   773.9   11.4   12.     14.   43     46
+02:00  11.2   44     2.3   5.1  130   773.4   11.2   12.     14.   44     47
+03:00  11.1   43     2.3   4.2  170   773.1   11.1   12.     14.   43     46
+04:00  11.0   42     2.5   2.4  182   772.9   11.0   12.     13.   42     45
+05:00  11.0   41     2.3   5.4  163   772.9   11.0   12.     13.   41     44
+06:00  10.8   42     1.6   3.6  166   772.9   10.8   12.     14.   42     45
+
+TIME LOST weather           02:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Thin cloud cover for entire night, thick cloud cover after 12am
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+All observations expected to be of poor quality due to cloud cover, for ~2hrs even the brightest targets not were visible at all 
+
+

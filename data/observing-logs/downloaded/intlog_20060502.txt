@@ -1,0 +1,70 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 05 03 04:09
+
+TELESCOPE             INT
+DATE                  20060502
+OBSERVER/S            D. Faria
+PROGRAMME             Disentagling the outer part of the Draco dSph 
+PROPOSAL REF          P5                 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Richard Parker
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:55
+EVENING TWILIGHT (UT) 21:13
+MORNING TWILIGHT (UT) 05:03
+SUNRISE (UT)          06:22
+%ILLUM. LUNAR DISK    29
+DARK TIME (HRS)       07:50
+TWILIGHT TIME (HRS)   02:37
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          01:03
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -0.3   99    12.6  21.6  297   763.5   -0.3   7.8     9.5   99    64 
+21:00  -1.0   99    24.6  28.9  282   763.8   -1.0   8.1     9.5   99    61 
+22:00   0.2   99    29.9  36.4  278   764.3    0.2   7.6     9.5   99    64 
+23:00   0.4  100    22.0  23.6  305   765.0    0.4   8.1     9.5  100    65 
+00:00  -0.2   99    10.2  12.0  307   765.1   -0.2   8.3     9.4   99    64 
+01:00  -2.5   99    26.4  28.1  329   764.9   -2.5   8.0     9.6   99    57 
+02:00  -2.5   99    29.1  30.0  310   764.8   -2.5   7.8     9.6   99    55 
+03:00  -2.3   99    40.8  42.4  321   764.5   -2.3   7.3     9.5   99    56 
+04:00  -2.3   99    33.0  34.1  323   764.3   -2.3   7.4     9.5   99    52 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% cloud all night, dome not opened.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Bad weather all night.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 500353 TEST              3:00:00.00 +02:59:59.9 2000.00  12:50 1.127  WFC   15.1  180  stromgren u                      
+ 500354 Bias              2:59:59.99 +03:00:00.0 2000.00  12:51 1.126  WFC    0.0  180  stromgren u                      
+ 500355 Bias              3:00:00.00 +03:00:00.0 2000.00  12:51 1.125  WFC    0.0  180  stromgren u                      
+ 500356 Bias              3:00:00.00 +03:00:00.0 2000.00  12:52 1.125  WFC    0.0  180  stromgren u                      
+ 500357 Bias              3:00:00.00 +03:00:00.0 2000.00  12:53 1.124  WFC    0.0  180  stromgren u                      
+ 500358 Bias              3:00:00.00 +02:59:59.9 2000.00  12:53 1.124  WFC    0.0  180  stromgren u                      
+ 500359 Bias              3:00:00.00 +03:00:00.0 2000.00  12:54 1.124  WFC    0.0  180  stromgren u                      
+ 500360 Bias              2:59:59.99 +03:00:00.0 2000.00  12:54 1.123  WFC    0.0  180  stromgren u                      
+ 500361 Bias              3:00:00.00 +02:59:59.9 2000.00  12:55 1.123  WFC    0.0  180  stromgren u                      
+ 500362 Bias              2:59:59.99 +03:00:00.0 2000.00  12:56 1.122  WFC    0.0  180  stromgren u                      
+ 500363 Bias              2:59:59.99 +03:00:00.0 2000.00  12:56 1.122  WFC    0.0  180  stromgren u                      
+ 500364 bias              0:00:00.00 +00:00:00.0 2000.00  18:49 1.000  WFC    0.0  180  B                                
+ 500365 bias              0:00:00.00 +00:00:00.0 2000.00  18:50 1.000  WFC    0.0  180  B                                
+ 500366 bias              0:00:00.00 +00:00:00.0 2000.00  18:51 1.000  WFC    0.0  180  B                                
+ 500367 bias              0:00:00.00 +00:00:00.0 2000.00  18:51 1.000  WFC    0.0  180  B                                
+ 500368 bias              0:00:00.00 +00:00:00.0 2000.00  18:52 1.000  WFC    0.0  180  B                                
+ 500369 bias              0:00:00.00 +00:00:00.0 2000.00  18:52 1.000  WFC    0.0  180  B                                
+ 500370 bias              0:00:00.00 +00:00:00.0 2000.00  18:53 1.000  WFC    0.0  180  B                                
+ 500371 bias              0:00:00.00 +00:00:00.0 2000.00  18:54 1.000  WFC    0.0  180  B                                
+ 500372 bias              0:00:00.00 +00:00:00.0 2000.00  18:54 1.000  WFC    0.0  180  B                                
+ 500373 bias              0:00:00.00 +00:00:00.0 2000.00  18:55 1.000  WFC    0.0  180  B                                

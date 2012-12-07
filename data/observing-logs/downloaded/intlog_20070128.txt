@@ -1,0 +1,55 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 01 30 17:13
+
+TELESCOPE             INT
+DATE                  20070128
+OBSERVER/S            PFLM
+PROGRAMME             Testing models for progenitors of Type Ia SNe
+PROPOSAL REF          P28                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    MH
+
+TEL STATION / FOCUS   Cassegrain  / 14
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:54
+EVENING TWILIGHT (UT) 20:08
+MORNING TWILIGHT (UT) 06:40
+SUNRISE (UT)          07:54
+%ILLUM. LUNAR DISK    81
+DARK TIME (HRS)       10:32
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          05:12
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -3.2   95     0.0   0.0   41   763.4   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00  -3.2   95     0.0   0.0   41   763.8   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00  -3.9   95     0.0   0.0   41   764.6   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00  -4.3   94     0.0   0.0   41   765.2   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00  -3.7   95     0.0   0.0   41   765.5   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00  -3.0   95     1.6   0.0   41   766.3   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00  -3.3   95     0.0   0.0   41   766.0   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00  -2.7   96     0.0   0.0   41   765.9   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00  -3.4   95     0.0   0.0   41   766.6   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00  -6.5   93     0.0   0.0   49   766.5   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00  -7.6   93     0.0   0.0   49   767.3   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00  -6.4   93     2.0   0.0   49   766.7   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00  -7.1   92     0.0   0.0   41   767.1   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           10:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Snow
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 548014 Arc               0:00:00.00 +00:00:00.0 2000.00  14:17 1.000  IDS   10.0  359  Clear+Clear   1.2  31.8 5120.8   
+ 548015 Bias              0:00:00.00 +00:00:00.0 2000.00  14:25 1.000  IDS    0.0  359  Clear+Clear   1.2  31.8 5120.8   

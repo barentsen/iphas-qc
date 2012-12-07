@@ -1,0 +1,53 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 11 10 03:31
+
+TELESCOPE             INT
+DATE                  20041109
+OBSERVER/S            Aragon
+PROGRAMME             IPHAS
+PROPOSAL REF          A262
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:29
+EVENING TWILIGHT (UT) 19:42
+MORNING TWILIGHT (UT) 06:09
+SUNRISE (UT)          07:23
+%ILLUM. LUNAR DISK    9
+DARK TIME (HRS)       10:27
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         05:00
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   7.1  100    53.6  55.8  158   766.2    7.1   9.3    10.2  100   100 
+20:00   6.9  100    55.3  66.1  142   766.4    6.9   9.6    10.1  100   100 
+21:00   6.7  100    54.0  57.9  131   766.9    6.7   9.3    10.3  100   100 
+22:00   7.2  100    51.6  56.4  169   767.2    7.2   9.3    10.2  100   100 
+23:00   6.6  100    40.5  45.3  138   767.6    6.6   9.3    10.2  100   100 
+00:00   7.0  100    40.3  45.4  146   767.4    7.0   9.3    10.2  100   100 
+01:00   7.3  100    31.6  34.8  151   767.4    7.3   9.9    10.3  100    99 
+02:00   7.7  100    44.6  51.3  182   766.8    7.7  10.2    10.4  100    98 
+03:00   7.4  100    53.4  56.0  173   766.3    7.4  10.3    10.3  100    98 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Bad weather
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+I lest due to the bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 431525 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 14:01 1.000  WFC    0.0  180  i                                
+ 431526 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 14:06 1.000  WFC    0.0  180  i                                
+ 431527 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 14:10 1.000  WFC    0.0  180  B                                
+ 431528 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 14:25 4.659  WFC    0.0  180  B                                

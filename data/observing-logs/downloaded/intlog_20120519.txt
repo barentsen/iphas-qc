@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 06 14 14:41
+
+TELESCOPE             INT
+DATE                  20120519
+OBSERVER/S            Hugo Ledo
+PROGRAMME             ITP4
+PROPOSAL REF          ITP4
+TELESCOPE OPERATOR    Hugo Ledo
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.40
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:06
+EVENING TWILIGHT (UT) 21:28
+MORNING TWILIGHT (UT) 04:48
+SUNRISE (UT)          06:10
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       07:20
+TWILIGHT TIME (HRS)   02:44
+MOONRISE (UT)         05:41
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00   2.9   98    38.2  43.1   83   770.8    2.9   10.     14.   98     65
+22:00   2.4   98    46.7  53.2  209   771.0    2.4    9.     14.   98     66
+23:00   1.6   97    36.2  38.6   81   771.5    1.6    9.     14.   97     62
+00:00   2.2   97    33.3  35.9   38   772.3    2.2   10.     14.   97     60
+01:00   3.0   98    30.5  36.0   22   772.2    3.0   10.     14.   98     63
+02:00   2.1   98    33.2  38.1   80   771.6    2.1   10.     14.   98     63
+03:00   1.8   98    36.7  42.9  149   771.1    1.8    9.     13.   98     64
+04:00   1.0   97    33.8  36.5   12   770.6    1.0    9.     13.   97     63
+05:00   3.7   42    15.3  36.5  345   770.8    3.7    7.     13.   42     53
+06:00   4.4   21    37.5  41.9   74   770.6    4.4    7.     13.   21     43
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Windy. Variable seeing (~1.1-2.0 arcsec)
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

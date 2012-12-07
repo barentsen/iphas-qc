@@ -1,0 +1,42 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 04 28 00:11
+
+TELESCOPE             INT
+DATE                  20120427
+OBSERVER/S            Milone
+PROGRAMME             c70
+PROPOSAL REF          c70                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.45
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:52
+EVENING TWILIGHT (UT) 21:09
+MORNING TWILIGHT (UT) 05:08
+SUNRISE (UT)          06:26
+%ILLUM. LUNAR DISK    36
+DARK TIME (HRS)       07:59
+TWILIGHT TIME (HRS)   02:35
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          01:06
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -2.8   74    12.0  15.9  328   764.2   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00  -4.0   90    26.4  30.6  324   763.8   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00  -4.1   96    25.3  30.3  300   764.4   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00  -3.9   96    22.3  28.4  318   764.6   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00  -3.7   96    26.9  29.3  268   764.7   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+We've lost all the night due bad weather conditions (high humidity, ice) 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

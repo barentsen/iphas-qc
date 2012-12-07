@@ -1,0 +1,70 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 09 26 08:10
+
+TELESCOPE             INT
+DATE                  20100925
+OBSERVER/S            Daniel Lopez
+PROGRAMME             Narrow band Images of M31
+PROPOSAL REF          D
+TELESCOPE OPERATOR    n/a
+SUPPORT ASTRONOMER    n/a
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:13
+EVENING TWILIGHT (UT) 20:24
+MORNING TWILIGHT (UT) 05:43
+SUNRISE (UT)          06:55
+%ILLUM. LUNAR DISK    93
+DARK TIME (HRS)       09:19
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         19:55
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  11.4   84    24.4  28.5  272   771.9   11.4   16.     17.   84     67
+21:00  11.3   86    25.2  30.4  256   772.1   11.3   13.     16.   86     80
+22:00  11.7   80    25.5  32.1  261   772.5   11.7   14.     16.   80     71
+23:00  11.7   82    23.4  27.9  239   772.8   11.7   15.     16.   82     71
+00:00  11.4   83    25.5  27.2  262   772.8   11.4   15.     16.   83     71
+01:00  11.4   85    22.4  29.0  269   772.7   11.4   15.     16.   85     72
+02:00  11.1   87    27.6  31.5  249   772.1   11.1   14.     16.   87     74
+03:00  10.7   89    24.9  33.8  283   771.7   10.7   14.     16.   89     75
+04:00  10.4   97    21.8  24.5  274   771.3   10.4   14.     16.   97     77
+05:00  10.2   93    31.1  33.9  258   770.7   10.2   14.     16.   93     78
+06:00  10.3   94    20.4  25.8  281   770.8   10.3   14.     16.   94     78
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloud, humidity.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Open 1 hour, the rest of the night the humidity above the limits
+759654, 55 and 56 skyflat SII no offset
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 759644 Bias frame        0:00:00.00 +00:00:00.0  2010.73 18:51 2.469  WFC    0.0  180  stromgren y                      
+ 759645 Bias frame        0:00:00.00 +00:00:00.0  2010.73 18:51 2.469  WFC    0.0  180  stromgren y                      
+ 759646 Bias frame        0:00:00.00 +00:00:00.0  2010.73 18:52 2.469  WFC    0.0  180  stromgren y                      
+ 759647 Bias frame        0:00:00.00 +00:00:00.0  2010.73 18:52 2.469  WFC    0.0  180  stromgren y                      
+ 759648 Bias frame        0:00:00.00 +00:00:00.0  2010.73 18:53 2.469  WFC    0.0  180  stromgren y                      
+ 759649 Bias frame        0:00:00.00 +00:00:00.0  2010.73 18:53 2.469  WFC    0.0  180  stromgren y                      
+ 759650 Bias frame        0:00:00.00 +00:00:00.0  2010.73 18:54 2.469  WFC    0.0  180  stromgren y                      
+ 759651 Bias frame        0:00:00.00 +00:00:00.0  2010.73 18:54 2.469  WFC    0.0  180  stromgren y                      
+ 759652 Bias frame        0:00:00.00 +00:00:00.0  2010.73 18:55 2.469  WFC    0.0  180  stromgren y                      
+ 759653 Bias frame        0:00:00.00 +00:00:00.0  2010.73 18:55 2.469  WFC    0.0  180  stromgren y                      
+ 759654 Skyflat SII      18:05:59.99 +00:29:59.9  2000.00 19:15 1.137  WFC    2.6  180  [SII]6725                        
+ 759655 Skyflat SII      18:06:00.00 +00:30:00.0  2000.00 19:16 1.138  WFC    4.1  180  [SII]6725                        
+ 759656 Skyflat SII      18:06:00.00 +00:30:00.0  2000.00 19:18 1.138  WFC    4.1  180  [SII]6725                        
+ 759657 Skyflat SII      18:06:00.00 +00:30:00.0  2000.00 19:19 1.139  WFC    4.1  180  [SII]6725                        
+ 759658 Skyflat SII      18:06:00.66 +00:30:10.0  2000.00 19:20 1.139  WFC    4.1  180  [SII]6725                        
+ 759659 Skyflat SII      18:06:00.00 +00:30:10.0  2000.00 19:22 1.140  WFC    4.6  180  [SII]6725                        
+ 759660 Skyflat stY      18:06:00.00 +00:30:10.0  2000.00 19:24 1.141  WFC    5.1  180  stromgren y                      
+ 759661 Skyflat stY      18:06:00.66 +00:30:10.0  2000.00 19:25 1.142  WFC    6.1  180  stromgren y                      
+ 759662 Skyflat stY      18:06:01.33 +00:30:10.0  2000.00 19:26 1.143  WFC    9.1  180  stromgren y                      

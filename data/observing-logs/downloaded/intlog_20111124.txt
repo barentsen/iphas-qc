@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 11 25 08:14
+
+TELESCOPE             INT
+DATE                  20111124
+OBSERVER/S            Barentsen
+PROGRAMME             UVEX Survey
+PROPOSAL REF          N2
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS   Prime  / 43.44
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:19
+SUNRISE (UT)          07:34
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       10:41
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         No Moon all night
+MOONSET (UT)          No Moon all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   1.3   98    37.5  39.1   48   769.5    1.3    9.      9.   98     67
+20:00   0.3   98    41.0  43.3   45   769.8    0.3    9.      9.   98     65
+21:00   0.5   98    31.6  46.9   57   770.3    0.5    8.      9.   98     65
+22:00  -1.8   98    44.4  54.2   99   770.3   -1.8    8.      9.   98     60
+23:00   0.0   90    54.3  58.3   69   770.2    0.0    5.      9.   90     68
+00:00   2.1   36    13.8  39.2  148   771.2    2.1    6.      9.   36     51
+01:00   3.7   27    12.1  22.6  188   771.3    3.7    5.      8.   27     26
+02:00   3.0   37    35.6  39.7  117   771.0    3.0    3.      7.   37     52
+03:00   4.2   23    37.4  50.7  104   771.0    4.2    4.      7.   23     33
+04:00   5.7   13    21.3  31.8  145   771.2    5.7    6.      7.   13     24
+05:00   5.8   12    30.1  39.0  131   771.0    5.8    6.      7.   12     22
+06:00   5.7   13    14.8  29.1  120   771.4    5.7    6.      7.   13     19
+07:00   7.0   10    14.3  24.7   98   771.8    7.0    6.      7.   10     26
+
+TIME LOST weather           05:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Non-photometric night (seeing 3-5 arcsec). Heavy fog before midnight. High clouds after midnight. 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+-
+
+

@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 03 08 19:37
+
+TELESCOPE             INT
+DATE                  20120307
+OBSERVER/S            E. Kourkchi, F. Habibi
+PROGRAMME             Probing the Local Bubble Using Diffuse Interstellar Bands (DIBs).
+PROPOSAL REF          INO3      
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Hugo Ledo
+
+TEL STATION / FOCUS    / 15.9
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:22
+EVENING TWILIGHT (UT) 20:33
+MORNING TWILIGHT (UT) 06:11
+SUNRISE (UT)          07:22
+%ILLUM. LUNAR DISK      1
+DARK TIME (HRS)       09:38
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          07:17
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   7.3    5    34.2  37.8   68   773.0   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   8.1    5    28.8  35.2   70   773.4   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   8.3    1    22.8  30.7   80   774.0   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   8.8    2    15.6  21.3   35   774.0   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   8.3    5    22.7  24.1   59   774.1   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   9.6    8    14.9  23.9   39   773.7   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00  10.1    4    18.7  23.8  109   773.3   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   8.0    7    18.4  26.2  145   772.8   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   8.1   30    17.5  28.0  168   772.3   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   8.1   35    15.7  22.3  156   772.1   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   8.8   35    13.7  14.8  105   772.5   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   9.1   34    15.6  20.0  152   772.8   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clear all night, variable seeing mostly around 2 arcsec
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+OBSSYS left in a funny state which we did not spot... the TCS thought the prime focus was in use. The most obvious effect was that we couldn;t guide. Took a while to work this out and restart the observing system.
+
+

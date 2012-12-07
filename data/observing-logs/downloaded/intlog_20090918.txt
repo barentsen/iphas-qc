@@ -1,0 +1,53 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 09 19 06:39
+
+TELESCOPE             INT
+DATE                  20090918
+OBSERVER/S            Lukasz Wyrzykowski
+PROGRAMME             priv
+PROPOSAL REF          09B/15
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:21
+EVENING TWILIGHT (UT) 20:33
+MORNING TWILIGHT (UT) 05:39
+SUNRISE (UT)          06:51
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       09:06
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No Moon all night
+MOONSET (UT)          No Moon all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   9.7   69    26.6  29.1  248   773.1    9.7  13.4    14.2   69    55 
+21:00  10.6   67    20.1  27.4  210   774.1   10.6  13.3    14.2   67    61 
+22:00   9.1   72    18.7  25.1  170   774.8    9.1  13.4    14.1   72    63 
+23:00   8.9   66    16.6  14.3  167   775.1    8.9  12.7    14.3   66    63 
+00:00   7.1   83    23.6  32.8  159   774.7    7.1   11.     14.   83     67
+01:00   5.8   94    24.6  35.1  155   774.6    5.8   11.     14.   94     72
+02:00   5.4   99    25.9  29.4  172   773.2    5.4   11.     14.   99     74
+03:00   5.4   99    17.3  27.3  212   772.9    5.4   10.     14.   99     77
+04:00   5.6   99    16.5  21.0  167   773.0    5.6   11.     14.   99     76
+05:00   6.0   99    10.7  14.3  193   772.5    6.0   11.     14.   99     78
+06:00   6.4   99    23.1  28.1  248   772.7    6.4   11.     14.   99     77
+
+TIME LOST weather           11:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Heavy cloud cover all night.  Rain for a few hours also.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Cloudy all night - we never opened the dome.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 694020 Bias              0:00:00.00 +00:00:00.0  2000.00 10:38 1.092  WFC    0.0  180  r                                
+ 694021 Bias frame       11:00:00.00 +20:00:00.0  2000.00 13:39 1.063  WFC    0.0  180  HeI 5870                         

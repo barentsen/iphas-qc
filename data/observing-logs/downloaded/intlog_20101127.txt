@@ -1,0 +1,103 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 11 28 05:04
+
+TELESCOPE             INT
+DATE                  20101127
+OBSERVER/S            Montes, Klutsch
+PROGRAMME             Searching for stars comuving with post-Tauri candidates
+PROPOSAL REF          C34
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Cassegrain  / 14.6
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:37
+MORNING TWILIGHT (UT) 06:21
+SUNRISE (UT)          07:37
+%ILLUM. LUNAR DISK    60
+DARK TIME (HRS)       10:44
+TWILIGHT TIME (HRS)   02:31
+MOONRISE (UT)         23:58
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   3.4   98    24.9  35.8  146   762.1   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   4.2   77    23.7  30.1  264   762.3   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   6.5   37    23.7  34.3  287   762.9   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   5.0   43    25.2  29.5  277   763.0   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   5.3   38    28.8  34.6  203   763.2   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   4.8   59    29.0  34.2  212   762.7   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   3.4   74    36.0  48.8  164   762.7   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   3.0   98    19.2  26.7  154   762.3   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   4.8   98    25.1  34.7  162   762.6   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   5.3   98    22.6  38.8  161   762.6   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   5.4   98    34.9  46.8  126   761.9   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           08:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humidity (> 90%) during a large part of the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 769904 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:52 1.000  IDS   25.0    0  Clear+Clear   1.0  34.1 6497.9   
+ 769905 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:54 1.000  IDS   25.0    0  Clear+Clear   1.0  34.1 6497.9   
+ 769906 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:54 1.000  IDS   25.0    0  Clear+Clear   1.0  34.1 6497.9   
+ 769907 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:55 1.000  IDS   25.0    0  Clear+Clear   1.0  34.1 6497.9   
+ 769908 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:56 1.000  IDS   25.0    0  Clear+Clear   1.0  34.1 6497.9   
+ 769909 Flat field        0:00:00.00 +00:00:00.0  2000.00 20:56 1.000  IDS   25.0    0  Clear+Clear   1.0  34.1 6497.9   
+ 769910 HD3651_HR166____  0:39:20.39 +21:15:05.1  2000.00 21:05 1.011  IDS  100.0    0  Clear+Clear   1.0  34.1 6497.9   
+ 769911 CuAr+CuNe         0:39:20.39 +21:15:05.0  2000.00 21:10 1.010  IDS   10.0    0  Clear+Clear   1.0  34.1 6497.9   
+ 769912 TYC4496-780-1     0:13:39.60 +77:01:47.2  2000.00 21:23 1.506  IDS  600.0  175  Clear+Clear   1.0  34.1 6497.9   
+ 769913 CuAr+CuNe         0:13:39.60 +77:01:47.1  2000.00 21:34 1.508  IDS   10.0  175  Clear+Clear   1.0  34.1 6497.9   
+ 769914 HD16160_HR753___  2:36:05.53 +06:53:13.4  2000.00 21:46 1.168  IDS  100.0  175  Clear+Clear   1.0  34.1 6497.9   
+ 769915 CuAr+CuNe         2:36:05.56 +06:53:13.6  2000.00 21:48 1.165  IDS   10.0  175  Clear+Clear   1.0  34.1 6497.9   
+ 769916 HD16160_HR753___  2:36:05.56 +06:53:13.5  2000.00 21:50 1.157  IDS  300.0  175  Clear+Clear   1.0  34.1 6497.9   
+ 769917 HD12929_AARI___K  2:07:09.81 +23:27:11.5  2000.00 21:58 1.025  IDS  300.0  175  Clear+Clear   1.0  34.1 6497.9   
+ 769918 CuAr+CuNe         2:07:09.85 +23:27:11.7  2000.00 22:05 1.022  IDS   10.0  175  Clear+Clear   1.0  34.1 6497.9   
+ 769919 HD19373_________  3:09:03.52 +49:36:34.0  2000.00 22:08 1.140  IDS  300.0  175  Clear+Clear   1.0  34.1 6497.9   
+ 769920 CuAr+CuNe         3:09:03.56 +49:36:33.9  2000.00 22:14 1.135  IDS   10.0  175  Clear+Clear   1.0  34.1 6497.9   
+ 769921 TNK2005______10A  1:19:34.33 +71:30:11.3  2000.00 22:20 1.367  IDS 1800.0  150  Clear+Clear   1.0  34.1 6497.9   
+ 769922 CuAr+CuNe         1:19:34.34 +71:30:11.3  2000.00 22:51 1.373  IDS   10.0  150  Clear+Clear   1.0  34.1 6497.9   
+ 769923 HD10476_HR493___  1:42:29.13 +20:15:23.8  2000.00 22:57 1.019  IDS  200.0  150  Clear+Clear   1.0  34.1 6497.9   
+ 769924 CuAr+CuNe         1:42:29.15 +20:15:24.0  2000.00 23:01 1.020  IDS   10.0  150  Clear+Clear   1.0  34.1 6497.9   
+ 769925 HD10780_________  1:47:45.80 +63:50:42.0  2000.00 23:04 1.228  IDS  200.0  150  Clear+Clear   1.0  34.1 6497.9   
+ 769926 CuAr+CuNe         1:47:45.80 +63:50:41.8  2000.00 23:09 1.229  IDS   10.0  150  Clear+Clear   1.0  34.1 6497.9   
+ 769927 HD12051_________  1:59:06.69 +33:11:55.6  2000.00 23:12 1.011  IDS  500.0  150  Clear+Clear   1.0  34.1 6497.9   
+ 769928 CuAr+CuNe         1:59:06.70 +33:11:54.7  2000.00 23:21 1.013  IDS   10.0  150  Clear+Clear   1.0  34.1 6497.9   
+ 769929 TNK2005______10A  1:19:36.01 +71:30:03.1  2000.00 23:25 1.408  IDS 1800.0  150  Clear+Clear   1.0  34.1 6497.9   
+ 769930 CuAr+CuNe         1:19:36.01 +71:30:03.0  2000.00 23:56 1.424  IDS   10.0  150  Clear+Clear   1.0  34.1 6497.9   
+ 769931 TYC4496-780-1     0:13:45.04 +77:01:39.9  2000.00 00:00 1.655  IDS  600.0  150  Clear+Clear   1.0  34.1 6497.9   
+ 769932 CuAr+CuNe         0:13:45.56 +77:01:39.9  2000.00 00:11 1.665  IDS   10.0  150  Clear+Clear   1.0  34.1 6497.9   
+ 769933 TNK2005______12A  1:39:28.06 +70:18:11.2  2000.00 00:15 1.407  IDS  800.0  150  Clear+Clear   1.0  34.1 6497.9   
+ 769934 CuAr+CuNe         1:39:28.13 +70:18:10.0  2000.00 00:29 1.417  IDS   10.0  150  Clear+Clear   1.0  34.1 6497.9   
+ 769935 TNK2005_______14  2:26:13.99 +68:10:54.2  2000.00 00:35 1.173  IDS 1800.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769936 Flat field        0:00:00.00 +00:00:00.0  2000.00 01:07 1.000  IDS   25.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769937 Flat field        0:00:00.00 +00:00:00.0  2000.00 01:08 1.000  IDS   25.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769938 Flat field        0:00:00.00 +00:00:00.0  2000.00 01:09 1.000  IDS   25.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769939 Flat field        0:00:00.00 +00:00:00.0  2000.00 01:09 1.000  IDS   25.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769940 Flat field        0:00:00.00 +00:00:00.0  2000.00 01:10 1.000  IDS   25.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769941 Flat field        0:00:00.00 +00:00:00.0  2000.00 01:10 1.000  IDS   25.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769942 Flat field        0:00:00.00 +00:00:00.0  2000.00 01:11 1.000  IDS   25.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769943 Flat field        0:00:00.00 +00:00:00.0  2000.00 01:12 1.000  IDS   25.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769944 Flat field        0:00:00.00 +00:00:00.0  2000.00 01:12 1.000  IDS   25.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769945 Flat field        0:00:00.00 +00:00:00.0  2000.00 01:13 1.000  IDS   25.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769946 Bias              0:00:00.00 +00:00:00.0  2000.00 03:36 1.000  IDS    0.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769947 Bias              0:00:00.00 +00:00:00.0  2000.00 03:36 1.000  IDS    0.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769948 Bias              0:00:00.00 +00:00:00.0  2000.00 03:36 1.000  IDS    0.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769949 Bias              0:00:00.00 +00:00:00.0  2000.00 03:37 1.000  IDS    0.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769950 Bias              0:00:00.00 +00:00:00.0  2000.00 03:37 1.000  IDS    0.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769951 Bias              0:00:00.00 +00:00:00.0  2000.00 03:37 1.000  IDS    0.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769952 Bias              0:00:00.00 +00:00:00.0  2000.00 03:37 1.000  IDS    0.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769953 Bias              0:00:00.00 +00:00:00.0  2000.00 03:37 1.000  IDS    0.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769954 Bias              0:00:00.00 +00:00:00.0  2000.00 03:38 1.000  IDS    0.0  152  Clear+Clear   1.0  34.1 6497.9   
+ 769955 Bias              0:00:00.00 +00:00:00.0  2000.00 03:38 1.000  IDS    0.0  152  Clear+Clear   1.0  34.1 6497.9   

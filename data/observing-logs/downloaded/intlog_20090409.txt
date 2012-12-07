@@ -1,0 +1,83 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 04 10 07:40
+
+TELESCOPE             INT
+DATE                  20090409
+OBSERVER/S            David Russell
+PROGRAMME             The power of X-ray binary jets revealed from jet-ISM interactions
+PROPOSAL REF          N5   
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    F. Jimenez
+
+TEL STATION / FOCUS   Prime  / 43.83
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:41
+EVENING TWILIGHT (UT) 20:55
+MORNING TWILIGHT (UT) 05:31
+SUNRISE (UT)          06:44
+%ILLUM. LUNAR DISK      1
+DARK TIME (HRS)       08:36
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -0.0   92    50.4  50.1  349   765.3   -0.0                 92      #
+21:00  -0.5   99    51.6  48.5  280   764.7   -0.5                 99      #
+22:00  -0.6   94    47.1  58.5  348   765.4   -0.6                 94      #
+23:00  -0.7   93    46.0  58.1  276   766.2   -0.7                 93      #
+00:00  -1.5   99    44.2  51.9  280   766.2   -1.5                 99      #
+01:00  -0.9   59    44.0  52.4  149   766.0   -0.9                 59      #
+02:00  -1.5   70    37.3  44.5  152   766.2   -1.5                 70      #
+03:00  -2.7   98    36.5  45.1   20   765.3   -2.7                 98      #
+04:00  -0.4   43    43.7  48.7    9   765.9   -0.4                 43      #
+05:00   0.6   27    46.2  52.8    5   765.7    0.6                 27      #
+06:00   0.6   47    38.9  42.0  215   766.4    0.6                 47      #
+
+TIME LOST weather           04:20
+TIME LOST Technical         00:20
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+low cloud and humidity >90% first half of night, ok after, seeing ~2.5" though
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+weather: >90% humidity for 3 hours, then 1 more hour later
+the autoguider disconnected once and would not reconnect - that was resolved by doing startobssys a few times
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 664986 10                0:00:00.00 +00:00:00.0  2000.00 15:05 4.289  WFC    0.0  180  [OII]3727                        
+ 664987 Focus run        12:41:03.60 -00:37:12.9  2000.00 00:42 1.147  WFC   10.1  180  V                                
+ 664988 Focus run        12:41:03.60 -00:37:12.9  2000.00 00:55 1.150  WFC   10.1  180  V                                
+ 664989 Focus run        16:25:14.03 +15:40:43.1  2000.00 01:09 1.459  WFC   10.1  180  V                                
+ 664990 NGC5204 ULXN Ha  13:29:42.50 +58:25:36.0  2000.00 02:49 1.195  WFC  599.7  180  Halpha                           
+ 664991 NGC5204 ULXN Haz 13:29:42.52 +58:25:35.9  2000.00 03:01 1.208  WFC  599.8  180  Ha 6657                          
+ 664992 NGC5204 ULXN SII 13:29:42.51 +58:25:36.0  2000.00 03:13 1.224  WFC  599.3  180  [SII]6725                        
+ 664993 NGC5204 ULXN V 1 13:29:38.69 +58:25:06.0  2000.00 03:36 1.254  WFC  150.0  180  V                                
+ 664994 NGC5204 ULXN OII 13:29:38.70 +58:25:06.0  2000.00 03:40 1.268  WFC  599.8  180  [OII]3727                        
+ 664995 NGC5204 ULXN Hb  13:29:38.69 +58:25:06.0  2000.00 03:54 1.295  WFC  599.7  180  Hbeta broad                      
+ 664996 Specstan HZ44 Hb 13:23:35.00 +36:08:00.0  2000.00 04:07 1.228  WFC   20.1  180  Hbeta broad                      
+ 664997 Specstan HZ44 SI 13:23:35.00 +36:07:59.9  2000.00 04:08 1.232  WFC   20.1  180  [SII]6725                        
+ 664998 Specstan HZ44 V  13:23:35.00 +36:07:59.9  2000.00 04:10 1.236  WFC    4.5  180  V                                
+ 664999 Specstan HZ44 OI 13:23:35.00 +36:07:59.9  2000.00 04:11 1.242  WFC   30.1  180  [OII]3727                        
+ 665000 Specstan HZ44 Ha 13:23:35.00 +36:07:59.9  2000.00 04:13 1.247  WFC   30.1  180  Halpha                           
+ 665001 Specstan HZ44 Ha 13:23:35.00 +36:08:00.0  2000.00 04:14 1.252  WFC   30.1  180  Ha 6657                          
+ 665002 AqlX1 SII 1200   19:11:16.00 +00:38:05.9  2000.00 04:22 1.456  WFC 1199.3  180  [SII]6725                        
+ 665003 AqlX1 SII 300    19:11:16.00 +00:38:05.9  2000.00 04:44 1.392  WFC  299.9  180  Ha 6657                          
+ 665004 V404Cyg Hb 900   20:24:03.80 +33:52:02.7  2000.00 04:55 1.351  WFC  899.7  180  Hbeta broad                      
+ 665005 V404Cyg Haz 300  20:24:03.80 +33:52:03.0  2000.00 05:12 1.301  WFC  299.3  180  Ha 6657                          
+ 665006 CYGX1neb V 100   19:59:38.50 +35:18:20.0  2000.00 05:24 1.188  WFC  100.1  180  V                                
+ 665007 CYGX1cj SII 900  19:59:07.99 +34:57:00.0  2000.00 05:30 1.153  WFC  899.6  180  [SII]6725                        
+ 665008 skyflat V        16:24:44.85 +55:45:38.9  2000.00 06:09 1.194  WFC  150.0  180  V                                
+ 665009 skyflat V        16:24:46.03 +55:45:49.0  2000.00 06:13 1.200  WFC  100.0  180  V                                
+ 665010 skyflat V        16:24:43.66 +55:45:28.7  2000.00 06:17 1.205  WFC   40.1  180  V                                
+ 665011 skyflat SII      16:24:43.66 +55:45:28.9  2000.00 06:21 1.211  WFC   60.1  180  [SII]6725                        
+ 665012 skyflat V        16:24:43.66 +55:45:48.9  2000.00 06:24 1.216  WFC   20.1  180  V                                
+ 665013 skyflat SII      16:24:43.66 +55:45:48.9  2000.00 06:26 1.219  WFC   30.1  180  [SII]6725                        
+ 665014 skyflat V        16:24:43.66 +55:45:49.0  2000.00 06:28 1.222  WFC    3.1  180  V                                
+ 665015 skyflat Haz      16:24:43.66 +55:45:48.9  2000.00 06:30 1.226  WFC   10.1  180  Ha 6657                          
+ 665016 skyflat Haz      16:24:44.84 +55:45:38.9  2000.00 06:32 1.229  WFC    8.1  180  Ha 6657                          
+ 665017 skyflat Ha       16:24:44.84 +55:45:38.8  2000.00 06:35 1.234  WFC    5.0  180  Halpha                           

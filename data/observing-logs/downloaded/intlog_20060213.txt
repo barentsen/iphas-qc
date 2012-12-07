@@ -1,0 +1,68 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 02 14 02:05
+
+TELESCOPE             INT
+DATE                  20060213
+OBSERVER/S            don pollacco
+PROGRAMME             Eclipsing Binaries
+PROPOSAL REF          P12                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    ian
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:07
+EVENING TWILIGHT (UT) 20:19
+MORNING TWILIGHT (UT) 06:32
+SUNRISE (UT)          07:44
+%ILLUM. LUNAR DISK    99
+DARK TIME (HRS)       10:13
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         19:17
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   0.9   30    27.6  31.9  206   770.1    0.9   4.8     7.7   30    32 
+21:00   2.2   20    32.5  35.8  251   770.8    2.2   4.1     7.1   20    19 
+22:00   2.2   21    20.3  24.6  250   771.5    2.2   4.4     6.7   21    17 
+23:00   2.7   19    22.4  27.2  268   771.5    2.7   4.6     6.4   19    15 
+00:00   0.8   27    22.9  26.8  232   770.9    0.8   4.7     6.5   27    23 
+01:00   2.4   20    16.0  24.8  239   771.3    2.4   4.4     6.3   20    18 
+02:00   2.5   17    21.0  25.4  251   771.3    2.5   4.8     6.5   17    25 
+
+TIME LOST weather           06:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High wind (60 to 90 km/s) and cirrus, seeing 2 arcsec
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+high, gusty wind and cirrus
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 491885 Bias frame       23:30:00.00 -00:00:00.0 2000.00  14:20 1.165  WFC    0.0  180  V                                
+ 491886 Bias              0:00:00.00 +00:00:00.0 2000.00  18:25 1.000  WFC    0.0  180  B                                
+ 491887 Bias              0:00:00.00 +00:00:00.0 2000.00  18:27 1.000  WFC    0.0  180  B                                
+ 491888 Bias              0:00:00.00 +00:00:00.0 2000.00  18:27 1.000  WFC    0.0  180  B                                
+ 491889 Bias              0:00:00.00 +00:00:00.0 2000.00  18:28 1.000  WFC    0.0  180  B                                
+ 491890 Bias              0:00:00.00 +00:00:00.0 2000.00  18:28 1.000  WFC    0.0  180  B                                
+ 491891 Bias              0:00:00.00 +00:00:00.0 2000.00  18:29 1.000  WFC    0.0  180  B                                
+ 491892 Focus run         7:36:54.00 +65:35:59.9 2000.00  21:08 1.340  WFC   10.1  180  B                                
+ 491893 N2403 300s B      7:36:54.00 +65:35:59.7 2000.00  21:23 1.313  WFC  299.9  180  B                                
+ 491894 N2403 600s B      7:36:53.99 +65:36:00.0 2000.00  21:33 1.298  WFC  599.6  180  B                                
+ 491895 N2403 600s B      7:36:54.00 +65:36:00.0 2000.00  21:44 1.287  WFC  599.1  180  B                                
+ 491896 N2403 600s B      7:36:54.00 +65:35:59.9 2000.00  21:55 1.278  WFC  599.6  180  B                                
+ 491897 N2403 600s B      7:36:54.00 +65:35:59.8 2000.00  22:06 1.270  WFC  599.7  180  B                                
+ 491898 N2403 600s B      7:36:54.00 +65:36:00.0 2000.00  22:16 1.263  WFC  599.7  180  B                                
+ 491899 N2403 600s B      7:36:54.00 +65:36:00.0 2000.00  22:27 1.258  WFC  599.7  180  B                                
+ 491900 N2403 600s B      7:36:54.00 +65:36:00.0 2000.00  22:38 1.254  WFC  599.7  180  B                                
+ 491901 N2403 600s B      7:36:53.99 +65:35:59.8 2000.00  22:49 1.251  WFC  599.8  180  B                                
+ 491902 N2403 600s B      7:36:53.99 +65:35:59.8 2000.00  22:59 1.249  WFC  599.7  180  B                                
+ 491903 N2403 600s B      7:36:54.00 +65:35:59.9 2000.00  23:10 1.249  WFC  599.8  180  B                                
+ 491905 Leo A 60 sec B    9:59:24.00 +30:44:59.2 2000.00  00:28 1.034  WFC   60.1  180  B                                
+ 491906 Leo A 60 sec B    0:00:00.00 +00:00:00.0 2000.00  00:31 1.030  WFC   59.5  180  B                                

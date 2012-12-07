@@ -1,0 +1,111 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 07 06 07:06
+
+TELESCOPE             INT
+DATE                  20090705
+OBSERVER/S            Fiona McGroarty
+PROGRAMME             Final Epoch Observations of Parsec Scale Outflows from Intermediate-Mass Young Stars
+PROPOSAL REF          P21                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.90
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:22
+EVENING TWILIGHT (UT) 21:47
+MORNING TWILIGHT (UT) 04:45
+SUNRISE (UT)          06:11
+%ILLUM. LUNAR DISK    98
+DARK TIME (HRS)       06:58
+TWILIGHT TIME (HRS)   02:51
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          05:27
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  17.5   14    17.8  18.8  349   774.2   17.5   18.     18.   14     24
+22:00  17.1   17    20.7  22.1  354   774.8   17.1   17.     18.   17     23
+23:00  16.5   10    19.6  20.7  336   775.3   16.5   17.     18.   10     17
+00:00  16.2    9    29.2  30.2  345   775.6   16.2   16.     18.    9     16
+02:00  15.4   14    24.1  27.1  338   774.7   15.4  16.1    18.4   14    21 
+03:00  15.1   16    26.2  28.2  330   774.5   15.1  15.9    18.3   16    22 
+04:00  15.2   19    34.2  36.0  341   774.1   15.2  15.9    18.2   19    27 
+05:00  15.1   18    33.9  35.1  341   774.4   15.1  15.8    18.0   18    26 
+06:00  14.9   31    28.5  30.6  338   773.8   14.9  15.7    17.9   31    36 
+
+TIME LOST weather           00:00
+TIME LOST Technical         1:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Good seeing, typically 0.8 to 1.3''  over the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Lost approx 1 hour from 02.30 - 03.30 (UT) as wrong field of view changed (don't know why) between taking images in different filters of the same field. Redoing the gocat command for that field sorted the problem.
+Also during this time there were problems with guiding - although the autoguider seemed to be guiding without problems, the image showed no guiding. Redoing the "field" and "guide on star n" command fixed this. 
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+      1                                                                WFC                                               
+ 678049 Bias              0:00:00.00 +00:00:00.0  2000.00 19:43 1.000  WFC    0.0  180  Halpha                           
+ 678050 Bias              0:00:00.00 +00:00:00.0  2000.00 19:44 1.000  WFC    0.0  180  Halpha                           
+ 678051 Bias              0:00:00.00 +00:00:00.0  2000.00 19:44 1.000  WFC    0.0  180  Halpha                           
+ 678052 Bias              0:00:00.00 +00:00:00.0  2000.00 19:45 1.000  WFC    0.0  180  Halpha                           
+ 678053 Bias              0:00:00.00 +00:00:00.0  2000.00 19:46 1.000  WFC    0.0  180  Halpha                           
+ 678054 Bias              0:00:00.00 +00:00:00.0  2000.00 19:47 1.000  WFC    0.0  180  Halpha                           
+ 678055 Flat             13:47:42.00 +05:37:35.9  2000.00 20:36 1.098  WFC   10.1  180  [SII]6725                        
+ 678058 Flat             13:47:42.00 +05:37:36.0  2000.00 20:39 1.100  WFC    8.1  180  [SII]6725                        
+ 678059 Flat             13:47:41.99 +05:37:35.9  2000.00 20:40 1.101  WFC    8.1  180  [SII]6725                        
+ 678060 Flat             13:47:42.00 +05:37:36.0  2000.00 20:41 1.102  WFC    8.1  180  [SII]6725                        
+ 678061 Flat field       13:47:41.99 +05:37:36.0  2000.00 20:42 1.103  WFC   30.0  180  [SII]6725                        
+ 678062 Flat field       13:47:41.99 +05:37:36.0  2000.00 20:44 1.104  WFC   40.1  180  [SII]6725                        
+ 678063 Flat field       13:47:42.00 +05:37:35.9  2000.00 20:46 1.106  WFC   90.1  180  [SII]6725                        
+ 678064 Flat field       13:47:41.99 +05:37:36.0  2000.00 20:49 1.109  WFC  120.0  180  Halpha                           
+ 678065 Flat field       13:47:42.00 +05:37:36.0  2000.00 20:52 1.114  WFC  200.0  180  Halpha                           
+ 678066 Flat field       13:47:41.99 +05:37:36.1  2000.00 20:58 1.118  WFC   60.1  180  V                                
+ 678067 Flat field        0:00:00.00 +00:00:00.0  2000.00 21:00 1.122  WFC  199.9  180  V                                
+ 678069 Focus run        14:40:07.00 +00:01:44.9  2000.00 21:22 1.147  WFC   10.1  180  Halpha                           
+ 678070 Focus run        14:40:07.00 +00:01:45.0  2000.00 21:31 1.152  WFC    9.6  180  Halpha                           
+ 678071 Standard 106-102 14:40:07.00 +00:01:45.0  2000.00 21:39 1.161  WFC   20.1  180  Halpha                           
+ 678072 Standard 106-102 14:40:06.99 +00:01:44.9  2000.00 21:42 1.164  WFC   30.1  180  Halpha                           
+ 678073 Standard 106-102 14:40:07.00 +00:01:45.0  2000.00 21:44 1.167  WFC   35.1  180  Halpha                           
+ 678074 Standard 106-102 14:40:07.00 +00:01:45.0  2000.00 21:48 1.171  WFC   35.1  180  [SII]6725                        
+ 678075 Standard 106-102 14:40:06.99 +00:01:44.9  2000.00 21:51 1.175  WFC   10.1  180  V                                
+ 678076 Standard 106-102 14:40:07.00 +00:01:44.9  2000.00 21:53 1.177  WFC    2.1  180  V                                
+ 678077 1548C27_offset2  19:43:11.31 +23:26:14.8  2000.00 22:06 1.488  WFC 2398.6  180  [SII]6725                        
+ 678078 V1318 Cyg        20:20:30.46 +41:21:26.8  2000.00 23:00 1.371  WFC 1199.4  180  [SII]6725                        
+ 678079 V1318 Cyg        20:20:30.46 +41:21:26.8  2000.00 23:22 1.290  WFC 1199.5  180  [SII]6725                        
+ 678080 LkHa234_SW       21:42:37.71 +65:58:19.5  2000.00 23:52 1.617  WFC  599.7  180  V                                
+ 678081 Focus run        14:40:07.00 +00:01:45.0  2000.00 00:13 1.738  WFC   10.1  180  [SII]6725                        
+ 678082 LkHa234          21:42:37.72 +65:58:19.5  2000.00 00:23 1.480  WFC 2398.6  180  [SII]6725                        
+ 678083 LkHa234          21:42:37.72 +65:58:19.6  2000.00 01:06 1.387  WFC 2398.8  180  Halpha                           
+ 678084 MWC1080          23:17:25.58 +60:50:43.3  2000.00 01:56 1.471  WFC  599.8  180  V                                
+ 678085 Focus run        23:17:25.58 +60:50:43.3  2000.00 02:14 1.440  WFC    9.5  180  [SII]6725                        
+ 678088 Focus run        23:17:25.58 +60:50:43.9  2000.00 02:39 1.372  WFC   10.1  180  [SII]6725                        
+ 678090 MWC1080          23:17:25.58 +60:50:43.3  2000.00 02:59 1.314  WFC  599.8  180  [SII]6725                        
+ 678091 MWC1080          23:17:25.58 +60:50:43.3  2000.00 03:15 1.284  WFC  599.8  180  [SII]6725                        
+ 678093 MWC1080          23:17:25.58 +60:50:43.3  2000.00 03:39 1.248  WFC  599.7  180  [SII]6725                        
+ 678094 MWC1080          23:17:25.58 +60:50:43.3  2000.00 03:51 1.234  WFC  599.7  180  [SII]6725                        
+ 678095 MWC1080          23:17:25.58 +60:50:43.3  2000.00 04:03 1.221  WFC  599.7  180  [SII]6725                        
+ 678096 LkHa198_offsetS   0:11:25.97 +58:51:29.0  2000.00 04:26 1.235  WFC  599.8  180  Halpha                           
+ 678097 LkHa198_offsetS   0:11:25.97 +58:51:29.1  2000.00 04:39 1.206  WFC 1798.6  180  Halpha                           
+ 678098 Flat field       23:15:48.00 +11:26:32.0  2000.00 05:16 1.049  WFC   29.6  180  V                                
+ 678099 Flat field       23:15:48.00 +11:26:32.0  2000.00 05:20 1.048  WFC   60.1  180  V                                
+ 678100 Flat field       23:15:47.99 +11:26:32.0  2000.00 05:26 1.047  WFC   60.1  180  V                                
+ 678101 Flat field       23:15:48.00 +11:26:32.0  2000.00 05:34 1.047  WFC   60.0  180  V                                
+ 678102 Flat field       23:15:48.00 +11:26:31.9  2000.00 05:38 1.048  WFC   60.1  180  V                                
+ 678103 Flat field       23:15:48.00 +11:26:31.9  2000.00 05:40 1.048  WFC   50.1  180  V                                
+ 678104 Flat field       23:15:48.00 +11:26:32.0  2000.00 05:44 1.049  WFC   90.1  180  [SII]6725                        
+ 678105 Flat field       23:15:47.99 +11:26:31.9  2000.00 05:46 1.050  WFC   70.1  180  [SII]6725                        
+ 678106 Flat field       23:15:48.00 +11:26:31.9  2000.00 05:49 1.050  WFC   40.1  180  [SII]6725                        
+ 678107 Flat field       23:15:48.00 +11:26:32.0  2000.00 05:51 1.051  WFC   40.1  180  [SII]6725                        
+ 678108 Flat field       23:15:48.00 +11:26:32.0  2000.00 05:53 1.052  WFC   29.6  180  Halpha                           
+ 678109 Flat field       23:15:48.00 +11:26:32.0  2000.00 05:55 1.053  WFC   15.0  180  Halpha                           
+ 678110 Flat field       23:15:47.99 +11:26:32.0  2000.00 05:56 1.053  WFC    8.1  180  Halpha                           
+ 678111 Bias             23:15:48.00 +11:26:32.0  2000.00 05:58 1.054  WFC    0.0  180  Halpha                           
+ 678112 Bias             23:15:48.00 +11:26:32.0  2000.00 05:59 1.054  WFC    0.0  180  Halpha                           
+ 678113 Bias             23:15:48.00 +11:26:31.9  2000.00 05:59 1.055  WFC    0.0  180  Halpha                           
+ 678114 Bias             23:15:48.00 +11:26:31.9  2000.00 06:00 1.055  WFC    0.0  180  Halpha                           
+ 678115 Bias             23:15:48.00 +11:26:32.0  2000.00 06:01 1.056  WFC    0.0  180  Halpha                           
+ 678116 Bias             23:15:48.00 +11:26:31.9  2000.00 06:02 1.056  WFC    0.0  180  Halpha                           

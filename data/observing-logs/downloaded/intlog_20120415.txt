@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 04 16 07:26
+
+TELESCOPE             INT
+DATE                  20120415
+OBSERVER/S            Y Gomez Maqueo Chew
+PROGRAMME             P12 
+PROPOSAL REF          P12
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    N/A
+
+TEL STATION / FOCUS    / 15.9
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:45
+EVENING TWILIGHT (UT) 20:59
+MORNING TWILIGHT (UT) 05:23
+SUNRISE (UT)          06:38
+%ILLUM. LUNAR DISK    25
+DARK TIME (HRS)       08:24
+TWILIGHT TIME (HRS)   02:29
+MOONRISE (UT)         03:38
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   6.5    7    28.7  39.1   25   773.0   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   5.6   11    41.9  44.8   31   772.7   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   5.7   15    46.1  52.4   22   773.2   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   6.1   13    53.1  59.9   14   773.1   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   5.1   13    48.7  52.4  159   773.3   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   5.2   14    61.0  58.4   17   772.8   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   2.7   64    52.1  58.4  180   772.0   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   3.0   59    52.4  59.4   82   771.4   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   2.8   64    53.8  57.7   85   771.0   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   3.2   57    56.6  64.4   23   770.3   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   3.2   55    52.5  58.6   23   770.2   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+humidity was mostly >60%, and winds got to 40km/s
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+closed south doors because of high winds/gusts
+
+

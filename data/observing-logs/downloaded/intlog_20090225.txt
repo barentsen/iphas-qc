@@ -1,0 +1,106 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 02 26 05:20
+
+TELESCOPE             INT
+DATE                  20090225
+OBSERVER/S            Dyke & Smith
+PROGRAMME             Narrow band surveys
+PROPOSAL REF          P4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.78
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:15
+EVENING TWILIGHT (UT) 20:27
+MORNING TWILIGHT (UT) 06:21
+SUNRISE (UT)          07:33
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       09:54
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          19:53
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -3.0   71     6.2   6.2  157   759.4   -3.0    3.      6.   71     53
+21:00  -3.1   65     8.1   9.8  167   760.3   -3.1    0.      5.   65     57
+22:00  -3.1   84     6.0   6.9  171   760.7   -3.1    0.      5.   84     73
+23:00  -3.8   94     7.3   9.0  169   760.1   -3.8    3.      4.   94     61
+00:00  -3.5   86    11.5  14.1  169   760.1   -3.5    3.      4.   86     60
+01:00  -3.5   73     9.9  12.7  172   760.4   -3.5    2.      4.   73     57
+02:00  -3.4   73    13.8  16.1  176   759.8   -3.4    2.      4.   73     57
+03:00  -3.5   85    13.6  15.5  175   759.5   -3.5    2.      4.   85     60
+04:00  -3.7   95     7.8  11.4  173   759.5   -3.7    2.      4.   95     64
+05:00  -3.4   96    10.1  11.2  164   759.0   -3.4    2.      4.   96     65
+
+TIME LOST weather           08:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Ok for an hour and a half then humidity came in and stayed all night.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+High humidity, kept going over 90% and then would only drop below 80 for 15 minutes before going back up again. Couldn't reopen after 10pm.
+Gave up at 05:20am as no sign of improvement
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 660946 Bias              0:00:00.00 +00:00:00.0  2000.00 18:44 4.560  WFC    0.0  180  stromgren v                      
+ 660947 Bias              0:00:00.00 +00:00:00.0  2000.00 18:44 4.560  WFC    0.0  180  stromgren v                      
+ 660948 Bias              0:00:00.00 +00:00:00.0  2000.00 18:45 4.560  WFC    0.0  180  stromgren v                      
+ 660949 Bias              0:00:00.00 +00:00:00.0  2000.00 18:45 4.560  WFC    0.0  180  stromgren v                      
+ 660950 Bias              0:00:00.00 +00:00:00.0  2000.00 18:46 4.560  WFC    0.0  180  stromgren v                      
+ 660951 Bias              0:00:00.00 +00:00:00.0  2000.00 18:46 4.560  WFC    0.0  180  stromgren v                      
+ 660952 Bias              0:00:00.00 +00:00:00.0  2000.00 18:47 4.560  WFC    0.0  180  stromgren v                      
+ 660953 Bias              0:00:00.00 +00:00:00.0  2000.00 18:47 4.560  WFC    0.0  180  stromgren v                      
+ 660954 Bias              0:00:00.00 +00:00:00.0  2000.00 18:48 4.560  WFC    0.0  180  stromgren v                      
+ 660955 Bias              0:00:00.00 +00:00:00.0  2000.00 18:48 4.560  WFC    0.0  180  stromgren v                      
+ 660956 Bias              0:00:00.00 +00:00:00.0  2000.00 18:49 4.560  WFC    0.0  180  stromgren v                      
+ 660957 Bias              0:00:00.00 +00:00:00.0  2000.00 18:49 4.560  WFC    0.0  180  stromgren v                      
+ 660958 Bias              0:00:00.00 +00:00:00.0  2000.00 18:49 4.560  WFC    0.0  180  stromgren v                      
+ 660959 Bias              0:00:00.00 +00:00:00.0  2000.00 18:50 4.560  WFC    0.0  180  stromgren v                      
+ 660960 Bias              0:00:00.00 +00:00:00.0  2000.00 18:50 4.560  WFC    0.0  180  stromgren v                      
+ 660961 Bias              0:00:00.00 +00:00:00.0  2000.00 18:51 4.560  WFC    0.0  180  stromgren v                      
+ 660962 Bias              0:00:00.00 +00:00:00.0  2000.00 18:51 4.560  WFC    0.0  180  stromgren v                      
+ 660963 Bias              0:00:00.00 +00:00:00.0  2000.00 18:52 4.560  WFC    0.0  180  stromgren v                      
+ 660964 Bias              0:00:00.00 +00:00:00.0  2000.00 18:52 4.560  WFC    0.0  180  stromgren v                      
+ 660965 Bias              0:00:00.00 +00:00:00.0  2000.00 18:53 4.560  WFC    0.0  180  stromgren v                      
+ 660966 Bias              0:00:00.00 +00:00:00.0  2000.00 18:53 4.560  WFC    0.0  180  stromgren v                      
+ 660967 Bias              0:00:00.00 +00:00:00.0  2000.00 18:54 4.560  WFC    0.0  180  stromgren v                      
+ 660968 Bias              0:00:00.00 +00:00:00.0  2000.00 18:54 4.560  WFC    0.0  180  stromgren v                      
+ 660969 Bias              0:00:00.00 +00:00:00.0  2000.00 18:55 4.560  WFC    0.0  180  stromgren v                      
+ 660970 Bias              0:00:00.00 +00:00:00.0  2000.00 18:55 4.560  WFC    0.0  180  stromgren v                      
+ 660971 Bias              0:00:00.00 +00:00:00.0  2000.00 18:56 4.560  WFC    0.0  180  stromgren v                      
+ 660972 Bias              0:00:00.00 +00:00:00.0  2000.00 18:56 4.560  WFC    0.0  180  stromgren v                      
+ 660973 Bias              0:00:00.00 +00:00:00.0  2000.00 18:57 4.560  WFC    0.0  180  stromgren v                      
+ 660974 Bias              0:00:00.00 +00:00:00.0  2000.00 18:57 4.560  WFC    0.0  180  stromgren v                      
+ 660975 Bias              0:00:00.00 +00:00:00.0  2000.00 18:57 4.560  WFC    0.0  180  stromgren v                      
+ 660976 Bias              0:00:00.00 +00:00:00.0  2000.00 18:58 4.560  WFC    0.0  180  stromgren v                      
+ 660977 Bias              0:00:00.00 +00:00:00.0  2000.00 18:58 4.560  WFC    0.0  180  stromgren v                      
+ 660978 Bias              0:00:00.00 +00:00:00.0  2000.00 18:59 4.560  WFC    0.0  180  stromgren v                      
+ 660979 Bias              0:00:00.00 +00:00:00.0  2000.00 18:59 4.560  WFC    0.0  180  stromgren v                      
+ 660980 Bias              0:00:00.00 +00:00:00.0  2000.00 19:00 4.560  WFC    0.0  180  stromgren v                      
+ 660981 Bias              0:00:00.00 +00:00:00.0  2000.00 19:00 4.560  WFC    0.0  180  stromgren v                      
+ 660982 Bias              0:00:00.00 +00:00:00.0  2000.00 19:01 4.560  WFC    0.0  180  stromgren v                      
+ 660983 Bias              0:00:00.00 +00:00:00.0  2000.00 19:01 4.560  WFC    0.0  180  stromgren v                      
+ 660984 Bias              0:00:00.00 +00:00:00.0  2000.00 19:02 4.560  WFC    0.0  180  stromgren v                      
+ 660985 Bias              0:00:00.00 +00:00:00.0  2000.00 19:02 4.560  WFC    0.0  180  stromgren v                      
+ 660986 Bias              0:00:00.00 +00:00:00.0  2000.00 19:03 4.560  WFC    0.0  180  stromgren v                      
+ 660987 Bias              0:00:00.00 +00:00:00.0  2000.00 19:03 4.560  WFC    0.0  180  stromgren v                      
+ 660988 Bias              0:00:00.00 +00:00:00.0  2000.00 19:04 4.560  WFC    0.0  180  stromgren v                      
+ 660989 Bias              0:00:00.00 +00:00:00.0  2000.00 19:04 4.560  WFC    0.0  180  stromgren v                      
+ 660990 Bias              0:00:00.00 +00:00:00.0  2000.00 19:05 1.991  WFC    0.1  180  stromgren v                      
+ 660991 Bias              0:00:00.00 +00:00:00.0  2000.00 19:05 1.124  WFC    0.0  180  stromgren v                      
+ 660992 Bias              0:00:00.00 +00:00:00.0  2000.00 19:06 1.001  WFC    0.0  180  stromgren v                      
+ 660993 Bias              0:00:00.00 +00:00:00.0  2000.00 19:06 1.000  WFC    0.0  180  stromgren v                      
+ 660994 Bias              0:00:00.00 +00:00:00.0  2000.00 19:06 1.000  WFC    0.0  180  stromgren v                      
+ 660995 Bias              0:00:00.00 +00:00:00.0  2000.00 19:07 1.000  WFC    0.0  180  stromgren v                      
+ 660996 Focus run         4:52:58.80 -00:14:40.9  2000.00 20:03 1.147  WFC   10.1  180  r                                
+ 660997 Scn4 HeII         8:20:06.87 +27:57:29.9  2000.00 20:12 1.226  WFC 1799.2  180  HeII4686                         
+ 660998 Scn4 HeII         8:20:06.87 +27:57:30.0  2000.00 20:44 1.137  WFC 1799.0  180  HeII4686                         
+ 660999 Scn4 HeII         8:20:06.87 +27:57:30.0  2000.00 21:15 1.076  WFC 1798.7  180  HeII4686                         
+ 661000 LH040 StrV       10:51:05.69 +57:51:02.3  2000.00 21:56 1.482  WFC  240.1  180  stromgren v                      Closed early due to high himidity
+ 661001 Bias              0:00:00.00 +00:00:00.0  2000.00 23:47 4.549  WFC    0.0  180  r                                

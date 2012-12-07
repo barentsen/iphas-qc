@@ -1,0 +1,69 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 12 13 05:54
+
+TELESCOPE             INT
+DATE                  20041212
+OBSERVER/S            D. Thilker
+PROGRAMME             The STARFORM/H-alpha survey: Probing the recent history of star formation in spirals
+PROPOSAL REF          N4
+TELESCOPE OPERATOR    Mansura Jaigirdar
+SUPPORT ASTRONOMER    Ian Skillen
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:40
+MORNING TWILIGHT (UT) 06:31
+SUNRISE (UT)          07:48
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       10:51
+TWILIGHT TIME (HRS)   02:34
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          18:50
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   0.7  100    19.1  29.7  196   759.3    0.7   5.3     8.0  100    86 
+20:00   0.4  100    23.3  30.0  179   759.4    0.4   5.0     7.8  100    87 
+21:00  -0.5  100    17.9  27.5  240   759.5   -0.5   4.6     7.7  100    85 
+22:00   0.1  100    18.0  29.8  194   759.6    0.1   4.7     7.8  100    86 
+23:00  -1.2  100    33.9  40.1  194   759.8   -1.2   4.4     7.6  100    85 
+00:00  -1.3  100    35.3  43.2  217   759.0   -1.3   4.1     7.5  100    82 
+01:00  -1.3  100    20.0  29.8  244   758.8   -1.3   3.9     7.4  100    83 
+02:00  -1.2  100    21.0  27.0  176   758.2   -1.2   3.8     7.3  100    83 
+03:00  -1.5  100    25.7  30.6  171   758.3   -1.5   3.5     7.2  100    82 
+04:00  -1.4  100    27.9  31.8  161   757.2   -1.4   3.2     7.1  100    85 
+05:00  -2.4  100    42.1  51.1  154   756.4   -2.4   2.8     6.9  100    84 
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+entire night lost to humidity and winter mix of precipitation
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 434459 Bias frame       16:21:24.00 +20:00:00.1 2000.00  13:17 1.053  WFC    0.0  180  I                                engineering exposure during day
+ 434460 Bias frame       16:21:24.00 +20:00:00.0 2000.00  13:25 1.063  WFC    0.0  180  I                                engineering exposure during day
+ 434461 Bias frame       16:21:23.99 +19:59:59.8 2000.00  13:32 1.073  WFC    0.0  180  I                                engineering exposure during day
+ 434462 Bias frame        0:00:00.00 +00:00:00.0 2000.00  17:54 4.752  WFC    0.0  180  I                                
+ 434463 Bias frame        0:00:00.00 +00:00:00.0 2000.00  17:54 4.752  WFC    0.0  180  I                                
+ 434464 Bias frame        0:00:00.00 +00:00:00.0 2000.00  17:55 4.752  WFC    0.0  180  I                                
+ 434465 Bias frame        0:00:00.00 +00:00:00.0 2000.00  17:55 4.752  WFC    0.0  180  I                                
+ 434466 Bias frame        0:00:00.00 +00:00:00.0 2000.00  17:56 4.752  WFC    0.0  180  I                                
+ 434467 Bias frame        0:00:00.00 +00:00:00.0 2000.00  17:57 4.752  WFC    0.0  180  I                                
+ 434468 Bias frame        0:00:00.00 +00:00:00.0 2000.00  17:57 4.752  WFC    0.0  180  I                                
+ 434469 Bias frame        0:00:00.00 +00:00:00.0 2000.00  17:58 4.752  WFC    0.0  180  I                                
+ 434470 Bias frame        0:00:00.00 +00:00:00.0 2000.00  17:58 4.752  WFC    0.0  180  I                                
+ 434471 Bias frame        0:00:00.00 +00:00:00.0 2000.00  17:59 4.752  WFC    0.0  180  I                                
+ 434472 Bias frame        0:00:00.00 +00:00:00.0 2000.00  18:00 4.752  WFC    0.0  180  I                                
+ 434473 Bias frame        0:00:00.00 +00:00:00.0 2000.00  18:00 4.752  WFC    0.0  180  I                                
+ 434474 Bias frame        0:00:00.00 +00:00:00.0 2000.00  18:01 4.752  WFC    0.0  180  I                                
+ 434475 Bias frame        0:00:00.00 +00:00:00.0 2000.00  18:01 4.752  WFC    0.0  180  I                                
+ 434476 Bias frame        0:00:00.00 +00:00:00.0 2000.00  18:02 4.752  WFC    0.0  180  I                                

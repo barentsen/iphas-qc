@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 11 08 07:29
+
+TELESCOPE             INT
+DATE                  20111107
+OBSERVER/S            Kupfer
+PROGRAMME             UVEX survey
+PROPOSAL REF          N2
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.41
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:30
+EVENING TWILIGHT (UT) 19:43
+MORNING TWILIGHT (UT) 06:08
+SUNRISE (UT)          07:21
+%ILLUM. LUNAR DISK    93
+DARK TIME (HRS)       10:25
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          05:30
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   8.7   50    15.2  16.7   71   770.7    8.7    9.     11.   50     52
+20:00   8.3   52     5.5   7.0  343   771.2    8.3    9.     10.   52     58
+21:00   7.9   54    12.9  13.5    0   771.6    7.9    8.     10.   54     63
+22:00   8.5   49     8.6   9.9  315   772.0    8.5    9.     10.   49     55
+23:00   8.6   49    15.7  17.1  303   771.9    8.6    9.     10.   49     53
+00:00   8.2   51     6.9   7.2  305   771.7    8.2    9.     10.   51     54
+01:00   8.2   55     8.5   8.4  290   771.4    8.2    9.     10.   55     58
+02:00   8.1   56     7.4   7.9  278   771.2    8.1    9.     10.   56     59
+03:00   8.1   56     9.5  10.6  277   770.7    8.1    8.     10.   56     60
+04:00   7.8   57    12.0  13.2  239   770.5    7.8    9.     10.   57     59
+05:00   7.2   62    12.6  13.8  277   770.4    7.2    8.     10.   62     62
+06:00   7.0   61    11.4  12.2  296   770.5    7.0    8.     10.   61     63
+07:00   7.3   60     9.6  10.2  298   770.7    7.3    8.     10.   60     62
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+high clouds, from 3UT on very cloudy
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

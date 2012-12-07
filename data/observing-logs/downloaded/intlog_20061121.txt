@@ -1,0 +1,74 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 11 22 05:08
+
+TELESCOPE             INT
+DATE                  20061121
+OBSERVER/S            Niall Deacon
+PROGRAMME             UVEX
+PROPOSAL REF          N2
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    MH
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:17
+SUNRISE (UT)          07:32
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       10:39
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          18:40
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   6.8   49    53.4  70.3  140   775.6    6.8  10.3    12.4   49    43 
+20:00   7.0   58    42.3  58.9  141   776.6    7.0  10.2    12.3   58    48 
+21:00   7.1   57    59.3  60.4  106   777.2    7.1  10.3    12.4   57    49 
+22:00   7.1   56    51.5  61.0  117   777.3    7.1  10.1    12.4   56    50 
+23:00   7.2   54    62.6  71.4  109   776.8    7.2  10.1    12.4   54    49 
+00:00   7.0   53    45.9  60.2  134   777.0    7.0  10.0    12.4   53    47 
+01:00   6.9   53    40.4  47.0  103   776.8    6.9   9.9    12.3   53    47 
+02:00   7.2   49    31.3  40.3  131   777.0    7.2  10.0    12.4   49    44 
+03:00   7.4   47    42.3  46.8  106   776.7    7.4  10.1    12.4   47    44 
+04:00   7.1   49    39.0  46.5  105   776.2    7.1  10.2    12.4   49    44 
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+cloudy, clear patches too short to observe in
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Time lost due to cloud
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 535694 Bias              0:00:00.00 +00:00:00.0 2006.889 12:24 4.249  WFC    0.0  180  Halpha                           
+ 535695 Bias              0:00:00.00 +00:00:00.0 2006.889 14:53 4.245  WFC    0.0  180  HeI 5870                         
+ 535696 Bias              0:00:00.00 +00:00:00.0 2006.889 15:55 4.246  WFC    0.0  180  HeI 5870                         
+ 535697 Bias              0:00:00.00 +00:00:00.0 2006.889 16:00 4.246  WFC    0.0  180  HeI 5870                         
+ 535698 Bias              0:00:00.00 +00:00:00.0 2006.889 16:39 4.246  WFC    0.0  180  HeI 5870                         
+ 535699 Bias              0:00:00.00 +00:00:00.0 2006.889 16:45 4.246  WFC    0.0  180  HeI 5870                         
+ 535700 Bias              0:00:00.00 +00:00:00.0 2006.889 17:38 4.246  WFC    0.0  180  HeI 5870                         
+ 535701 Bias              0:00:00.00 +00:00:00.0 2006.889 17:56 4.249  WFC    0.0  180  HeI 5870                         
+ 535702 AGB               0:00:00.00 +00:00:00.0 2006.889 17:57 4.249  WFC    2.0  180  Halpha                           
+ 535703 AGB               0:00:00.00 +00:00:00.0 2006.889 17:59 4.249  WFC    2.1  180  Halpha                           
+ 535704 Bias              0:00:00.00 +00:00:00.0 2006.889 18:01 4.249  WFC    0.0  180  Halpha                           
+ 535705 Bias              0:00:00.00 +00:00:00.0 2006.889 18:57 4.249  WFC    0.0  180  Halpha                           
+ 535706 Bias              0:00:00.00 +00:00:00.0 2006.889 18:58 4.249  WFC    0.0  180  Halpha                           
+ 535707 Bias              0:00:00.00 +00:00:00.0 2006.889 18:59 2.974  WFC    0.0  180  Halpha                           
+ 535708 Bias                                              18:59        WFC    0.0       Halpha                           
+ 535709 Bias                                              19:00        WFC    0.0       Halpha                           
+ 535710 Bias                                              19:00        WFC    0.0       Halpha                           
+ 535711 Bias                                              19:01        WFC    0.0       Halpha                           
+ 535712 Bias                                              19:02        WFC    0.0       Halpha                           
+ 535713 Bias                                              19:02        WFC    0.0       Halpha                           
+ 535714 Bias                                              19:03        WFC    0.0       Halpha                           
+ 535715 Bias             21:59:59.99 +15:00:00.0 2000.00  19:06 1.029  WFC    0.0  180  HeI 5870                         
+ 535716 Bias              0:00:00.00 +00:00:00.0 2000.00  23:41 1.000  WFC    0.0  180  HeI 5870                         
+ 535717 Bias              0:00:00.00 +00:00:00.0 2000.00  04:48 1.000  WFC    0.0  180  HeI 5870                         

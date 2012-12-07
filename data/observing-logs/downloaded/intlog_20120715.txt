@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 07 16 06:37
+
+TELESCOPE             INT
+DATE                  20120715
+OBSERVER/S            Rasmus Voss
+PROGRAMME             Kepler/UVEX survey
+PROPOSAL REF          N1
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    DF
+
+TEL STATION / FOCUS   Prime  / 43.35
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:20
+EVENING TWILIGHT (UT) 21:44
+MORNING TWILIGHT (UT) 04:52
+SUNRISE (UT)          06:16
+%ILLUM. LUNAR DISK    10
+DARK TIME (HRS)       07:08
+TWILIGHT TIME (HRS)   02:48
+MOONRISE (UT)         03:51
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  19.9    8    26.8  40.7  107   776.2   19.9   20.     22.    8     13
+22:00  19.8    8    33.6  49.9   99   776.8   19.8   20.     22.    8     13
+23:00  19.7    9    28.2  31.9  111   777.3   19.7   20.     22.    9     13
+00:00  19.6    9    25.3  41.3  134   777.4   19.6   19.     21.    9     13
+01:00  19.5    9    28.7  37.8  116   777.3   19.5   19.     22.    9     13
+02:00  19.3   12    24.8  30.7  120   777.2   19.3   19.     21.   12     17
+03:00  19.8   10    38.3  41.2   88   776.8   19.8   19.     21.   10     15
+04:00  19.6   10    33.6  36.9   73   776.6   19.6   19.     21.   10     15
+05:00  19.6   10    28.9  33.5   74   776.6   19.6   19.     21.   10     15
+06:00  19.6   10    24.4  31.6   67   776.5   19.6   19.     21.   10     15
+
+TIME LOST weather           01:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clouds until UT 22.30, some clouds over the night, worst UT 1.15-1.45 - seeing 1.0 - 1.3 arcsec
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 11 13 02:16
+
+TELESCOPE             INT
+DATE                  20061112
+OBSERVER/S            Quentin Parker
+PROGRAMME             IPHAS
+PROPOSAL REF          IPHAS              
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:27
+EVENING TWILIGHT (UT) 19:41
+MORNING TWILIGHT (UT) 06:11
+SUNRISE (UT)          07:25
+%ILLUM. LUNAR DISK    47
+DARK TIME (HRS)       10:30
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         00:48
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  11.6   44    14.8  15.1  318   775.8   11.6  14.3    16.4   44    45 
+20:00  11.4   44    13.2  13.9  331   776.2   11.4  14.2    16.4   44    42 
+21:00  11.6   42    12.9  16.2  219   776.6   11.6  14.3    16.4   42    42 
+22:00  11.6   43     9.5  12.5  271   776.7   11.6  14.6    16.4   43    40 
+23:00  11.6   43    10.9  10.4  192   776.5   11.6  14.6    16.3   43    40 
+00:00  11.4   43     6.7   6.8  270   776.2   11.4  14.9    16.5   43    41 
+01:00  11.1   44     1.0   1.1  182   775.7   11.1  15.0    16.3   44    43 
+02:00  11.3   44     7.1   7.5  157   775.7   11.3  14.8    16.4   44    43 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Some light rain earlier, complete thick cloud cover. Weather map not looking good.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Decided to abandonthe night (well go to the lodge anyway) at 02:15am (after filling cryostat)
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 534866 Bias frame       13:45:00.00 +45:00:00.0 2000.00  12:36 1.069  WFC    0.0  180  [OIII]5007                       

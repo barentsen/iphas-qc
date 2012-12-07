@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 10 07 02:55
+
+TELESCOPE             INT
+DATE                  20051006
+OBSERVER/S            Rosenberg, cgonzal, angelrls
+PROGRAMME             Old Open Clusters and OB associations in M33
+PROPOSAL REF          C31
+TELESCOPE OPERATOR    observer
+SUPPORT ASTRONOMER    A. Cadwell
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:00
+EVENING TWILIGHT (UT) 20:11
+MORNING TWILIGHT (UT) 05:49
+SUNRISE (UT)          07:01
+%ILLUM. LUNAR DISK    13
+DARK TIME (HRS)       09:38
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          20:49
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  10.8   77     7.7  12.0  143   770.5   10.8  15.2    14.9   77    64 
+20:00   8.7   88    14.5  16.9  248   770.3    8.7  14.6    14.9   88    63 
+21:00   9.5   82    10.1  11.9  215   770.8    9.5  14.6    15.0   82    63 
+22:00   9.7   81    11.4  12.2  233   771.1    9.7  14.3    15.1   81    64 
+23:00  10.0   79    13.9  16.5  185   771.3   10.0  14.2    15.0   79    64 
+00:00  10.6   75     9.8  11.7  216   770.8   10.6  14.0    15.0   75    63 
+01:00  10.2   75     8.7  11.5  222   770.4   10.2  13.9    14.8   75    64 
+02:00  10.1   70    11.4  15.3  198   769.9   10.1  13.8    14.9   70    55 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% cloud cover, humidity variable with peaks over 80%
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 473355 TEST             11:00:00.00 +11:00:00.0 2000.00  13:00 1.170  WFC   15.1  180  U                                
+ 473356 Bias frame       11:00:00.00 +10:59:59.9 2000.00  13:01 1.173  WFC    0.0  180  U                                

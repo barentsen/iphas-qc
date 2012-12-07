@@ -1,0 +1,52 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 12 06 18:24
+
+TELESCOPE             INT
+DATE                  20111205
+OBSERVER/S            B. Sipocz, G. Kovacs
+PROGRAMME             Follow-up of candidates from the WFCAM Transit Survey
+PROPOSAL REF          P17
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Hugo Ledo
+
+TEL STATION / FOCUS   Prime  / 43.55
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:27
+SUNRISE (UT)          07:42
+%ILLUM. LUNAR DISK    82
+DARK TIME (HRS)       10:49
+TWILIGHT TIME (HRS)   02:31
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          04:16
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   6.7   25    15.0  22.2   99   772.0    6.7    8.     10.   25     28
+20:00   6.2   30    20.2  24.7  107   772.5    6.2    8.     10.   30     32
+21:00   5.9   28    19.3  25.5  132   772.6    5.9    7.     10.   28     31
+22:00   5.8   26    17.1  38.0  167   772.9    5.8    7.      9.   26     30
+23:00   6.0   28    17.4  25.0  194   772.8    6.0    7.      9.   28     30
+00:00   6.7   21    11.3  30.4  162   772.8    6.7    7.      9.   21     25
+01:00   5.7   26    26.5  36.6  171   772.3    5.7    6.      9.   26     29
+02:00   5.6   25     6.2  13.7  177   772.3    5.6    6.      8.   25     29
+03:00   5.5   25     8.9  11.7  171   772.3    5.5    6.      8.   25     29
+04:00   5.0   22     3.0   9.7  126   772.0    5.0    6.      8.   22     26
+05:00   5.8   10     3.4   7.3  151   771.9    5.8    6.      8.   10     16
+06:00   6.2   13     1.0   2.4  136   772.0    6.2    7.      8.   13     18
+07:00   5.6   10     4.0   6.0  134   772.4    5.6    6.      8.   10     15
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clear night,  very bad seeing (>2-3"), it improved to ~0.8" for the last few hou
+rs.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+After raising the lower shutter the system couldn't be switched back to computer
+ mode using the key on the rack, it needed to be reset. 
+(Printing/e-mailing of nightlog didn't work thus following workaround in fault 19709 obslog was restarted and this log was regenerated the begining of the next night).
+

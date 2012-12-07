@@ -1,0 +1,51 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 12 20 07:58
+
+TELESCOPE             INT
+DATE                  20111219
+OBSERVER/S            Mansour Karami, Hassan Fathivavsari
+PROGRAMME             Local fossil groups; galaxy properties and formation of brightest cluster galaxies.
+PROPOSAL REF          INO2
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Patrick, Karami
+
+TEL STATION / FOCUS   Prime  / 43.50
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:25
+EVENING TWILIGHT (UT) 19:42
+MORNING TWILIGHT (UT) 06:35
+SUNRISE (UT)          07:52
+%ILLUM. LUNAR DISK    28
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:34
+MOONRISE (UT)         03:11
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   2.9   98    34.0  47.0   78   770.6   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   3.1   98    32.7  50.3   89   771.2   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   3.6   98    42.1  53.7   73   771.4   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   2.9   98    34.4  45.0   81   771.5   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   1.9   98    53.0  54.0   77   771.2   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   4.5   30    40.8  60.9  103   771.4   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   4.8   26    45.3  52.6  102   771.4   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   4.7   21    37.1  47.3  134   771.4   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   3.9   21    41.1  53.1  125   771.1   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   3.1   35    29.1  50.0  144   770.5   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   4.3   23    29.2  47.6  147   770.4   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   4.4   25    29.6  43.1  126   770.8   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   4.0   33    31.1  40.5  142   771.1   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   4.0   33    31.1  40.5  142   771.1   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           06:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humidity from sunset to about 1 AM.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Weather conditions (high humidity)
+
+

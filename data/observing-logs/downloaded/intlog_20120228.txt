@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 02 29 07:05
+
+TELESCOPE             INT
+DATE                  20120228
+OBSERVER/S            OVIDIU & STUDENTS
+PROGRAMME             ASTEROIDS
+PROPOSAL REF          C6                 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    LEE
+
+TEL STATION / FOCUS   Prime  / 43.5
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:17
+EVENING TWILIGHT (UT) 20:28
+MORNING TWILIGHT (UT) 06:19
+SUNRISE (UT)          07:30
+%ILLUM. LUNAR DISK    40
+DARK TIME (HRS)       09:51
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          01:20
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -2.4   48    32.2  36.3  340   767.5   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00  -3.3   87    35.1  41.8  146   768.0   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00  -2.7   71    32.8  32.5   49   768.5   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   0.4   16    35.5  39.7  213   768.9   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00  -0.3   19    38.0  41.5  157   768.8   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   0.1   11    34.4  38.7   72   768.8   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   0.1   10    38.2  34.7  344   768.6   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   0.4    9    18.6  27.2  338   768.3   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   0.0    8    17.9  29.0  330   768.1   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   0.3    7    31.0  44.9  312   768.3   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   0.8    7    41.7  52.3  306   768.4   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           01:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+WORSE FIRST FEW HRS (HUMIDITY) BETTER AND BETTER AFTER 2-1" SEEING
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+MANY THANKS TO CAT, IAC AND ING FOR PPROVIDING THIS NICE TRAINING AND SUPPORT TO THE STUDENTS
+
+

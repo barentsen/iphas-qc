@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 06 11 07:10
+
+TELESCOPE             INT
+DATE                  20120610
+OBSERVER/S            Jorge Casares
+PROGRAMME             UVEX Survey
+PROPOSAL REF          C86              
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Dora Fohring
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:17
+EVENING TWILIGHT (UT) 21:43
+MORNING TWILIGHT (UT) 04:39
+SUNRISE (UT)          06:05
+%ILLUM. LUNAR DISK    54
+DARK TIME (HRS)       06:56
+TWILIGHT TIME (HRS)   02:52
+MOONRISE (UT)         00:47
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  10.2   58    40.4  47.7   56   775.9   10.2                 58      #
+22:00   9.8   61    50.8  54.3   71   776.2    9.8                 61      #
+23:00  10.1   64    56.9  61.3   73   776.2   10.1                 64      #
+00:00  10.0   61    50.9  60.1   70   776.4   10.0                 61      #
+01:00  10.3   60    55.2  62.6   67   776.1   10.3                 60      #
+02:00  10.4   57    54.6  58.6   74   775.8   10.4                 57      #
+03:00  10.1   63    54.0  57.2   69   775.4   10.1                 63      #
+04:00   9.8   68    62.0  69.7   80   774.9    9.8                 68      #
+05:00   9.7   69    61.1  66.2   74   774.9    9.7                 69      #
+06:00   9.0   70    58.4  64.1   73   774.6    9.0                 70      #
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+very windy, high humidity sometimes hiting 80 % and very bad seeing ~3"
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

@@ -1,0 +1,114 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 03 29 07:02
+
+TELESCOPE             INT
+DATE                  20090328
+OBSERVER/S            MM and HGK
+PROGRAMME             Coma cluster Halpha 
+PROPOSAL REF          P18                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    D Jones
+
+TEL STATION / FOCUS   Prime  / 43.65
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:34
+EVENING TWILIGHT (UT) 20:46
+MORNING TWILIGHT (UT) 05:46
+SUNRISE (UT)          06:58
+%ILLUM. LUNAR DISK    7
+DARK TIME (HRS)       09:00
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:43
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   0.3   55    32.0  35.2  336   763.3    0.3    5.      8.   55     48
+21:00  -1.0   72    27.7  35.7  313   763.4   -1.0    3.      7.   72     61
+22:00  -0.1   31    24.1  36.0  329   764.0   -0.1    3.      7.   31     38
+23:00   0.3   22    29.0  35.5  331   763.7    0.3    3.      7.   22     35
+00:00   0.6   20    33.0  35.6  335   764.3    0.6    3.      7.   20     29
+02:00   1.0   17    28.4  34.0  329   764.0    1.0    3.      7.   17     28
+03:00   1.6   14    30.7  33.5  345   763.5    1.6    3.      6.   14     25
+04:00   1.4   18    28.8  29.6  336   763.7    1.4    2.      6.   18     28
+05:00   0.9   16    27.0  29.2  342   763.5    0.9    2.      5.   16     28
+06:00  -1.8   68    37.3  41.4  344   762.3   -1.8    1.      6.   68     67
+
+TIME LOST weather           01:00
+TIME LOST Technical         00:30
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humidity at the begining, later reduced. At around 4:50am had to shut down the telescope due to humidity warning
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Despite the adequate introduction to the INT, a number of technical difficulties which could have been overcome easily at the presence of  the
+support astronomer, occured which took some valuable observing time from us in this run.
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 663964 Bias              0:00:00.00 +00:00:00.0  2000.00 11:02 4.500  WFC    0.0  180  I                                
+ 663965 sky flat          7:06:59.99 +01:19:59.9  2000.00 19:42 1.128  WFC    2.1  180  [SII]6725                        
+ 663966 sky flat SII      7:06:59.99 +01:19:59.9  2000.00 19:44 1.127  WFC    3.5  180  [SII]6725                        
+ 663967 sky flat SII      7:07:00.66 +01:20:10.1  2000.00 19:46 1.127  WFC    6.1  180  [SII]6725                        
+ 663968 sky flat SII      7:06:59.33 +01:19:49.8  2000.00 19:47 1.127  WFC    7.5  180  [SII]6725                        
+ 663969 sky flat r        7:06:59.33 +01:19:49.9  2000.00 19:50 1.127  WFC    2.1  180  r                                
+ 663970 sky flat r        7:06:59.33 +01:19:49.9  2000.00 19:52 1.127  WFC    3.1  180  r                                
+ 663971 sky flat r        7:07:00.66 +01:20:10.1  2000.00 19:53 1.126  WFC    5.1  180  r                                
+ 663972 sky flat r        7:06:59.99 +01:19:59.9  2000.00 19:55 1.127  WFC    8.1  180  r                                
+ 663973 sky flat r        7:07:01.33 +01:20:20.0  2000.00 19:57 1.127  WFC   15.0  180  r                                
+ 663974 sky flat r        7:06:58.66 +01:20:19.9  2000.00 19:59 1.127  WFC   20.1  180  r                                
+ 663975 Focus run         7:24:14.40 -00:33:03.9  2000.00 20:24 1.148  WFC    9.5  180  r                                
+ 663976 Standard r        8:50:23.90 +00:01:52.0  1950.00 20:43 1.177  WFC    5.1  180  r                                
+ 663977 Standard r        8:50:23.90 +00:01:52.0  1950.00 20:48 1.171  WFC   15.1  180  r                                
+ 663978 Standard SII      8:50:23.89 +00:01:52.0  1950.00 20:56 1.163  WFC   15.1  180  [SII]6725                        
+ 663979 Standard SII      8:50:24.56 +00:02:02.0  1950.00 21:01 1.159  WFC   15.1  180  [SII]6725                        
+ 663980 Coma field 1 SW  12:58:32.99 +27:25:30.0  2000.00 21:10 1.862  WFC 1199.4  180  [SII]6725                        
+ 663981 Coma field 1 SW  12:58:32.99 +27:25:29.9  2000.00 21:34 1.637  WFC 1198.8  180  [SII]6725                        
+ 663982 Coma field 1 SW  12:58:33.00 +27:25:29.9  2000.00 21:57 1.482  WFC 1199.0  180  [SII]6725                        
+ 663983 Coma field 1 SW  12:58:32.99 +27:25:30.1  2000.00 22:24 1.375  WFC  299.3  180  r                                
+ 663984 Coma field 1 SW  12:58:33.00 +27:25:30.0  2000.00 22:31 1.341  WFC  300.0  180  r                                
+ 663985 Coma field 1 SW  12:58:33.00 +27:25:30.1  2000.00 22:39 1.307  WFC  299.4  180  r                                
+ 663986 standrad SA101-3  9:57:31.19 -00:21:51.9  2000.00 22:49 1.145  WFC   15.1  180  r                                
+ 663987 standrad SA101-3  9:57:31.86 -00:21:42.0  2000.00 22:51 1.146  WFC   15.1  180  r                                
+ 663988 standrad SA101-3  9:57:30.53 -00:22:01.7  2000.00 22:53 1.146  WFC   14.5  180  r                                
+ 663989 standrad SA101-3  9:57:30.53 -00:22:01.9  2000.00 22:55 1.147  WFC   15.1  180  [SII]6725                        
+ 663990 standrad SA101-3  9:57:31.86 -00:21:42.1  2000.00 22:57 1.147  WFC   15.1  180  [SII]6725                        
+ 663991 standrad SA101-3  9:57:30.52 -00:22:01.7  2000.00 22:59 1.148  WFC   15.1  180  [SII]6725                        
+ 663992 standrad SA101-3  9:57:31.20 -00:21:51.9  2000.00 23:01 1.148  WFC   15.1  180  [SII]6725                        
+ 663993 Coma Field 1 SW  12:58:32.99 +27:25:30.0  2000.00 23:06 1.187  WFC 1198.9  180  [SII]6725                        
+ 663994 Coma Field 1 SW  12:58:32.99 +27:25:30.0  2000.00 23:27 1.131  WFC 1199.0  180  [SII]6725                        
+ 663995 Coma Field 1 SW  12:58:33.00 +27:25:29.9  2000.00 23:49 1.087  WFC 1199.3  180  [SII]6725                        
+ 663996 Coma field 1 SW  12:58:33.00 +27:25:30.1  2000.00 00:11 1.063  WFC  299.9  180  r                                
+ 663997 Coma field 1 SW  12:58:33.00 +27:25:30.0  2000.00 00:18 1.054  WFC  299.9  180  r                                
+ 663998 Coma field 1 SW  12:58:33.00 +27:25:29.9  2000.00 00:25 1.045  WFC  299.9  180  r                                
+ 663999 Coma field 1 SW  12:58:33.00 +27:25:29.9  2000.00 00:39 1.030  WFC  300.0  180  r                                
+ 664000 Coma field 1 SW  12:58:32.99 +27:25:30.0  2000.00 00:49 1.021  WFC  299.4  180  r                                
+ 664001 Coma field 1 SW  12:58:33.00 +27:25:29.9  2000.00 01:00 1.013  WFC  300.1  180  r                                
+ 664002 Coma Field 1 SW  12:58:32.99 +27:25:30.0  2000.00 01:06 1.006  WFC 1198.8  180  [SII]6725                        
+ 664003 Coma Field 1 SW  12:58:33.00 +27:25:30.0  2000.00 01:29 1.001  WFC 1199.4  180  [SII]6725                        
+ 664004 Coma Field 1 SW  12:58:33.00 +27:25:29.9  2000.00 01:52 1.003  WFC 1199.4  180  [SII]6725                        
+ 664005 Standard SII     12:42:20.09 -00:32:29.0  2000.00 02:17 1.174  WFC   15.1  180  [SII]6725                        
+ 664006 Standard SII     12:42:20.43 -00:32:23.9  2000.00 02:19 1.176  WFC   15.1  180  [SII]6725                        
+ 664007 Standard SII     12:42:19.76 -00:32:33.9  2000.00 02:20 1.179  WFC   15.1  180  [SII]6725                        
+ 664008 Standard SA104-4 12:42:19.76 -00:32:33.9  2000.00 02:22 1.181  WFC   15.1  180  r                                
+ 664009 Standard SA104-4 12:42:20.43 -00:32:24.0  2000.00 02:24 1.183  WFC   15.1  180  r                                
+ 664010 Standard SA104-4 12:42:20.09 -00:32:29.0  2000.00 02:27 1.188  WFC   15.1  180  r                                
+ 664011 Coma Field 2 SW  12:56:19.00 +27:24:55.1  2000.00 02:59 1.060  WFC 1199.5  180  [SII]6725                        
+ 664012 Coma Field 2 SW  12:56:18.99 +27:24:55.0  2000.00 03:20 1.095  WFC 1199.5  180  [SII]6725                        
+ 664013 Coma Field 2 SW  12:56:18.99 +27:24:55.1  2000.00 03:42 1.142  WFC 1199.2  180  [SII]6725                        
+ 664014 Coma Field 2 SW  12:56:19.00 +27:24:55.0  2000.00 04:04 1.179  WFC  299.4  180  r                                
+ 664015 Coma Field 2 SW  12:56:18.99 +27:24:55.0  2000.00 04:10 1.197  WFC  300.0  180  r                                
+ 664016 Coma Field 2 SW  12:56:19.00 +27:24:55.0  2000.00 04:17 1.217  WFC  299.9  180  r                                
+ 664017 Coma Field 2 SW  12:56:19.00 +27:24:55.0  2000.00 04:22 1.236  WFC  299.9  180  r                                
+ 664018 Coma Field 2 SW  12:56:18.99 +27:24:54.7  2000.00 04:30 1.262  WFC  299.9  180  r                                
+ 664020 Bias              0:00:00.00 +00:00:00.0  2000.00 04:59 2.469  WFC    0.0    0  [SII]6725                        
+ 664021 Bias              0:00:00.00 +00:00:00.0  2000.00 05:00 2.469  WFC    0.0    0  [SII]6725                        
+ 664022 Bias              0:00:00.00 +00:00:00.0  2000.00 05:01 2.469  WFC    0.0    0  [SII]6725                        
+ 664023 Bias              0:00:00.00 +00:00:00.0  2000.00 05:02 2.469  WFC    0.0    0  [SII]6725                        
+ 664024 Bias              0:00:00.00 +00:00:00.0  2000.00 05:03 2.469  WFC    0.0    0  [SII]6725                        
+ 664025 Bias              0:00:00.00 +00:00:00.0  2000.00 05:04 2.469  WFC    0.0    0  [SII]6725                        
+ 664026 Bias              0:00:00.00 +00:00:00.0  2000.00 05:04 2.469  WFC    0.0    0  [SII]6725                        
+ 664027 Bias              0:00:00.00 +00:00:00.0  2000.00 05:05 2.469  WFC    0.0    0  [SII]6725                        
+ 664028 Bias              0:00:00.00 +00:00:00.0  2000.00 05:11 2.469  WFC    0.0    0  [SII]6725                        

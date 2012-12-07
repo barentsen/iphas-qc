@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 12 07 06:59
+
+TELESCOPE             INT
+DATE                  20111206
+OBSERVER/S            B. Sipocz, G. Kovacs
+PROGRAMME             Follow-up of candidates from the WFCAM Transit Survey
+PROPOSAL REF          P17
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Hugo Ledo
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:27
+SUNRISE (UT)          07:43
+%ILLUM. LUNAR DISK    88
+DARK TIME (HRS)       10:49
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          05:10
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.7   19     3.9   8.0  120   772.6    4.7    5.      9.   19     22
+20:00   5.7   15     2.4   4.0  150   773.3    5.7    7.      9.   15     20
+21:00   6.1   14    13.4  14.5  150   773.4    6.1    7.      9.   14     19
+22:00   5.8   14     8.9  11.5  151   773.8    5.8    7.      9.   14     19
+23:00   5.7   15     9.7  12.2  183   773.6    5.7    7.      9.   15     20
+00:00   3.3   36     9.3  11.8  156   773.3    3.3    7.      9.   36     35
+01:00   4.2   22    11.3   9.9  182   772.9    4.2    7.      9.   22     23
+02:00   5.9    9    27.7  29.2  154   772.6    5.9    6.      9.    9     15
+03:00   5.5   11    20.6  30.2  171   771.5    5.5    6.      8.   11     16
+04:00   4.6   16    15.3  28.4  169   772.0    4.6    5.      7.   16     20
+05:00   4.9   14    14.1  16.3  150   772.2    4.9    6.      8.   14     18
+06:00   5.6   11    16.1  21.8  155   772.5    5.6    6.      8.   11     17
+
+TIME LOST weather           9:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clouds with some small clear patches and around midnight with light rain. Cleared up for 2 hours but overcast again (with some clear patches) and light snow at the beginnig of twilight.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

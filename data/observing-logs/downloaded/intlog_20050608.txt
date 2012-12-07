@@ -1,0 +1,114 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 06 09 05:54
+
+TELESCOPE             INT
+DATE                  20050608
+OBSERVER/S            E. Hatziminaoglou, A. Afonso
+PROGRAMME             Deep Imaging in SWIRE EN1
+PROPOSAL REF          CAT 1
+TELESCOPE OPERATOR    None
+SUPPORT ASTRONOMER    None
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:16
+EVENING TWILIGHT (UT) 21:42
+MORNING TWILIGHT (UT) 04:39
+SUNRISE (UT)          06:05
+%ILLUM. LUNAR DISK    4
+DARK TIME (HRS)       06:57
+TWILIGHT TIME (HRS)   02:52
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          22:04
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  11.5   45    10.7  13.5  177   772.2   11.5  16.0    16.4   45    31 
+22:00  11.3   44    13.6  14.7  156   772.5   11.3  12.9    15.6   44    38 
+23:00  11.1   43    17.5  19.2  137   772.6   11.1  12.8    14.9   43    38 
+00:00  11.1   42    14.1  17.7  170   772.5   11.1  12.6    14.8   42    36 
+01:00  10.9   42    15.5  18.8  137   772.4   10.9  12.4    14.3   42    38 
+02:00  10.7   41    14.0  21.3  154   772.0   10.7  12.0    13.9   41    38 
+03:00  10.4   45    21.0  26.1  146   771.1   10.4  11.8    13.7   45    40 
+04:00  10.0   45    17.6  21.5  170   771.1   10.0  11.3    13.2   45    42 
+05:00   9.6   48    16.7  20.1  139   771.1    9.6  10.8    12.7   48    45 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+VERY bad seeing (1.5" - 1.8" the first hour and > 2" for the rest of the night): cirrus at the beginning of the night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 453959 Bias frame        3:00:00.00 +10:00:00.0 2000.00  13:32 1.294  WFC    0.0  180  Unknown                          
+ 453960 Bias              3:00:00.00 +10:00:00.0 2000.00  13:33 1.298  WFC    0.0  180  Unknown                          
+ 453961 Bias             13:36:18.00 +62:14:10.9 2000.00  20:13 1.240  WFC    0.0  180  Unknown                          
+ 453962 Bias             13:36:17.99 +62:14:10.8 2000.00  20:14 1.238  WFC    0.0  180  g                                
+ 453963 Test 1sec        13:36:18.00 +62:14:10.9 2000.00  20:17 1.236  WFC    1.7  180  Unknown                          
+ 453964 Skyflat U 33secs 13:36:17.99 +62:14:10.7 2000.00  20:20 1.232  WFC   33.1  180  U                                Saturated
+ 453965 Bias             13:36:18.00 +62:14:11.0 2000.00  20:27 1.227  WFC    0.0  180  U                                
+ 453966 Skyflat U 7secs  13:36:17.99 +62:14:10.9 2000.00  20:30 1.224  WFC    6.5  180  U                                
+ 453967 Skyflat U 8secs  13:36:19.43 +62:14:21.0 2000.00  20:32 1.223  WFC    8.1  180  U                                
+ 453968 Skyflat U 11secs 13:36:19.43 +62:14:01.0 2000.00  20:33 1.222  WFC   11.1  180  U                                
+ 453969 Skyflat U 13secs 13:36:16.56 +62:14:01.0 2000.00  20:34 1.221  WFC   13.1  180  U                                
+ 453970 Skyflat U 17secs 13:36:16.57 +62:14:21.0 2000.00  20:36 1.220  WFC   17.1  180  U                                
+ 453971 GMOS_ACS i 10sec 16:06:17.40 +55:26:46.0 2000.00  21:03 1.351  WFC   10.1  180  Unknown                          focus 43.7 test
+ 453972 Focus run        16:06:17.39 +55:26:45.5 2000.00  21:13 1.329  WFC   20.1  180  Unknown                          
+ 453973 GMOS_ACS i 10sec  0:00:00.00 +00:00:00.0 2000.00  21:21 1.302  WFC    9.6  180  Unknown                          focus 44.06 test - telescope moving
+ 453974 GMOS_ACS i 10sec 16:06:17.40 +55:26:45.9 2000.00  21:22 1.300  WFC    9.5  180  Unknown                          focus 44.06 test
+ 453975 GMOS_ACS i 10sec 16:06:17.40 +55:26:45.9 2000.00  21:25 1.294  WFC   10.1  180  Unknown                          
+ 453976 GMOS_ACS i 5 min 16:06:22.10 +55:26:26.0 2000.00  21:28 1.280  WFC  299.3  180  Unknown                          
+ 453977 GMOS_ACS i 5 min 16:06:19.75 +55:26:26.1 2000.00  21:36 1.264  WFC  299.9  180  Unknown                          
+ 453978 GMOS_ACS i 5 min 16:06:17.40 +55:26:26.0 2000.00  21:43 1.248  WFC  299.9  180  Unknown                          
+ 453979 GMOS_ACS i 5 min 16:06:19.75 +55:26:46.0 2000.00  21:51 1.234  WFC  299.9  180  Unknown                          
+ 453980 Focus run        16:12:32.20 +55:15:13.0 2000.00  22:05 1.227  WFC   20.1  180  Unknown                          
+ 453981 Focus run        16:12:32.19 +55:15:12.9 2000.00  22:13 1.212  WFC   15.1  180  Unknown                          
+ 453982 GMOS_ACS i 10sec 16:12:32.19 +55:15:13.0 2000.00  22:20 1.198  WFC   10.1  180  Unknown                          focus 43.99 test
+ 453983 INT_3 i 5 minute 16:12:32.20 +55:15:13.0 2000.00  22:24 1.189  WFC  299.9  180  Unknown                          
+ 453984 INT_3 i 5 minute 16:12:32.19 +55:15:33.0 2000.00  22:31 1.179  WFC  299.9  180  Unknown                          
+ 453985 INT_3 i 5 minute 16:12:32.20 +55:15:53.0 2000.00  22:40 1.168  WFC  299.9  180  Unknown                          
+ 453986 INT_3 i 5 minute 16:12:34.54 +55:15:52.9 2000.00  22:52 1.156  WFC  299.4  180  Unknown                          
+ 453987 INT_3 i 5 minute 16:12:36.87 +55:15:53.0 2000.00  22:59 1.149  WFC  299.3  180  Unknown                          
+ 453988 INT_3 i 5 minute 16:12:36.88 +55:15:32.9 2000.00  23:07 1.142  WFC  299.9  180  Unknown                          
+ 453989 INT_3 i 5 minute 16:12:36.88 +55:15:12.9 2000.00  23:14 1.137  WFC  300.0  180  Unknown                          
+ 453990 INT_3 i 5 minute 16:12:36.87 +55:14:53.0 2000.00  23:21 1.132  WFC  299.4  180  Unknown                          
+ 453991 INT_3 i 5 minute 16:12:34.53 +55:14:52.9 2000.00  23:29 1.128  WFC  300.0  180  Unknown                          
+ 453992 INT_3 i 5 minute 16:12:32.19 +55:14:53.0 2000.00  23:36 1.124  WFC  299.3  180  Unknown                          
+ 453993 INT_3 i 5 minute 16:12:34.54 +55:15:13.0 2000.00  23:44 1.122  WFC  300.0  180  Unknown                          
+ 453994 INT_3 i 5 minute 16:12:34.53 +55:15:32.8 2000.00  23:52 1.119  WFC  299.9  180  Unknown                          
+ 453995 Focus run        16:09:19.99 +54:54:00.0 2000.00  00:05 1.114  WFC   19.6  180  U                                
+ 453996 GOODS_EN1 U 30se 16:09:20.00 +54:53:59.9 2000.00  00:12 1.114  WFC   30.1  180  U                                focus 43.99 test
+ 453997 GOODS_EN1 U 30se 16:09:19.99 +54:53:59.9 2000.00  00:16 1.114  WFC   30.1  180  U                                focus 43.90 test
+ 453998 GOODS_EN1 U 30se 16:09:20.00 +54:54:00.0 2000.00  00:19 1.114  WFC   30.1  180  U                                focus 43.60 test
+ 453999 GOODS_EN1 U 30se 16:09:19.99 +54:53:59.9 2000.00  00:21 1.114  WFC   30.0  180  U                                focus 43.65 test
+ 454000 GOODS_EN1 U 30se 16:09:19.99 +54:54:00.0 2000.00  00:23 1.114  WFC   29.5  180  U                                focus 43.70 test
+ 454001 GOODS_EN1 U 30se 16:09:20.00 +54:53:59.9 2000.00  00:24 1.115  WFC   30.1  180  U                                focus 43.75 test
+ 454002 GOODS_EN1 U 30se 16:09:20.00 +54:53:59.9 2000.00  00:26 1.115  WFC   29.5  180  U                                focus 43.80 test
+ 454003 GOODS_EN1 U 30se 16:09:20.00 +54:54:00.0 2000.00  00:28 1.115  WFC   30.1  180  U                                focus 43.85 test
+ 454004 GOODS_EN1 U 30se 16:09:19.99 +54:54:00.0 2000.00  00:30 1.116  WFC   30.1  180  U                                focus 43.95 test
+ 454005 GOODS_EN1 U 30se 16:09:20.00 +54:54:00.0 2000.00  00:33 1.116  WFC   29.5  180  U                                focus 44.05
+ 454006 GOODS_EN1 U 10 m 16:09:20.00 +54:53:20.0 2000.00  00:41 1.121  WFC  599.7  180  U                                
+ 454007 GOODS_EN1 U 10 m 16:09:17.68 +54:54:00.0 2000.00  00:57 1.129  WFC  598.7  180  U                                
+ 454008 GOODS_EN1 U 10 m 16:09:17.67 +54:54:00.1 2000.00  01:09 1.138  WFC  599.2  180  U                                
+ 454009 GMOS_ACS U 10 mi 16:06:17.39 +55:26:46.0 2000.00  01:22 1.158  WFC  599.8  180  U                                
+ 454010 GMOS_ACS U 10 mi 16:06:17.39 +55:27:26.0 2000.00  01:35 1.171  WFC  599.7  180  U                                
+ 454011 GMOS_ACS U 10 mi 16:06:19.75 +55:27:05.9 2000.00  01:50 1.190  WFC  599.8  180  U                                
+ 454012 GMOS_ACS U 10 mi 16:06:19.74 +55:26:25.9 2000.00  02:03 1.209  WFC  599.8  180  U                                
+ 454013 GMOS_ACS U 10 mi 16:06:17.39 +55:26:25.9 2000.00  02:18 1.236  WFC  599.8  180  U                                
+ 454014 GMOS_ACS U 10 mi 16:06:17.40 +55:27:06.0 2000.00  02:31 1.262  WFC  599.8  180  U                                
+ 454015 INT_3 U 10 minut 16:12:32.19 +55:15:12.9 2000.00  02:45 1.275  WFC  599.7  180  U                                
+ 454016 INT_3 U 10 minut 16:12:32.20 +55:15:52.9 2000.00  02:57 1.306  WFC  599.8  180  U                                
+ 454017 INT_3 U 10 minut 16:12:36.88 +55:15:53.0 2000.00  03:10 1.340  WFC  599.7  180  U                                
+ 454018 INT_3 U 10 minut 16:12:36.88 +55:15:12.9 2000.00  03:26 1.386  WFC  599.2  180  U                                
+ 454019 INT_3 U 10 minut 16:12:36.88 +55:14:32.9 2000.00  03:39 1.431  WFC  599.8  180  U                                
+ 454020 INT_3 U 10 minut 16:12:32.19 +55:14:33.0 2000.00  03:52 1.480  WFC  599.7  180  U                                
+ 454021 GMOS_ACS U 10 mi 16:06:19.75 +55:26:45.9 2000.00  04:10 1.587  WFC  599.8  180  U                                
+ 454022 GMOS_ACS U 10 mi 16:06:15.05 +55:26:25.8 2000.00  04:25 1.661  WFC  599.8  180  U                                
+ 454023 GMOS_ACS U 10 mi 16:06:15.04 +55:27:06.1 2000.00  04:39 1.742  WFC  599.8  180  U                                

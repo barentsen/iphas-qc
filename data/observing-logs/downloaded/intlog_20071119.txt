@@ -1,0 +1,55 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 11 20 07:29
+
+TELESCOPE             INT
+DATE                  20071119
+OBSERVER/S            S.Sale
+PROGRAMME             IPHAS
+PROPOSAL REF          06B/N2             
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:24
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:16
+SUNRISE (UT)          07:30
+%ILLUM. LUNAR DISK    72
+DARK TIME (HRS)       10:38
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:02
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.3  100    38.3  49.4  181   764.1    4.3   8.1    10.7  100    83 
+20:00   3.1  100    34.6  44.5  222   764.3    3.1   7.6    10.6  100    73 
+21:00   5.2  100    48.5  58.1  207   764.5    5.2   7.8    10.7  100    86 
+22:00   5.8  100    53.2  62.9  200   764.7    5.8   8.3    10.6  100    88 
+23:00   6.2  100    44.5  50.4  183   764.9    6.2   8.5    10.4  100    87 
+00:00   6.6  100    65.8  74.1  200   764.4    6.6   9.0    10.8  100    87 
+01:00   6.8  100    47.4  61.9  214   764.3    6.8   9.5    10.8  100    87 
+02:00   6.0  100    55.5  81.7  199   763.8    6.0   9.3    10.8  100    87 
+03:00   6.0  100    52.5  63.0  201   763.8    6.0   9.0    10.9  100    86 
+04:00   6.0  100    56.4  67.8  199   763.7    6.0   8.8    10.8  100    88 
+05:00   7.3  100    47.3  64.6  204   764.3    7.3   9.3    10.9  100    89 
+06:00   7.0  100    73.0  79.9  194   763.3    7.0   9.4    11.0  100    90 
+07:00   6.8  100    67.7  82.4  201   763.6    6.8   9.4    11.0  100    90 
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humidity and rain all night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+No observing due to bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 596652 Bias              0:00:00.00 +00:00:00.0  2000.00 16:49 4.781  WFC    0.0  180  Halpha                           
+ 596653 Bias              0:00:00.00 +00:00:00.0  2000.00 16:51 4.781  WFC    0.0  180  U                                

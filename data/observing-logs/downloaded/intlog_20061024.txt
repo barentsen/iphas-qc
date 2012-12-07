@@ -1,0 +1,70 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 10 25 07:01
+
+TELESCOPE             INT
+DATE                  20061024
+OBSERVER/S            Mora and Ortiz
+PROGRAMME             short term variability in the transneptunian belt
+PROPOSAL REF          37-M               
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Romano Corradi
+
+TEL STATION / FOCUS   Prime  / 43.70
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:41
+EVENING TWILIGHT (UT) 19:53
+MORNING TWILIGHT (UT) 05:59
+SUNRISE (UT)          07:11
+%ILLUM. LUNAR DISK    7
+DARK TIME (HRS)       10:06
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          19:58
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00     #    #       #     #    #       #      #  12.2    13.7    #    93 
+20:00     #    #       #     #    #       #      #  12.1    13.9    #    94 
+21:00     #    #       #     #    #       #      #  11.6    13.7    #    91 
+22:00     #    #       #     #    #       #      #  11.0    13.6    #    89 
+23:00     #    #       #     #    #       #      #  10.7    13.7    #    84 
+00:00     #    #       #     #    #       #      #  11.2    13.6    #    93 
+01:00     #    #       #     #    #       #      #  11.4    13.7    #    90 
+02:00     #    #       #     #    #       #      #  10.5    13.6    #    71 
+03:00     #    #       #     #    #       #      #  10.3    13.5    #    55 
+04:00     #    #       #     #    #       #      #   6.8    12.2    #    87 
+05:00     #    #       #     #    #       #      #   9.3    12.2    #    78 
+06:00     #    #       #     #    #       #      #   9.5    12.2    #    85 
+
+TIME LOST weather           09:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+intense rain and fog during most of the night except for about 1 hour
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 532946 Bias             13:19:59.99 -00:00:00.0 2000.00  13:28 1.193  WFC    0.0  180  Halpha                           
+ 532947 Bias frame       13:20:00.00 +00:00:00.0 2000.00  13:30 1.195  WFC    0.0  180  Halpha                           
+ 532948 Bias             13:19:59.99 +00:00:00.0 2000.00  13:31 1.198  WFC    0.0  180  Halpha                           
+ 532949 2003UB313 R       1:37:35.09 -05:21:38.3 2000.00  02:37 1.425  WFC  399.3  180  R                                Beginning of observations
+ 532950 2003UB313 R       1:37:35.09 -05:21:39.0 2000.00  02:46 1.460  WFC  399.9  180  R                                
+ 532951 Bias              0:00:00.00 +00:00:00.0 2000.00  02:55 1.231  WFC    0.0  180  R                                
+ 532952 Bias              0:00:00.00 +00:00:00.0 2000.00  03:01 1.226  WFC    0.0  180  R                                
+ 532953 Bias              0:00:00.00 +00:00:00.0 2000.00  03:01 1.226  WFC    0.0  180  R                                
+ 532954 Bias              0:00:00.00 +00:00:00.0 2000.00  03:02 1.226  WFC    0.0  180  R                                
+ 532955 Bias              0:00:00.00 +00:00:00.0 2000.00  03:02 1.226  WFC    0.0  180  R                                
+ 532956 Bias              0:00:00.00 +00:00:00.0 2000.00  03:03 1.226  WFC    0.0  180  R                                
+ 532957 Bias              0:00:00.00 +00:00:00.0 2000.00  03:04 1.226  WFC    0.0  180  R                                
+ 532958 Bias              0:00:00.00 +00:00:00.0 2000.00  03:04 1.226  WFC    0.0  180  R                                
+ 532959 Bias              0:00:00.00 +00:00:00.0 2000.00  03:05 1.226  WFC    0.0  180  R                                
+ 532960 Bias              0:00:00.00 +00:00:00.0 2000.00  03:05 1.226  WFC    0.0  180  R                                
+ 532961 Bias              0:00:00.00 +00:00:00.0 2000.00  03:06 1.226  WFC    0.0  180  R                                
+ 532962 Bias              0:00:00.00 +00:00:00.0 2000.00  03:07 1.226  WFC    0.0  180  R                                
+ 532963 Bias              0:00:00.00 +00:00:00.0 2000.00  03:26 1.226  WFC    0.0  180  R                                

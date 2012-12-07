@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 03 03 22:53
+
+TELESCOPE             INT
+DATE                  20110303
+OBSERVER/S            David Bonfield, Jose Manuel Cao Orjales, Sam Lindsay
+PROGRAMME             Deep optical imaging of the Herschel-ATLAS fields
+PROPOSAL REF          P4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Shant Baghramian
+
+TEL STATION / FOCUS   Prime  / 43.80
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:19
+EVENING TWILIGHT (UT) 20:30
+MORNING TWILIGHT (UT) 06:16
+SUNRISE (UT)          07:27
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       09:46
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         06:56
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -3.5   96    20.2  23.1   80   764.9   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00  -2.2   97    19.1  20.3   48   765.4   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00  -2.3   97    21.8  24.9   48   765.6   n.a.  n.a.    n.a.  n.a.   n.a.
+No Met data available for second half of night
+
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cloudy, -3 degrees, wet
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 788065 Bias              2:00:00.00 +30:00:00.0  2000.00 14:58 1.060  WFC    0.0  180  [SII]6725                        
+ 788066 Flat field        2:00:00.00 +30:00:00.0  2000.00 15:13 1.041  WFC   10.1  180  r                                

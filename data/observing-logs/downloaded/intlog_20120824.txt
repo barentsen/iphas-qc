@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 08 25 05:13
+
+TELESCOPE             INT
+DATE                  20120824
+OBSERVER/S            A.Hempel
+PROGRAMME             Stromgren photometry of the Kepler field
+PROPOSAL REF          P1
+TELESCOPE OPERATOR    --
+SUPPORT ASTRONOMER    L.Patrick
+
+TEL STATION / FOCUS   Prime  / 43.26
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:50
+EVENING TWILIGHT (UT) 21:05
+MORNING TWILIGHT (UT) 05:23
+SUNRISE (UT)          06:39
+%ILLUM. LUNAR DISK    55
+DARK TIME (HRS)       08:18
+TWILIGHT TIME (HRS)   02:31
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          00:41
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00     #    #       #     #    #       #      #  17.4    20.7    #    51 
+21:00     #    #       #     #    #       #      #  14.1    20.1    #    65 
+22:00     #    #       #     #    #       #      #  13.8    19.1    #    59 
+23:00     #    #       #     #    #       #      #  14.3    19.3    #    50 
+00:00     #    #       #     #    #       #      #  14.0    19.4    #    49 
+01:00     #    #       #     #    #       #      #  13.9    19.4    #    51 
+02:00     #    #       #     #    #       #      #  14.3    19.5    #    52 
+03:00     #    #       #     #    #       #      #  14.3    19.4    #    55 
+04:00     #    #       #     #    #       #      #  14.3    19.5    #    54 
+05:00     #    #       #     #    #       #      #  14.5    19.4    #    54 
+
+TIME LOST weather           08:00
+TIME LOST Technical         00:50
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+cloudy, lost the almost the whole night, finally closed dome at 22:40
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+at 20:40 UT, temperature warning, reset DAS, powered down TRITON, and restart
+
+

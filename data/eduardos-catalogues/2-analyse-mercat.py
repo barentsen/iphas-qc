@@ -8,7 +8,9 @@ import numpy as np
 from scipy import stats
 logging.basicConfig(level=logging.INFO)
 
-merdir = "/home/gb/tmp/iphas_sep2012_eglez/apm3.ast.cam.ac.uk/~eglez/iphas/newmerges/"
+#merdir = "/home/gb/tmp/iphas_sep2012_eglez/apm3.ast.cam.ac.uk/~eglez/iphas/newmerges/"
+merdir = "/home/gb/tmp/iphas_nov2012/apm3.ast.cam.ac.uk/~eglez/iphas/newmerges/"
+
 
 csv = open("mercat-info.csv", "w")
 csv.write("mercat,field,dir,run_r,run_i,run_ha,time" \

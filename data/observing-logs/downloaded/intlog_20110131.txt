@@ -1,0 +1,53 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 02 01 14:59
+
+TELESCOPE             INT
+DATE                  20110131
+OBSERVER/S            Paloma Martinez Navajas, Ismael Perez Fournon
+PROGRAMME             ITP2010: A comprehensive study of the universe at infrared wavelengths
+PROPOSAL REF          ITP2
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Busenbender
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:56
+EVENING TWILIGHT (UT) 20:10
+MORNING TWILIGHT (UT) 06:39
+SUNRISE (UT)          07:53
+%ILLUM. LUNAR DISK    4
+DARK TIME (HRS)       10:29
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         06:36
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -2.7   97     0.0   0.0   45   767.0   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00  -4.6   91     0.0   0.0   45   767.6   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00  -3.2   97     0.0   0.0   45   768.3   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00  -3.0   97     0.0   0.0   45   768.6   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00  -5.0   95     0.0   0.0   45   769.1   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00  -4.3   96     0.0   0.0   45   768.6   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00  -2.5   97     0.0   0.0   45   768.8   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00  -2.6   97     0.0   0.0   45   768.4   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00  -2.7   97     0.0   0.0   45   768.0   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00  -3.8   96     0.0   0.0   45   768.2   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00  -2.1   97     0.0   0.0   45   768.4   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00  -2.8   97     0.0   0.0   45   768.2   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00  -3.0   97     0.0   0.0   45   768.8   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% cloud cover, high humidity, no observations
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

@@ -1,0 +1,67 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 11 26 06:39
+
+TELESCOPE             INT
+DATE                  20071125
+OBSERVER/S            Valentini M.
+PROGRAMME             D
+PROPOSAL REF          06B/N2             
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:37
+MORNING TWILIGHT (UT) 06:20
+SUNRISE (UT)          07:35
+%ILLUM. LUNAR DISK    97
+DARK TIME (HRS)       10:43
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         18:53
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+No Met data available for first half of night
+No Met data available for second half of night
+
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humidity, rain & winds
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+No observing due to bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 597074 Bias frame        0:00:00.00 +00:00:00.0  2000.00 12:17 4.611  WFC    0.0  180  U                                
+ 597075 Bias frame        0:00:00.00 +00:00:00.0  2000.00 12:19 4.611  WFC    0.0  180  U                                
+ 597076 Bias              0:00:00.00 +00:00:00.0  2000.00 19:10 4.611  WFC    0.0  180  [OIII]5007                       
+ 597077 Bias              0:00:00.00 +00:00:00.0  2000.00 19:11 4.611  WFC    0.0  180  [OIII]5007                       
+ 597078 Bias              0:00:00.00 +00:00:00.0  2000.00 19:12 4.611  WFC    0.0  180  [OIII]5007                       
+ 597079 Bias              0:00:00.00 +00:00:00.0  2000.00 19:12 4.611  WFC    0.0  180  [OIII]5007                       
+ 597080 Bias              0:00:00.00 +00:00:00.0  2000.00 19:13 4.611  WFC    0.0  180  [OIII]5007                       
+ 597081 Bias              0:00:00.00 +00:00:00.0  2000.00 19:14 4.611  WFC    0.0  180  [OIII]5007                       
+ 597082 Bias              0:00:00.00 +00:00:00.0  2000.00 19:15 4.611  WFC    0.0  180  [OIII]5007                       
+ 597083 Bias              0:00:00.00 +00:00:00.0  2000.00 19:16 4.611  WFC    0.0  180  [OIII]5007                       
+ 597084 Bias              0:00:00.00 +00:00:00.0  2000.00 19:16 4.611  WFC    0.0  180  [OIII]5007                       
+ 597085 Bias              0:00:00.00 +00:00:00.0  2000.00 19:17 4.611  WFC    0.0  180  [OIII]5007                       
+ 597086 Bias              0:00:00.00 +00:00:00.0  2000.00 19:18 4.611  WFC    0.0  180  [OIII]5007                       
+ 597087 Bias              0:00:00.00 +00:00:00.0  2000.00 19:20 4.611  WFC    0.0  180  [OIII]5007                       readout speed fast
+ 597088 Bias              0:00:00.00 +00:00:00.0  2000.00 19:20 4.611  WFC    0.0  180  [OIII]5007                       readout speed fast
+ 597089 Bias              0:00:00.00 +00:00:00.0  2000.00 19:20 4.611  WFC    0.0  180  [OIII]5007                       readout speed fast
+ 597090 Bias              0:00:00.00 +00:00:00.0  2000.00 19:21 4.611  WFC    0.0  180  [OIII]5007                       readout speed fast
+ 597091 Bias              0:00:00.00 +00:00:00.0  2000.00 19:21 4.611  WFC    0.0  180  [OIII]5007                       readout speed fast
+ 597092 Bias              0:00:00.00 +00:00:00.0  2000.00 19:22 4.611  WFC    0.0  180  [OIII]5007                       readout speed fast
+ 597093 Bias              0:00:00.00 +00:00:00.0  2000.00 19:22 4.611  WFC    0.0  180  [OIII]5007                       readout speed fast
+ 597094 Bias              0:00:00.00 +00:00:00.0  2000.00 19:23 4.611  WFC    0.0  180  [OIII]5007                       readout speed fast
+ 597095 Bias              0:00:00.00 +00:00:00.0  2000.00 19:23 4.611  WFC    0.0  180  [OIII]5007                       readout speed fast
+ 597096 Bias              0:00:00.00 +00:00:00.0  2000.00 19:24 4.611  WFC    0.0  180  [OIII]5007                       readout speed fast
+ 597097 Bias              0:00:00.00 +00:00:00.0  2000.00 19:24 4.611  WFC    0.0  180  [OIII]5007                       readout speed fast

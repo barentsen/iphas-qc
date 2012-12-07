@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 08 28 07:42
+
+TELESCOPE             INT
+DATE                  20120827
+OBSERVER/S            A.Hempel
+PROGRAMME             Stromgren photometry of the Kepler field
+PROPOSAL REF          P1
+TELESCOPE OPERATOR    --
+SUPPORT ASTRONOMER    Lee Patrick
+
+TEL STATION / FOCUS   Prime  / 43.32
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:46
+EVENING TWILIGHT (UT) 21:01
+MORNING TWILIGHT (UT) 05:26
+SUNRISE (UT)          06:40
+%ILLUM. LUNAR DISK    85
+DARK TIME (HRS)       08:25
+TWILIGHT TIME (HRS)   02:29
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:43
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00     #    #       #     #    #       #      #  19.1    20.5    #    19 
+21:00     #    #       #     #    #       #      #  17.8    20.4    #    17 
+22:00     #    #       #     #    #       #      #  17.5    20.1    #    16 
+23:00     #    #       #     #    #       #      #  17.4    20.1    #    15 
+00:00     #    #       #     #    #       #      #  17.0    19.7    #    16 
+01:00     #    #       #     #    #       #      #  17.0    19.9    #    14 
+02:00     #    #       #     #    #       #      #  17.1    19.7    #    13 
+03:00     #    #       #     #    #       #      #  17.0    19.7    #    13 
+04:00     #    #       #     #    #       #      #  16.5    19.3    #    15 
+05:00     #    #       #     #    #       #      #  16.8    19.5    #    13 
+06:00     #    #       #     #    #       #      #  16.8    19.4    #    18 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+extremely good, seeing at average airmass 1.1"
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+no problems at all, besides tracking difficulties at low altitudes. 
+
+

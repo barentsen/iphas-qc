@@ -1,0 +1,78 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 11 24 05:19
+
+TELESCOPE             INT
+DATE                  20051123
+OBSERVER/S            N. Wright, A. Hales
+PROGRAMME             IPHAS
+PROPOSAL REF          P10
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.66
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:19
+SUNRISE (UT)          07:34
+%ILLUM. LUNAR DISK    49
+DARK TIME (HRS)       10:41
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         00:47
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.2   72    11.7  12.8  254   767.2    5.2   7.5     9.4   72    66 
+20:00   5.8   68    20.5  21.1  275   767.2    5.8   9.3     9.5   68    62 
+21:00   5.3   82    18.5  19.2  282   767.9    5.3   7.2     9.3   82    80 
+22:00   5.2   88     6.6   7.5  251   768.5    5.2   7.0     8.9   88    88 
+23:00   5.0   80    18.1  19.0  273   768.2    5.0   7.0     9.0   80    79 
+00:00   5.2   79    23.0  23.7  279   768.0    5.2   7.2     9.0   79    75 
+01:00   5.6   78    27.4  29.6  286   767.7    5.6   7.5     8.8   78    71 
+02:00   5.6   85    25.7  27.5  273   767.6    5.6   7.7     8.9   85    77 
+03:00   5.4   94    25.4  27.2  288   767.5    5.4   7.7     9.1   94    89 
+04:00   5.6   98    24.2  25.3  288   767.7    5.6   7.9     9.1   98    93 
+05:00   5.2   98    20.2  22.3  268   768.1    5.2   7.8     9.3   98    94 
+
+TIME LOST weather           09:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+cloudy and/or 100% humidity over the whole night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+A night completely lost due to bad weather. 
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 483258                   0:00:00.00 +00:00:00.0 2005.894 14:03 1.137  WFC    2.0  180  i                                
+ 483259 Bias frame        0:00:00.00 +00:00:00.0 2005.894 14:06 1.137  WFC    0.0  180  i                                
+ 483260                   0:00:00.00 +00:00:00.0 2005.894 14:08 1.137  WFC    0.9  180  i                                
+ 483261                   0:00:00.00 +00:00:00.0 2005.894 14:10 1.137  WFC    2.1  180  i                                
+ 483262                   0:00:00.00 +00:00:00.0 2005.894 14:12 1.137  WFC    5.1  180  i                                
+ 483263 Flat field       23:56:39.99 +59:45:00.0 2000.00  18:20 1.318  WFC    5.0  180  Halpha                           
+ 483264 Flat field       23:56:39.99 +59:44:59.9 2000.00  18:21 1.316  WFC    8.1  180  Halpha                           
+ 483265 Flat field       23:56:40.00 +59:44:59.9 2000.00  18:22 1.314  WFC   12.8  180  Halpha                           
+ 483266 Flat field       23:56:40.00 +59:45:00.0 2000.00  18:29 1.300  WFC    3.3  180  Halpha                           
+ 483267 Flat field       23:56:39.99 +59:44:59.9 2000.00  18:32 1.295  WFC    4.7  180  Halpha                           
+ 483268 Flat field       23:56:40.00 +59:45:00.0 2000.00  18:34 1.290  WFC   12.8  180  Halpha                           
+ 483269 Flat field       23:56:39.99 +59:44:59.9 2000.00  18:38 1.284  WFC    2.6  180  r                                
+ 483270 Flat field       23:56:39.99 +59:44:59.9 2000.00  18:41 1.278  WFC    2.6  180  r                                
+ 483271 Skyflat Ha 3s    23:56:41.32 +59:45:10.0 2000.00  18:43 1.274  WFC    3.1  180  Halpha                           
+ 483272 Skyflat Ha 35s   23:56:37.35 +59:44:39.9 2000.00  18:45 1.271  WFC   35.1  180  Halpha                           
+ 483273 Skyflat r 10s    23:56:41.32 +59:45:10.0 2000.00  18:48 1.267  WFC   10.1  180  r                                
+ 483274 Skyflat r 40s    23:56:41.32 +59:45:10.0 2000.00  18:49 1.264  WFC   40.1  180  r                                
+ 483275 Skyflat i 30s    23:56:41.32 +59:45:09.9 2000.00  18:52 1.259  WFC   30.1  180  i                                
+ 483276 Focus run        23:15:48.00 +11:26:31.9 2000.00  19:12 1.087  WFC   10.1  180  r                                
+ 483277 Focus run        23:48:20.00 +00:57:20.9 2000.00  20:42 1.130  WFC    9.5  180  r                                
+ 483278 Bias frame       23:48:19.99 +00:57:20.9 2000.00  21:00 1.131  WFC    0.0  180  r                                
+ 483279 Bias frame       23:48:20.00 +00:57:21.0 2000.00  21:00 1.131  WFC    0.0  180  r                                
+ 483280 Bias frame       23:48:19.99 +00:57:21.0 2000.00  21:01 1.132  WFC    0.0  180  r                                
+ 483281 ST_NGC7654_r_8s  23:24:33.59 +61:36:58.3 2000.00  21:03 1.199  WFC    8.1  180  r                                
+ 483282 ST_NGC7654_i_10s 23:24:33.60 +61:36:57.9 2000.00  21:08 1.202  WFC   10.1  180  i                                
+ 483283 Focus run        23:48:20.00 +00:57:21.0 2000.00  21:19 1.138  WFC   10.1  180  r                                
+ 483284 Focus run        23:48:19.99 +00:57:21.1 2000.00  21:31 1.148  WFC   10.1  180  i                                

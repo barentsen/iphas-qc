@@ -1,0 +1,54 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 02 28 20:26
+
+TELESCOPE             INT
+DATE                  20040220
+OBSERVER/S            S. Hameed
+PROGRAMME             The STARFORM/H-alpha Survey
+PROPOSAL REF          N3   
+TELESCOPE OPERATOR    Dimitris
+SUPPORT ASTRONOMER    Dimitris
+
+TEL STATION / FOCUS   Prime  / 44.10
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:12
+EVENING TWILIGHT (UT) 20:23
+MORNING TWILIGHT (UT) 06:27
+SUNRISE (UT)          07:38
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       10:04
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          19:29
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   0.9   96    36.8  43.3  271   752.5    0.9   4.8     6.3   96    79 
+21:00   0.9   96    36.0  44.7  294   753.5    0.9   4.9     6.4   96    79 
+22:00   0.0   96    40.7  45.6  253   754.1    0.0   4.8     6.3   96    78 
+23:00  -0.6   96    47.2  54.9  283   754.9   -0.6   4.6     6.4   96    77 
+00:00  -1.0   96    43.0  46.0  326   754.8   -1.0   4.3     6.4   96    75 
+01:00  -1.9   98    30.3  34.8  269   755.9   -1.9   4.0     6.5   98    74 
+02:00  -1.6  100    32.0  37.4  265   755.5   -1.6   3.7     6.4  100    74 
+03:00  -2.1   98    28.0  31.6  305   756.4   -2.1   3.6     6.4   98    73 
+04:00  -2.5   95    29.5  34.4  281   756.7   -2.5   3.3     6.5   95    72 
+05:00  -2.9   95    39.5  43.2  295   756.7   -2.9   3.1     6.4   95    72 
+06:00  -2.6   95    33.7  37.2  301   757.2   -2.6   2.9     6.4   95    72 
+07:00  -2.9   94    33.5  38.0  303   757.9   -2.9   2.9     6.4   94    71 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+all night lost due to bad weather
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 389412 Bias             19:59:59.99 +27:00:00.0 J2000.00 14:07 1.277  WFC    0.0  180  Halpha                           
+ 389413 Bias             20:00:00.00 +26:59:59.9 J2000.00 14:13 1.302  WFC    0.0  180  Halpha                           

@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 01 14 06:22
+
+TELESCOPE             INT
+DATE                  20120113
+OBSERVER/S            Miriam Aberasturi
+PROGRAMME             Identify M-lates
+PROPOSAL REF          C52
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:42
+EVENING TWILIGHT (UT) 19:57
+MORNING TWILIGHT (UT) 06:43
+SUNRISE (UT)          07:58
+%ILLUM. LUNAR DISK    76
+DARK TIME (HRS)       10:46
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         22:57
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   6.4   23     3.0   9.9  153   771.5   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   5.7   22     5.6   9.7  165   772.0   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   6.7   22     5.9   7.8  165   772.0   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   5.9   20     1.8   3.0  156   772.2   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   6.2   20     2.9   6.2  183   772.1   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   6.1   20     2.2   3.5  187   772.2   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   5.7   20     3.1   7.1  176   771.8   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   5.5   22     6.8  11.6  175   771.3   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   5.6   24    10.4  12.9  182   771.0   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   5.7   25    17.8  18.9  174   770.8   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   5.4   25    15.2  21.3  167   770.4   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   5.2   27    10.2  13.9  174   770.6   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+some clouds during night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+all o.k.
+
+

@@ -1,0 +1,72 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 08 14 03:40
+
+TELESCOPE             INT
+DATE                  20050813
+OBSERVER/S            Deeg, H.J.
+PROGRAMME             C122
+PROPOSAL REF          Hot Neptunes
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.70
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:01
+EVENING TWILIGHT (UT) 21:19
+MORNING TWILIGHT (UT) 05:15
+SUNRISE (UT)          06:32
+%ILLUM. LUNAR DISK    60
+DARK TIME (HRS)       07:56
+TWILIGHT TIME (HRS)   02:35
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          00:50
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  15.6   18    20.2  22.0  285   773.1   15.6  18.0    18.8   18    11 
+22:00  14.8   16    22.0  23.6  245   773.7   14.8  17.1    18.6   16    10 
+23:00  15.2   16    19.8  23.0  282   774.2   15.2  16.8    18.4   16    10 
+00:00  15.4   14    27.0  28.7  278   774.1   15.4  17.3    18.7   14     9 
+01:00  15.4   16    19.5  20.3  271   774.5   15.4  17.5    18.4   16    11 
+02:00  15.5   15    21.1  21.9  273   774.0   15.5  17.7    18.5   15    10 
+03:00  15.3   15    22.0  22.7  276   773.6   15.3  17.7    18.6   15    10 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+high clouds and cirrus
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+no observations due to clouds
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 467359 Bias              0:00:00.00 +00:00:00.0 2005.615 19:27 1.000  WFC    0.0  180  Halpha                           
+ 467360 Bias              0:00:00.00 +00:00:00.0 2005.615 19:27 1.000  WFC    0.0  180  Halpha                           
+ 467361 Bias              0:00:00.00 +00:00:00.0 2005.615 19:28 1.000  WFC    0.0  180  Halpha                           
+ 467362 Bias              0:00:00.00 +00:00:00.0 2005.615 19:29 1.000  WFC    0.0  180  Halpha                           
+ 467363 Bias              0:00:00.00 +00:00:00.0 2005.615 19:29 1.000  WFC    0.0  180  Halpha                           
+ 467364 Bias              0:00:00.00 +00:00:00.0 2005.615 19:30 1.000  WFC    0.0  180  Halpha                           
+ 467365 Bias              0:00:00.00 +00:00:00.0 2005.615 19:30 1.000  WFC    0.0  180  Halpha                           
+ 467366 Bias              0:00:00.00 +00:00:00.0 2005.615 19:31 1.000  WFC    0.0  180  Halpha                           
+ 467367 Bias              0:00:00.00 +00:00:00.0 2005.615 19:31 1.000  WFC    0.0  180  Halpha                           
+ 467368 Dark frame        0:00:00.00 +00:00:00.0 2005.615 19:33 1.000  WFC   80.0  180  Halpha                           
+ 467370 Dark frame        0:00:00.00 +00:00:00.0 2005.615 19:35 1.000  WFC   80.0  180  Halpha                           
+ 467371 Dark frame        0:00:00.00 +00:00:00.0 2005.615 19:37 1.000  WFC   80.0  180  Halpha                           
+ 467372 Dark frame        0:00:00.00 +00:00:00.0 2005.615 19:39 1.000  WFC   80.0  180  Halpha                           
+ 467373 Dark frame        0:00:00.00 +00:00:00.0 2005.615 19:41 1.000  WFC   80.0  180  Halpha                           
+ 467374 Dark frame        0:00:00.00 +00:00:00.0 2005.615 19:43 1.000  WFC   80.0  180  Halpha                           
+ 467375 Flat field       16:50:43.99 -15:22:48.0 2000.00  20:18 1.396  WFC    2.8  180  r                                cirrus - flats may show this!!
+ 467376 Flat field       16:50:44.00 -15:22:38.1 2000.00  20:19 1.395  WFC    3.9  180  r                                
+ 467377 Flat field       16:50:44.69 -15:22:47.9 2000.00  20:20 1.395  WFC    7.3  180  r                                
+ 467378 Flat field       16:50:43.99 -15:22:58.0 2000.00  20:21 1.394  WFC    5.6  180  r                                
+ 467379 Flat field       16:50:43.30 -15:22:48.1 2000.00  20:23 1.394  WFC    6.6  180  r                                
+ 467380 Flat field       16:50:43.99 -15:23:08.3 2000.00  20:24 1.394  WFC    9.8  180  r                                
+ 467381 Flat field       16:50:44.00 -15:22:27.9 2000.00  20:25 1.393  WFC   12.9  180  r                                
+ 467382 Flat field       16:50:45.38 -15:22:38.0 2000.00  20:26 1.393  WFC   17.8  180  r                                
+ 467383 Flat field       16:50:44.69 -15:22:58.0 2000.00  20:27 1.393  WFC   25.1  180  r                                
+ 467384 Flat field       16:50:43.30 -15:22:37.9 2000.00  20:29 1.393  WFC   30.1  180  r                                

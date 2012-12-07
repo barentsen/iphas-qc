@@ -1,0 +1,51 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 01 29 03:25
+
+TELESCOPE             INT
+DATE                  20050128
+OBSERVER/S            Almenara
+PROGRAMME             Sample Definition for Exoplanet detection by the COROT Space Craft
+PROPOSAL REF          C9         
+TELESCOPE OPERATOR    Mansura Jairgiridar
+SUPPORT ASTRONOMER    Robert Grei
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:54
+EVENING TWILIGHT (UT) 20:08
+MORNING TWILIGHT (UT) 06:40
+SUNRISE (UT)          07:54
+%ILLUM. LUNAR DISK    89
+DARK TIME (HRS)       10:32
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         21:32
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -3.4   99     0.0   0.0  334   764.5   -3.4   5.8     7.8   99    64 
+20:00  -2.8   99     0.0   0.0  334   765.1   -2.8   5.9     7.6   99    65 
+21:00  -2.5  100     0.0   0.0  334   765.6   -2.5   6.2     7.6  100    65 
+22:00  -3.2   99     0.0   0.0  334   765.8   -3.2   6.2     7.8   99    65 
+23:00  -2.7   99     0.0   0.0  334   765.8   -2.7   6.2     7.7   99    64 
+00:00  -2.5  100     0.0   0.0  334   765.8   -2.5   6.3     7.6  100    66 
+01:00  -3.5   99     0.0   0.0  334   765.3   -3.5   6.2     7.7   99    65 
+02:00  -3.8   99     0.0   0.0  334   765.1   -3.8   6.0     7.8   99    65 
+03:00  -2.9   99     0.0   0.0  334   765.0   -2.9   5.8     7.6   99    67 
+
+TIME LOST weather           10:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+In clouds
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+no observations
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 441038 Bias                                              14:50        WFC    0.0       i                                
+ 441039 Bias              0:00:00.00 +00:00:00.0 A        15:03 1.000  WFC    0.0  180  r                                

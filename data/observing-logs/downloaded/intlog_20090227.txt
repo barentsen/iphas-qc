@@ -1,0 +1,55 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 03 02 19:52
+
+TELESCOPE             INT
+DATE                  20090227
+OBSERVER/S            Fernandez, Smith, Peris
+PROGRAMME             Imaging isolated ellipticals
+PROPOSAL REF          C64
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Maria del Mar Rubio
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:17
+EVENING TWILIGHT (UT) 20:28
+MORNING TWILIGHT (UT) 06:19
+SUNRISE (UT)          07:31
+%ILLUM. LUNAR DISK    9
+DARK TIME (HRS)       09:51
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:48
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -1.8   98    24.0  25.8  337   764.2   -1.8    6.      7.   98     62
+21:00  -1.9   97    21.5  23.5  343   764.2   -1.9    6.      7.   97     62
+22:00  -1.1   85    24.9  27.2  346   764.8   -1.1    6.      7.   85     61
+23:00  -1.8   90    30.3  31.2  336   765.6   -1.8    5.      7.   90     63
+00:00  -2.5   87    31.8  32.9  337   764.7   -2.5    5.      7.   87     61
+01:00  -2.4   76    33.5  34.9  342   764.9   -2.4    3.      7.   76     60
+02:00  -2.4   99    35.6  37.8  339   764.7   -2.4    3.      6.   99     72
+03:00  -1.9   99    32.8  34.9  341   764.5   -1.9    3.      6.   99     75
+04:00  -1.8   99    28.7  34.7  320   764.1   -1.8    3.      6.   99     75
+05:00  -1.7   99    38.1  40.6  338   763.8   -1.7    4.      6.   99     75
+06:00  -1.4   99    35.6  38.8  348   764.9   -1.4    4.      6.   99     76
+07:00  -1.0   99    39.2  41.3  338   764.0   -1.0    4.      6.   99     77
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Not opened at all, humidity 100% all night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 661040 Flat field        0:00:00.00 +00:00:00.0  2009.16 14:19 1.000  WFC    6.1  180  HeII4686                         
+ 661041 Bias              0:00:00.00 +20:00:00.4  2009.16 14:30 1.013  WFC    0.0  180  HeII4686                         
+ 661042 bias              0:00:00.00 +00:00:00.0  2009.16 19:38 2.469  WFC    0.0  180  U                                

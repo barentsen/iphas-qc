@@ -1,0 +1,60 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 10 13 03:23
+
+TELESCOPE             INT
+DATE                  20071012
+OBSERVER/S            Ramsay/Barclay
+PROGRAMME             Determining the space density of ultra compact binaries
+PROPOSAL REF          P2
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:53
+EVENING TWILIGHT (UT) 20:05
+MORNING TWILIGHT (UT) 05:52
+SUNRISE (UT)          07:04
+%ILLUM. LUNAR DISK    3
+DARK TIME (HRS)       09:47
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          19:25
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.8  100     8.9  13.6  176   764.1    5.8  12.2    12.9  100    71 
+20:00   5.4  100    12.7  17.1  199   764.3    5.4  11.9    12.9  100    70 
+21:00   5.2  100    16.1  19.6  190   764.5    5.2  11.3    12.9  100    71 
+22:00   5.0  100     6.1   5.7  135   765.1    5.0  11.5    12.9  100    69 
+23:00   5.8  100    12.7  20.3  100   765.6    5.8  11.6    12.9  100    66 
+00:00   5.9  100    10.6   9.1   83   765.6    5.9  11.5    13.0  100    65 
+01:00   6.1   85     9.4  10.8  109   765.4    6.1  11.1    12.9   85    65 
+02:00   6.0   82     7.2   9.9   47   765.3    6.0  11.2    12.9   82    64 
+03:00   5.5   83    20.6  23.8   33   764.9    5.5  10.4    13.0   83    66 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+poor. drizzle for the earlier half of the night. humidity high (>90%). called its quits around 03.30 local time.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 587427 Bias frame        0:00:00.00 +00:00:00.0  2000.00 12:33 4.657  WFC    0.0  180  r                                
+ 587428 Bias              0:00:00.00 +00:00:00.0  2000.00 18:53 4.657  WFC    0.0  180  r                                
+ 587429 Bias              0:00:00.00 +00:00:00.0  2000.00 18:53 4.657  WFC    0.0  180  r                                
+ 587430 Bias              0:00:00.00 +00:00:00.0  2000.00 18:54 4.657  WFC    0.0  180  r                                
+ 587431 Bias              0:00:00.00 +00:00:00.0  2000.00 18:54 4.657  WFC    0.0  180  r                                
+ 587432 Bias              0:00:00.00 +00:00:00.0  2000.00 18:55 4.657  WFC    0.0  180  r                                
+ 587433 Bias              0:00:00.00 +00:00:00.0  2000.00 18:55 4.657  WFC    0.0  180  r                                
+ 587434 Bias              0:00:00.00 +00:00:00.0  2000.00 18:55 4.657  WFC    0.0  180  r                                
+ 587435 Bias              0:00:00.00 +00:00:00.0  2000.00 18:56 4.657  WFC    0.0  180  r                                
+ 587436 Bias              0:00:00.00 +00:00:00.0  2000.00 18:56 4.657  WFC    0.0  180  r                                
+ 587437 Bias              0:00:00.00 +00:00:00.0  2000.00 18:57 4.657  WFC    0.0  180  r                                

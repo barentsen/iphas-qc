@@ -1,0 +1,51 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 11 16 04:13
+
+TELESCOPE             INT
+DATE                  20061115
+OBSERVER/S            Laurence Sabin
+PROGRAMME             IPHAS survey
+PROPOSAL REF          P10 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:26
+EVENING TWILIGHT (UT) 19:40
+MORNING TWILIGHT (UT) 06:13
+SUNRISE (UT)          07:27
+%ILLUM. LUNAR DISK    21
+DARK TIME (HRS)       10:33
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         03:27
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.6   99    23.5  36.9  193   767.6    5.6   9.0    12.5   99    90 
+20:00   6.4   99    24.1  32.4  236   768.0    6.4   9.4    12.5   99    90 
+21:00   6.1   99    20.9  21.9  195   768.4    6.1   9.4    12.4   99    90 
+22:00   6.3   99    25.8  39.4  227   768.4    6.3   9.5    12.6   99    90 
+23:00   3.3   99    27.4  33.2  247   768.5    3.3   9.0    12.4   99    82 
+00:00   4.5   93    23.8  27.3  279   768.4    4.5   9.4    12.4   93    72 
+01:00   4.7   99    23.6  26.3  278   768.1    4.7   9.5    12.4   99    81 
+02:00   5.4   99    20.9  24.6  267   767.9    5.4   9.6    12.3   99    84 
+03:00   4.9   99    26.5  30.6  262   767.5    4.9   9.6    12.4   99    84 
+04:00   4.5   99    23.1  28.6  259   767.4    4.5   9.4    12.4   99    82 
+
+TIME LOST weather           10:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Constant 100% humidity ,clouds and rain
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 535195 Bias             16:00:00.00 +19:59:59.9 2006.872 14:44 1.054  WFC    0.0  180  Halpha                           

@@ -1,0 +1,147 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 02 21 02:26
+
+TELESCOPE             INT
+DATE                  20100220
+OBSERVER/S            Monguio & Grosbol; Vaduvescu, Tudorica & Dumitru
+PROGRAMME             CAT DDT: first half to Monguio & Grosbol; second half to Vaduvescu, Tudorica and Dumitru
+PROPOSAL REF          CAT DDT         
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Dan Hurley
+
+TEL STATION / FOCUS   Prime  / 43.74
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:12
+EVENING TWILIGHT (UT) 20:24
+MORNING TWILIGHT (UT) 06:26
+SUNRISE (UT)          07:38
+%ILLUM. LUNAR DISK    39
+DARK TIME (HRS)       10:02
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          01:13
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   6.0  100    33.0  47.3  201   763.6    6.0    6.      7.  100     91
+21:00   5.9  100    39.6  39.4  196   763.2    5.9    7.      8.  100     92
+22:00   6.7  100    28.2  38.4  194   763.6    6.7    7.      8.  100     93
+23:00   7.2  100    60.0  92.4  178   762.0    7.2    7.      8.  100     93
+00:00   7.7  100    84.0  99.4  181   762.7    7.7    8.      8.  100     94
+01:00   7.8  100    66.4  11.2  184   761.5    7.8    8.      8.  100     94
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Weather crap, 100% humidity and hard rain
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Bad weather, no data both programs
+ 
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 721629 Bias              0:00:00.00 +00:00:00.0  2000.00 15:59 4.035  WFC    0.0  180  stromgren v                      
+ 721630 10                0:00:00.00 +00:00:00.0  2000.00 16:02 4.035  WFC    0.0  180  stromgren v                      
+ 721631 Bias              0:00:00.00 +00:00:00.0  2000.00 16:04 4.035  WFC    0.0  180  stromgren v                      
+ 721632 Bias              0:00:00.00 +00:00:00.0  2000.00 16:05 4.035  WFC    0.0  180  stromgren v                      
+ 721633 Bias              0:00:00.00 +00:00:00.0  2000.00 16:06 4.035  WFC    0.0  180  stromgren v                      
+ 721634 Bias              0:00:00.00 +00:00:00.0  2000.00 16:06 4.035  WFC    0.0  180  stromgren v                      
+ 721635 Bias              0:00:00.00 +00:00:00.0  2000.00 16:07 4.035  WFC    0.0  180  stromgren v                      
+ 721636 Bias              0:00:00.00 +00:00:00.0  2000.00 16:08 4.035  WFC    0.0  180  stromgren v                      
+ 721637 Bias              0:00:00.00 +00:00:00.0  2000.00 16:09 4.035  WFC    0.0  180  stromgren v                      
+ 721638 Bias              0:00:00.00 +00:00:00.0  2000.00 16:09 4.035  WFC    0.0  180  stromgren v                      
+ 721639 Dark 120s         0:00:00.00 +00:00:00.0  2000.00 16:11 4.035  WFC  120.0  180  stromgren v                      
+ 721640 Dark 120s         0:00:00.00 +00:00:00.0  2000.00 16:14 4.035  WFC  120.0  180  stromgren v                      
+ 721641 Dark 120s         0:00:00.00 +00:00:00.0  2000.00 16:17 4.035  WFC  120.0  180  stromgren v                      
+ 721642 Dark 120s         0:00:00.00 +00:00:00.0  2000.00 16:20 4.035  WFC  120.0  180  stromgren v                      
+ 721643 Dark 120s         0:00:00.00 +00:00:00.0  2000.00 16:22 4.035  WFC  120.0  180  stromgren v                      
+ 721644 Dark 120s         0:00:00.00 +00:00:00.0  2000.00 16:25 4.035  WFC  120.0  180  stromgren v                      
+ 721645 Dark 120s         0:00:00.00 +00:00:00.0  2000.00 16:28 4.035  WFC  120.0  180  stromgren v                      
+ 721646 Dark 120s         0:00:00.00 +00:00:00.0  2000.00 16:31 4.035  WFC  120.0  180  stromgren v                      
+ 721647 Dark 120s         0:00:00.00 +00:00:00.0  2000.00 16:34 4.035  WFC  120.0  180  stromgren v                      
+ 721648 Dark 120s         0:00:00.00 +00:00:00.0  2000.00 16:36 4.035  WFC  120.0  180  stromgren v                      
+ 721649 Dark frame        0:00:00.00 +00:00:00.0  2000.00 16:56 4.468  WFC  750.0  180  stromgren v                      
+ 721650 Dark frame        0:00:00.00 +00:00:00.0  2000.00 17:09 4.468  WFC  750.0  180  stromgren v                      
+ 721651 Dark frame        0:00:00.00 +00:00:00.0  2000.00 17:23 4.468  WFC  750.0  180  stromgren v                      
+ 721652 Dark 750s         0:00:00.00 +00:00:00.0  2000.00 18:37 4.468  WFC  750.0  180  stromgren v                      
+ 721653 Dark 750s         0:00:00.00 +00:00:00.0  2000.00 18:50 4.468  WFC  750.0  180  stromgren v                      
+ 721654 Dark 750s         0:00:00.00 +00:00:00.0  2000.00 19:39 4.468  WFC  750.0  180  stromgren v                      
+ 721655 Dark 750s         0:00:00.00 +00:00:00.0  2000.00 19:53 4.468  WFC  750.0  180  stromgren v                      
+ 721656 Dark 750s         0:00:00.00 +00:00:00.0  2000.00 20:06 4.468  WFC  750.0  180  stromgren v                      
+ 721657 Dark 750s         0:00:00.00 +00:00:00.0  2000.00 20:20 4.468  WFC  750.0  180  stromgren v                      
+ 721658 Dark 750s         0:00:00.00 +00:00:00.0  2000.00 20:33 4.468  WFC  750.0  180  stromgren v                      
+ 721659 Dark 1200s        0:00:00.00 +00:00:00.0  2000.00 20:48 4.468  WFC 1200.0  180  stromgren v                      
+ 721660 Dark 1200s        0:00:00.00 +00:00:00.0  2000.00 21:08 4.468  WFC 1200.0  180  stromgren v                      
+ 721661 Dark 1200s        0:00:00.00 +00:00:00.0  2000.00 21:29 4.468  WFC 1200.0  180  stromgren v                      
+ 721662 Dark 1200s        0:00:00.00 +00:00:00.0  2000.00 21:50 4.468  WFC 1200.0  180  stromgren v                      
+ 721663 Dark 1200s        0:00:00.00 +00:00:00.0  2000.00 22:11 4.468  WFC 1200.0  180  stromgren v                      
+ 721664 Dark 1200s        0:00:00.00 +00:00:00.0  2000.00 22:32 4.468  WFC 1200.0  180  stromgren v                      
+ 721665 Dark 1200s        0:00:00.00 +00:00:00.0  2000.00 22:53 4.468  WFC 1200.0  180  stromgren v                      
+ 721666 Dark 1200s        0:00:00.00 +00:00:00.0  2000.00 23:14 4.468  WFC 1200.0  180  stromgren v                      
+ 721667 Dark 1200s        0:00:00.00 +00:00:00.0  2000.00 23:35 4.468  WFC 1200.0  180  stromgren v                      
+ 721668 Dark 1200s        0:00:00.00 +00:00:00.0  2000.00 23:56 4.468  WFC 1200.0  180  stromgren v                      
+ 721669 ovidiu test bias  0:00:00.00 +00:00:00.0  2000.00 01:45 4.468  WFC    0.0  180  stromgren v                      
+ 721670 bias 1x1          0:00:00.00 +00:00:00.0  2000.00 01:46 4.468  WFC    0.0  180  stromgren v                      
+ 721671 bias 1x1          0:00:00.00 +00:00:00.0  2000.00 01:47 4.468  WFC    0.0  180  stromgren v                      
+ 721672 bias 1x1          0:00:00.00 +00:00:00.0  2000.00 01:48 4.468  WFC    0.0  180  stromgren v                      
+ 721673 bias 1x1          0:00:00.00 +00:00:00.0  2000.00 01:49 4.468  WFC    0.0  180  stromgren v                      
+ 721674 bias 1x1          0:00:00.00 +00:00:00.0  2000.00 01:50 4.468  WFC    0.0  180  stromgren v                      
+ 721675 bias 1x1          0:00:00.00 +00:00:00.0  2000.00 01:50 4.468  WFC    0.0  180  stromgren v                      
+ 721676 bias 1x1          0:00:00.00 +00:00:00.0  2000.00 01:51 4.468  WFC    0.0  180  stromgren v                      
+ 721677 bias 1x1          0:00:00.00 +00:00:00.0  2000.00 01:52 4.468  WFC    0.0  180  stromgren v                      
+ 721678 bias 1x1          0:00:00.00 +00:00:00.0  2000.00 01:53 4.468  WFC    0.0  180  stromgren v                      
+ 721679 bias 1x1          0:00:00.00 +00:00:00.0  2000.00 01:53 4.468  WFC    0.0  180  stromgren v                      
+ 721680 bias 2x2          0:00:00.00 +00:00:00.0  2000.00 01:55 4.468  WFC    0.0  180  stromgren v                      
+ 721681 bias 2x2          0:00:00.00 +00:00:00.0  2000.00 01:55 4.468  WFC    0.0  180  stromgren v                      
+ 721682 bias 2x2          0:00:00.00 +00:00:00.0  2000.00 01:55 4.468  WFC    0.0  180  stromgren v                      
+ 721683 bias 2x2          0:00:00.00 +00:00:00.0  2000.00 01:56 4.468  WFC    0.0  180  stromgren v                      
+ 721684 bias 2x2          0:00:00.00 +00:00:00.0  2000.00 01:56 4.468  WFC    0.0  180  stromgren v                      
+ 721685 bias 2x2          0:00:00.00 +00:00:00.0  2000.00 01:57 4.468  WFC    0.0  180  stromgren v                      
+ 721686 bias 2x2          0:00:00.00 +00:00:00.0  2000.00 01:57 4.468  WFC    0.0  180  stromgren v                      
+ 721687 bias 2x2          0:00:00.00 +00:00:00.0  2000.00 01:58 4.468  WFC    0.0  180  stromgren v                      
+ 721688 bias 2x2          0:00:00.00 +00:00:00.0  2000.00 01:58 4.468  WFC    0.0  180  stromgren v                      
+ 721689 bias 2x2          0:00:00.00 +00:00:00.0  2000.00 01:58 4.468  WFC    0.0  180  stromgren v                      
+ 721690 bias 3x3          0:00:00.00 +00:00:00.0  2000.00 02:01 4.468  WFC    0.0  180  stromgren v                      
+ 721691 bias 3x3          0:00:00.00 +00:00:00.0  2000.00 02:01 4.468  WFC    0.0  180  stromgren v                      
+ 721692 bias 3x3          0:00:00.00 +00:00:00.0  2000.00 02:01 4.468  WFC    0.0  180  stromgren v                      
+ 721693 bias 3x3          0:00:00.00 +00:00:00.0  2000.00 02:01 4.468  WFC    0.0  180  stromgren v                      
+ 721694 bias 3x3          0:00:00.00 +00:00:00.0  2000.00 02:02 4.468  WFC    0.0  180  stromgren v                      
+ 721695 bias 3x3          0:00:00.00 +00:00:00.0  2000.00 02:02 4.468  WFC    0.0  180  stromgren v                      
+ 721696 bias 3x3          0:00:00.00 +00:00:00.0  2000.00 02:02 4.468  WFC    0.0  180  stromgren v                      
+ 721697 bias 3x3          0:00:00.00 +00:00:00.0  2000.00 02:02 4.468  WFC    0.0  180  stromgren v                      
+ 721698 bias 3x3          0:00:00.00 +00:00:00.0  2000.00 02:03 4.468  WFC    0.0  180  stromgren v                      
+ 721699 bias 3x3          0:00:00.00 +00:00:00.0  2000.00 02:03 4.468  WFC    0.0  180  stromgren v                      
+ 721700 dark 1x1          0:00:00.00 +00:00:00.0  2000.00 02:04 4.468  WFC    5.0  180  stromgren v                      
+ 721701 dark 1x1          0:00:00.00 +00:00:00.0  2000.00 02:05 4.468  WFC    5.0  180  stromgren v                      
+ 721702 dark 1x1          0:00:00.00 +00:00:00.0  2000.00 02:06 4.468  WFC    5.0  180  stromgren v                      
+ 721703 dark 1x1          0:00:00.00 +00:00:00.0  2000.00 02:07 4.468  WFC    5.0  180  stromgren v                      
+ 721704 dark 1x1          0:00:00.00 +00:00:00.0  2000.00 02:08 4.468  WFC    5.0  180  stromgren v                      
+ 721705 dark 1x1          0:00:00.00 +00:00:00.0  2000.00 02:09 4.468  WFC    5.0  180  stromgren v                      
+ 721706 dark 1x1          0:00:00.00 +00:00:00.0  2000.00 02:10 4.468  WFC    5.0  180  stromgren v                      
+ 721707 dark 1x1          0:00:00.00 +00:00:00.0  2000.00 02:10 4.468  WFC    5.0  180  stromgren v                      
+ 721708 dark 1x1          0:00:00.00 +00:00:00.0  2000.00 02:11 4.468  WFC    5.0  180  stromgren v                      
+ 721709 dark 1x1          0:00:00.00 +00:00:00.0  2000.00 02:12 4.468  WFC    5.0  180  stromgren v                      
+ 721710 dark 2x2          0:00:00.00 +00:00:00.0  2000.00 02:13 4.468  WFC    5.0  180  stromgren v                      
+ 721711 dark 2x2          0:00:00.00 +00:00:00.0  2000.00 02:14 4.468  WFC    5.0  180  stromgren v                      
+ 721712 dark 2x2          0:00:00.00 +00:00:00.0  2000.00 02:14 4.468  WFC    5.0  180  stromgren v                      
+ 721713 dark 2x2          0:00:00.00 +00:00:00.0  2000.00 02:15 4.468  WFC    5.0  180  stromgren v                      
+ 721714 dark 2x2          0:00:00.00 +00:00:00.0  2000.00 02:15 4.468  WFC    5.0  180  stromgren v                      
+ 721715 dark 2x2          0:00:00.00 +00:00:00.0  2000.00 02:16 4.468  WFC    5.0  180  stromgren v                      
+ 721716 dark 2x2          0:00:00.00 +00:00:00.0  2000.00 02:16 4.468  WFC    5.0  180  stromgren v                      
+ 721717 dark 2x2          0:00:00.00 +00:00:00.0  2000.00 02:17 4.468  WFC    5.0  180  stromgren v                      
+ 721718 dark 2x2          0:00:00.00 +00:00:00.0  2000.00 02:17 4.468  WFC    5.0  180  stromgren v                      
+ 721719 dark 2x2          0:00:00.00 +00:00:00.0  2000.00 02:18 4.468  WFC    5.0  180  stromgren v                      
+ 721720 dark 3x3          0:00:00.00 +00:00:00.0  2000.00 02:21 4.468  WFC    5.0  180  stromgren v                      
+ 721721 dark 3x3          0:00:00.00 +00:00:00.0  2000.00 02:21 4.468  WFC    5.0  180  stromgren v                      
+ 721722 dark 3x3          0:00:00.00 +00:00:00.0  2000.00 02:21 4.468  WFC    5.0  180  stromgren v                      
+ 721723 dark 3x3          0:00:00.00 +00:00:00.0  2000.00 02:22 4.468  WFC    5.0  180  stromgren v                      
+ 721724 dark 3x3          0:00:00.00 +00:00:00.0  2000.00 02:22 4.468  WFC    5.0  180  stromgren v                      
+ 721725 dark 3x3          0:00:00.00 +00:00:00.0  2000.00 02:22 4.468  WFC    5.0  180  stromgren v                      
+ 721726 dark 3x3          0:00:00.00 +00:00:00.0  2000.00 02:22 4.468  WFC    5.0  180  stromgren v                      
+ 721727 dark 3x3          0:00:00.00 +00:00:00.0  2000.00 02:23 4.468  WFC    5.0  180  stromgren v                      
+ 721728 dark 3x3          0:00:00.00 +00:00:00.0  2000.00 02:23 4.468  WFC    5.0  180  stromgren v                      
+ 721729 dark 3x3          0:00:00.00 +00:00:00.0  2000.00 02:23 4.468  WFC    5.0  180  stromgren v                      

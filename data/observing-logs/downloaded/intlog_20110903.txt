@@ -1,0 +1,45 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 09 04 03:22
+
+TELESCOPE             INT
+DATE                  20110903
+OBSERVER/S            Jeremy Tregloan-Reed
+PROGRAMME             Defocused Photometry of Planets
+PROPOSAL REF          P4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Lindsay Magil
+
+TEL STATION / FOCUS    / Defocus
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:39
+EVENING TWILIGHT (UT) 20:53
+MORNING TWILIGHT (UT) 05:30
+SUNRISE (UT)          06:43
+%ILLUM. LUNAR DISK    42
+DARK TIME (HRS)       08:37
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          23:32
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  13.3   40     8.7  13.1  308   774.0   13.3   17.     16.   40     34
+21:00  12.0   46    21.3  30.4  267   774.3   12.0   15.     17.   46     42
+22:00  11.3   48    29.5  32.0  297   774.6   11.3   14.     16.   48     45
+23:00  12.0   42    19.4  21.7  257   774.7   12.0   13.     16.   42     43
+00:00  12.1   36    38.9  43.0  216   774.9   12.1   13.     16.   36     39
+01:00  11.2   44    47.2  48.1  194   774.3   11.2   13.     16.   44     47
+02:00  11.5   53    46.3  47.6  141   773.7   11.5   12.     16.   53     54
+03:00  12.6   22    29.6  31.3   24   773.8   12.6   12.     15.   22     33
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Dark night so could not estimate cloud cover % but data made useless 100mmag scatter!
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Windows while Defocused. Primary target Wasp-28
+
+

@@ -1,0 +1,52 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 02 14 23:32
+
+TELESCOPE             INT
+DATE                  20100214
+OBSERVER/S            Daniel Aden, Henrik Joensson
+PROGRAMME             P11
+PROPOSAL REF          W/2009A/26
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    James McCormac
+
+TEL STATION / FOCUS   Prime  / 43.70
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:08
+EVENING TWILIGHT (UT) 20:20
+MORNING TWILIGHT (UT) 06:31
+SUNRISE (UT)          07:43
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       10:11
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          19:40
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   1.0  100    46.9  53.7  249   755.0    1.0    6.      9.  100     74
+21:00   0.6  100    47.2  49.3  250   755.0    0.6    6.      9.  100     72
+22:00  -0.1  100    49.4  57.7  250   755.0   -0.1    6.      9.  100     71
+23:00   0.2  100    46.0  56.5  270   756.3    0.2    7.      9.  100     68
+No Met data available for second half of night
+
+
+TIME LOST weather           010:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% Humidity. At 23:30 the temperature dropped below 0.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+No observations made. We left the INT at 23:30, as recommended by the duty engineer. We will monitor the weather conditions from the Residencia.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 721500 Bias              0:00:00.00 +00:00:00.0  2000.00 18:32 4.536  WFC    0.0  180  stromgren y                      
+ 721501 Bias              0:00:00.00 +00:00:00.0  2000.00 18:38 4.536  WFC    0.0  180  stromgren y                      
+ 721502 Bias              0:00:00.00 +00:00:00.0  2000.00 18:39 4.536  WFC    0.0  180  stromgren y                      
+ 721503 Bias              0:00:00.00 +00:00:00.0  2000.00 18:39 4.536  WFC    0.0  180  stromgren y                      
+ 721504 Bias              0:00:00.00 +00:00:00.0  2000.00 18:39 4.536  WFC    0.0  180  stromgren y                      
+ 721505 Bias              0:00:00.00 +00:00:00.0  2000.00 18:40 4.536  WFC    0.0  180  stromgren y                      

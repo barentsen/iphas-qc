@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 12 28 08:02
+
+TELESCOPE             INT
+DATE                  20111227
+OBSERVER/S            Ivana Damjanov
+PROGRAMME             Adaptive Optics Deep Field
+PROPOSAL REF          N3
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS    / 43.46
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:30
+EVENING TWILIGHT (UT) 19:46
+MORNING TWILIGHT (UT) 06:39
+SUNRISE (UT)          07:55
+%ILLUM. LUNAR DISK    13
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:35
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.7    4    29.5  28.6   22   774.7   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   5.4    4    28.9  33.2   30   775.0   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   6.1    2    27.7  30.7   51   775.4   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   6.5    2    30.0  32.7   59   775.7   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   6.3    2    14.4  22.4   71   775.9   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   5.8    4    11.0  14.6  145   775.9   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   5.6   10     9.5  15.0  175   775.6   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   6.2    6    13.7  19.4  128   775.4   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   7.5    2    23.3  30.7   49   775.4   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   6.2    4    19.0  22.6  119   775.3   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   6.3    3    20.6  27.7   99   775.1   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   6.1    3    12.8  15.9  101   775.2   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   6.1    3    24.1  34.8   37   775.4   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+mostly clear night, clouds coming in at 04:00, seeing 1.5"-2" in g and U respectively (at 04:00 3" in g)
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

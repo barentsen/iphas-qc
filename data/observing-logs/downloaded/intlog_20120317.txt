@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 03 18 07:26
+
+TELESCOPE             INT
+DATE                  20120317
+OBSERVER/S            Habibi, Kourkchi
+PROGRAMME             Coma - Halpha Negative .. Redshift Survey
+PROPOSAL REF          INO2
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Karami
+
+TEL STATION / FOCUS   Cassegrain  / 16.0
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:28
+EVENING TWILIGHT (UT) 20:40
+MORNING TWILIGHT (UT) 05:59
+SUNRISE (UT)          07:11
+%ILLUM. LUNAR DISK    20
+DARK TIME (HRS)       09:19
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         04:24
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   6.1   40     4.2   5.0  136   773.4    6.1    8.     11.   40     42
+21:00   5.4   39    18.0  33.4  127   773.8    5.4    6.     11.   39     41
+22:00   5.4   40    23.5  38.1  108   774.2    5.4    6.     10.   40     42
+23:00   5.6   37    18.1  34.3  144   774.2    5.6    6.     10.   37     39
+00:00   6.2   35    19.6  28.6  145   774.1    6.2    7.     10.   35     38
+01:00   6.1   35    11.0  20.9  175   773.8    6.1    7.     10.   35     38
+02:00   5.6   35    26.6  32.1  149   773.5    5.6    6.      9.   35     38
+03:00   5.4   39    23.7  48.6  168   772.7    5.4    7.      9.   39     42
+04:00   5.2   38    38.5  38.7  137   772.5    5.2    6.      9.   38     41
+05:00   4.9   39    26.1  46.9  165   772.4    4.9    6.      8.   39     42
+06:00   5.0   38    25.7  30.9  114   772.6    5.0    6.      8.   38     41
+07:00   4.9   38    26.9  36.5  143   772.9    4.9    6.      8.   38     41
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clear Sky :D
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+no time lost - good night :)
+
+

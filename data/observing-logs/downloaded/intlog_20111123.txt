@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 11 24 06:29
+
+TELESCOPE             INT
+DATE                  20111123
+OBSERVER/S            Geert Barentsen
+PROGRAMME             UVEX Survey
+PROPOSAL REF          N2
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Liam Hardy
+
+TEL STATION / FOCUS   Prime  / 43.44
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:18
+SUNRISE (UT)          07:33
+%ILLUM. LUNAR DISK    2
+DARK TIME (HRS)       10:40
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         06:36
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   3.1   28    30.7  37.3   28   769.4    3.1    6.      8.   28     39
+20:00   1.9   39    36.0  44.5   29   769.4    1.9    4.      8.   39     47
+21:00   2.3   21    33.8  35.8   29   769.9    2.3    3.      6.   21     35
+22:00   1.3   42    35.3  39.4   18   770.2    1.3    3.      7.   42     66
+23:00  -0.3   97    36.7  39.9   22   769.7   -0.3    6.      7.   97     62
+00:00  -0.0   98    36.2  37.3   27   769.6   -0.0    7.      7.   98     64
+01:00  -0.1   98    30.0  37.6   20   769.4   -0.1    7.      7.   98     66
+02:00  -0.7   98    37.6  37.0   69   769.1   -0.7    7.      8.   98     65
+03:00   2.9   30    30.3  36.7   22   769.3    2.9    6.      8.   30     41
+04:00   2.1   53    37.4  38.8   21   768.9    2.1    3.      7.   53     77
+05:00   1.5   97    23.8  26.3    1   769.2    1.5    6.      7.   97     70
+06:00  -0.2   97    30.9  33.4  198   768.4   -0.2    6.      8.   97     68
+
+TIME LOST weather           08:30
+TIME LOST Technical         01:30
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High and rapidly varying humidity all night (60-99%). Flats could not be taken. Seeing bad (> 2-2.5"). Poor data.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+WFC failed early in the night: Support Astronomer had to power cycle DAS controller and the 'triton' PC.
+
+

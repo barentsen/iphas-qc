@@ -1,0 +1,40 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 02 19 04:51
+
+TELESCOPE             INT
+DATE                  20120218
+OBSERVER/S            Koch, Aden, Kacharov
+PROGRAMME             NGC 2419
+PROPOSAL REF          P2
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Hugo Ledo
+
+TEL STATION / FOCUS    / 43.3
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:10
+EVENING TWILIGHT (UT) 20:22
+MORNING TWILIGHT (UT) 06:28
+SUNRISE (UT)          07:40
+%ILLUM. LUNAR DISK    9
+DARK TIME (HRS)       10:06
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         05:43
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+No Met data available for first half of night
+No Met data available for second half of night
+
+
+TIME LOST weather           06:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Varying humidity. 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Lost a lot of time due to high humidity. We abandoned the telescope at 05:00
+
+

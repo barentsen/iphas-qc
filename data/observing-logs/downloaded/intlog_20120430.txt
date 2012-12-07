@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 05 01 07:10
+
+TELESCOPE             INT
+DATE                  20120430
+OBSERVER/S            Hoekstra
+PROGRAMME             N3 
+PROPOSAL REF          N3                 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.53
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:54
+EVENING TWILIGHT (UT) 21:11
+MORNING TWILIGHT (UT) 05:05
+SUNRISE (UT)          06:23
+%ILLUM. LUNAR DISK    67
+DARK TIME (HRS)       07:54
+TWILIGHT TIME (HRS)   02:35
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:02
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   7.2    2     3.5   8.0  278   768.5   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   5.4    0    13.8  16.9  266   768.6   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   4.5    0    10.8  13.6  282   769.0   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   4.0    1    10.0  12.5  293   769.4   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   4.1    1     9.6  13.3  292   769.4   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   2.7   11     9.2  11.8  342   768.9   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   1.4   15    15.8  20.8  347   768.9   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   1.1   43    10.3  11.0  335   768.1   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   1.3   39    11.6  13.9  327   767.7   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   1.5   27    11.1  18.0  324   767.3   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   2.1   22    22.0  24.8  319   767.0   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           02:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Lots of clouds during the night with some clear patches. Cleared up around UT 3:00. Seeing 1.5-2"
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Heavy cloud cover during part of the night.
+
+

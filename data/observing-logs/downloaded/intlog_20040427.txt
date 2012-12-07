@@ -1,0 +1,76 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 04 28 03:02
+
+TELESCOPE             INT
+DATE                  20040427
+OBSERVER/S            Burleigh/Hogan
+PROGRAMME             Planetary nebulae
+PROPOSAL REF          P/04A/4                 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    A. Garcia
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:52
+EVENING TWILIGHT (UT) 21:09
+MORNING TWILIGHT (UT) 05:08
+SUNRISE (UT)          06:26
+%ILLUM. LUNAR DISK    53
+DARK TIME (HRS)       07:59
+TWILIGHT TIME (HRS)   02:35
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          02:51
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   1.1   52    31.9  36.6  282   762.3    1.1   7.7     8.6   52    42 
+21:00   1.9   46    36.8  45.7  283   762.5    1.9   3.4     8.2   46    46 
+22:00   0.2   70    28.1  32.0  308   763.0    0.2   2.9     7.9   70    64 
+23:00  -0.3   94    42.3  46.1  291   763.2   -0.3   4.3     7.9   94    75 
+00:00  -0.9   94    36.6  40.0  278   763.3   -0.9   4.4     7.9   94    76 
+01:00  -0.9   77    38.9  42.2  275   763.1   -0.9   3.9     8.0   77    65 
+02:00  -0.1   57    34.8  39.2  301   763.0   -0.1   4.1     7.8   57    37 
+03:00  -1.9   92    46.0  48.3  282   762.3   -1.9   3.7     7.8   92    66 
+
+TIME LOST weather           09:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Ridge cloud, high humidity
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Entire night lost. Even when humidity dropped for a while, it was merely a "sucker hole". 
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 394209 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 13:38 4.530  WFC    0.0  180  i                                
+ 394210 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:00 4.530  WFC    0.0  180  i                                
+ 394211 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:01 4.530  WFC    0.0  180  i                                
+ 394212 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:01 4.530  WFC    0.0  180  i                                
+ 394213 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:02 4.530  WFC    0.0  180  i                                
+ 394214 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:03 4.530  WFC    0.0  180  i                                
+ 394215 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:03 4.530  WFC    0.0  180  i                                
+ 394216 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:04 4.530  WFC    0.0  180  i                                
+ 394217 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:04 4.530  WFC    0.0  180  i                                
+ 394218 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:05 4.530  WFC    0.0  180  i                                
+ 394219 Bias              0:00:00.00 +00:00:00.0 J2000.00 19:06 4.530  WFC    0.0  180  i                                
+ 394220 Flat field        9:12:00.00 -07:50:46.9 J2000.00 20:00 1.245  WFC    3.4  180  [OIII]5007                       
+ 394221 Flat field        9:12:00.67 -07:50:37.0 J2000.00 20:01 1.245  WFC    4.0  180  [OIII]5007                       
+ 394222 Flat field        9:11:59.32 -07:50:56.9 J2000.00 20:02 1.246  WFC    4.8  180  [OIII]5007                       
+ 394223 Flat field        9:11:59.32 -07:50:46.9 J2000.00 20:04 1.246  WFC    5.9  180  [OIII]5007                       
+ 394224 Flat field        9:12:00.00 -07:50:57.0 J2000.00 20:05 1.246  WFC    9.7  180  [OIII]5007                       
+ 394225 Flat field        9:11:59.99 -07:50:36.9 J2000.00 20:06 1.246  WFC   13.4  180  [OIII]5007                       
+ 394226 Flat field        9:12:00.00 -07:50:37.0 J2000.00 20:08 1.246  WFC    4.2  180  V                                
+ 394227 Flat field        9:11:59.99 -07:50:56.9 J2000.00 20:09 1.247  WFC    3.8  180  V                                
+ 394228 Flat field        9:11:59.32 -07:50:46.9 J2000.00 20:10 1.247  WFC    8.0  180  V                                
+ 394229 Flat field        9:11:59.32 -07:50:57.0 J2000.00 20:12 1.248  WFC    6.1  180  V                                
+ 394230 Flat field        9:12:00.67 -07:50:36.9 J2000.00 20:13 1.248  WFC   12.7  180  V                                
+ 394231 Flat field        9:11:59.99 -07:50:47.0 J2000.00 20:15 1.249  WFC   17.8  180  V                                
+ 394232 Flat field        9:11:59.99 -07:50:47.0 J2000.00 20:16 1.249  WFC   23.6  180  r                                
+ 394233 Flat field        9:12:00.67 -07:50:37.0 J2000.00 20:18 1.250  WFC   22.9  180  r                                
+ 394234 Flat field        9:11:59.32 -07:50:57.0 J2000.00 20:19 1.251  WFC   29.8  180  r                                ridge cloud
+ 394235 Flat field        9:11:59.32 -07:50:47.0 J2000.00 20:21 1.252  WFC   45.9  180  r                                ridge cloud
+ 394236 Focus run        10:06:59.00 -02:31:09.9 J2000.00 20:58 1.170  WFC   10.1  180  r                                

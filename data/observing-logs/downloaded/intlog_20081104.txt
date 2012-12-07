@@ -1,0 +1,82 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 11 05 03:47
+
+TELESCOPE             INT
+DATE                  20081104
+OBSERVER/S            G. Ramsay
+PROGRAMME             P9: Determining the space density of ultra-compact binaries
+PROPOSAL REF          P9              
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.80
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:32
+EVENING TWILIGHT (UT) 19:45
+MORNING TWILIGHT (UT) 06:06
+SUNRISE (UT)          07:19
+%ILLUM. LUNAR DISK    39
+DARK TIME (HRS)       10:21
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          23:41
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   9.3    0    13.1  15.0   76   770.4    9.3    9.      9.    0     15
+20:00   8.6    0    10.5  12.1   66   771.0    8.6   10.      9.    0     21
+21:00   7.8    3    10.7  11.9  101   771.6    7.8   10.      9.    3     28
+22:00   7.8    5    16.8  17.3  168   771.8    7.8   10.      9.    5     29
+23:00   8.0    4    18.4  21.7  158   771.6    8.0    9.      9.    4     22
+00:00   6.5   11    20.3  19.0  163   771.8    6.5    9.      9.   11     24
+01:00   7.0    9    28.8  31.4  167   771.2    7.0    9.     10.    9     26
+02:00   8.9    4    37.4  39.9  176   770.4    8.9    9.     10.    4     24
+03:00   7.0    8    23.4  26.2  166   770.7    7.0  10.0    10.1    8    27 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+high cloud throughout night - didnt open
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 643738 CAblank6 he2     17:59:43.99 +66:21:18.9  2000.00 18:36 1.376  WFC    4.1  180  HeII4686                         
+ 643739 CAblank6 he2     17:59:43.99 +66:21:18.9  2000.00 18:38 1.379  WFC    2.1  180  HeII4686                         
+ 643740 CAblank6 he2     17:59:40.67 +66:20:59.0  2000.00 18:39 1.381  WFC    3.5  180  HeII4686                         
+ 643741 CAblank6 he2     17:59:47.33 +66:21:39.2  2000.00 18:40 1.382  WFC    4.1  180  HeII4686                         
+ 643742 CAblank6 U       17:59:44.00 +66:21:19.0  2000.00 18:41 1.384  WFC    8.1  180  U                                
+ 643743 CAblank6 U       17:59:40.67 +66:20:59.0  2000.00 18:43 1.388  WFC    6.1  180  U                                
+ 643744 CAblank6 U       17:59:47.33 +66:21:38.8  2000.00 18:45 1.393  WFC    8.1  180  U                                
+ 643745 CAblank6 U       17:59:40.67 +66:21:39.0  2000.00 18:46 1.394  WFC    7.6  180  U                                
+ 643746 CAblank6 U       17:59:47.32 +66:20:58.9  2000.00 18:47 1.396  WFC   10.1  180  U                                
+ 643747 CAblank6 g       17:59:44.00 +66:21:19.1  2000.00 18:48 1.398  WFC    6.1  180  g                                
+ 643748 CAblank6 g       17:59:44.00 +66:21:19.0  2000.00 18:50 1.401  WFC    4.1  180  g                                
+ 643749 CAblank6 g       17:59:47.32 +66:20:59.2  2000.00 18:51 1.403  WFC    6.1  180  g                                
+ 643750 CAblank6 g       17:59:47.32 +66:21:39.0  2000.00 18:52 1.405  WFC    8.1  180  g                                
+ 643751 CAblank6 g       17:59:40.67 +66:21:39.0  2000.00 18:53 1.407  WFC   12.1  180  g                                
+ 643752 CAblank6 g       17:59:40.67 +66:20:58.9  2000.00 18:54 1.408  WFC   15.1  180  g                                
+ 643753 CAblank6 r       17:59:43.99 +66:21:19.0  2000.00 18:55 1.412  WFC    8.1  180  r                                
+ 643754 CAblank6 r       17:59:47.31 +66:20:58.9  2000.00 18:57 1.414  WFC   20.1  180  r                                
+ 643755 CAblank6 r       17:59:47.32 +66:21:38.8  2000.00 18:58 1.417  WFC   30.1  180  r                                
+ 643756 CAblank6 CLR      0:00:00.00 +00:00:00.0  2000.00 18:59 1.419  WFC    9.6  180  CLEAR                            
+ 643757 CAblank6 CLR     17:59:47.32 +66:20:59.1  2000.00 19:00 1.421  WFC   20.1  180  CLEAR                            
+ 643758 CAblank6 CLR     17:59:47.32 +66:21:38.8  2000.00 19:01 1.424  WFC   24.1  180  CLEAR                            
+ 643759 CAblank6 CLR     17:59:40.67 +66:21:39.0  2000.00 19:03 1.428  WFC   30.1  180  CLEAR                            
+ 643760 CAblank6 CLR     17:59:40.67 +66:20:58.9  2000.00 19:05 1.432  WFC   39.5  180  CLEAR                            
+ 643761 Bias              0:00:00.00 +00:00:00.0  2000.00 02:12 1.000  WFC    0.0  180  CLEAR                            
+ 643762 Bias              0:00:00.00 +00:00:00.0  2000.00 02:13 1.000  WFC    0.0  180  CLEAR                            
+ 643763 Bias              0:00:00.00 +00:00:00.0  2000.00 02:13 1.000  WFC    0.0  180  CLEAR                            
+ 643764 Bias              0:00:00.00 +00:00:00.0  2000.00 02:14 1.000  WFC    0.0  180  CLEAR                            
+ 643765 Bias              0:00:00.00 +00:00:00.0  2000.00 02:14 1.000  WFC    0.0  180  CLEAR                            
+ 643766 Bias              0:00:00.00 +00:00:00.0  2000.00 02:15 1.000  WFC    0.0  180  CLEAR                            
+ 643767 Bias              0:00:00.00 +00:00:00.0  2000.00 02:15 1.000  WFC    0.0  180  CLEAR                            
+ 643768 Bias              0:00:00.00 +00:00:00.0  2000.00 02:16 1.000  WFC    0.0  180  CLEAR                            
+ 643769 Bias              0:00:00.00 +00:00:00.0  2000.00 02:16 1.000  WFC    0.0  180  CLEAR                            
+ 643770 Bias              0:00:00.00 +00:00:00.0  2000.00 02:17 1.000  WFC    0.0  180  CLEAR                            

@@ -1,0 +1,40 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 01 20 01:42
+
+TELESCOPE             INT
+DATE                  20120119
+OBSERVER/S            Lindsay Magill
+PROGRAMME             Supernova classification and follow-up
+PROPOSAL REF          ITF10-4
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Hugo, Dora
+
+TEL STATION / FOCUS    / 15.90
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:46
+EVENING TWILIGHT (UT) 20:01
+MORNING TWILIGHT (UT) 06:42
+SUNRISE (UT)          07:57
+%ILLUM. LUNAR DISK    13
+DARK TIME (HRS)       10:41
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         05:16
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+No Met data available for first half of night
+No Met data available for second half of night
+
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Seeing 3-6", at 22.50 humidity >90, abandoned telerscope
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

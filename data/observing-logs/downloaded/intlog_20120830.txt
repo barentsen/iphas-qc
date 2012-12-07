@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 08 31 06:18
+
+TELESCOPE             INT
+DATE                  20120830
+OBSERVER/S            del Pino,Carrera
+PROGRAMME             Open Clusters
+PROPOSAL REF          C161
+TELESCOPE OPERATOR    --
+SUPPORT ASTRONOMER    L. Hardy
+
+TEL STATION / FOCUS    / 15.95
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:43
+EVENING TWILIGHT (UT) 20:57
+MORNING TWILIGHT (UT) 05:28
+SUNRISE (UT)          06:42
+%ILLUM. LUNAR DISK    99
+DARK TIME (HRS)       08:31
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00     #    #       #     #    #       #      #  20.1    21.6    #    24 
+21:00     #    #       #     #    #       #      #  17.9    21.5    #    20 
+22:00     #    #       #     #    #       #      #  17.3    21.2    #    20 
+23:00     #    #       #     #    #       #      #  17.1    21.0    #    20 
+00:00     #    #       #     #    #       #      #  16.5    20.3    #    22 
+01:00     #    #       #     #    #       #      #  16.2    19.8    #    21 
+02:00     #    #       #     #    #       #      #  16.0    19.4    #    22 
+03:00     #    #       #     #    #       #      #  15.7    18.8    #    24 
+04:00     #    #       #     #    #       #      #  15.6    18.4    #    23 
+06:00     #    #       #     #    #       #      #  15.0    17.9    #    29 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clear sky, variable seeing
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

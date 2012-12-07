@@ -1,0 +1,52 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 02 06 04:40
+
+TELESCOPE             INT
+DATE                  20070205
+OBSERVER/S            Fiona McGroarty
+PROGRAMME             Influence of Parsec Scale Outflows from Young Stars on Molecular Clouds
+PROPOSAL REF          P18
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Cassegrain  / 14.36
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:00
+EVENING TWILIGHT (UT) 20:14
+MORNING TWILIGHT (UT) 06:37
+SUNRISE (UT)          07:50
+%ILLUM. LUNAR DISK    87
+DARK TIME (HRS)       10:23
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         21:52
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -1.2   97    33.5  42.9  222   764.3   -1.2   6.6     8.8   97    67 
+20:00  -2.6   95    34.9  35.0  283   764.3   -2.6   6.4     8.7   95    59 
+21:00  -1.7   96    30.8  33.0  294   764.4   -1.7   6.7     8.8   96    60 
+22:00  -0.5   96    38.9  39.5  284   764.5   -0.5   6.1     8.8   96    64 
+23:00  -0.2   96    24.9  32.7  275   764.4   -0.2   7.1     8.9   96    63 
+00:00   0.0   96    27.6  33.0  280   763.9    0.0   7.0     8.9   96    64 
+01:00   0.8   96    33.7  43.7  271   763.5    0.8   6.8     8.7   96    67 
+02:00  -0.9   97    25.5  30.2  285   763.1   -0.9   6.8     8.8   97    63 
+03:00  -0.3   97    39.2  43.8  286   762.7   -0.3   6.3     8.7   97    68 
+04:00  -0.3   97    34.6  41.2  307   762.6   -0.3   5.6     8.9   97    72 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+~100% humidity all night, rain for most of the night, heavy winds. 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Did not get to open the dome at all tonight due to the very bad weather conditions
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 548534 Bias             21:00:00.00 +19:59:59.9 2007.097 14:21 1.054  IDS    0.0   20  Clear+Clear   1.0  39.1 8601.9   
+ 548535 Arc              20:59:59.99 +20:00:00.0 2007.097 14:24 1.058  IDS   10.0   20  Clear+Clear   1.0  39.1 8601.9   

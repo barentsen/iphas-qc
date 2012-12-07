@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 02 24 07:30
+
+TELESCOPE             INT
+DATE                  20120223
+OBSERVER/S            R. Carrera, S. Murabito
+PROGRAMME             Open Clusters
+PROPOSAL REF          C34
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:14
+EVENING TWILIGHT (UT) 20:25
+MORNING TWILIGHT (UT) 06:24
+SUNRISE (UT)          07:35
+%ILLUM. LUNAR DISK    4
+DARK TIME (HRS)       09:59
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          20:52
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   2.0   14    13.7  22.2   82   769.2   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   2.1   19    32.8  37.9   65   769.5   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   2.1   21    33.8  40.5   53   769.6   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   1.8   18    31.6  35.8   48   769.8   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   1.0   20    27.7  32.7   25   769.8   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   1.1   20    28.5  33.3   52   769.7   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   0.6   20    24.3  31.6   34   769.6   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   0.2   23    24.4  27.4   46   769.1   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   0.2   19    19.8  24.9   34   768.7   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   0.2   17    21.3  22.7   42   768.5   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   0.2   15    18.0  23.8   31   768.6   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   0.1   16    27.2  27.7   31   768.5   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         02:30
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+seeing stable along the nigth
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+time lost because problems with TCS and pointing 
+
+

@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 08 21 06:57
+
+TELESCOPE             INT
+DATE                  20120820
+OBSERVER/S            R. Corradi
+PROGRAMME             ITP2
+PROPOSAL REF          ITP2
+TELESCOPE OPERATOR    --
+SUPPORT ASTRONOMER    --
+
+TEL STATION / FOCUS   Prime  / 43.40
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:54
+EVENING TWILIGHT (UT) 21:10
+MORNING TWILIGHT (UT) 05:21
+SUNRISE (UT)          06:36
+%ILLUM. LUNAR DISK    13
+DARK TIME (HRS)       08:11
+TWILIGHT TIME (HRS)   02:31
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:32
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00     #    #       #     #    #       #      #  18.6    18.6    #    40 
+21:00     #    #       #     #    #       #      #  17.7    18.9    #    44 
+22:00     #    #       #     #    #       #      #  17.3    18.7    #    39 
+23:00     #    #       #     #    #       #      #  17.3    18.7    #    40 
+00:00     #    #       #     #    #       #      #  17.6    18.9    #    36 
+01:00     #    #       #     #    #       #      #  18.0    19.1    #    31 
+02:00     #    #       #     #    #       #      #  18.8    19.2    #    27 
+03:00     #    #       #     #    #       #      #  18.3    19.3    #    30 
+04:00     #    #       #     #    #       #      #  19.0    19.5    #    25 
+05:00     #    #       #     #    #       #      #  19.1    19.7    #    26 
+06:00     #    #       #     #    #       #      #  19.1    19.6    #    26 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Dust. Seiing stable and arround 1.4 arcsec
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+The Autoguiding oscilates during the last 2 hours when observing targets between 30deg and 60deg over the horizon.
+
+

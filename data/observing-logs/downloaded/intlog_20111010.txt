@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 10 11 07:29
+
+TELESCOPE             INT
+DATE                  20111010
+OBSERVER/S            Khosroshahi, Ravani, Jafarzadeh
+PROGRAMME             INO3/11B
+PROPOSAL REF          INO3/11B
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Liam
+
+TEL STATION / FOCUS   Cassegrain  / 14.60
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:56
+EVENING TWILIGHT (UT) 20:07
+MORNING TWILIGHT (UT) 05:51
+SUNRISE (UT)          07:02
+%ILLUM. LUNAR DISK    99
+DARK TIME (HRS)       09:44
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          06:42
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  12.1   26     7.9  11.9  179   775.3   12.1   14.     14.   26     37
+20:00  11.5   27     3.4   6.8  134   775.7   11.5   14.     14.   27     31
+21:00  11.4   27     3.6   6.7  138   776.1   11.4   14.     14.   27     31
+22:00  11.5   26     0.2   0.5  170   776.7   11.5   12.     14.   26     30
+23:00  11.3   26    13.5  14.4  123   777.2   11.3   12.     14.   26     31
+00:00  11.2   27     7.3   7.7  165   777.2   11.2   12.     14.   27     31
+01:00  10.9   30    12.0  12.3  174   776.8   10.9   12.     14.   30     34
+02:00  10.9   32    11.6  19.4  177   776.3   10.9   11.     14.   32     36
+03:00  10.7   34    16.2  19.0  191   776.3   10.7   11.     14.   34     38
+04:00  10.5   35    14.7  16.8  143   776.0   10.5   11.     13.   35     39
+05:00  10.6   36    16.3  19.2  169   775.9   10.6   11.     13.   36     40
+06:00  10.5   36    13.1  16.4  185   775.9   10.5   11.     13.   36     40
+07:00  10.5   35    11.2  14.0  163   776.2   10.5   11.     13.   35     39
+
+TIME LOST weather           03:00
+TIME LOST Technical         00:30
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Poor especially at the start up
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

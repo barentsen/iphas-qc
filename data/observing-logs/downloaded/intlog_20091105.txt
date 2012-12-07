@@ -1,0 +1,74 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 11 06 11:27
+
+TELESCOPE             INT
+DATE                  20091105
+OBSERVER/S            Andrew Cardwell et al. 
+PROGRAMME             D
+PROPOSAL REF          D
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    D night
+
+TEL STATION / FOCUS   Prime  / 49
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:31
+EVENING TWILIGHT (UT) 19:44
+MORNING TWILIGHT (UT) 06:07
+SUNRISE (UT)          07:20
+%ILLUM. LUNAR DISK    87
+DARK TIME (HRS)       10:23
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         20:32
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.3   83    39.6  42.5   15   772.3    5.3    8.     11.   83     75
+20:00   4.6   94    35.3  38.9   25   772.9    4.6    9.     11.   94     71
+21:00   5.8   87    38.7  47.6   37   773.7    5.8   11.     11.   87     65
+22:00   5.6   93    41.1  44.0   49   773.6    5.6   11.     12.   93     65
+23:00   6.3   95    40.9  45.8   48   774.5    6.3   11.     12.   95     66
+00:00   6.6   92    18.0  31.1   64   773.9    6.6   11.     12.   92     65
+01:00   5.9   98    25.0  30.9   60   773.7    5.9   11.     12.   98     67
+02:00   6.5   99    23.0  30.4   72   773.2    6.5   11.     12.   99     71
+03:00   5.4   99    37.9  43.6   69   772.7    5.4   12.     12.   99     71
+04:00   3.7   99    41.6  46.0   29   771.6    3.7   12.     12.   99     67
+05:00   3.9   99    21.1  27.2  279   772.4    3.9   12.     12.   99     65
+06:00   6.3   23    23.0  25.2   64   773.6    6.3   11.     12.   23     59
+07:00   6.7   23    19.7  21.8   45   773.2    6.7   11.     12.   23     48
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 704728 skyflat SII      19:59:00.00 +02:19:59.9  2000.00 18:43 1.127  WFC    8.1  180  [SII]6725                        
+ 704729 skyflat SII      19:59:00.66 +02:20:10.0  2000.00 18:44 1.128  WFC   15.1  180  [SII]6725                        
+ 704730 skyflat SII      19:59:00.67 +02:19:49.9  2000.00 18:45 1.129  WFC   21.6  180  [SII]6725                        
+ 704731 skyflat SII      19:58:59.33 +02:20:10.0  2000.00 18:47 1.131  WFC   33.1  180  [SII]6725                        
+ 704732 skyflat 666      19:58:59.99 +02:20:00.0  2000.00 18:49 1.132  WFC   39.5  180  Ha 6657                          
+ 704733 skyflat 666      19:59:00.66 +02:20:10.0  2000.00 18:51 1.134  WFC   65.0  180  Ha 6657                          
+ 704734 skyflat 666      19:58:59.33 +02:19:49.9  2000.00 18:53 1.136  WFC  120.0  180  Ha 6657                          
+ 704735 skyflat Ha       19:59:00.00 +02:19:59.9  2000.00 18:57 1.140  WFC  119.5  180  Halpha                           useless counts ~8000
+ 704736 skyflat r        19:59:00.00 +02:20:00.0  2000.00 19:01 1.145  WFC   79.5  180  r                                
+ 704737 skyflat r        19:58:59.33 +02:19:49.9  2000.00 19:04 1.148  WFC  120.0  180  r                                
+ 704739 Bias              0:00:00.00 +00:00:00.0  2000.00 19:41 2.469  WFC    0.0  180  Halpha                           
+ 704740 Bias              0:00:00.00 +00:00:00.0  2000.00 19:41 2.469  WFC    0.0  180  Halpha                           
+ 704741 Bias              0:00:00.00 +00:00:00.0  2000.00 19:42 2.469  WFC    0.0  180  Halpha                           
+ 704742 Bias              0:00:00.00 +00:00:00.0  2000.00 19:43 2.469  WFC    0.0  180  Halpha                           
+ 704743 Bias              0:00:00.00 +00:00:00.0  2000.00 19:44 2.469  WFC    0.0  180  Halpha                           
+ 704744 Bias              0:00:00.00 +00:00:00.0  2000.00 19:44 2.469  WFC    0.0  180  Halpha                           
+ 704745 Bias              0:00:00.00 +00:00:00.0  2000.00 19:45 2.469  WFC    0.0  180  Halpha                           
+ 704746 Bias              0:00:00.00 +00:00:00.0  2000.00 19:46 2.469  WFC    0.0  180  Halpha                           
+ 704747 Bias              0:00:00.00 +00:00:00.0  2000.00 19:47 2.469  WFC    0.0  180  Halpha                           
+ 704748 Bias              0:00:00.00 +00:00:00.0  2000.00 19:48 2.469  WFC    0.0  180  Halpha                           
+ 704749 Bias              0:00:00.00 +00:00:00.0  2000.00 19:48 2.469  WFC    0.0  180  Halpha                           

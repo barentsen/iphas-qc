@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 04 09 06:57
+
+TELESCOPE             INT
+DATE                  20120408
+OBSERVER/S            J GARCIA ROJAS
+PROGRAMME             CAT S, J. Garcia Rojas
+PROPOSAL REF          CAT S
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Lee PaTRICK
+
+TEL STATION / FOCUS   Cassegrain  / 16
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:41
+EVENING TWILIGHT (UT) 20:54
+MORNING TWILIGHT (UT) 05:31
+SUNRISE (UT)          06:45
+%ILLUM. LUNAR DISK    93
+DARK TIME (HRS)       08:37
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         21:41
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -1.0   99     7.2  12.9  184   761.8   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00  -0.4   64    16.1  19.9  275   761.6   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   0.5   12    12.0  15.1  278   762.2   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   0.5    9    12.0  18.6  195   762.9   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   0.3   12    11.2  12.0  248   763.1   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   0.7   10    11.9  13.7  271   763.2   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   0.5   11    13.3  15.9  253   763.0   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   0.5   12    17.3  20.6  271   762.6   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00  -0.0   15    18.0  18.9  273   762.1   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00  -0.1   19    17.0  20.2  275   761.7   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00  -0.2   21    19.0  19.8  259   761.6   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         02:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Humidity drops at the beginning of the night from 100% to 20%
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Some technical problems with the IDS MMS power about 1.30-2.00 hours lost
+Variable seeing
+

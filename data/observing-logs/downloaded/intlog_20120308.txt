@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 03 09 07:34
+
+TELESCOPE             INT
+DATE                  20120308
+OBSERVER/S            Hodgkin, Gillen
+PROGRAMME             Low Mass Young EBs
+PROPOSAL REF          N5
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Hugo Ledo
+
+TEL STATION / FOCUS   Cassegrain  / 15.9
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:23
+EVENING TWILIGHT (UT) 20:34
+MORNING TWILIGHT (UT) 06:10
+SUNRISE (UT)          07:21
+%ILLUM. LUNAR DISK    99
+DARK TIME (HRS)       09:36
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         19:33
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   6.8   13     6.1   7.5  184   773.0   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   5.9   20     3.6   7.7  180   773.8   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   5.9   20     6.8  15.5  177   774.2   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   5.8   22    12.6  21.6  173   774.1   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   6.0   20    12.3  22.7  171   773.6   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   6.0   21    15.7  22.5  183   773.5   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   5.9   22     9.1  34.7  178   773.3   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   5.6   23     2.4   7.2  173   773.3   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   5.9   20     4.8   8.3  181   773.1   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   6.5   17     4.3   9.4  182   773.0   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   6.7   16     3.9   6.0  182   773.3   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   7.8   13     4.5   6.0  171   773.5   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clear all night, seeing ~1.5 arcsecs
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

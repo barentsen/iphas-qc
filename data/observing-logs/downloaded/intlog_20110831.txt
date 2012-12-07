@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 09 01 06:32
+
+TELESCOPE             INT
+DATE                  20110831
+OBSERVER/S            Thomas Kupfer
+PROGRAMME             UVEX Survey
+PROPOSAL REF          P2
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:43
+EVENING TWILIGHT (UT) 20:57
+MORNING TWILIGHT (UT) 05:28
+SUNRISE (UT)          06:42
+%ILLUM. LUNAR DISK    12
+DARK TIME (HRS)       08:31
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:09
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   9.0   79    17.7  22.4  300   770.4    9.0   12.     15.   79     71
+21:00   8.0   82    19.8  22.1  289   770.5    8.0   11.     15.   82     74
+22:00   8.9   80    27.5  29.9  296   770.8    8.9   11.     15.   80     73
+23:00   8.9   76    26.6  29.3  268   771.2    8.9   11.     15.   76     72
+00:00   8.7   61    32.4  35.0  296   771.0    8.7   10.     15.   61     62
+01:00   9.2   35    20.7  31.5  224   770.9    9.2   11.     14.   35     33
+02:00   8.9   37    25.1  27.5  251   770.7    8.9   10.     14.   37     35
+03:00   8.3   57    30.3  33.6  311   769.9    8.3   10.     14.   57     54
+04:00   8.0   98    19.3  21.3  299   769.8    8.0   11.     14.   98     74
+05:00   8.8   98    23.6  27.5  278   769.9    8.8   12.     14.   98     78
+06:00   9.7   69    16.9  23.0  279   770.0    9.7   12.     14.   69     72
+
+TIME LOST weather           04:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+80% humidity in the beginning of the night, dropped later and increased dramatically at 2:10 UT above 90% 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+closing from 2:10 UT until end of the night because humidity increased above 90% 
+
+

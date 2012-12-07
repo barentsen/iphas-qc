@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 12 11 07:51
+
+TELESCOPE             INT
+DATE                  20111210
+OBSERVER/S            B. Sipocz, G. Kovacs
+PROGRAMME             Follow-up of candidates from the WFCAM Transit Survey
+PROPOSAL REF          P17
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Hugo Ledo
+
+TEL STATION / FOCUS    / 43.5
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:39
+MORNING TWILIGHT (UT) 06:30
+SUNRISE (UT)          07:46
+%ILLUM. LUNAR DISK      1
+DARK TIME (HRS)       10:51
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   4.8   32    10.7  20.4   69   772.4    4.8    6.      8.   32     34
+20:00   4.9   31    14.6  21.8  133   772.7    4.9    6.      8.   31     34
+21:00   4.8   32    17.6  28.1  126   773.0    4.8    6.      8.   32     35
+22:00   4.7   32     5.9  14.7  152   773.1    4.7    6.      8.   32     34
+23:00   5.1   31     5.8  18.9  206   773.4    5.1    6.      8.   31     34
+00:00   5.3   30    10.0  13.7  178   773.5    5.3    6.      8.   30     33
+01:00   4.8   31     4.6   7.0  186   773.2    4.8    5.      7.   31     35
+02:00   5.1   30     2.7   8.4  180   773.0    5.1    6.      7.   30     33
+03:00   5.0   29     3.3   4.0  180   773.0    5.0    6.      7.   29     33
+04:00   5.0   30     2.3   4.0  146   772.9    5.0    6.      7.   30     33
+05:00   4.9   30     7.2   8.5  190   772.7    4.9    6.      8.   30     33
+06:00   4.8   30     4.8   5.5  219   772.7    4.8    6.      7.   30     33
+07:00   4.6   31     0.7   1.4  172   772.9    4.6    5.      7.   31     34
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Poor seeing (2-3.5") for the first half, it improved to <1" for the second half. Cirrus clouds for the first half and haze during all night. Most stable night for the whole run.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

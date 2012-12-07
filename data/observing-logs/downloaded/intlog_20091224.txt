@@ -1,0 +1,56 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 01 11 12:15
+
+TELESCOPE             INT
+DATE                  20091224
+OBSERVER/S            Balaguer
+PROGRAMME             C50
+PROPOSAL REF          C50                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Dyke
+
+TEL STATION / FOCUS   Prime  / 43.70
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:28
+EVENING TWILIGHT (UT) 19:45
+MORNING TWILIGHT (UT) 06:38
+SUNRISE (UT)          07:54
+%ILLUM. LUNAR DISK    53
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          01:38
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   3.9   74    23.0  30.8  176   762.3    3.9    7.     10.   74     89
+20:00   4.3   45    30.6  34.6  177   762.2    4.3    7.     10.   45     91
+21:00   5.5   84    65.4  22.7  170   760.6    5.5    7.     10.   84     93
+22:00   5.9   31    83.7  74.0  180   760.9    5.9    8.     10.   31     93
+23:00   6.7   84    13.8  76.0  175   760.9    6.7    8.     10.   84     94
+00:00   6.0   44    79.4  52.2  191   760.3    6.0    8.     10.   44     94
+01:00   5.5   75    76.8  50.2  174   759.5    5.5    8.     10.   75     93
+02:00   5.3   55    07.8  55.6  182   758.4    5.3    8.     10.   55     92
+03:00   5.0   69    18.1  62.2  178   758.2    5.0    8.     10.   69     92
+04:00   5.5   88    96.5  75.0  175   758.3    5.5    8.     10.   88     93
+05:00   5.5   38    14.6  84.4  183   758.1    5.5    8.     10.   38     92
+06:00   4.9   53    93.1  65.1  183   757.7    4.9    8.     10.   53     91
+07:00   4.6   72    56.2  22.0  157   758.9    4.6    7.     10.   72     90
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clear
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Lost ~45 minutes due to DAS computer needing to be rebooted (same problem as described in manual)
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 712698 Flat field        0:00:00.00 +00:00:00.0  2000.00 11:24 4.488  WFC    3.1  180  stromgren v                      
+ 712699 Bias              0:00:00.00 +00:00:00.0  2000.00 12:27 4.487  WFC    0.0  180  stromgren v                      
+ 712700 Bias             23:40:00.00 +19:59:59.9  2009.98 19:38 1.043  WFC    0.0  180  stromgren v                      

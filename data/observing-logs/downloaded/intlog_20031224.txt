@@ -1,0 +1,106 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 12 25 06:32
+
+TELESCOPE             INT
+DATE                  20031224
+OBSERVER/S            Hameed
+PROGRAMME             The STARFORM/H-alpha survey: Probing the recent history of star formation in spirals
+PROPOSAL REF          N5
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Andy Hide
+
+TEL STATION / FOCUS   Prime  / 43.90
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:28
+EVENING TWILIGHT (UT) 19:44
+MORNING TWILIGHT (UT) 06:37
+SUNRISE (UT)          07:54
+%ILLUM. LUNAR DISK    4
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          19:45
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.3   37    49.1  52.5  174   769.5    5.3   9.3     9.3   37    41 
+20:00   5.3   32    57.1  63.1  147   769.7    5.3   9.6     9.4   32    35 
+21:00   4.9   34    50.1  54.8  143   769.8    4.9   9.5     9.4   34    32 
+22:00   5.4   28    56.8  62.6  125   769.8    5.4   7.2     8.9   28    29 
+23:00   5.4   28    51.0  56.1  148   770.1    5.4   7.0     8.8   28    29 
+00:00   5.4   27    56.3  63.3  146   770.0    5.4   7.2     8.7   27    30 
+01:00   5.7   24    62.0  67.7  120   769.2    5.7   7.2     8.6   24    29 
+02:00   5.9   25    77.1  87.3  117   768.8    5.9   7.2     8.7   25    27 
+03:00   5.2   30    58.1  62.4  118   769.0    5.2   6.8     8.5   30    32 
+04:00   5.0   29    64.8  70.7  149   768.7    5.0   6.2     8.4   29    30 
+05:00   4.9   28    64.5  72.2  142   768.4    4.9   6.1     8.3   28    29 
+06:00   4.7   29    61.0  65.4  152   768.6    4.7   6.5     8.2   29    30 
+
+TIME LOST weather           06:00
+TIME LOST Technical         00:30
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clouds came in an out throughout the night. The seeing was between 1.8 and 3.5". 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Most of the time was lost due to clouds. Even when I was open, it was difficult to guide because the telescope would lose the guide star because of passing clouds. 
+Half an hour was lost due to a shutter problem. I had to power cycle the MCA controller. 
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 382648 Bias frame        0:00:00.00 +00:00:00.0 A        14:51 1.509  WFC    0.0  180  r                                
+ 382649 Bias              0:00:00.00 +00:00:00.0 A        20:23 1.000  WFC    0.0  180  r                                
+ 382650 Bias              0:00:00.00 +00:00:00.0 A        20:28 1.000  WFC    0.0  180  r                                
+ 382651 Bias              0:00:00.00 +00:00:00.0 A        20:29 1.000  WFC    0.0  180  r                                
+ 382652 Bias              0:00:00.00 +00:00:00.0 A        20:30 1.000  WFC    0.0  180  r                                
+ 382653 Bias              0:00:00.00 +00:00:00.0 A        20:30 1.000  WFC    0.0  180  r                                
+ 382654 Bias              0:00:00.00 +00:00:00.0 A        20:47 1.000  WFC    0.0  180  r                                
+ 382655 Bias              0:00:00.00 +00:00:00.0 A        20:48 1.000  WFC    0.0  180  r                                
+ 382656 Bias              0:00:00.00 +00:00:00.0 A        20:48 1.000  WFC    0.0  180  r                                
+ 382657 Bias              0:00:00.00 +00:00:00.0 A        20:49 1.000  WFC    0.0  180  r                                
+ 382658 Bias              0:00:00.00 +00:00:00.0 A        20:50 1.000  WFC    0.0  180  r                                
+ 382659 PG0205            2:08:03.39 +13:36:24.9 J2000.00 21:08 1.036  WFC   30.1  180  r                                Got it. Pointing is good.
+ 382660 PG0205            2:08:03.40 +13:36:24.9 J2000.00 21:11 1.036  WFC   30.1  180  R                                
+ 382661 Focus run         2:08:03.40 +13:38:55.1 J2000.00 21:18 1.036  WFC   10.1  180  R                                best focus 43.95 with 1.95" seeing. T=7.51C
+ 382662 N157              0:34:46.70 -08:23:48.4 J2000.00 21:29 1.447  WFC   30.1  180  R                                Probably looking through clouds. Seeing is 3" (Yikes!!)
+ 382663 N157              0:34:46.69 -08:23:48.5 J2000.00 21:33 1.465  WFC   59.5  180  R                                
+ 382664 N157              0:34:46.69 -08:23:48.4 J2000.00 21:37 1.499  WFC  599.7  180  Halpha                           ok, under the circumstances, 2.9" seeing.
+ 382665 N157              0:34:46.70 -08:23:48.3 J2000.00 21:49 1.561  WFC  599.7  180  Halpha                           
+ 382666 N157              0:34:46.69 -08:23:48.3 J2000.00 22:01 1.603  WFC   60.1  180  R                                
+ 382667 U2855             3:48:22.59 +70:07:56.9 J2000.00 22:10 1.339  WFC   30.1  180  R                                Not there!
+ 382668 U2855             3:48:22.60 +70:07:56.9 J2000.00 22:18 1.336  WFC   59.6  180  R                                
+ 382669 N1087             2:46:25.20 -00:29:55.2 J2000.00 22:24 1.163  WFC   30.1  180  R                                Not there...Clouds??
+ 382670 N1087             2:46:25.20 -00:29:55.3 J2000.00 22:28 1.166  WFC   89.5  180  R                                ok, got, it. barely. It is the clouds..
+ 382671 N1087             2:46:25.19 -00:29:55.3 J2000.00 22:32 1.171  WFC   90.0  180  R                                No guiding..
+ 382672 N1087             2:46:25.20 -00:29:55.3 J2000.00 22:37 1.176  WFC   90.0  180  R                                Ok, but with 2.6" seeing
+ 382673 N1087             2:46:25.19 -00:29:55.4 J2000.00 22:40 1.180  WFC   89.5  180  R                                
+ 382674 N1087             2:46:25.19 -00:29:55.3 J2000.00 23:27 1.283  WFC  599.7  180  Halpha                           
+ 382675 N1087             2:46:25.19 -00:29:55.4 J2000.00 00:03 1.412  WFC  599.8  180  Halpha                           
+ 382676 N2964             9:42:54.29 +31:50:49.5 J2000.00 00:40 1.606  WFC   29.5  180  R                                
+ 382677 N2742             9:07:33.20 +60:28:45.9 J2000.00 00:45 1.437  WFC   28.6  180  R                                
+ 382678 Focus run         9:07:33.20 +60:31:16.1 J2000.00 00:51 1.424  WFC   10.1  180  R                                best 44.15, with 2.4" seeing..(T=5.96C)
+ 382679 N2742             9:07:33.20 +60:28:45.9 J2000.00 01:12 1.364  WFC   60.1  180  R                                Ok, but 2.3" seeing
+ 382680 N2742             9:07:33.19 +60:28:45.9 J2000.00 01:15 1.358  WFC   60.0  180  R                                
+ 382681 N2742             9:07:33.20 +60:28:46.0 J2000.00 01:17 1.352  WFC   60.1  180  R                                
+ 382682 N2742             9:07:33.19 +60:28:45.9 J2000.00 01:38 1.299  WFC  599.7  180  Halpha                           Ok, with 2" seeing. But the guide star is missing..
+ 382684 N2841             9:22:02.70 +50:58:35.6 J2000.00 02:16 1.180  WFC   30.1  180  R                                
+ 382685 Focus run         9:22:02.69 +51:01:05.7 J2000.00 02:23 1.172  WFC   10.1  180  R                                
+ 382687 N2841             9:22:02.70 +51:03:05.6 J2000.00 02:34 1.153  WFC   30.1  180  R                                I have to move the telescope..to center the galaxy
+ 382688 N2841             9:22:02.70 +50:58:35.5 J2000.00 02:38 1.146  WFC   60.1  180  R                                ok, with 1.6" seeing.
+ 382689 N2841             9:22:02.70 +50:58:35.6 J2000.00 02:41 1.142  WFC   60.1  180  R                                unstable seeing..now 1.8"
+ 382690 N2841             9:22:02.70 +50:58:35.6 J2000.00 02:44 1.133  WFC  599.7  180  Halpha                           ok, with 1.7" seeing
+ 382691 N2841             9:22:02.69 +50:58:35.5 J2000.00 02:59 1.117  WFC  599.2  180  Halpha                           ok, with 1.7" seeing
+ 382692 N2841             9:22:02.69 +50:58:35.7 J2000.00 03:12 1.109  WFC   60.1  180  R                                ok, with 1.8" seeing
+ 382693 N2841             9:22:02.70 +50:58:35.6 J2000.00 03:15 1.106  WFC   60.1  180  R                                
+ 382694 N2841             9:22:02.69 +50:58:35.5 J2000.00 03:17 1.101  WFC  599.8  180  Halpha                           
+ 382695 N3041             9:53:07.19 +16:40:40.1 J2000.00 03:39 1.067  WFC   30.1  180  R                                
+ 382696 Focus run         9:53:07.19 +16:43:09.8 J2000.00 03:47 1.059  WFC   10.1  180  R                                
+ 382697 Focus run         9:53:07.19 +16:43:09.9 J2000.00 03:55 1.050  WFC   10.1  180  R                                best focus 43.90 with 1.7" seeing
+ 382698 N3041             9:53:07.19 +16:40:40.1 J2000.00 04:01 1.043  WFC   60.1  180  R                                ok, with 1.65"seeing
+ 382699 N3041             9:53:07.20 +16:40:40.0 J2000.00 04:04 1.041  WFC   60.1  180  R                                clouds went by as it has only half the flux as 98
+ 382700 N3041             9:53:07.20 +16:40:40.0 J2000.00 04:07 1.039  WFC   60.1  180  R                                again lost guide star somewhere in the middle
+ 382701 N3041             9:53:07.19 +16:40:40.1 J2000.00 04:10 1.037  WFC   59.5  180  R                                no..same problem
+ 382702 N3041             9:53:07.19 +16:40:40.4 J2000.00 04:20 1.029  WFC  599.2  180  Halpha                           
+ 382703 N4111            12:07:03.12 +43:03:55.3 J2000.00 05:00 1.140  WFC   30.1  180  R                                

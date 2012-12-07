@@ -1,0 +1,77 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 02 16 06:19
+
+TELESCOPE             INT
+DATE                  20040215
+OBSERVER/S            S. Simon & A. Rosenberg
+PROGRAMME             C 11
+PROPOSAL REF          C11         
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 44.10
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:08
+EVENING TWILIGHT (UT) 20:20
+MORNING TWILIGHT (UT) 06:31
+SUNRISE (UT)          07:43
+%ILLUM. LUNAR DISK    23
+DARK TIME (HRS)       10:11
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         04:33
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   5.4   31    14.1  14.8   93   771.3    5.4   7.2     7.1   31    31 
+21:00   6.6   16    13.3  14.0  135   771.8    6.6   7.6     7.1   16    22 
+22:00   6.7   13    18.3  19.8  135   771.7    6.7   7.6     7.2   13    19 
+23:00   6.2   18    12.5  15.5  111   771.6    6.2   7.7     7.2   18    23 
+00:00   4.8   30     3.6   4.0  147   771.9    4.8   7.3     7.2   30    33 
+01:00   4.4   38     7.1   7.9  194   771.3    4.4   7.6     7.2   38    31 
+02:00   4.3   33    11.9  13.6  123   770.9    4.3   5.8     7.1   33    32 
+03:00   4.2   35    12.6  13.1  148   770.6    4.2   5.7     7.1   35    33 
+04:00   5.3   21    26.2  28.5  142   769.9    5.3   6.3     6.9   21    22 
+05:00   4.7   23    18.0  19.6  136   769.9    4.7   5.9     6.8   23    24 
+06:00   5.6   17    20.0  21.6  162   769.9    5.6   5.5     6.9   17    21 
+
+TIME LOST weather           05:30
+TIME LOST Technical         02:30
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Bad weather during the first part of the night (sky totally covered)
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Problems with the /obsdata/intb directory (not recognized by the system once the weather got better).
+2h and 30 min lost for identifying and solving the problem
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 389119 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 03:22 4.283  WFC    0.0  180  B                                
+ 389120 Focus run        10:11:06.00 -04:39:59.8 J2000.00 03:46 1.405  WFC   10.1  180  V                                
+ 389121 SexA_SII         10:11:06.00 -04:42:29.9 J2000.00 03:56 1.480  WFC  599.7  180  [SII]6725                        
+ 389122 SexA_SII         10:11:06.00 -04:42:30.0 J2000.00 04:07 1.535  WFC  599.2  180  [SII]6725                        
+ 389123 SexA_SII         10:11:05.99 -04:42:29.9 J2000.00 04:17 1.598  WFC  599.8  180  [SII]6725                        
+ 389124 SEXB             10:00:00.10 +05:19:56.0 J2000.00 04:36 1.626  WFC 1199.4  180  U                                
+ 389125 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:19 1.022  WFC    0.0  180  U                                
+ 389126 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:19 1.022  WFC    0.0  180  U                                
+ 389127 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:20 1.022  WFC    0.0  180  U                                
+ 389128 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:21 1.022  WFC    0.0  180  U                                
+ 389129 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:21 1.000  WFC    0.0  180  U                                
+ 389130 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:22 1.312  WFC    0.0  180  U                                
+ 389131 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:23 2.649  WFC    0.0  180  U                                
+ 389132 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:23 2.648  WFC    0.0  180  U                                
+ 389133 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:24 2.648  WFC    0.0  180  U                                
+ 389134 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:24 2.648  WFC    0.0  180  U                                
+ 389135 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:25 2.648  WFC    0.0  180  U                                
+ 389136 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:26 2.648  WFC    0.0  180  U                                
+ 389137 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:26 2.648  WFC    0.0  180  U                                
+ 389138 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:27 2.648  WFC    0.0  180  U                                
+ 389139 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:28 2.648  WFC    0.0  180  U                                
+ 389140 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:28 2.648  WFC    0.0  180  U                                
+ 389141 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:29 2.648  WFC    0.0  180  U                                
+ 389142 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:29 2.648  WFC    0.0  180  U                                
+ 389143 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:30 2.648  WFC    0.0  180  U                                
+ 389144 Bias              0:00:00.00 +00:00:00.0 J2000.00 05:31 2.648  WFC    0.0  180  U                                

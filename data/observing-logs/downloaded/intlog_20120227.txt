@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 03 06 11:31
+
+TELESCOPE             INT
+DATE                  20120227
+OBSERVER/S            O. Vaduvescu & students
+PROGRAMME             Asteroids
+PROPOSAL REF          C36
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Fathi, Karami
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:16
+EVENING TWILIGHT (UT) 20:28
+MORNING TWILIGHT (UT) 06:20
+SUNRISE (UT)          07:32
+%ILLUM. LUNAR DISK    31
+DARK TIME (HRS)       09:52
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          00:27
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -2.8   96     8.6  11.5  338   766.3   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00  -3.2   96     8.5  13.3  332   766.5   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00  -3.0   96    11.4  13.8    1   767.1   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00  -3.0   96    13.4  13.7   26   767.3   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00  -3.3   95     6.1   7.8  331   767.0   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00  -2.9   96    10.2  12.5   39   766.9   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00  -2.8   96    22.9  24.9  107   766.5   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00  -2.7   97     6.5  11.3  312   766.2   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00  -3.0   97    23.6  30.5  339   766.1   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00  -2.4   97    20.9  22.6   13   765.9   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00  -2.6   97    20.2  21.8    6   766.3   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00  -2.2   97    19.4  22.8  125   766.4   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Partly Cloudy
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+First four hours (8 -12 PM) were lost due to the technical problem with IDS H1800V grating. At midnight, the problem resolved.
+The IDS control system was restarted several times. Finally, based on the suggestion of the guide astronomers at WHT, the central wavelength
+of the grating was set to 5800 Ang. and then we started the observation. In the middle of the night, the sky was partly cloudy and influenced some of the observed spectra.

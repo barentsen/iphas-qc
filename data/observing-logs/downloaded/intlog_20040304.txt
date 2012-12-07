@@ -1,0 +1,94 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 03 05 23:11
+
+TELESCOPE             INT
+DATE                  20040304
+OBSERVER/S            Cotter, Tasker
+PROGRAMME             Radiogalaxies in Ha
+PROPOSAL REF          P20     
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Dimitris
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:20
+EVENING TWILIGHT (UT) 20:31
+MORNING TWILIGHT (UT) 06:14
+SUNRISE (UT)          07:25
+%ILLUM. LUNAR DISK    95
+DARK TIME (HRS)       09:43
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          07:00
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   7.6    7    25.8  29.9  154   775.1    7.6   9.7    10.7    7     9 
+21:00   7.9    5    27.1  29.8  166   775.5    7.9   9.0    10.5    5     6 
+22:00   7.8    4    36.8  39.9  184   775.8    7.8   8.9    10.4    4     6 
+23:00   7.8    4    36.2  38.5  152   775.9    7.8   9.0    10.2    4     8 
+00:00   6.6   13    30.7  32.7  140   775.5    6.6   8.7    10.2   13    13 
+01:00   6.6   14    34.1  37.7  159   775.5    6.6   8.1    10.1   14    14 
+02:00   7.6    4    38.5  43.5  149   775.0    7.6   8.4    10.0    4     7 
+03:00   6.6    8    34.6  39.6  166   774.5    6.6   7.9    10.0    8    10 
+04:00   7.2    4    36.9  42.1  156   774.4    7.2   8.3     9.9    4     6 
+05:00   7.3    3    34.4  37.7  166   774.2    7.3   8.4     9.8    3     5 
+06:00   7.1    2    33.2  35.6  160   774.4    7.1   8.3     9.8    2     6 
+07:00   6.8    3    27.6  29.6  145   774.7    6.8   8.1     9.9    3     5 
+
+TIME LOST weather           07:00
+TIME LOST Technical         01:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+2 - 4 mags of cloud for most of night. 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Too cloudy to guide for most of night with narrow band filter. Some backup targs done in broadband. 
+Lost communication with camera downtime approx 1 hour
+SA was taken ill so started late
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 390506 Bias             23:00:00.00 +09:59:59.9 A        14:21 1.091  WFC    0.0  180  B                                
+ 390508 Focus run         6:03:52.15 +60:29:41.0 J2000.00 19:53 1.182  WFC   10.1  180  r                                
+ 390512 Bias              0:00:00.00 +00:00:00.0 J2000.00 20:49 4.435  WFC    0.0  180  r                                
+ 390513 2masx ha          5:41:01.69 +06:12:38.0 J2000.00 21:05 1.135  WFC  899.5  180  [SII]6725                        cloudy
+ 390514 2masx ha          5:41:02.37 +06:12:47.9 J2000.00 21:22 1.166  WFC  899.7  180  [SII]6725                        
+ 390515 2masx ha          5:40:44.93 +06:12:48.0 J2000.00 21:40 1.205  WFC  899.8  180  [SII]6725                        
+ 390516 2masx ha          5:41:18.46 +06:12:27.9 J2000.00 21:59 1.256  WFC  899.8  180  [SII]6725                        Clouds thickening - lost guider, trailed.
+ 390517 3c166 ha          6:45:41.99 +21:22:40.9 J2000.00 22:24 1.071  WFC  899.4  180  8160                             defocussed
+ 390519 Focus run         6:45:24.09 +21:24:20.7 J2000.00 22:49 1.097  WFC   10.1  180  r                                
+ 390520 Focus run         6:45:24.10 +21:23:21.1 J2000.00 22:58 1.117  WFC   19.6  180  8160                             
+ 390521 Focus run         6:45:24.10 +21:24:36.0 J2000.00 23:10 1.136  WFC   19.5  180  8160                             
+ 390522 test              6:45:24.10 +21:21:51.0 J2000.00 23:14 1.157  WFC   19.6  180  8160                             
+ 390523 3c166 ha          6:45:41.99 +21:21:50.9 J2000.00 23:19 1.191  WFC  899.8  180  8160                             
+ 390524 3c166 ha          6:45:41.99 +21:22:10.9 J2000.00 23:39 1.241  WFC  414.9  180  8160                             v. thick cloud, losing guider
+ 390525 3c166 ha          6:45:26.96 +21:22:30.9 J2000.00 23:51 1.304  WFC  900.0  180  8160                             
+ 390526 Focus run         7:09:08.00 +48:39:26.0 J2000.00 00:25 1.281  WFC   10.1  180  r                                
+ 390527 ngc2329 ha        7:09:33.21 +48:36:55.8 J2000.00 00:31 1.330  WFC  899.8  180  [SII]6725                        very thick cloud, lost guiding repeatedly
+ 390528 ngc2329 ha        7:09:33.21 +48:36:55.8 J2000.00 00:50 1.396  WFC  898.5  180  [SII]6725                        just managed to guide this one but it's shallower than the dss
+ 390529 ngc2329 ha        7:09:33.20 +48:36:15.8 J2000.00 01:24 1.554  WFC  899.0  180  [SII]6725                        guiding lost
+ 390530 ngc2329 ha        7:09:29.17 +48:36:55.9 J2000.00 01:50 1.711  WFC  899.3  180  [SII]6725                        guiding lost
+ 390531 ngc5532 ha       14:16:53.19 +10:48:10.9 J2000.00 02:24 1.208  WFC  899.5  180  [SII]6725                        
+ 390532 ngc5532 ha       14:16:59.98 +10:48:10.9 J2000.00 02:42 1.161  WFC  899.1  180  [SII]6725                        
+ 390533 ngc5532 ha       14:17:01.34 +10:48:11.0 J2000.00 03:03 1.120  WFC  899.5  180  [SII]6725                        
+ 390534 ngc5532 ha       14:17:01.34 +10:48:30.9 J2000.00 03:21 1.094  WFC  899.7  180  [SII]6725                        
+ 390535 ugc08273 ha      13:11:59.29 +20:47:37.0 J2000.00 03:43 1.013  WFC  899.6  180  [SII]6725                        
+ 390536 ugc08273 ha      13:11:59.29 +20:48:17.0 J2000.00 04:09 1.027  WFC  899.0  180  [SII]6725                        tracking lost
+ 390537 ugc08273 ha      13:11:59.30 +20:48:16.9 J2000.00 04:34 1.051  WFC  899.5  180  [SII]6725                        guiding lost
+ 390538 ugc08273 ha      13:12:00.72 +20:47:36.9 J2000.00 04:56 1.083  WFC  899.1  180  [SII]6725                        
+ 390539 1529+3945        15:29:58.47 +39:45:09.9 J2000.00 05:19 1.022  WFC  899.5  180  r                                
+ 390540 1510+4138        15:09:59.07 +41:38:44.9 J2000.00 05:42 1.029  WFC  899.5  180  r                                
+ 390541 1510+4138        15:10:16.92 +41:40:25.0 J2000.00 06:03 1.038  WFC  899.6  180  r                                
+ 390542 1506+4239        15:07:02.06 +42:39:22.9 J2000.00 06:24 1.059  WFC  899.5  180  r                                
+ 390543 1530+3758        15:30:24.75 +37:58:30.9 J2000.00 06:46 1.043  WFC  899.5  180  r                                
+ 390544 Flat field       15:30:24.75 +37:58:30.9 J2000.00 07:02 1.051  WFC   28.0  180  r                                
+ 390545 Flat field       16:50:44.00 -15:22:48.0 J2000.00 07:05 1.393  WFC   12.4  180  r                                
+ 390546 Flat field       16:50:50.91 -15:22:48.0 J2000.00 07:06 1.393  WFC   11.9  180  r                                
+ 390547 Flat field       16:50:50.91 -15:22:47.9 J2000.00 07:07 1.392  WFC   12.4  180  r                                
+ 390548 flat             16:50:50.91 -15:22:47.9 J2000.00 07:09 1.392  WFC    0.9  180  [SII]6725                        
+ 390549 flat             16:50:50.91 -15:22:47.9 J2000.00 07:11 1.392  WFC    2.1  180  [SII]6725                        
+ 390550 flat             16:50:57.83 -15:22:47.9 J2000.00 07:12 1.393  WFC    5.1  180  [SII]6725                        
+ 390551 flat             16:51:11.65 -15:22:47.9 J2000.00 07:13 1.393  WFC    4.5  180  [SII]6725                        
+ 390552 flat             16:51:11.65 -15:22:47.8 J2000.00 07:15 1.393  WFC    1.0  180  r                                

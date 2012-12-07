@@ -1,0 +1,61 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 09 24 06:34
+
+TELESCOPE             INT
+DATE                  20100923
+OBSERVER/S            Daniel Lopez
+PROGRAMME             Narrow band Images of M31
+PROPOSAL REF          D
+TELESCOPE OPERATOR    n/a
+SUPPORT ASTRONOMER    n/a
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:15
+EVENING TWILIGHT (UT) 20:27
+MORNING TWILIGHT (UT) 05:42
+SUNRISE (UT)          06:54
+%ILLUM. LUNAR DISK    99
+DARK TIME (HRS)       09:15
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  12.2   88     8.4  16.0  140   771.5   12.2   15.     15.   88     77
+21:00  12.4   85    12.2  14.0  169   771.9   12.4   15.     15.   85     75
+22:00  12.1   88     7.0   9.0  163   772.3   12.1   15.     16.   88     75
+23:00  12.2   85     6.9  14.8  149   772.8   12.2   15.     16.   85     75
+00:00  13.0   82    15.5  25.1  167   772.9   13.0   15.     16.   82     74
+01:00  13.1   81    12.9  17.6  162   772.7   13.1   15.     16.   81     74
+02:00  12.7   82    12.7  17.4  164   772.5   12.7   15.     16.   82     75
+03:00  12.4   83    11.5  21.3  172   772.3   12.4   15.     16.   83     73
+04:00  12.2   85     8.5  13.2  146   772.3   12.2   15.     16.   85     74
+05:00  12.2   83     7.2  10.2  165   771.8   12.2   15.     16.   83     73
+06:00  12.2   82     5.2   5.7  168   771.7   12.2   15.     16.   82     73
+
+TIME LOST weather           09:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+clouds and humidity
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Telescope closed,  bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 759622 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:46 4.318  WFC    0.0  180  [OII]3727                        
+ 759623 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:46 4.318  WFC    0.0  180  [OII]3727                        
+ 759624 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:47 4.318  WFC    0.0  180  [OII]3727                        
+ 759625 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:47 4.318  WFC    0.0  180  [OII]3727                        
+ 759626 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:48 4.318  WFC    0.0  180  [OII]3727                        
+ 759627 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:48 4.318  WFC    0.0  180  [OII]3727                        
+ 759628 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:49 4.318  WFC    0.0  180  [OII]3727                        
+ 759629 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:49 4.318  WFC    0.0  180  [OII]3727                        
+ 759630 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:50 4.318  WFC    0.0  180  [OII]3727                        
+ 759631 Bias frame        0:00:00.00 +00:00:00.0  2000.00 19:50 4.318  WFC    0.0  180  [OII]3727                        

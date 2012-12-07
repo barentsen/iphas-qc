@@ -1,0 +1,112 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 12 27 05:35
+
+TELESCOPE             INT
+DATE                  20101226
+OBSERVER/S            Conselice, Grutzbauch,Johnston
+PROGRAMME             mosaic of galaxy group
+PROPOSAL REF          P8             
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    I. Busenbender
+
+TEL STATION / FOCUS   Prime  / 43.80
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:29
+EVENING TWILIGHT (UT) 19:46
+MORNING TWILIGHT (UT) 06:38
+SUNRISE (UT)          07:55
+%ILLUM. LUNAR DISK    63
+DARK TIME (HRS)       10:52
+TWILIGHT TIME (HRS)   02:34
+MOONRISE (UT)         23:57
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   9.5    9     3.3   1.6   88   770.2   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   8.6   12     3.1   4.2  321   770.5   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   9.6    9     7.0   7.3  325   770.8   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   9.6    8     7.1   7.4  316   770.8   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   9.7    8     4.6   5.1  342   770.7   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   9.4    9     4.1   4.7   93   770.5   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   8.7   13     0.3   0.8  177   769.9   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   9.6    8     2.9   4.6  249   769.6   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   9.4    8     1.9   4.7  196   769.5   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   9.0    9     2.9   3.5  177   769.2   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   9.3    9     6.4   6.5  200   769.2   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           4:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+intermittent clouds until 3am when we got clouded out
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+clouded out from 3am
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 773071 Bias             22:57:59.99 +00:05:00.0  2000.00 18:34 1.161  WFC    0.0  180  Halpha                           bias frames taken with dome open at twilight
+ 773072 Bias             22:58:00.00 +00:05:00.0  2000.00 18:35 1.162  WFC    0.0  180  Halpha                           
+ 773073 Bias             22:57:59.99 +00:04:59.9  2000.00 18:35 1.163  WFC    0.0  180  Halpha                           
+ 773074 Bias             22:57:59.99 +00:05:00.0  2000.00 18:36 1.163  WFC    0.0  180  Halpha                           
+ 773075 Bias             22:58:00.00 +00:05:00.0  2000.00 18:37 1.164  WFC    0.0  180  Halpha                           
+ 773076 Bias             22:58:00.00 +00:04:59.9  2000.00 18:38 1.165  WFC    0.0  180  Halpha                           
+ 773077 Bias             22:58:00.00 +00:04:59.9  2000.00 18:39 1.166  WFC    0.0  180  Halpha                           
+ 773078 Bias             22:58:00.00 +00:05:00.0  2000.00 18:39 1.167  WFC    0.0  180  Halpha                           
+ 773079 Bias             22:58:00.00 +00:04:59.9  2000.00 18:40 1.168  WFC    0.0  180  Halpha                           
+ 773080 Bias             22:58:00.00 +00:05:00.0  2000.00 18:41 1.169  WFC    0.0  180  Halpha                           
+ 773081 Bias             22:57:59.99 +00:04:59.9  2000.00 18:42 1.169  WFC    0.0  180  Halpha                           
+ 773082 Sky background   22:58:00.00 +00:05:00.0  2000.00 18:45 1.174  WFC    2.1  180  Halpha                           
+ 773083 Sky background   22:58:00.66 +00:05:09.9  2000.00 18:47 1.176  WFC    5.1  180  Halpha                           
+ 773084 Sky background   22:57:59.33 +00:05:10.0  2000.00 18:48 1.178  WFC   10.1  180  Halpha                           
+ 773085 Sky background   22:57:59.33 +00:04:49.9  2000.00 18:49 1.180  WFC   15.1  180  Halpha                           
+ 773086 Sky background   22:58:00.66 +00:04:50.0  2000.00 18:51 1.182  WFC   20.1  180  Halpha                           
+ 773087 Sky background   22:57:59.99 +00:04:59.9  2000.00 18:53 1.185  WFC    5.1  180  B                                
+ 773088 Sky background   22:58:00.66 +00:05:09.9  2000.00 18:55 1.188  WFC   10.1  180  B                                
+ 773089 Sky background   22:57:59.33 +00:05:10.0  2000.00 18:56 1.189  WFC   15.1  180  B                                
+ 773090 Sky background   22:57:59.33 +00:04:50.2  2000.00 18:57 1.191  WFC   20.1  180  B                                
+ 773091 Sky background   22:58:00.66 +00:04:50.0  2000.00 18:58 1.194  WFC   30.1  180  B                                
+ 773092 Sky background   22:58:00.00 +00:05:00.0  2000.00 19:01 1.198  WFC   50.1  180  R                                
+ 773093 Sky background   22:58:00.66 +00:05:09.7  2000.00 19:03 1.201  WFC   70.0  180  R                                
+ 773094 Sky background   22:57:59.33 +00:05:10.0  2000.00 19:05 1.205  WFC  100.0  180  R                                
+ 773095 Sky background   22:57:59.33 +00:04:50.1  2000.00 19:07 1.211  WFC  150.0  180  R                                
+ 773096 Sky background   22:58:00.66 +00:04:49.9  2000.00 19:11 1.219  WFC  219.9  180  R                                
+ 773097 Focus run         0:00:39.40 +00:13:28.8  2000.00 19:56 1.181  WFC   15.1  180  R                                
+ 773098 Focus run         0:00:39.40 +00:13:28.9  2000.00 20:08 1.200  WFC   15.1  180  R                                
+ 773099 NGC1068_FIELD1    2:41:48.99 -00:07:23.9  2000.00 20:21 1.190  WFC  699.7  180  R                                cloudy
+ 773100 NGC1068_FIELD1    2:41:51.00 -00:07:54.0  2000.00 20:53 1.154  WFC  699.6  180  R                                
+ 773101 NGC1068_FIELD1    2:41:53.00 -00:08:23.9  2000.00 21:19 1.142  WFC  699.6  180  R                                
+ 773102 NGC1068_FIELD1    2:41:52.00 -00:08:08.9  2000.00 21:36 1.142  WFC  699.7  180  R                                
+ 773103 NGC1068_FIELD1    2:41:49.00 -00:07:23.9  2000.00 21:52 1.149  WFC  699.6  180  R                                
+ 773104 NGC1068_FIELD1    2:41:49.00 -00:07:23.9  2000.00 22:06 1.158  WFC  699.7  180  R                                
+ 773105 NGC1068_FIELD1    2:41:49.00 -00:07:24.0  2000.00 22:21 1.173  WFC  599.7  180  B                                
+ 773106 NGC1068_FIELD1    2:41:51.00 -00:07:54.0  2000.00 22:36 1.194  WFC  599.8  180  B                                
+ 773107 NGC1068_FIELD1    2:41:53.00 -00:08:24.0  2000.00 22:56 1.234  WFC  599.8  180  B                                
+ 773108 NGC1068_FIELD1    2:41:51.99 -00:08:09.0  2000.00 23:10 1.266  WFC  599.9  180  B                                
+ 773109 NGC1068_FIELD1    2:41:49.00 -00:07:24.0  2000.00 23:24 1.309  WFC  599.8  180  B                                
+ 773110 NGC1068_FIELD1    2:41:49.00 -00:07:24.0  2000.00 23:36 1.348  WFC  599.7  180  B                                
+ 773111 NGC1068_FIELD2    2:42:33.00 +00:21:30.9  2000.00 00:02 1.453  WFC  599.7  180  B                                cloudy, few stars visible
+ 773112 NGC1068_FIELD2    2:42:32.99 +00:21:30.9  2000.00 00:17 1.533  WFC  599.8  180  B                                
+ 773113 NGC1068_FIELD2    2:42:32.99 +00:21:31.0  2000.00 00:31 1.635  WFC  699.6  180  R                                
+ 773115 NGC3245_FIELD1   10:27:52.00 +28:35:44.0  2000.00 01:16 1.592  WFC  699.6  180  R                                
+ 773116 NGC3245_FIELD1   10:27:52.00 +28:35:44.0  2000.00 01:33 1.484  WFC  599.8  180  B                                
+ 773117 NGC3245_FIELD1   10:27:54.27 +28:35:13.9  2000.00 01:58 1.353  WFC  599.6  180  B                                affected by cloud
+ 773118 NGC3245_FIELD1   10:27:54.27 +28:35:14.0  2000.00 02:21 1.258  WFC  699.7  180  R                                
+ 773119 NGC3245_FIELD1   10:27:54.27 +28:35:13.9  2000.00 02:35 1.211  WFC  599.8  180  B                                
+ 773120 NGC3245_FIELD1   10:27:56.55 +28:34:44.0  2000.00 02:56 1.153  WFC  599.7  180  B                                
+ 773121 NGC3245_FIELD1   10:27:56.55 +28:34:43.9  2000.00 03:08 1.122  WFC  699.6  180  R                                fully saturated- cloud
+ 773122 Bias             10:27:56.55 +28:34:43.9  2000.00 04:56 1.003  WFC    0.0  180  R                                
+ 773123 Bias             10:27:56.55 +28:34:44.0  2000.00 04:57 1.003  WFC    0.0  180  R                                
+ 773124 Bias             10:27:56.55 +28:34:44.0  2000.00 04:58 1.003  WFC    0.0  180  R                                
+ 773125 Bias             10:27:56.55 +28:34:44.0  2000.00 04:59 1.003  WFC    0.0  180  R                                
+ 773126 Bias             10:27:56.55 +28:34:44.0  2000.00 05:00 1.002  WFC    0.0  180  R                                
+ 773127 Bias             10:27:56.55 +28:34:43.9  2000.00 05:00 1.002  WFC    0.0  180  R                                
+ 773128 Bias             10:27:56.55 +28:34:43.9  2000.00 05:01 1.002  WFC    0.0  180  R                                
+ 773129 Bias             10:27:56.55 +28:34:44.0  2000.00 05:02 1.002  WFC    0.0  180  R                                
+ 773130 Bias             10:27:56.55 +28:34:43.9  2000.00 05:03 1.002  WFC    0.0  180  R                                
+ 773131 Bias             10:27:56.55 +28:34:44.0  2000.00 05:03 1.001  WFC    0.0  180  R                                
+ 773132 Bias             10:27:56.55 +28:34:44.0  2000.00 05:04 1.001  WFC    0.0  180  R                                

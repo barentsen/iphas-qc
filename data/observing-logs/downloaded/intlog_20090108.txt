@@ -1,0 +1,82 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 01 09 05:16
+
+TELESCOPE             INT
+DATE                  20090108
+OBSERVER/S            Phil James
+PROGRAMME             Confirming the association of satellite and central galaxies
+PROPOSAL REF          P11              
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Maria del Mar Rubio
+
+TEL STATION / FOCUS   Cassegrain  / 14.70
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:38
+EVENING TWILIGHT (UT) 19:54
+MORNING TWILIGHT (UT) 06:42
+SUNRISE (UT)          07:58
+%ILLUM. LUNAR DISK    93
+DARK TIME (HRS)       10:48
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          06:35
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -2.1   99    30.7  33.2  300   765.7   -2.1    7.      9.   99     63
+20:00  -1.1   99    25.8  29.8  309   766.2   -1.1    7.      9.   99     66
+21:00  -1.9   99    32.8  35.0  295   766.1   -1.9    7.      9.   99     66
+22:00  -2.1   99    30.8  33.2  294   766.6   -2.1    7.      9.   99     65
+23:00  -1.7   72    29.1  31.4  294   766.8   -1.7    7.      9.   72     60
+00:00  -2.4   99    40.8  44.0  299   766.3   -2.4    7.      9.   99     63
+01:00  -0.8   99    36.3  37.5  300   766.4   -0.8    7.      9.   99     66
+02:00  -0.5   50    26.6  29.5  291   766.0   -0.5    7.      9.   50     57
+03:00  -0.9   58    28.0  27.9  292   765.5   -0.9    1.      8.   58     58
+04:00   0.3   44    29.5  32.0  310   765.7    0.3    1.      7.   44     49
+05:00  -1.5   98    32.3  43.7  286   765.1   -1.5    2.      6.   98     76
+
+TIME LOST weather           09:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% humidity for most of the night due to cloud
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Time lost due to weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 655274 Bias              0:00:00.00 +00:00:00.0  2009.02 19:55 1.140  IDS    0.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655275 Bias              0:00:00.00 +00:00:00.0  2009.02 02:23 1.000  IDS    0.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655276 Bias              0:00:00.00 +00:00:00.0  2009.02 02:23 1.000  IDS    0.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655277 Bias              0:00:00.00 +00:00:00.0  2009.02 02:23 1.000  IDS    0.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655278 Bias              0:00:00.00 +00:00:00.0  2009.02 02:24 1.000  IDS    0.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655279 Bias              0:00:00.00 +00:00:00.0  2009.02 02:24 1.000  IDS    0.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655280 flat              0:00:00.00 +00:00:00.0  2009.02 02:25 1.000  IDS    1.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655281 flat              0:00:00.00 +00:00:00.0  2009.02 02:26 1.000  IDS    1.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655282 flat              0:00:00.00 +00:00:00.0  2009.02 02:26 1.000  IDS    1.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655283 n2642             8:40:42.90 -04:07:22.6  2000.00 02:55 1.197  IDS  600.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655284 n2642             8:40:42.90 -04:07:22.3  2000.00 03:06 1.205  IDS  600.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655285 n2642c1           8:40:32.73 -04:09:33.6  2000.00 03:23 1.223  IDS  600.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655286 n2642c1           8:40:32.73 -04:09:33.4  2000.00 03:34 1.239  IDS  600.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655287 n2642c1           8:40:32.73 -04:09:33.7  2000.00 03:45 1.257  IDS  600.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655288 Arc               8:40:32.73 -04:09:33.5  2000.00 03:57 1.271  IDS    2.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655289 Arc               8:40:32.73 -04:09:33.5  2000.00 03:57 1.271  IDS    2.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655290 Arc               8:40:32.73 -04:09:33.5  2000.00 03:57 1.272  IDS    2.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655291 u4469             8:33:24.36 +29:32:03.7  2000.00 04:05 1.078  IDS  600.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655292 u4469c1           8:33:35.41 +29:30:01.0  2000.00 04:22 1.108  IDS  600.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655293 u4469c1           8:33:35.41 +29:30:01.1  2000.00 04:33 1.130  IDS  600.0   -0  Clear+Clear   2.0  59.3 6940.3   Closed dome just after starting - junk
+ 655294 Arc               0:00:00.00 +00:00:00.0  2000.00 04:44 1.139  IDS    2.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655295 Arc               0:00:00.00 +00:00:00.0  2000.00 04:44 1.122  IDS    2.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655296 Arc               0:00:00.00 +00:00:00.0  2000.00 04:44 1.122  IDS    2.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655297 flat              0:00:00.00 +00:00:00.0  2000.00 04:55 1.122  IDS    1.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655298 flat              0:00:00.00 +00:00:00.0  2000.00 04:56 1.122  IDS    1.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655299 flat              0:00:00.00 +00:00:00.0  2000.00 04:56 1.122  IDS    1.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655300 Bias              0:00:00.00 +00:00:00.0  2000.00 04:58 1.122  IDS    0.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655301 Bias              0:00:00.00 +00:00:00.0  2000.00 04:59 1.122  IDS    0.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655302 Bias              0:00:00.00 +00:00:00.0  2000.00 04:59 1.122  IDS    0.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655303 Bias              0:00:00.00 +00:00:00.0  2000.00 04:59 1.122  IDS    0.0   -0  Clear+Clear   2.0  59.3 6940.3   
+ 655304 Bias              0:00:00.00 +00:00:00.0  2000.00 04:59 1.122  IDS    0.0   -0  Clear+Clear   2.0  59.3 6940.3   

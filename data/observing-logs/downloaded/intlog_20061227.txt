@@ -1,0 +1,86 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 12 28 04:14
+
+TELESCOPE             INT
+DATE                  20061227
+OBSERVER/S            Land & van der Hulst
+PROGRAMME             Service night NL
+PROPOSAL REF          NL S
+TELESCOPE OPERATOR    (at WHT)
+SUPPORT ASTRONOMER    Ian Hunter
+
+TEL STATION / FOCUS   Prime  / 43.65
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:30
+EVENING TWILIGHT (UT) 19:46
+MORNING TWILIGHT (UT) 06:39
+SUNRISE (UT)          07:55
+%ILLUM. LUNAR DISK    54
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          01:49
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   2.6   38    19.4  22.8  180   769.8    2.6   6.3     7.9   38    35 
+20:00   2.4   35    20.1  21.5  185   770.2    2.4   4.2     7.4   35    37 
+21:00   3.3   32    21.0  23.3  177   770.6    3.3   4.7     6.9   32    32 
+22:00   2.6   34    16.6  17.8  180   770.7    2.6   4.2     6.3   34    33 
+23:00   2.5   33    16.5  19.5  176   771.0    2.5   4.1     6.2   33    33 
+00:00   2.0   36    21.5  23.3  179   770.6    2.0   3.8     5.9   36    34 
+01:00   2.0   28    24.1  25.2  188   770.3    2.0   3.6     6.1   28    27 
+02:00   2.1   30    24.1  26.5  170   770.0    2.1   3.8     6.4   30    28 
+03:00   2.1   31    21.1  22.6  180   769.9    2.1   3.7     6.4   31    30 
+04:00     #    #       #     #    #       #      #   3.9     6.4    #    32 
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+cloud cover during the whole night.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+100% time lost due to bad weather conditions.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 543666 Flat field       17:59:59.99 +20:00:00.0 2006.987 13:58 1.053  WFC    2.0  180  r                                
+ 543667 Bias             17:59:59.99 +19:59:59.9 2006.987 14:00 1.056  WFC    0.0  180  r                                
+ 543668 Focus run         0:31:42.10 +02:37:45.0 2000.00  19:33 1.115  WFC   20.1  180  B                                
+ 543669 Focus run         2:35:07.58 +03:43:57.0 2000.00  19:45 1.210  WFC   20.1  180  B                                
+ 543670 bias              3:09:38.45 +30:38:59.9 2000.00  20:14 1.081  WFC    0.0  180  B                                
+ 543671 bias              3:09:38.44 +30:38:59.9 2000.00  20:14 1.080  WFC    0.0  180  B                                
+ 543672 bias              3:09:38.45 +30:39:00.0 2000.00  20:15 1.079  WFC    0.0  180  B                                
+ 543673 bias              3:09:38.45 +30:38:59.9 2000.00  20:16 1.078  WFC    0.0  180  B                                
+ 543674 bias              3:09:38.44 +30:38:59.9 2000.00  20:16 1.077  WFC    0.0  180  B                                
+ 543675 veld1a            3:09:38.45 +30:39:00.0 2000.00  20:19 1.071  WFC   60.0  180  B                                
+ 543676 veld1a            3:09:38.45 +30:39:00.0 2000.00  20:24 1.064  WFC   60.1  180  i                                
+ 543677 veld1a            3:09:38.45 +30:38:59.9 2000.00  20:28 1.059  WFC   60.0  180  i                                
+ 543678 veld1a            3:09:38.45 +30:38:59.9 2000.00  20:29 1.056  WFC   60.1  180  i                                
+ 543679 veld1a            3:09:38.45 +30:39:00.0 2000.00  20:31 1.054  WFC   60.1  180  i                                
+ 543680 veld1a            3:09:38.44 +30:38:59.9 2000.00  20:33 1.052  WFC   60.1  180  i                                
+ 543681 veld1a            3:09:38.45 +30:38:59.9 2000.00  20:34 1.050  WFC   60.1  180  i                                
+ 543682 veld1a            3:09:38.45 +30:39:00.0 2000.00  20:36 1.048  WFC   59.6  180  i                                
+ 543683 veld1a            3:09:38.44 +30:39:00.0 2000.00  20:37 1.046  WFC   60.0  180  i                                
+ 543684 veld1a            3:09:38.44 +30:39:00.0 2000.00  20:39 1.044  WFC   60.1  180  i                                
+ 543685 veld1a            3:09:38.44 +30:38:59.9 2000.00  20:41 1.042  WFC   60.0  180  i                                
+ 543686 veld1a            3:09:38.45 +30:38:59.9 2000.00  20:42 1.040  WFC   60.0  180  i                                
+ 543687 veld1a            3:09:38.44 +30:38:59.9 2000.00  20:49 1.034  WFC   60.0  180  B                                
+ 543688 veld1a            3:09:38.45 +30:38:59.9 2000.00  20:52 1.031  WFC   90.0  180  r                                dome waS not completely open
+ 543689 veld1a            0:00:00.00 +00:00:00.0 2000.00  21:03 1.028  WFC   60.1  180  r                                
+ 543690 veld1a            0:00:00.00 +00:00:00.0 2000.00  21:16 1.028  WFC  299.9  180  Halpha                           
+ 543691 BIAS, READNOISE   0:00:00.00 +00:00:00.0 2000.00  21:24 1.028  WFC    0.0  180  Halpha                           
+ 543692 BIAS, READNOISE   0:00:00.00 +00:00:00.0 2000.00  21:24 1.028  WFC    0.0  180  Halpha                           
+ 543693 BIAS, READNOISE   0:00:00.00 +00:00:00.0 2000.00  21:25 1.028  WFC    0.0  180  Halpha                           
+ 543694 BIAS, READNOISE   0:00:00.00 +00:00:00.0 2000.00  21:25 1.028  WFC    0.0  180  Halpha                           
+ 543695 BIAS, READNOISE   0:00:00.00 +00:00:00.0 2000.00  21:26 1.028  WFC    0.0  180  Halpha                           
+ 543696 veld1a            0:00:00.00 +00:00:00.0 2000.00  21:35 1.028  WFC   60.1  180  V                                
+ 543697 veld1a            0:00:00.00 +00:00:00.0 2000.00  21:38 1.028  WFC   59.6  180  i                                
+ 543698 veld1a            0:00:00.00 +00:00:00.0 2000.00  21:42 1.028  WFC   45.4  180  B                                
+ 543699 veld1a            0:00:00.00 +00:00:00.0 2000.00  22:17 1.028  WFC   60.0  180  V                                
+ 543700 veld1a            0:00:00.00 +00:00:00.0 2000.00  22:20 1.028  WFC  180.0  180  Halpha                           
+ 543701 veld1a            0:00:00.00 +00:00:00.0 2000.00  22:57 1.028  WFC  180.0  180  i                                

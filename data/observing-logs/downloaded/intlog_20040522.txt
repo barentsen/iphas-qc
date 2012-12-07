@@ -1,0 +1,65 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 05 23 06:40
+
+TELESCOPE             INT
+DATE                  20040522
+OBSERVER/S            Roberts
+PROGRAMME             Satellites in nearby galaxy haloes (M101)
+PROPOSAL REF          P3
+TELESCOPE OPERATOR    Simon
+SUPPORT ASTRONOMER    Antonio Garcia
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:07
+EVENING TWILIGHT (UT) 21:30
+MORNING TWILIGHT (UT) 04:46
+SUNRISE (UT)          06:09
+%ILLUM. LUNAR DISK    13
+DARK TIME (HRS)       07:16
+TWILIGHT TIME (HRS)   02:46
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          23:19
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00   2.2   95    20.3  27.3  197   766.7    2.2   9.6    10.2   95    65 
+22:00   3.1   85    33.0  38.7  250   766.9    3.1   9.1    10.2   85    61 
+23:00   2.8   83    27.7  30.4  242   767.1    2.8   9.2    10.1   83    61 
+00:00   3.3   94    23.0  24.5  243   767.7    3.3   9.4    10.2   94    65 
+01:00   3.3   92    24.0  26.1  252   767.5    3.3   9.0    10.2   92    67 
+02:00   4.2   93    21.4  24.3  244   767.2    4.2   8.8    10.3   93    70 
+03:00   4.2   93    20.7  21.6  225   766.6    4.2   9.0    10.2   93    70 
+04:00   4.3   95    14.7  17.8  202   766.3    4.3   9.1    10.3   95    73 
+05:00   4.4   95    24.4  27.4  120   765.9    4.4   9.0    10.3   95    76 
+06:00   4.0   95    19.8  25.8  185   765.8    4.0   9.0    10.3   95    74 
+
+TIME LOST weather           9:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% cloud cover. High humidity
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Could not open dome due to high humidity.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 398184 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:36 1.000  WFC    0.0  180  B                                
+ 398185 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:38 1.000  WFC    0.0  180  B                                
+ 398186 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:39 1.000  WFC    0.0  180  B                                
+ 398187 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:40 1.000  WFC    0.0  180  B                                
+ 398188 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:40 1.000  WFC    0.0  180  B                                
+ 398189 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:41 1.000  WFC    0.0  180  B                                
+ 398190 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:41 1.000  WFC    0.0  180  B                                
+ 398191 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:42 1.000  WFC    0.0  180  B                                
+ 398192 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:43 1.000  WFC    0.0  180  B                                
+ 398193 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:43 1.000  WFC    0.0  180  B                                
+ 398194 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:44 1.000  WFC    0.0  180  B                                
+ 398195 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:45 1.000  WFC    0.0  180  B                                
+ 398196 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:45 1.000  WFC    0.0  180  B                                
+ 398197 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:46 1.000  WFC    0.0  180  B                                
+ 398198 Bias              0:00:00.00 +00:00:00.0 J2000.00 18:46 1.000  WFC    0.0  180  B                                

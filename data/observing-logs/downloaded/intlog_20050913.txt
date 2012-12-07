@@ -1,0 +1,54 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 09 14 15:24
+
+TELESCOPE             INT
+DATE                  20050913
+OBSERVER/S            MJI
+PROGRAMME             PNe candidates around hot WDs
+PROPOSAL REF          P9                 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    WJI
+
+TEL STATION / FOCUS   Prime  / 43.75
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:27
+EVENING TWILIGHT (UT) 20:39
+MORNING TWILIGHT (UT) 05:36
+SUNRISE (UT)          06:49
+%ILLUM. LUNAR DISK    77
+DARK TIME (HRS)       08:57
+TWILIGHT TIME (HRS)   02:25
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          02:41
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   5.7  100    27.4  29.0    9   771.1    5.7  14.0    14.1  100    63 
+21:00   4.4   92    36.4  38.5   11   771.3    4.4  14.0    14.2   92    55 
+22:00   4.9  100    37.4  43.5  350   771.6    4.9  11.8    14.4  100    71 
+23:00   6.7  100    31.7  36.0    3   772.6    6.7  11.0    14.0  100    83 
+00:00   6.8  100    34.4  41.6    1   772.3    6.8  11.9    14.0  100    79 
+01:00   6.2  100    32.7  34.6  354   771.8    6.2  12.1    14.0  100    78 
+02:00   5.6  100    34.0  37.7  331   771.8    5.6  12.1    14.1  100    75 
+03:00   7.7  100    32.4  37.7    4   771.7    7.7  12.1    14.1  100    78 
+04:00   7.1  100    32.3  37.5    2   771.3    7.1  12.4    14.2  100    78 
+05:00   5.6  100    25.5  28.6   21   771.1    5.6  12.7    14.0  100    74 
+06:00   3.4  100    29.3  31.8    1   771.3    3.4  12.7    14.1  100    68 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Wet all night, ridge cloud
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 470065                                                   10:55        WFC    0.0                                        
+ 470066                                                   10:56        WFC    0.0                                        
+ 470067                                                   11:01        WFC    2.0                                        

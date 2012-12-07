@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 03 24 07:05
+
+TELESCOPE             INT
+DATE                  20120323
+OBSERVER/S            Burcu Beygu
+PROGRAMME             The Void Galaxy Survey
+PROPOSAL REF          N4
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Hugo Ledo
+
+TEL STATION / FOCUS    / 43.5
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:31
+EVENING TWILIGHT (UT) 20:43
+MORNING TWILIGHT (UT) 05:52
+SUNRISE (UT)          07:04
+%ILLUM. LUNAR DISK    2
+DARK TIME (HRS)       09:09
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          20:31
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   4.8   37    17.9  19.9  257   766.0    4.8                 37      #
+21:00   5.2   53    16.5  17.3  267   766.9    5.2                 53      #
+22:00   4.9   50    15.9  18.7  228   767.5    4.9                 50      #
+23:00   6.2   37    13.4  13.9  262   767.8    6.2                 37      #
+00:00   6.1    7     2.5   6.2  189   767.7    6.1                  7      #
+01:00   6.3    7     3.3   7.2  179   767.5    6.3                  7      #
+02:00   6.4    5     7.2   8.7  196   767.5    6.4                  5      #
+03:00   6.8    2     9.0  12.3  232   767.3    6.8                  2      #
+04:00   6.1    1     9.3  11.0  236   767.1    6.1                  1      #
+05:00   5.6    1    13.3  14.2  269   767.0    5.6                  1      #
+06:00   5.4    3    21.4  23.6  283   767.3    5.4                  3      #
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+clear, photometric night, seeing less than 1 second
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

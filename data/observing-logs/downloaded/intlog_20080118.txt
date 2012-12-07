@@ -1,0 +1,68 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 01 19 04:56
+
+TELESCOPE             INT
+DATE                  20080118
+OBSERVER/S            S.Pyrzas
+PROGRAMME             P5
+PROPOSAL REF          IPHAS
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.61
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:46
+EVENING TWILIGHT (UT) 20:01
+MORNING TWILIGHT (UT) 06:43
+SUNRISE (UT)          07:57
+%ILLUM. LUNAR DISK    84
+DARK TIME (HRS)       10:42
+TWILIGHT TIME (HRS)   02:29
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          05:20
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   6.1   13    54.9  57.7  193   771.6    6.1   9.0    11.0   13    17 
+20:00   6.3   11    44.5  47.0  195   772.2    6.3   9.1    11.0   11    16 
+21:00   6.2   15    53.9  60.0  192   772.4    6.2   8.8    11.0   15    18 
+22:00   5.9   12    56.0  56.9  192   772.3    5.9   8.7    11.1   12    18 
+23:00   5.6   18    64.0  71.6  194   771.8    5.6   8.5    11.1   18    20 
+00:00   5.5   25    54.6  59.5  198   772.2    5.5   8.0    11.1   25    23 
+01:00   4.8   24    61.7  68.7  193   771.5    4.8   7.8    11.0   24    24 
+02:00   4.0   30    56.9  62.5  195   771.4    4.0   8.0    10.8   30    28 
+03:00   4.2   25    59.7  66.2  196   771.3    4.2   5.2     9.7   25    30 
+04:00   3.4   39    50.6  50.4  196   771.4    3.4   4.5     9.2   39    40 
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+overcast, no observations
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 604125 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:27 4.243  WFC    0.0  180  Halpha                           
+ 604126 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:28 4.243  WFC    0.0  180  Halpha                           
+ 604127 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:28 4.243  WFC    0.0  180  Halpha                           
+ 604128 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:28 4.243  WFC    0.0  180  Halpha                           
+ 604129 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:29 4.243  WFC    0.0  180  Halpha                           
+ 604130 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:29 4.243  WFC    0.0  180  Halpha                           
+ 604131 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:30 4.243  WFC    0.0  180  Halpha                           
+ 604132 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:30 4.243  WFC    0.0  180  Halpha                           
+ 604133 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:31 4.243  WFC    0.0  180  Halpha                           
+ 604134 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:31 4.243  WFC    0.0  180  Halpha                           
+ 604135 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:32 4.243  WFC    0.0  180  Halpha                           
+ 604136 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:32 4.243  WFC    0.0  180  Halpha                           
+ 604137 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:33 4.243  WFC    0.0  180  Halpha                           
+ 604138 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:33 4.243  WFC    0.0  180  Halpha                           
+ 604139 Bias frame        0:00:00.00 +00:00:00.0  2000.00 18:34 4.243  WFC    0.0  180  Halpha                           
+ 604140 Focus run         9:55:56.64 -00:23:14.8  2000.00 02:56 1.150  WFC   19.6  180  r                                
+ 604141 Focus run         9:55:56.64 -00:23:14.8  2000.00 03:07 1.146  WFC   20.1  180  r                                
+ 604142 SDSS0906          9:06:28.25 +05:26:56.8  2000.00 03:14 1.112  WFC   45.1  180  g                                

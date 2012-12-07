@@ -1,0 +1,57 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2003 11 24 04:22
+
+TELESCOPE             INT
+DATE                  20031122
+OBSERVER/S            Katherne Inskip
+PROGRAMME             Radio Galaxies
+PROPOSAL REF          P10
+TELESCOPE OPERATOR    Katherine Inskip
+SUPPORT ASTRONOMER    R Greimel
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:18
+SUNRISE (UT)          07:32
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       10:40
+TWILIGHT TIME (HRS)   02:29
+MOONRISE (UT)         06:52
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   0.9   66    31.5  35.1  316   760.9    0.9   6.1    10.3   66    73 
+20:00   0.7   38    34.0  47.5  235   761.1    0.7   6.2    10.4   38    72 
+21:00   0.2   83    32.0  36.4  302   761.4    0.2   6.0    10.3   83    72 
+22:00  -1.1   62    48.9  54.2  278   761.4   -1.1   5.7    10.2   62    70 
+23:00  -2.6   95    39.0  43.3  304   760.9   -2.6   5.0    10.1   95    67 
+00:00  -2.3   84    39.5  49.2  322   761.3   -2.3   4.8    10.1   84    68 
+01:00  -1.6   91    47.9  52.2  328   761.1   -1.6   4.8    10.1   91    67 
+02:00  -1.8   89    40.4  42.4  303   761.2   -1.8   5.1    10.1   89    67 
+03:00  -0.8   20    27.2  28.5  304   761.9   -0.8   5.5     9.8   20    68 
+04:00  -1.9   82    13.6  18.8  304   761.7   -1.9   5.3    10.0   82    67 
+05:00  -1.4   81     0.0   0.0  304   762.1   -1.4   5.6     9.9   81    67 
+06:00  -0.9   75     0.0   0.0  304   762.3   -0.9   6.1     9.7   75    65 
+07:00  -2.2   25     0.0   0.0  304   762.6   -2.2   5.7     9.9   25    66 
+
+TIME LOST weather           12:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+rain, humidity, strong winds, clouds...
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Totally weathered out, for the fourth night running
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 376841 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:12 1.000  WFC    0.0  180  z                                
+ 376842 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 16:13 1.000  WFC    0.0  180  z                                
+ 376843                   0:00:00.00 +00:00:00.0 A        10:35 1.530  WFC    2.0  180  i                                
+ 376844                   0:00:00.00 +00:00:00.0 A        10:38 1.530  WFC    2.1  180  i                                

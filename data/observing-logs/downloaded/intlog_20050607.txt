@@ -1,0 +1,132 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 06 08 06:55
+
+TELESCOPE             INT
+DATE                  20050607
+OBSERVER/S            E. Hatziminaoglou, A. Afonso
+PROGRAMME             Deep Imaging in SWIRE EN1
+PROPOSAL REF          CAT 1
+TELESCOPE OPERATOR    None
+SUPPORT ASTRONOMER    None
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:16
+EVENING TWILIGHT (UT) 21:41
+MORNING TWILIGHT (UT) 04:39
+SUNRISE (UT)          06:05
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       06:58
+TWILIGHT TIME (HRS)   02:51
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:12
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  13.3   40    10.5  12.1  166   772.3   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00  13.1   18    14.2  15.4  144   772.4   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00  13.1   28    13.5  16.1  139   772.7   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00  13.0   38    10.1  10.7  145   772.9   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00  13.5   18    11.4  13.7  162   772.9   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00  14.3   17    18.0  20.1  128   772.7   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00  13.6   17    14.6  16.2  144   772.2   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00  13.5   18    14.2  16.6  153   771.8   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00  13.4   19    17.2  20.4  156   771.6   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00  13.1   20    17.8  20.5  163   771.3   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+We had to reiniciate the system because of autoguider failure
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 453872 Bias frame        6:30:20.00 +10:12:42.9 2000.00  13:30 1.098  WFC    0.0  180  U                                
+ 453873 Bias              0:00:00.00 +00:00:00.0 2000.00  20:04 1.000  WFC    0.0  180  g                                
+ 453874 Bias              0:00:00.00 +00:00:00.0 2000.00  20:04 1.000  WFC    0.0  180  g                                
+ 453875 Bias              0:00:00.00 +00:00:00.0 2000.00  20:05 1.000  WFC    0.0  180  g                                
+ 453876 Bias              0:00:00.00 +00:00:00.0 2000.00  20:06 1.000  WFC    0.0  180  g                                
+ 453877 Bias              0:00:00.00 +00:00:00.0 2000.00  20:06 1.000  WFC    0.0  180  g                                
+ 453878 Bias              0:00:00.00 +00:00:00.0 2000.00  20:07 1.000  WFC    0.0  180  g                                
+ 453879 Bias              0:00:00.00 +00:00:00.0 2000.00  20:07 1.000  WFC    0.0  180  g                                
+ 453880 Bias              0:00:00.00 +00:00:00.0 2000.00  20:08 1.000  WFC    0.0  180  g                                
+ 453881 Bias              0:00:00.00 +00:00:00.0 2000.00  20:09 1.000  WFC    0.0  180  g                                
+ 453882 Bias              0:00:00.00 +00:00:00.0 2000.00  20:09 1.000  WFC    0.0  180  g                                
+ 453883 Dark frame        0:00:00.00 +00:00:00.0 2000.00  20:17 1.000  WFC  200.0  180  g                                
+ 453884 Dark frame        0:00:00.00 +00:00:00.0 2000.00  20:21 1.000  WFC  200.0  180  g                                
+ 453885 Skyflat i 26secs 13:06:55.99 +29:34:48.0 2000.00  20:28 1.015  WFC    0.0  180  i                                saturated
+ 453886 Dark frame       13:06:56.00 +29:34:47.9 2000.00  20:31 1.012  WFC  200.0  180  i                                
+ 453887 Skyflat i 12secs 13:06:55.99 +29:34:48.0 2000.00  20:39 1.008  WFC    0.0  180  i                                
+ 453888 Skyflat i 20secs 13:06:56.00 +29:34:48.0 2000.00  20:42 1.007  WFC    0.0  180  i                                
+ 453889 Skyflat i 30secs 13:06:56.76 +29:34:58.0 2000.00  20:43 1.006  WFC    0.0  180  i                                
+ 453890 Skyflat i 45secs 13:06:56.76 +29:34:38.0 2000.00  20:45 1.006  WFC    0.0  180  i                                
+ 453891 Skyflat i 70secs 13:06:55.22 +29:34:37.9 2000.00  20:47 1.005  WFC    0.0  180  i                                
+ 453892 GMOS_ACS r 15sec 16:06:17.40 +55:26:46.0 2000.00  21:09 1.343  WFC    0.0  180  r                                focus test
+ 453893 GMOS_ACS r 15sec 16:06:17.40 +55:26:45.9 2000.00  21:12 1.337  WFC    0.0  180  r                                focus 43.75 test
+ 453894 Focus run        16:06:17.39 +55:26:45.5 2000.00  21:22 1.315  WFC    0.0  180  r                                
+ 453895 GMOS_ACS r 10sec 16:06:17.40 +55:26:45.9 2000.00  21:31 1.287  WFC    0.0  180  r                                focus 43.7 test
+ 453896 GMOS_ACS r 10 mi 16:06:22.10 +55:26:45.9 2000.00  21:37 1.264  WFC    0.0  180  r                                
+ 453897 GMOS_ACS r 10 mi 16:06:22.10 +55:26:06.0 2000.00  21:55 1.228  WFC    0.0  180  r                                
+ 453898 GMOS_ACS r 10 mi 16:06:17.40 +55:26:05.9 2000.00  22:08 1.207  WFC    0.0  180  r                                
+ 453899 INT_3 r 10 minut 16:12:32.20 +55:15:13.1 2000.00  22:21 1.195  WFC    0.0  180  r                                
+ 453900 INT_3 r 10 minut 16:12:32.19 +55:15:52.9 2000.00  22:34 1.177  WFC    0.0  180  r                                
+ 453901 INT_3 r 10 minut 16:12:36.88 +55:15:52.9 2000.00  22:46 1.163  WFC    0.0  180  r                                
+ 453902 INT_3 r 10 minut 16:12:36.87 +55:15:12.9 2000.00  22:59 1.150  WFC    0.0  180  r                                
+ 453903 INT_3 r 10 minut 16:12:36.87 +55:14:32.9 2000.00  23:12 1.139  WFC    0.0  180  r                                
+ 453904 INT_3 r 10 minut 16:12:32.19 +55:14:32.9 2000.00  23:25 1.131  WFC    0.0  180  r                                
+ 453905 INT_3 g 10secs   16:12:32.19 +55:14:33.0 2000.00  23:37 1.127  WFC    0.0  180  g                                
+ 453906 Focus run        16:12:32.19 +55:15:12.7 2000.00  23:45 1.124  WFC    0.0  180  g                                totally screwed up
+ 453907 Focus run        16:12:32.20 +55:15:12.9 2000.00  23:55 1.121  WFC    0.0  180  g                                totally screwd up
+ 453908 Focus run        16:12:32.20 +55:15:13.0 2000.00  00:03 1.119  WFC    0.0  180  g                                
+ 453909 INT_3 g 10secs   16:12:32.19 +55:15:13.0 2000.00  00:08 1.117  WFC    0.0  180  g                                focus 43.79 test
+ 453910 INT_3 g 10 minut 16:12:32.20 +55:15:12.6 2000.00  00:10 1.117  WFC    0.0  180  g                                
+ 453911 INT_3 g 10 minut 16:12:32.20 +55:15:53.0 2000.00  00:23 1.118  WFC    0.0  180  g                                
+ 453912 INT_3 g 10 minut 16:12:36.88 +55:15:53.1 2000.00  00:35 1.120  WFC    0.0  180  g                                
+ 453913 INT_3 g 10 minut 16:12:36.87 +55:15:13.0 2000.00  00:47 1.124  WFC    0.0  180  g                                
+ 453914 INT_3 g 10 minut 16:12:36.87 +55:14:32.9 2000.00  01:17 1.142  WFC    0.0  180  g                                
+ 453915 INT_3 g 10 minut 16:12:32.20 +55:14:33.0 2000.00  01:29 1.152  WFC    0.0  180  g                                
+ 453916 GMOS_ACS g 10 mi 16:06:17.40 +55:26:46.0 2000.00  01:42 1.175  WFC    0.0  180  g                                
+ 453917 GMOS_ACS g 10 mi 16:06:17.40 +55:27:26.0 2000.00  01:54 1.191  WFC    0.0  180  g                                
+ 453918 GMOS_ACS g 10 mi 16:06:22.10 +55:27:26.0 2000.00  02:08 1.211  WFC    0.0  180  g                                
+ 453919 GMOS_ACS g 10 mi 16:06:22.10 +55:26:46.0 2000.00  02:20 1.232  WFC    0.0  180  g                                
+ 453920 GMOS_ACS g 10 mi 16:06:22.10 +55:28:05.9 2000.00  02:35 1.261  WFC    0.0  180  g                                
+ 453921 GMOS_ACS g 10 mi 16:06:17.40 +55:28:05.9 2000.00  02:48 1.291  WFC    0.0  180  g                                telescope moving
+ 453923 GMOS_ACS g 10 mi 16:06:17.39 +55:28:06.0 2000.00  03:01 1.312  WFC   50.7  180  g                                trash - exp aborted - system continues counting
+ 453925 GMOS_ACS g 10 mi 16:06:17.39 +55:26:45.9 2000.00  03:05 1.320  WFC   28.0  180  g                                trash - exp aborted, system continues counting
+ 453926 GMOS_ACS 10secs  16:06:17.39 +55:26:46.0 2000.00  03:21 1.364  WFC    0.0  180  g                                testing the system, guiding, ...
+ 453927 GMOS_ACS i 10sec 16:06:17.39 +55:26:45.7 2000.00  03:24 1.372  WFC    0.0  180  i                                
+ 453928 Focus run        16:06:17.40 +55:26:45.9 2000.00  03:32 1.391  WFC    0.0  180  i                                
+ 453929 GMOS_ACS i 10sec 16:06:17.40 +55:26:45.9 2000.00  03:38 1.418  WFC    0.0  180  i                                focus 43.95 test - totally wrong
+ 453930 GMOS_ACS i 10 mi 16:06:17.39 +55:26:46.1 2000.00  03:40 1.445  WFC    0.0  180  i                                slighly out of focus
+ 453931 GMOS_ACS g 10 mi 16:06:17.40 +55:28:06.0 2000.00  03:55 1.503  WFC    0.0  180  g                                
+ 453932 Focus run        16:06:17.39 +55:26:46.0 2000.00  04:13 1.550  WFC    0.0  180  i                                
+ 453933 GMOS_ACS i 10sec 16:06:17.39 +55:26:46.0 2000.00  04:19 1.586  WFC    0.0  180  i                                focus 43.86 - totally wrong
+ 453934 GMOS_ACS i 10sec 16:06:17.40 +55:26:46.0 2000.00  04:23 1.606  WFC    0.0  180  i                                focus 43.70 test - bad
+ 453935 GMOS_ACS i 10sec 16:06:17.40 +55:26:45.9 2000.00  04:26 1.621  WFC    0.0  180  i                                
+ 453936 GMOS_ACS i 5 min 16:06:17.40 +55:27:06.0 2000.00  04:32 1.665  WFC    0.0  180  i                                
+ 453937 GMOS_ACS i 5 min 16:06:17.40 +55:27:26.1 2000.00  04:39 1.707  WFC    0.0  180  i                                
+ 453938 GMOS_ACS i 5 min 16:06:19.75 +55:27:25.9 2000.00  04:47 1.752  WFC    0.0  180  i                                
+ 453939 GMOS_ACS i 5 min 16:06:22.10 +55:27:26.0 2000.00  04:54 1.801  WFC    0.0  180  i                                
+ 453940 GMOS_ACS i 5 min 16:06:22.10 +55:27:05.9 2000.00  05:02 1.853  WFC    0.0  180  i                                
+ 453941 GMOS_ACS i 5 min 16:06:22.10 +55:26:46.0 2000.00  05:09 1.908  WFC    0.0  180  i                                
+ 453942 Dark frame       22:58:00.00 +00:05:00.0 2000.00  05:19 1.260  WFC  300.0  180  g                                
+ 453943 Skyflat g 75secs 22:57:59.99 +00:05:00.0 2000.00  05:29 1.239  WFC    0.0  180  g                                
+ 453944 Skyflat g 48secs 22:58:00.00 +00:04:59.9 2000.00  05:31 1.234  WFC    0.0  180  g                                
+ 453945 Skyflat g 40secs 22:57:59.99 +00:04:59.9 2000.00  05:33 1.231  WFC    0.0  180  g                                
+ 453946 Skyflat g 27secs 22:58:00.00 +00:05:00.0 2000.00  05:34 1.228  WFC    0.0  180  g                                
+ 453947 Skyflat g 23secs 22:58:00.66 +00:05:10.1 2000.00  05:36 1.225  WFC    0.0  180  g                                
+ 453948 Skyflat g 22secs 22:58:00.66 +00:04:49.9 2000.00  05:37 1.222  WFC    0.0  180  g                                
+ 453949 Skyflat r 22secs 22:57:59.99 +00:04:59.9 2000.00  05:39 1.219  WFC    0.0  180  r                                
+ 453950 Skyflat r 17secs 22:58:00.66 +00:05:10.0 2000.00  05:41 1.215  WFC    0.0  180  r                                
+ 453951 Skyflat r 13secs 22:58:00.66 +00:04:50.0 2000.00  05:42 1.213  WFC    0.0  180  r                                
+ 453952 Skyflat r 9secs  22:57:59.32 +00:04:50.0 2000.00  05:43 1.210  WFC    0.0  180  r                                
+ 453953 Skyflat r 7secs  22:57:59.33 +00:05:10.0 2000.00  05:44 1.208  WFC    0.0  180  r                                
+ 453954 Skyflat g 5secs  22:57:59.34 +00:04:49.9 2000.00  05:46 1.206  WFC    0.0  180  g                                Saturated
+ 453955 Skyflat g 2secs  22:57:59.33 +00:04:49.9 2000.00  05:47 1.204  WFC    0.0  180  g                                

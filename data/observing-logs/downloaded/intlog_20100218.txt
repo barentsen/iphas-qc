@@ -1,0 +1,52 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 03 15 10:57
+
+TELESCOPE             INT
+DATE                  20100218
+OBSERVER/S            SA
+PROGRAMME             SA
+PROPOSAL REF          P7
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.75
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:10
+EVENING TWILIGHT (UT) 20:22
+MORNING TWILIGHT (UT) 06:28
+SUNRISE (UT)          07:40
+%ILLUM. LUNAR DISK    21
+DARK TIME (HRS)       10:06
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          23:14
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -1.3  100    50.0  49.6  272   759.4   -1.3                100      #
+21:00  -1.2  100    34.7  42.6  272   761.3   -1.2                100      #
+22:00  -0.9  100    46.4  51.5  272   760.9   -0.9                100      #
+23:00  -1.7  100    49.1  59.4  272   760.8   -1.7                100      #
+00:00  -2.3  100    49.0  52.0  272   761.9   -2.3                100      #
+01:00  -1.7  100    40.4  48.2  223   761.2   -1.7                100      #
+02:00  -1.5  100    37.4  53.2  272   761.7   -1.5                100      #
+03:00  -3.0  100    40.5  41.4  272   761.6   -3.0                100      #
+04:00  -2.6  100    46.9  51.1  272   761.2   -2.6                100      #
+05:00  -3.1  100    37.4  46.6  272   761.1   -3.1                100      #
+06:00  -3.7  100    47.6  46.7  272   761.6   -3.7                100      #
+07:00  -5.2  100    48.3  52.0  272   761.9   -5.2                100      #
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+clouds early on
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

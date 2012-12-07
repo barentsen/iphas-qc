@@ -1,0 +1,40 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 12 14 07:34
+
+TELESCOPE             INT
+DATE                  20111213
+OBSERVER/S            R. Barrena& D. Lopez-Prieto
+PROGRAMME             CAT Service
+PROPOSAL REF          CAT S
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    None
+
+TEL STATION / FOCUS   Prime  / 43.50
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:40
+MORNING TWILIGHT (UT) 06:32
+SUNRISE (UT)          07:48
+%ILLUM. LUNAR DISK    88
+DARK TIME (HRS)       10:52
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         21:02
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+No Met data available for first half of night
+No Met data available for second half of night
+
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Very good seeing (about 1 arcsec or less) during the whole night. Photometric conditions
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Autoguiding does not work. It shifts!! So, we do not expose more than 120s per frame
+
+

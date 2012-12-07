@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 11 09 06:29
+
+TELESCOPE             INT
+DATE                  20111108
+OBSERVER/S            Kupfer
+PROGRAMME             UVEX survey
+PROPOSAL REF          N2
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.45
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:30
+EVENING TWILIGHT (UT) 19:43
+MORNING TWILIGHT (UT) 06:08
+SUNRISE (UT)          07:22
+%ILLUM. LUNAR DISK    97
+DARK TIME (HRS)       10:25
+TWILIGHT TIME (HRS)   02:27
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          06:23
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   8.7   19     7.7   9.7  330   771.1    8.7   10.     11.   19     25
+20:00   8.9   19     3.6   4.5  332   771.5    8.9   10.     11.   19     25
+21:00   9.5   27    10.4  10.2  279   771.7    9.5   10.     11.   27     32
+22:00   9.3   27     5.1   6.7  273   771.9    9.3   10.     11.   27     29
+23:00   9.6   35    12.3  11.4  212   771.8    9.6   10.     11.   35     39
+00:00   9.0   35     6.0   5.8  300   771.6    9.0   10.     11.   35     38
+01:00   8.8   33     3.5   4.2  316   771.3    8.8    9.     11.   33     38
+02:00   9.5   45     8.4   9.8  299   771.3    9.5   10.     11.   45     49
+03:00   8.8   38     3.4   4.1  232   771.0    8.8    9.     11.   38     42
+04:00   7.8   42    15.2  18.2  288   770.9    7.8    9.     11.   42     44
+05:00   7.3   40    26.0  25.6  291   770.6    7.3    9.     11.   40     43
+06:00   8.2   40    19.5  19.9  288   770.8    8.2    9.     11.   40     44
+
+TIME LOST weather           04:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+good conditions until 0UT, later some clouds, from 4:30UT very cloudy
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

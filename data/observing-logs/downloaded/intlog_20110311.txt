@@ -1,0 +1,89 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 03 12 23:02
+
+TELESCOPE             INT
+DATE                  20110311
+OBSERVER/S            Rafael Barrena
+PROGRAMME             CAT S
+PROPOSAL REF          CAT S      
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Shant Baghram
+
+TEL STATION / FOCUS    / 44.73
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:24
+EVENING TWILIGHT (UT) 20:35
+MORNING TWILIGHT (UT) 06:07
+SUNRISE (UT)          07:18
+%ILLUM. LUNAR DISK    40
+DARK TIME (HRS)       09:32
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          01:30
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -2.5   98     6.4  10.3  304   759.2   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00  -1.9   98     0.7   0.9  311   759.6   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00  -1.4   98     1.7   4.4  301   759.5   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00  -1.8   98     1.3   2.7  308   759.1   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00  -2.0   98     0.5   0.7  321   759.9   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00  -1.1   98     0.3   0.9  253   760.0   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00  -1.2   98     0.6   0.8  311   760.0   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00  -1.4   98     0.3   0.6  311   759.7   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00  -1.3   98     0.3   0.7  311   759.3   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00  -1.4   98     0.2   0.4  311   759.6   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00  -1.4   98     0.4   0.9  311   759.5   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00  -1.6   98     0.0   0.0  311   759.7   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Completely wet/snow
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+dome not opened
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 788137 Bias              0:00:00.00 +00:00:00.0  2000.00 11:18 4.508  WFC    0.0  180  Halpha                           
+ 788138 Bias              0:00:00.00 +00:00:00.0  2000.00 11:18 4.508  WFC    0.0  180  Halpha                           
+ 788139 Bias              0:00:00.00 +00:00:00.0  2000.00 23:24 4.487  WFC    0.0  180  Halpha                           
+ 788140 Bias              0:00:00.00 +00:00:00.0  2000.00 23:28 4.487  WFC    0.0  180  Halpha                           
+ 788141 bias 1st night    0:00:00.00 +00:00:00.0  2000.00 23:34 4.487  WFC    0.0  180  Halpha                           
+ 788142 bias 1st night    0:00:00.00 +00:00:00.0  2000.00 23:34 4.487  WFC    0.0  180  Halpha                           
+ 788143 bias 1st night    0:00:00.00 +00:00:00.0  2000.00 23:34 4.487  WFC    0.0  180  Halpha                           
+ 788144 bias 1st night    0:00:00.00 +00:00:00.0  2000.00 23:35 4.487  WFC    0.0  180  Halpha                           
+ 788145 bias 1st night    0:00:00.00 +00:00:00.0  2000.00 23:35 4.487  WFC    0.0  180  Halpha                           
+ 788146 bias 1st night    0:00:00.00 +00:00:00.0  2000.00 23:36 4.487  WFC    0.0  180  Halpha                           
+ 788147 bias 1st night    0:00:00.00 +00:00:00.0  2000.00 23:36 4.487  WFC    0.0  180  Halpha                           
+ 788148 bias 1st night    0:00:00.00 +00:00:00.0  2000.00 23:36 4.487  WFC    0.0  180  Halpha                           
+ 788149 bias 1st night    0:00:00.00 +00:00:00.0  2000.00 23:37 4.487  WFC    0.0  180  Halpha                           
+ 788150 bias 1st night    0:00:00.00 +00:00:00.0  2000.00 23:37 4.487  WFC    0.0  180  Halpha                           
+ 788151 bias 1st night    0:00:00.00 +00:00:00.0  2000.00 23:38 4.487  WFC    0.0  180  Halpha                           
+ 788152 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 23:53 1.743  WFC    6.1  180  r                                
+ 788153 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 23:54 1.743  WFC    6.1  180  r                                
+ 788154 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 23:54 1.743  WFC    6.0  180  r                                
+ 788155 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 23:55 1.743  WFC    5.6  180  r                                
+ 788156 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 23:55 1.743  WFC    6.0  180  r                                
+ 788157 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 23:56 1.743  WFC    6.1  180  r                                
+ 788158 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 23:57 1.743  WFC    6.1  180  r                                
+ 788159 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 23:57 1.743  WFC    6.1  180  r                                
+ 788160 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 23:58 1.743  WFC    6.1  180  r                                
+ 788161 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 23:58 1.743  WFC    6.1  180  r                                
+ 788162 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 23:59 1.743  WFC    6.1  180  r                                
+ 788163 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 00:01 1.743  WFC    2.1  180  r                                
+ 788164 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 00:02 1.743  WFC    2.1  180  r                                
+ 788165 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 00:02 1.743  WFC    2.1  180  r                                
+ 788166 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 00:03 1.743  WFC    2.1  180  r                                
+ 788167 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 00:03 1.743  WFC    2.1  180  r                                
+ 788168 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 00:04 1.743  WFC    2.1  180  r                                
+ 788169 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 00:04 1.743  WFC    2.1  180  r                                
+ 788170 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 00:05 1.743  WFC    2.1  180  r                                
+ 788171 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 00:05 1.743  WFC    2.1  180  r                                
+ 788172 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 00:06 1.743  WFC    2.1  180  r                                
+ 788173 dome flat r 1st   0:00:00.00 +00:00:00.0  2000.00 00:06 1.743  WFC    2.1  180  r                                

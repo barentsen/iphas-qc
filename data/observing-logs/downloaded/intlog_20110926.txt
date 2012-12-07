@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 09 27 07:28
+
+TELESCOPE             INT
+DATE                  20110926
+OBSERVER/S            O. Vaduvescu, M. Hrudkova, L. Patrick & L. Hardy (ING students)
+PROGRAMME             Students training; R. Ostensen (3 stars), P. Vilchez (one galaxy), J. Licandro (one asateroid, failed). Dave (one nebulae, probably not seen)
+PROPOSAL REF          S/D
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    All 4
+
+TEL STATION / FOCUS   Cassegrain  / 14.65
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:12
+EVENING TWILIGHT (UT) 20:23
+MORNING TWILIGHT (UT) 05:43
+SUNRISE (UT)          06:55
+%ILLUM. LUNAR DISK    1
+DARK TIME (HRS)       09:20
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         06:48
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  12.2   62    22.7  24.6  217   776.4   12.2   16.     16.   62     50
+21:00  12.0   64    25.9  31.7  266   776.7   12.0   15.     16.   64     55
+22:00  11.9   64    24.3  28.1  209   777.4   11.9   14.     16.   64     61
+23:00  12.2   63    29.6  29.9  298   777.8   12.2   13.     16.   63     65
+00:00  12.4   58    29.5  31.2  285   777.8   12.4   13.     15.   58     63
+01:00  12.6   56    30.1  31.8  280   777.5   12.6   13.     16.   56     59
+02:00  12.6   57    23.5  25.9  298   777.3   12.6   13.     16.   57     59
+03:00  12.5   56    23.9  28.6  257   777.1   12.5   13.     15.   56     58
+04:00  12.4   54    27.6  32.1  278   776.8   12.4   13.     15.   54     56
+05:00  12.3   54    23.2  25.3  260   776.5   12.3   13.     15.   54     56
+06:00  12.0   54    16.8  21.0  297   776.4   12.0   13.     15.   54     56
+
+TIME LOST weather           00:00
+TIME LOST Technical         02:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Very good (seeing 0.8-1.5") no clouds. no calima
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+ids_tilt does not appear to converge (second step), fault report created, we tried two gratings
+
+

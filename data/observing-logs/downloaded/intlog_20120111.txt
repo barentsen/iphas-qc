@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 01 12 06:11
+
+TELESCOPE             INT
+DATE                  20120111
+OBSERVER/S            Miriam Aberasturi
+PROGRAMME             Identify M-lates
+PROPOSAL REF          C52
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Hugo Ledo
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:40
+EVENING TWILIGHT (UT) 19:56
+MORNING TWILIGHT (UT) 06:43
+SUNRISE (UT)          07:58
+%ILLUM. LUNAR DISK    92
+DARK TIME (HRS)       10:47
+TWILIGHT TIME (HRS)   02:31
+MOONRISE (UT)         20:54
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   6.2   26     3.7   3.8   70   770.2   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   5.2   26     1.9   3.3  169   770.6   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   6.0   26     1.1   2.2  348   770.8   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   6.1   26     2.5   3.8  264   771.1   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   6.2   22    10.5  11.1  315   771.3   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   6.2   24    12.4  12.9  213   771.2   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   6.1   24     4.3   5.3  335   770.8   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   5.9   25     6.0   8.0  325   770.5   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   6.0   26    13.2  13.4  354   770.4   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   5.8   25     2.7   3.1  345   770.3   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   5.7   25    14.9  14.8  213   770.1   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   5.7   26     7.6   8.0    4   770.3   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         02:00
+TIME LOST Other             04:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+good
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+We have lost time due to instrument problems
+
+

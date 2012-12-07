@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 10 12 02:59
+
+TELESCOPE             INT
+DATE                  20101011
+OBSERVER/S            Emma Grocutt, David Harvey
+PROGRAMME             Hoekstra MENEacS
+PROPOSAL REF          N3
+TELESCOPE OPERATOR    n/a
+SUPPORT ASTRONOMER    Lindsay Magill
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:54
+EVENING TWILIGHT (UT) 20:06
+MORNING TWILIGHT (UT) 05:52
+SUNRISE (UT)          07:03
+%ILLUM. LUNAR DISK    22
+DARK TIME (HRS)       09:46
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:47
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   8.9   99    27.5  34.8  178   767.2    8.9   12.     14.   99     84
+20:00   9.6   99    23.1  32.0  242   767.6    9.6   12.     14.   99     85
+21:00   7.6   99    43.8  51.7  247   767.1    7.6   12.     14.   99     82
+22:00   7.0   99    28.1  38.4  273   767.4    7.0   11.     14.   99     81
+23:00   8.6   99    21.7  27.3  260   767.6    8.6   11.     14.   99     83
+00:00   9.5   99    28.4  36.4  275   767.4    9.5   12.     14.   99     86
+01:00   9.8   99    30.4  38.8  289   766.9    9.8   12.     14.   99     88
+02:00   9.3   99    27.8  34.7  266   766.8    9.3   12.     14.   99     87
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% humidity all night; abandoning telescope at ~3am
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+100% humidity all night; abandoning telescope at ~3am
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 

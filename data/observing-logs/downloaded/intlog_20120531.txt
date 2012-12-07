@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 06 14 14:52
+
+TELESCOPE             INT
+DATE                  20120531
+OBSERVER/S            Stephen Lowry 
+PROGRAMME             I/2012A/08
+PROPOSAL REF          I/2012A/08
+TELESCOPE OPERATOR    Stephen Lowry
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.40
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:12
+EVENING TWILIGHT (UT) 21:37
+MORNING TWILIGHT (UT) 04:41
+SUNRISE (UT)          06:06
+%ILLUM. LUNAR DISK    83
+DARK TIME (HRS)       07:04
+TWILIGHT TIME (HRS)   02:50
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:36
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00   9.1   35     7.1   8.8  335   772.0    9.1   11.     13.   35     36
+22:00   8.3   38     8.2   9.1  295   772.5    8.3    9.     13.   38     39
+23:00   8.3   35     9.9  12.7  339   772.9    8.3    9.     12.   35     37
+00:00   8.3   33    12.3  16.0  308   773.0    8.3    9.     12.   33     36
+01:00   8.3   45    10.9  11.5  321   773.0    8.3    8.     11.   45     42
+02:00   7.9   55    11.8  13.8  327   772.4    7.9    8.     12.   55     48
+03:00   9.0   39     7.2   9.1  288   772.1    9.0    8.     11.   39     52
+04:00   9.0   34     3.4   3.7  259   771.9    9.0    9.     11.   34     40
+05:00   9.1   32    11.8  13.0  288   771.7    9.1    9.     11.   32     35
+06:00   9.5   32    11.3  11.9  306   771.5    9.5    9.     11.   32     39
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Windy. Variable seeing (~1.1-2.0 arcsec)
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

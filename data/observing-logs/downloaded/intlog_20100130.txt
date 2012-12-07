@@ -1,0 +1,55 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 02 02 12:00
+
+TELESCOPE             INT
+DATE                  20100130
+OBSERVER/S            Barrena and Montanes
+PROGRAMME             Service CAT
+PROPOSAL REF          INTP6
+TELESCOPE OPERATOR    --
+SUPPORT ASTRONOMER    Johnston
+
+TEL STATION / FOCUS    / 43.75
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:56
+EVENING TWILIGHT (UT) 20:10
+MORNING TWILIGHT (UT) 06:39
+SUNRISE (UT)          07:53
+%ILLUM. LUNAR DISK    99
+DARK TIME (HRS)       10:29
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         19:17
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.0  100    33.1  50.4  169   760.4    5.0    8.      9.  100     85
+20:00   5.0  100    31.8  54.0  196   760.7    5.0    8.      9.  100     84
+21:00   5.3  100    73.5  89.8  171   759.4    5.3    8.      9.  100     86
+22:00   5.2  100    90.5  03.3  166   759.8    5.2    8.      9.  100     87
+23:00   4.0  100    89.6  25.4  169   759.2    4.0    8.      9.  100     85
+00:00   2.3  100    50.3  91.4  167   760.2    2.3    6.      9.  100     82
+01:00   2.5  100    49.4  52.0  172   759.9    2.5    6.      9.  100     85
+02:00   3.3  100    12.2  60.1  163   757.0    3.3    7.      9.  100     84
+03:00   3.2  100    13.8  53.2  164   755.6    3.2    7.      9.  100     84
+04:00   4.4  100    25.1  31.8  153   757.9    4.4    7.      9.  100     86
+05:00   5.0  100    08.2  19.8  179   755.8    5.0                100      #
+06:00   5.5  100    93.0  81.6  168   757.0    5.5                100      #
+07:00   5.2  100    76.2  61.4  190   756.0    5.2                100      #
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+rain, clouds
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+we took a bunch of test observations with dome closed
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 719602 Bias              0:00:00.00 +00:00:00.0  2000.00 11:09 4.408  WFC    0.0  180  Hbeta broad                      
+ 719603 Bias              0:00:00.00 +00:00:00.0  2000.00 11:54 4.411  WFC    0.0  180  Unknown                          

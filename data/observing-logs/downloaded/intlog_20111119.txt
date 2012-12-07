@@ -1,0 +1,45 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 11 20 03:52
+
+TELESCOPE             INT
+DATE                  20111119
+OBSERVER/S            Casares
+PROGRAMME             UVEX observations
+PROPOSAL REF          C128
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    -
+
+TEL STATION / FOCUS   Prime  / 43.51
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:24
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:16
+SUNRISE (UT)          07:30
+%ILLUM. LUNAR DISK    35
+DARK TIME (HRS)       10:38
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         02:10
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   2.3   99    15.4  33.8  336   766.3    2.3    8.     10.   99     73
+20:00   2.4   99    40.8  51.4  276   766.8    2.4    9.     11.   99     69
+21:00   2.2   99    48.6  54.6  270       N    2.2    9.     11.   99     69
+22:00   1.9   99    45.1  50.1  299       N    1.9    9.     11.   99     67
+23:00   1.9   99    42.5  46.5  187       N    1.9    9.     11.   99     68
+00:00   2.0   99    46.1  51.4  303       N    2.0    9.     11.   99     68
+01:00   2.5   99    45.6  52.0  256       N    2.5   10.     11.   99     67
+03:00   1.2   98    35.3  46.6   71   766.6    1.2    9.     11.   98     65
+
+TIME LOST weather           11:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Foggy (humidity > 95% all night) and cloudy all night. Weather conditions only got worse and I did not manage to open up at all. I decided to leave at 4am
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

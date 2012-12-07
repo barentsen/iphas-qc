@@ -1,0 +1,101 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 12 13 06:53
+
+TELESCOPE             INT
+DATE                  20071212
+OBSERVER/S            V. Bejar
+PROGRAMME             Search for T dwarfs in Orion and Pleiades
+PROPOSAL REF          C91
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.61
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:39
+MORNING TWILIGHT (UT) 06:31
+SUNRISE (UT)          07:47
+%ILLUM. LUNAR DISK    10
+DARK TIME (HRS)       10:52
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          20:52
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   6.9   47    37.2  41.0  240   768.4    6.9   7.9    10.5   47    48 
+20:00   6.5   49    38.8  44.2  215   768.4    6.5   7.3     9.8   49    52 
+22:00   6.5   49    34.4  50.4  202   768.8    6.5   7.3     9.6   49    52 
+23:00   6.0   46    44.4  58.1  214   768.0    6.0   7.4     9.7   46    51 
+00:00   5.8   42    56.8  60.9  225   767.8    5.8   8.5     9.7   42    47 
+01:00   5.7   42    46.6  54.7  247   767.3    5.7   6.6     9.5   42    45 
+02:00   4.9   55    61.7  61.9  190   766.8    4.9   5.8     8.9   55    57 
+03:00   4.6   62    44.1  41.7  225   766.9    4.6   7.5     9.4   62    57 
+04:00   4.4   66    47.4  54.1  204   766.5    4.4   5.8     8.0   66    66 
+05:00   3.0   74    69.2  69.2  197   765.5    3.0   4.1     6.8   74    75 
+06:00   3.3   58    75.9  84.6  204   765.2    3.3   4.2     6.5   58    62 
+
+TIME LOST weather           03:15
+TIME LOST Technical         00:30
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Cirrus, high speed wind, bad seeing (1.2-2.6"), rain and high humidity at the end
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+3.15h of time lost due to rain (22:30-00:45)  and cirrus and rain warning (02:00-03:00)
+30min lost due to Dome was in local mode
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 600335 Bias              0:00:00.00 +00:00:00.0  2000.00 17:21 4.263  WFC    0.0  180  Halpha                           
+ 600336 Arc               0:00:00.00 +00:00:00.0  2000.00 17:22 4.263  WFC    6.1  180  Halpha                           
+ 600337 Flat field       22:58:00.00 +00:05:00.0  2000.00 18:39 1.139  WFC    4.7  180  z                                skyflatZ 33000 cts
+ 600338 Flat field       22:58:00.00 +00:04:59.9  2000.00 18:41 1.139  WFC    6.4  180  z                                30000
+ 600339 Flat field       22:58:01.00 +00:05:15.0  2000.00 18:42 1.139  WFC    7.5  180  z                                33000
+ 600340 Flat field       22:57:58.99 +00:05:15.0  2000.00 18:43 1.139  WFC   12.4  180  z                                32000
+ 600341 Flat field       22:57:59.00 +00:05:14.9  2000.00 18:45 1.139  WFC   13.2  180  z                                27500
+ 600342 Flat field       22:57:59.00 +00:04:45.0  2000.00 18:46 1.139  WFC   25.7  180  z                                30000
+ 600343 Flat field       22:58:01.00 +00:04:45.0  2000.00 18:48 1.139  WFC   31.3  180  z                                27000
+ 600344 Flat field       22:58:01.00 +00:04:45.0  2000.00 18:50 1.139  WFC   21.7  180  I                                skyflatI 16000cts bajo
+ 600345 Flat field       22:58:00.99 +00:05:15.0  2000.00 18:51 1.139  WFC   22.6  180  I                                10000
+ 600346 Flat field       22:57:59.00 +00:05:15.0  2000.00 18:53 1.140  WFC   17.9  180  I                                31000
+ 600347 Flat field       22:57:58.99 +00:04:45.0  2000.00 18:55 1.140  WFC   35.0  180  I                                42000
+ 600348 Flat field       22:57:59.00 +00:05:00.0  2000.00 18:57 1.141  WFC   39.7  180  I                                38000
+ 600349 Flat field       22:58:00.99 +00:05:00.0  2000.00 18:58 1.141  WFC   56.4  180  I                                33000
+ 600350 Flat field       22:57:59.99 +00:04:45.0  2000.00 19:01 1.142  WFC   75.7  180  I                                32000
+ 600351 Flat field       22:57:59.99 +00:05:15.0  2000.00 19:03 1.143  WFC  109.2  180  I                                30000
+ 600352 Focus run        23:33:44.40 +05:46:40.0  2000.00 19:23 1.086  WFC   20.1  180  I                                Foco=43.61
+ 600353 PG2331I          23:33:44.40 +05:46:40.0  2000.00 19:33 1.087  WFC    9.4  180  I                                Cirros espesos, pero discontinuos en todo el cielo
+ 600354 PG2331I          23:33:44.40 +05:46:40.0  2000.00 19:37 1.088  WFC   30.1  180  I                                
+ 600355 PG2331Z          23:33:44.39 +05:46:40.0  2000.00 19:39 1.089  WFC   59.5  180  z                                
+ 600356 PG2331Z          23:33:44.40 +05:46:40.0  2000.00 19:42 1.090  WFC  120.0  180  z                                seeing:1.2"
+ 600357 F-16Z             1:54:34.60 -06:46:00.0  2000.00 19:48 1.406  WFC   20.1  180  z                                Nada de nada. No se ve nada
+ 600358 PDF1short         3:48:53.99 +23:00:10.0  2000.00 19:58 1.517  WFC   90.0  180  z                                Nada!! Paramos hasta que se vea la guia
+ 600359 PDF1short         3:48:53.99 +23:00:10.0  2000.00 20:26 1.358  WFC   90.0  180  z                                Perdemos 30min porque dejaron Dome en local. No eran cirros. Seeing:1.5"
+ 600360 PDF1_1            3:48:54.00 +23:00:09.8  2000.00 20:30 1.310  WFC  899.6  180  z                                seeing: 1.6"
+ 600361 PDF1_2            3:48:54.00 +23:00:25.0  2000.00 20:47 1.245  WFC  899.6  180  z                                seeing: 1.8". Empeora el seeing
+ 600362 PDF1_3            3:48:55.08 +23:00:25.0  2000.00 21:04 1.189  WFC  899.7  180  z                                seeing 1.6"
+ 600363 PDF1_4            3:48:55.08 +23:00:10.0  2000.00 21:21 1.144  WFC  899.6  180  z                                Se pierde guia seeing: 1.8"
+ 600365 PDF1_5            3:48:55.08 +22:59:55.0  2000.00 21:46 1.091  WFC  899.6  180  z                                imagen anterior abortada por problemas guiado
+ 600366 PDF1_6            3:48:54.00 +22:59:55.0  2000.00 22:07 1.059  WFC  899.6  180  z                                
+ 600367 PDF1_7#           3:48:52.91 +22:59:55.0  2000.00 22:24 1.037  WFC  899.5  180  z                                Cerramos porque llueve. Humedad 50%
+ 600368 SODF_SPITZER2Zsh  5:37:49.15 -02:44:42.8  2000.00 00:49 1.186  WFC   90.0  180  z                                seeing: 1.9" Zc=17.3
+ 600369 SODF_SPITZER2Z_1  5:37:49.14 -02:44:42.7  2000.00 00:54 1.178  WFC  899.6  180  z                                sky=9000cts seeing:1.8"   Zc=18.5
+ 600370 SODF_SPITZER2Z_2  5:37:49.15 -02:44:27.6  2000.00 01:11 1.173  WFC  899.6  180  z                                Zc=18.7
+ 600371 SODF_SPITZER2Z_3  5:37:50.15 -02:44:27.8  2000.00 01:28 1.174  WFC  899.5  180  z                                seeing 1.9" Zc=18.2  se pierde la guia en ocasiones
+ 600372 SODF_SPITZER2Z_4  5:37:50.15 -02:44:42.7  2000.00 01:46 1.183  WFC  899.6  180  z                                seeing: 2.3" Se pierde guia. Cerramos por aviso lluvia y cirros
+ 600373 SODF_SPITZER2Z_5  5:37:50.15 -02:44:57.7  2000.00 03:09 1.337  WFC  899.6  180  z                                apenas se ve sori27. seeing:2.5" Zc=16.7
+ 600374 SODF_SPITZER2Z_6  5:37:49.15 -02:44:57.7  2000.00 03:33 1.425  WFC  899.1  180  z                                seeing:2.3" Zc=17.3
+ 600375 SODF_SPITZER2Z_7  5:37:48.15 -02:44:57.8  2000.00 03:51 1.513  WFC  899.5  180  z                                
+ 600376 SODF_SPITZER2Z_8  5:37:48.14 -02:44:42.7  2000.00 04:11 1.639  WFC  899.1  180  z                                
+ 600377 SODF_SPITZER2Z_9  5:37:48.15 -02:44:27.8  2000.00 04:28 1.777  WFC  899.6  180  z                                seeing 2.6" Humdedad sube (70%)
+ 600378 SODF_SPITZER2Z_1  5:37:49.48 -02:44:42.7  2000.00 04:45 1.953  WFC  899.6  180  z                                Elevacion <33. Posible vigneteo de la cupula (ademas de la del cielo)
+ 600379 PRAEWFC05_8Ishor  8:43:18.29 +19:15:03.8  2000.00 05:07 1.026  WFC   89.5  180  I                                seeing: 2"  Viento muy alto y subiendo
+ 600380 PRAEWFC05_8I_1    8:43:18.30 +19:15:04.2  2000.00 05:10 1.034  WFC  899.5  180  I                                humedad 80%
+ 600381 PRAEWFC05_8I_2    8:43:18.29 +19:15:18.9  2000.00 05:28 1.051  WFC  899.5  180  I                                
+ 600382 PRAEWFC05_8I_3    8:43:19.36 +19:15:18.8  2000.00 05:45 1.074  WFC  899.6  180  I                                
+ 600383 PRAEWFC05_8I_4    8:43:19.35 +19:15:04.0  2000.00 06:02 1.102  WFC  899.6  180  I                                
+ 600384 PRAEWFC05_8I_5    8:43:19.36 +19:14:49.0  2000.00 06:19 1.137  WFC  899.7  180  I                                humedad 80%
+ 600385 PRAEWFC05_8I_6    8:43:18.30 +19:14:48.9  2000.00 06:35 1.179  WFC  899.5  180  I                                

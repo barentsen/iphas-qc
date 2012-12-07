@@ -1,0 +1,61 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2007 11 26 19:00
+
+TELESCOPE             INT
+DATE                  20071123
+OBSERVER/S            S.Sale
+PROGRAMME             IPHAS
+PROPOSAL REF          06B/N2             
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 43.60
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:23
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:18
+SUNRISE (UT)          07:33
+%ILLUM. LUNAR DISK    99
+DARK TIME (HRS)       10:40
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+No Met data available for first half of night
+No Met data available for second half of night
+
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humidity, rain & winds
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+No observing due to bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 597055 Bias             15:41:00.00 +20:00:00.0  2000.00 13:51 1.049  WFC    0.0  180  Halpha                           
+ 597056 Flat field       15:41:00.00 +20:00:00.0  2000.00 13:54 1.053  WFC    5.6  180  Halpha                           
+ 597057 Flat field       21:29:34.00 -08:38:29.9  2000.00 18:32 1.258  WFC    3.4  180  Halpha                           
+ 597058 Flat field       21:29:34.67 -08:38:20.0  2000.00 18:33 1.258  WFC    4.3  180  Halpha                           
+ 597059 Flat field       21:29:34.67 -08:38:39.9  2000.00 18:34 1.258  WFC    4.4  180  Halpha                           
+ 597060 Flat field       21:29:33.32 -08:38:19.9  2000.00 18:35 1.258  WFC    6.3  180  Halpha                           
+ 597061 Flat field       21:29:33.33 -08:38:40.0  2000.00 18:36 1.258  WFC    7.5  180  Halpha                           
+ 597062 Flat field       21:29:33.99 -08:38:30.0  2000.00 18:41 1.259  WFC    3.7  180  r                                
+ 597063 Flat field       21:29:34.67 -08:38:20.0  2000.00 18:42 1.259  WFC    4.5  180  r                                
+ 597064 Flat field       21:29:34.67 -08:38:40.0  2000.00 18:43 1.259  WFC    7.7  180  r                                
+ 597065 Flat field       21:29:33.32 -08:38:20.0  2000.00 18:44 1.259  WFC    6.0  180  r                                
+ 597066 Flat field       21:29:33.32 -08:38:39.9  2000.00 18:45 1.260  WFC    6.8  180  r                                
+ 597067 Flat field       21:29:34.00 -08:38:30.0  2000.00 18:46 1.260  WFC   11.9  180  i                                
+ 597068 Flat field       21:29:34.67 -08:38:20.0  2000.00 18:47 1.260  WFC    8.9  180  i                                
+ 597069 Flat field       21:29:34.67 -08:38:39.9  2000.00 18:48 1.261  WFC   11.1  180  i                                
+ 597070 Flat field       21:29:33.32 -08:38:19.9  2000.00 18:49 1.261  WFC   14.2  180  i                                
+ 597071 Flat field       21:29:33.32 -08:38:39.9  2000.00 18:50 1.262  WFC   13.7  180  i                                
+ 597072 Focus run        21:29:34.00 -08:38:29.9  2000.00 19:01 1.267  WFC   10.1  180  r                                

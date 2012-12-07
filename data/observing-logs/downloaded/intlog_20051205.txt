@@ -1,0 +1,70 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 12 06 06:36
+
+TELESCOPE             INT
+DATE                  20051205
+OBSERVER/S            Morris/Robotham
+PROGRAMME             IPHAS
+PROPOSAL REF          P10
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    PL/LS
+
+TEL STATION / FOCUS   Prime  / 43.65
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:22
+EVENING TWILIGHT (UT) 19:38
+MORNING TWILIGHT (UT) 06:27
+SUNRISE (UT)          07:43
+%ILLUM. LUNAR DISK    24
+DARK TIME (HRS)       10:49
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          22:29
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.1   90    28.5  30.0  347   766.5    5.1   7.4    10.8   90    82 
+20:00   5.0   92    27.4  30.0  333   766.7    5.0   7.1    10.5   92    88 
+21:00   4.9   99    20.4  23.4   93   767.1    4.9   8.6    10.5   99    83 
+22:00   5.0  100    25.3  26.3  340   767.3    5.0   8.4    10.6  100    90 
+23:00   4.9   99    17.9  20.4  357   767.3    4.9   8.5    10.4   99    88 
+00:00   4.7  100    21.2  23.4  349   766.9    4.7   8.4    10.4  100    89 
+01:00   4.7  100    19.2  20.3  350   766.5    4.7   8.4    10.3  100    89 
+02:00   4.5  100    16.1  18.2  354   766.1    4.5   8.3    10.2  100    88 
+03:00   5.1   94    15.2  16.3  337   765.8    5.1   8.2    10.3   94    87 
+04:00   4.2  100    18.3  19.7    1   765.6    4.2   8.0    10.2  100    88 
+05:00   4.1  100    12.4  14.0  356   765.4    4.1   8.0    10.1  100    89 
+06:00   4.7   97    13.2  14.5  348   765.6    4.7   7.8    10.0   97    88 
+
+TIME LOST weather           11:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Dome humidity > 96% from 19:30 onwards. No observing.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 485079 Bias              0:00:00.00 +00:00:00.0 2000.00  14:02 2.469  WFC    0.0  180  R                                
+ 485080 Skyflat Ha 4     23:15:47.99 +11:26:31.9 2000.00  18:33 1.076  WFC    4.1  180  Halpha                           observing blind open
+ 485081 Skyflat Ha 6     23:15:48.67 +11:26:42.0 2000.00  18:34 1.075  WFC    6.1  180  Halpha                           observing blind open = clouds
+ 485082 Skyflat Ha 10    23:15:48.68 +11:26:22.0 2000.00  18:35 1.074  WFC   10.1  180  Halpha                           observing room blind open + clouds
+ 485083 Skyflat Ha 15    23:15:47.32 +11:26:42.0 2000.00  18:36 1.072  WFC   15.1  180  Halpha                           observing room open + clouds
+ 485084 Skyflat Ha 15    23:15:47.32 +11:26:21.7 2000.00  18:37 1.071  WFC   15.1  180  Halpha                           observing room blind open + clouds
+ 485085 Skyflat r 3      23:15:47.99 +11:26:31.9 2000.00  18:38 1.070  WFC    3.1  180  r                                observing room open + clouds
+ 485086 Skyflat r 6      23:15:48.67 +11:26:42.0 2000.00  18:39 1.069  WFC    6.1  180  r                                observing room blind open + clouds
+ 485087 Skyflat r 8      23:15:48.67 +11:26:22.0 2000.00  18:40 1.068  WFC    7.5  180  r                                observing room blind open + clouds
+ 485088 Skyflat r 10     23:15:47.31 +11:26:42.0 2000.00  18:41 1.067  WFC   10.1  180  r                                observing room blind open + clouds
+ 485089 Skyflat r 15     23:15:47.31 +11:26:21.9 2000.00  18:42 1.066  WFC   15.1  180  i                                observing room blind open + clouds
+ 485090 Skyflat i 7      23:15:48.00 +11:26:32.0 2000.00  18:44 1.065  WFC    7.1  180  i                                observing room blind + clouds
+ 485091 Skyflat i 10     23:15:48.68 +11:26:42.0 2000.00  18:45 1.065  WFC   10.1  180  i                                observing room blind open + clouds
+ 485092 Skyflat i 15     23:15:48.68 +11:26:21.8 2000.00  18:46 1.063  WFC   15.1  180  i                                observing room blind room open + clouds
+ 485093 Skyflat i 20     23:15:47.31 +11:26:42.0 2000.00  18:47 1.062  WFC   20.1  180  i                                observing room blind open + clouds
+ 485094 Skyflat i 30     23:15:47.32 +11:26:21.9 2000.00  18:48 1.061  WFC   30.1  180  i                                observing room blind open + clouds
+ 485095 Focus run        23:19:58.32 -05:09:55.9 2000.00  19:15 1.208  WFC   10.1  180  r                                
+ 485096 Focus run        23:19:58.32 -05:09:56.0 2000.00  19:31 1.204  WFC   30.1  180  r                                

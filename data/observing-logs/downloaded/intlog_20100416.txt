@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2010 04 17 05:03
+
+TELESCOPE             INT
+DATE                  20100416
+OBSERVER/S            Grocutt
+PROGRAMME             Heymans P5
+PROPOSAL REF          P5
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.8
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:45
+EVENING TWILIGHT (UT) 21:00
+MORNING TWILIGHT (UT) 05:22
+SUNRISE (UT)          06:37
+%ILLUM. LUNAR DISK    7
+DARK TIME (HRS)       08:22
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:59
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -0.1  100    27.6  33.1  135   760.9   -0.1    3.      6.  100     78
+21:00  -0.9  100    41.8  46.7  217   761.0   -0.9    3.      5.  100     77
+23:00  -0.5  100    35.3  42.4  239   762.0   -0.5    3.      5.  100     76
+00:00  -1.1  100    36.4  38.2  240   762.4   -1.1    3.      5.  100     75
+01:00  -0.3  100    46.4  49.0  249   763.2   -0.3    3.      5.  100     76
+02:00  -0.8  100    30.5  38.3  220   762.6   -0.8    3.      5.  100     75
+03:00  -1.1  100    33.2  41.3  240   761.9   -1.1    3.      5.  100     73
+04:00  -1.6  100    33.5  35.3  199   762.1   -1.6    3.      5.  100     73
+05:00  -2.4  100    39.6  44.4  276   761.5   -2.4    3.      5.  100     66
+
+TIME LOST weather           8:22
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% humidity and sub zero temperatures all night. Whole night lost.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 726891 Bias              0:00:00.00 +00:00:00.0  2010.29 04:01 4.649  WFC    0.0  180  r                                

@@ -1,0 +1,69 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 04 17 02:36
+
+TELESCOPE             INT
+DATE                  20110416
+OBSERVER/S            Carrera
+PROGRAMME             C71
+PROPOSAL REF          C71                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:45
+EVENING TWILIGHT (UT) 20:59
+MORNING TWILIGHT (UT) 05:22
+SUNRISE (UT)          06:37
+%ILLUM. LUNAR DISK    98
+DARK TIME (HRS)       08:23
+TWILIGHT TIME (HRS)   02:29
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          06:02
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   3.0   98     7.8  17.3  175   761.1   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   2.4   98     9.8  10.9  174   761.8   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   3.5   98    20.0  29.3  176   761.8   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   3.4   98    19.8  33.3  173   761.5   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   3.6   98    31.5  42.7  177   761.1   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   3.0   98    32.3  44.8  174   760.1   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   2.4   98    38.9  48.4  170   759.0   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+clouds, rainy
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 793228 Bias              0:00:00.00 +00:00:00.0  2000.00 19:43 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793229 Bias              0:00:00.00 +00:00:00.0  2000.00 19:44 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793230 Bias              0:00:00.00 +00:00:00.0  2000.00 19:44 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793231 Bias              0:00:00.00 +00:00:00.0  2000.00 19:44 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793232 Bias              0:00:00.00 +00:00:00.0  2000.00 19:44 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793233 Bias              0:00:00.00 +00:00:00.0  2000.00 19:45 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793234 Bias              0:00:00.00 +00:00:00.0  2000.00 19:45 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793235 Bias              0:00:00.00 +00:00:00.0  2000.00 19:45 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793236 Bias              0:00:00.00 +00:00:00.0  2000.00 19:45 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793237 Bias              0:00:00.00 +00:00:00.0  2000.00 19:45 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793238 Bias              0:00:00.00 +00:00:00.0  2000.00 19:46 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793239 Bias              0:00:00.00 +00:00:00.0  2000.00 19:47 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793240 Bias              0:00:00.00 +00:00:00.0  2000.00 19:48 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793241 Bias              0:00:00.00 +00:00:00.0  2000.00 19:48 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793242 Bias              0:00:00.00 +00:00:00.0  2000.00 19:48 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793243 Bias              0:00:00.00 +00:00:00.0  2000.00 19:48 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793244 Bias              0:00:00.00 +00:00:00.0  2000.00 19:48 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793245 Bias              0:00:00.00 +00:00:00.0  2000.00 19:49 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793246 Bias              0:00:00.00 +00:00:00.0  2000.00 19:49 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793247 Bias              0:00:00.00 +00:00:00.0  2000.00 19:49 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793248 Bias              0:00:00.00 +00:00:00.0  2000.00 19:49 1.000  IDS    0.0    0  Clear+Clear   1.0  39.6 8501.6   
+ 793249 arc test          0:00:00.00 +00:00:00.0  2000.00 19:51 1.000  IDS   10.0    0  Clear+Clear   1.0  39.6 8501.6   

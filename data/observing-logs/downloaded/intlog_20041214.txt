@@ -1,0 +1,93 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 12 15 05:02
+
+TELESCOPE             INT
+DATE                  20041214
+OBSERVER/S            M. Morales
+PROGRAMME             Exploring thedifferent IMFs in the Lambda Ori SFR
+PROPOSAL REF          N4                 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    J Furness
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:24
+EVENING TWILIGHT (UT) 19:40
+MORNING TWILIGHT (UT) 06:33
+SUNRISE (UT)          07:49
+%ILLUM. LUNAR DISK    13
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:12
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   0.4  100    39.0  41.4  140   757.0    0.4   4.3     6.2  100    89 
+20:00   0.4  100    36.6  42.2   46   757.8    0.4   4.3     6.1  100    90 
+21:00   0.3  100    53.3  64.7   54   757.9    0.3   4.3     6.1  100    91 
+22:00   0.0  100    17.6  20.4  135   759.5    0.0   4.3     6.2  100    92 
+23:00  -0.3  100    33.8  45.6  145   759.7   -0.3   4.0     6.1  100    88 
+00:00  -0.3  100    31.4  37.0  166   760.3   -0.3   4.1     5.9  100    84 
+01:00  -0.5  100    35.0  43.0  177   760.1   -0.5   3.9     6.0  100    86 
+02:00  -0.4  100    34.7  45.5  137   760.3   -0.4   3.9     6.0  100    88 
+03:00   0.5  100    44.1  53.0   73   760.9    0.5   3.9     5.8  100    92 
+04:00   0.1  100    30.8  47.5   20   760.5    0.1   4.2     5.8  100    89 
+05:00   1.2  100    36.6  43.5   73   760.4    1.2   4.7     5.8  100    90 
+
+TIME LOST weather           14:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100%cloud cover, 100%Humidity
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 434478 Bias              0:00:00.00 +00:00:00.0 2004.952 13:51 1.019  WFC    0.0  180  V                                
+ 434479 Bias frame        0:00:00.00 +00:00:00.0 2000.00  18:52 4.328  WFC    0.0  180  I                                
+ 434480 Flat field        0:00:00.00 +00:00:00.0 2000.00  20:27 1.756  WFC    5.6  180  I                                Dome Flat
+ 434481 Flat field        0:00:00.00 +00:00:00.0 2000.00  20:33 1.756  WFC    5.6  180  I                                Dome Flat
+ 434482 Flat field        0:00:00.00 +00:00:00.0 2000.00  20:35 1.756  WFC    6.2  180  I                                Dome Flat
+ 434483 Dome Flat I       0:00:00.00 +00:00:00.0 2000.00  20:36 1.756  WFC    6.1  180  I                                
+ 434484 Dome Flat I       2:14:59.99 -09:59:59.9 2000.00  20:44 1.344  WFC    4.6  180  I                                
+ 434485 Dome Flat SII     0:00:00.00 +00:00:00.0 2000.00  21:09 2.469  WFC   30.1  180  [SII]6725                        
+ 434486 Dome Flat SII     0:00:00.00 +00:00:00.0 2000.00  21:10 2.469  WFC   29.6  180  [SII]6725                        
+ 434487 Dome Flat SII     0:00:00.00 +00:00:00.0 2000.00  21:11 2.469  WFC   29.5  180  [SII]6725                        
+ 434488 Dome Flat SII     0:00:00.00 +00:00:00.0 2000.00  21:13 2.469  WFC   29.5  180  [SII]6725                        
+ 434489 Dome Flat SII     0:00:00.00 +00:00:00.0 2000.00  21:14 2.469  WFC   30.1  180  [SII]6725                        
+ 434490 Dome Flat Z       0:00:00.00 +00:00:00.0 2000.00  21:16 2.469  WFC    3.1  180  z                                
+ 434491 Dome Flat Z       0:00:00.00 +00:00:00.0 2000.00  21:17 2.469  WFC    3.1  180  z                                
+ 434492 Dome Flat Z       0:00:00.00 +00:00:00.0 2000.00  21:17 2.469  WFC    3.0  180  z                                
+ 434493 Dome Flat Z       0:00:00.00 +00:00:00.0 2000.00  21:18 2.469  WFC    2.5  180  z                                
+ 434494 Dome Flat Z       0:00:00.00 +00:00:00.0 2000.00  21:19 2.469  WFC    3.1  180  z                                
+ 434495 Dome Flat R       0:00:00.00 +00:00:00.0 2000.00  21:23 2.469  WFC    4.1  180  R                                
+ 434496 Dome Flat R       0:00:00.00 +00:00:00.0 2000.00  21:23 2.469  WFC    4.1  180  R                                
+ 434497 Dome Flat R       0:00:00.00 +00:00:00.0 2000.00  21:24 2.469  WFC    4.1  180  R                                
+ 434498 Dome Flat R       0:00:00.00 +00:00:00.0 2000.00  21:25 2.469  WFC    4.1  180  R                                
+ 434499 Dome Flat R       0:00:00.00 +00:00:00.0 2000.00  21:26 2.469  WFC    4.1  180  R                                
+ 434500 Dome Flat SII     0:00:00.00 +00:00:00.0 2000.00  03:36 2.472  WFC   28.1  180  [SII]6725                        
+ 434501 Dome Flat SII     0:00:00.00 +00:00:00.0 2000.00  03:37 2.472  WFC   28.1  180  [SII]6725                        
+ 434502 Dome Flat SII     0:00:00.00 +00:00:00.0 2000.00  03:38 2.472  WFC   28.1  180  [SII]6725                        
+ 434503 Dome Flat SII     0:00:00.00 +00:00:00.0 2000.00  03:39 2.472  WFC   28.1  180  [SII]6725                        
+ 434504 Dome Flat SII     0:00:00.00 +00:00:00.0 2000.00  03:40 2.472  WFC   28.1  180  [SII]6725                        
+ 434505 Dome Flat R       0:00:00.00 +00:00:00.0 2000.00  03:44 2.472  WFC    5.1  180  R                                
+ 434506 Dome Flat R       0:00:00.00 +00:00:00.0 2000.00  03:45 2.472  WFC    5.1  180  R                                
+ 434507 Dome Flat R       0:00:00.00 +00:00:00.0 2000.00  03:46 2.472  WFC    5.1  180  R                                
+ 434508 Dome Flat R       0:00:00.00 +00:00:00.0 2000.00  03:47 2.472  WFC    5.1  180  R                                
+ 434509 Dome Flat R       0:00:00.00 +00:00:00.0 2000.00  03:47 2.472  WFC    5.1  180  R                                
+ 434510 Dome Flat Z       0:00:00.00 +00:00:00.0 2000.00  03:51 2.472  WFC    4.1  180  z                                
+ 434511 Dome Flat Z       0:00:00.00 +00:00:00.0 2000.00  03:51 2.472  WFC    4.1  180  z                                
+ 434512 Dome Flat Z       0:00:00.00 +00:00:00.0 2000.00  03:52 2.472  WFC    4.1  180  z                                
+ 434513 Dome Flat Z       0:00:00.00 +00:00:00.0 2000.00  03:53 2.472  WFC    3.5  180  z                                
+ 434514 Dome Flat Z       0:00:00.00 +00:00:00.0 2000.00  03:59 2.472  WFC    3.6  180  z                                
+ 434515 Dome Flat I       0:00:00.00 +00:00:00.0 2000.00  04:02 2.472  WFC    4.1  180  I                                
+ 434516 Dome Flat I       0:00:00.00 +00:00:00.0 2000.00  04:03 2.472  WFC    3.5  180  I                                
+ 434517 Dome Flat I       0:00:00.00 +00:00:00.0 2000.00  04:04 2.472  WFC    4.1  180  I                                
+ 434518 Dome Flat I       0:00:00.00 +00:00:00.0 2000.00  04:05 2.472  WFC    4.1  180  I                                
+ 434519 Dome Flat I       0:00:00.00 +00:00:00.0 2000.00  04:06 2.472  WFC    4.1  180  I                                

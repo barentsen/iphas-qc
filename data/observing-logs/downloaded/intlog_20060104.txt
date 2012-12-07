@@ -1,0 +1,71 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 01 05 03:03
+
+TELESCOPE             INT
+DATE                  20060104
+OBSERVER/S            Dan Smith & Chris North
+PROGRAMME             Dust Dynamics and Dark matter in ellipticals
+PROPOSAL REF          p2             
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Andrew Cardwell
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:35
+EVENING TWILIGHT (UT) 19:51
+MORNING TWILIGHT (UT) 06:41
+SUNRISE (UT)          07:58
+%ILLUM. LUNAR DISK    30
+DARK TIME (HRS)       10:50
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          23:37
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -0.9  100    43.0  51.9   21   766.4   -0.9   7.0     7.6  100    71 
+20:00  -1.1  100    38.1  42.9    4   766.5   -1.1   7.7     7.6  100    69 
+21:00  -1.6  100    39.5  47.3    4   766.4   -1.6   7.7     7.6  100    67 
+22:00  -1.3  100    32.2  43.6    2   766.9   -1.3   7.7     7.8  100    65 
+23:00  -1.3  100    30.2  34.8   22   766.9   -1.3   7.5     7.8  100    65 
+00:00  -2.0  100    25.4  27.9   15   767.0   -2.0   7.6     7.8  100    65 
+01:00  -2.0  100     0.0   0.0    6   766.4   -2.0   7.7     7.8  100    64 
+02:00  -3.0   99     0.0   0.0    8   766.1   -3.0   7.5     7.9   99    61 
+03:00  -1.8  100     0.0   0.0   13   765.9   -1.8   7.5     7.8  100    63 
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% humidity & ice everywhere
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Whole night lost - weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 489542 ALAN             17:59:59.99 +18:00:00.0 2000.00  13:50 1.096  WFC   15.1  180  B                                
+ 489543 Bias frame       17:59:59.99 +18:00:00.0 2000.00  13:52 1.099  WFC    0.0  180  B                                
+ 489544 Bias              0:00:00.00 +00:00:00.0 2000.00  15:01 4.542  WFC    0.0  180  Halpha                           
+ 489545 Bias              0:00:00.00 +00:00:00.0 2000.00  15:02 4.542  WFC    0.0  180  Halpha                           
+ 489546 Bias              0:00:00.00 +00:00:00.0 2000.00  15:03 4.542  WFC    0.0  180  Halpha                           
+ 489547 Bias              0:00:00.00 +00:00:00.0 2000.00  15:03 4.542  WFC    0.0  180  Halpha                           
+ 489548 Bias              0:00:00.00 +00:00:00.0 2000.00  15:04 4.542  WFC    0.0  180  Halpha                           
+ 489549 Bias              0:00:00.00 +00:00:00.0 2000.00  15:04 4.542  WFC    0.0  180  Halpha                           
+ 489550 Bias              0:00:00.00 +00:00:00.0 2000.00  15:05 4.542  WFC    0.0  180  Halpha                           
+ 489551 Bias              0:00:00.00 +00:00:00.0 2000.00  15:06 4.542  WFC    0.0  180  Halpha                           
+ 489552 Bias              0:00:00.00 +00:00:00.0 2000.00  15:06 4.542  WFC    0.0  180  Halpha                           
+ 489553 Bias              0:00:00.00 +00:00:00.0 2000.00  15:07 4.542  WFC    0.0  180  Halpha                           
+ 489554 Bias              0:00:00.00 +00:00:00.0 2000.00  18:33 4.541  WFC    0.0  180  HeII4686                         
+ 489555 Bias              0:00:00.00 +00:00:00.0 2000.00  18:34 4.541  WFC    0.0  180  HeII4686                         
+ 489556 Bias              0:00:00.00 +00:00:00.0 2000.00  18:35 4.541  WFC    0.0  180  HeII4686                         
+ 489557 Bias              0:00:00.00 +00:00:00.0 2000.00  18:35 4.541  WFC    0.0  180  HeII4686                         
+ 489558 Bias              0:00:00.00 +00:00:00.0 2000.00  18:36 4.541  WFC    0.0  180  HeII4686                         
+ 489559 Bias              0:00:00.00 +00:00:00.0 2000.00  18:36 4.541  WFC    0.0  180  HeII4686                         
+ 489560 Bias              0:00:00.00 +00:00:00.0 2000.00  18:37 4.541  WFC    0.0  180  HeII4686                         
+ 489561 Bias              0:00:00.00 +00:00:00.0 2000.00  18:38 4.541  WFC    0.0  180  HeII4686                         
+ 489562 Bias              0:00:00.00 +00:00:00.0 2000.00  18:38 4.541  WFC    0.0  180  HeII4686                         
+ 489563 Bias              0:00:00.00 +00:00:00.0 2000.00  18:39 4.541  WFC    0.0  180  HeII4686                         

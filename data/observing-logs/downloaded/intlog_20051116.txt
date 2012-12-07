@@ -1,0 +1,61 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 11 17 03:45
+
+TELESCOPE             INT
+DATE                  20051116
+OBSERVER/S            Javier Mendez
+PROGRAMME             Supernovas a z=0.05-0.35: estudio de la naturaleza de la energia oscura (II)
+PROPOSAL REF          C137
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Leisy, Parker
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:25
+EVENING TWILIGHT (UT) 19:39
+MORNING TWILIGHT (UT) 06:14
+SUNRISE (UT)          07:28
+%ILLUM. LUNAR DISK    99
+DARK TIME (HRS)       10:35
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         Moon up all night
+MOONSET (UT)          Moon up all night
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -0.5   64     8.8   9.6  352   765.6   -0.5   9.6    11.0   64    58 
+21:00  -0.1   77     6.9   8.0  141   766.2   -0.1  10.1    11.0   77    52 
+22:00   0.2   85     5.3   5.8  132   766.4    0.2   9.8    10.9   85    54 
+23:00   0.6   80     0.0   0.2  165   766.4    0.6   9.5    10.9   80    55 
+00:00   0.9   67     0.1   0.2  133   766.4    0.9   9.6    10.8   67    53 
+01:00   0.7   63     3.7   3.8  152   765.8    0.7   9.6    10.8   63    52 
+02:00   0.5   72     0.0   0.1  120   765.7    0.5   9.4    10.9   72    53 
+03:00   0.6   69     0.1   0.3   97   765.3    0.6   9.2    10.8   69    51 
+
+TIME LOST weather           10:35
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% cloud cover and stormy weather
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 482422 Bias             14:59:59.99 +26:00:00.0 2000.00  13:41 1.042  WFC    0.0  180  Unknown                          
+ 482423 Bias              0:00:00.00 +00:00:00.0 2000.00  19:18 1.000  WFC    0.0  180  r                                
+ 482424 Bias              0:00:00.00 +00:00:00.0 2000.00  19:27 1.000  WFC    0.0  180  r                                
+ 482425 Bias              0:00:00.00 +00:00:00.0 2000.00  19:36 1.000  WFC    0.0  180  r                                
+ 482426 Bias              0:00:00.00 +00:00:00.0 2000.00  19:37 1.000  WFC    0.0  180  r                                
+ 482427 Bias              0:00:00.00 +00:00:00.0 2000.00  19:37 1.000  WFC    0.0  180  r                                
+ 482428 Bias              0:00:00.00 +00:00:00.0 2000.00  19:38 1.000  WFC    0.0  180  r                                
+ 482429 Bias              0:00:00.00 +00:00:00.0 2000.00  19:38 1.000  WFC    0.0  180  r                                
+ 482430 Bias              0:00:00.00 +00:00:00.0 2000.00  19:39 1.000  WFC    0.0  180  r                                
+ 482431 Bias              0:00:00.00 +00:00:00.0 2000.00  19:40 1.000  WFC    0.0  180  r                                
+ 482432 Bias              0:00:00.00 +00:00:00.0 2000.00  19:40 1.000  WFC    0.0  180  r                                
+ 482433 Bias              0:00:00.00 +00:00:00.0 2000.00  19:41 1.000  WFC    0.0  180  r                                
+ 482434 Bias              0:00:00.00 +00:00:00.0 2000.00  19:41 1.000  WFC    0.0  180  r                                

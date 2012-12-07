@@ -1,0 +1,94 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2006 11 08 07:36
+
+TELESCOPE             INT
+DATE                  20061107
+OBSERVER/S            Miguel Santander
+PROGRAMME             D night
+PROPOSAL REF          Discretionary Night              
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Miguel Santander
+
+TEL STATION / FOCUS   Prime  / 43.73
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:30
+EVENING TWILIGHT (UT) 19:43
+MORNING TWILIGHT (UT) 06:08
+SUNRISE (UT)          07:21
+%ILLUM. LUNAR DISK    92
+DARK TIME (HRS)       10:25
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         19:47
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   7.7   94    22.9  24.3  302   771.2    7.7     #       #   94     # 
+20:00   7.5   95    23.8  26.7  308   771.4    7.5     #       #   95     # 
+21:00   7.7   94    21.2  23.8  305   771.8    7.7     #       #   94     # 
+22:00   8.4   83    15.7  18.1  324   771.9    8.4     #       #   83     # 
+23:00   8.7   81    11.4  13.6  306   771.8    8.7     #       #   81     # 
+00:00   8.1   83    13.4  15.6  308   771.6    8.1     #       #   83     # 
+01:00   8.1   82    21.6  22.7  336   771.3    8.1     #       #   82     # 
+02:00   7.9   83    18.2  19.7  340   771.2    7.9     #       #   83     # 
+03:00   7.5   85    17.5  18.5  344   770.8    7.5     #       #   85     # 
+04:00   7.6   83    19.2  21.3  350   770.5    7.6     #       #   83     # 
+05:00   7.8   78    19.0  19.9  355   770.3    7.8     #       #   78     # 
+06:00   8.1   77    17.8  18.4  346   770.2    8.1     #       #   77     # 
+07:00   9.3   70    11.7  12.2  312   770.7    9.3     #       #   70     # 
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+High humidity, high, thin clouds
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Most of the night lost due to bad weather
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 534057 STAR1             0:00:00.00 +00:00:00.0 2000.00  14:43 1.028  WFC    4.6  180  Halpha                           
+ 534058 STAR1             0:00:00.00 +00:00:00.0 2000.00  14:46 1.000  WFC    5.1  180  Halpha                           
+ 534059 Bias              0:00:00.00 +00:00:00.0 2000.00  19:41 1.000  WFC    0.0  180  Halpha                           
+ 534060 Bias              0:00:00.00 +00:00:00.0 2000.00  19:41 1.000  WFC    0.0  180  Halpha                           
+ 534061 Bias              0:00:00.00 +00:00:00.0 2000.00  19:42 1.000  WFC    0.0  180  Halpha                           
+ 534062 Bias              0:00:00.00 +00:00:00.0 2000.00  19:42 1.000  WFC    0.0  180  Halpha                           
+ 534063 Bias              0:00:00.00 +00:00:00.0 2000.00  19:43 1.000  WFC    0.0  180  Halpha                           
+ 534064 Bias              0:00:00.00 +00:00:00.0 2000.00  19:44 1.000  WFC    0.0  180  Halpha                           
+ 534065 Bias              0:00:00.00 +00:00:00.0 2000.00  19:44 1.000  WFC    0.0  180  Halpha                           
+ 534066 Bias              0:00:00.00 +00:00:00.0 2000.00  19:45 1.000  WFC    0.0  180  Halpha                           
+ 534067 Bias              0:00:00.00 +00:00:00.0 2000.00  19:45 1.000  WFC    0.0  180  Halpha                           
+ 534068 Bias              0:00:00.00 +00:00:00.0 2000.00  19:46 1.000  WFC    0.0  180  Halpha                           
+ 534069 Bias              0:00:00.00 +00:00:00.0 2000.00  19:47 1.000  WFC    0.0  180  Halpha                           
+ 534070 Bias              0:00:00.00 +00:00:00.0 2000.00  19:47 1.000  WFC    0.0  180  Halpha                           
+ 534071 Bias              0:00:00.00 +00:00:00.0 2000.00  19:48 1.000  WFC    0.0  180  Halpha                           
+ 534072 Bias              0:00:00.00 +00:00:00.0 2000.00  19:48 1.008  WFC    0.0  180  Halpha                           
+ 534073 Bias              0:00:00.00 +00:00:00.0 2000.00  19:49 1.352  WFC    0.0  180  Halpha                           
+ 534074 Bias              0:00:00.00 +00:00:00.0 2000.00  19:49 1.720  WFC    0.0  180  Halpha                           
+ 534075 Bias              0:00:00.00 +00:00:00.0 2000.00  19:50 2.054  WFC    0.0  180  Halpha                           
+ 534076 Bias              0:00:00.00 +00:00:00.0 2000.00  19:51 2.107  WFC    0.0  180  Halpha                           
+ 534077 Bias              0:00:00.00 +00:00:00.0 2000.00  19:51 2.784  WFC    0.0  180  Halpha                           
+ 534078 Bias              0:00:00.00 +00:00:00.0 2000.00  19:52 2.828  WFC    0.0  180  Halpha                           
+ 534079 Focus run         2:00:13.41 +13:02:54.2 2000.00  02:18 1.213  WFC   19.6  180  Halpha                           
+ 534080 Focus run         2:23:33.90 +13:28:04.0 2000.00  02:36 1.192  WFC   30.1  180  Halpha                           
+ 534081 GKPer 300s Ha     3:31:11.82 +43:54:16.7 2000.00  05:31 1.537  WFC  299.9  180  Halpha                           
+ 534082 GKPer 300s Ha     3:31:11.82 +43:54:16.7 2000.00  05:42 1.599  WFC  299.9  180  Halpha                           
+ 534083 GKPer 300s Ha     3:31:11.82 +43:54:16.7 2000.00  05:49 1.646  WFC  299.9  180  Halpha                           
+ 534084 GKPer 300s Ha     3:31:11.82 +43:54:16.9 2000.00  05:56 1.698  WFC  299.4  180  Halpha                           
+ 534085 GKPer 300s Ha     3:31:11.81 +43:54:16.8 2000.00  06:05 1.769  WFC  299.8  180  Halpha                           
+ 534086 GKPer 60s Ha      3:31:11.81 +43:54:16.7 2000.00  06:12 1.804  WFC   60.1  180  Halpha                           
+ 534087 GKPer 300s Ha     3:31:11.81 +43:54:16.9 2000.00  06:14 1.841  WFC  299.9  180  Halpha                           
+ 534088 GKPer 300s Ha     3:31:11.82 +43:54:17.0 2000.00  06:20 1.898  WFC  299.9  180  Halpha                           
+ 534089 skyflat Ha        5:56:00.00 +04:08:59.9 2000.00  06:58 1.536  WFC  100.0  180  Halpha                           
+ 534090 skyflat Ha        5:56:00.67 +04:09:00.0 2000.00  07:02 1.557  WFC  100.0  180  Halpha                           
+ 534091 skyflat Ha        5:56:00.66 +04:09:09.8 2000.00  07:04 1.572  WFC   45.8  180  Halpha                           
+ 534092 skyflat Ha        5:55:59.33 +04:09:10.0 2000.00  07:06 1.581  WFC   10.1  180  Halpha                           
+ 534093 Bias              0:00:00.00 +00:00:00.0 2000.00  07:08 1.000  WFC    0.0  180  Halpha                           
+ 534094 Bias              0:00:00.00 +00:00:00.0 2000.00  07:08 1.020  WFC    0.0  180  Halpha                           
+ 534095 Bias              0:00:00.00 +00:00:00.0 2000.00  07:09 1.756  WFC    0.0  180  Halpha                           
+ 534096 Bias              0:00:00.00 +00:00:00.0 2000.00  07:10 2.469  WFC    0.0  180  Halpha                           
+ 534097 Bias              0:00:00.00 +00:00:00.0 2000.00  07:10 2.469  WFC    0.0  180  Halpha                           

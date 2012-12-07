@@ -1,0 +1,53 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 01 06 03:37
+
+TELESCOPE             INT
+DATE                  20090105
+OBSERVER/S            Phil James
+PROGRAMME             Confirming the association of satellite and central galaxies
+PROPOSAL REF          P11              
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Maria del Mar Rubio
+
+TEL STATION / FOCUS   Cassegrain  / 14.70
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:36
+EVENING TWILIGHT (UT) 19:52
+MORNING TWILIGHT (UT) 06:42
+SUNRISE (UT)          07:58
+%ILLUM. LUNAR DISK    66
+DARK TIME (HRS)       10:50
+TWILIGHT TIME (HRS)   02:32
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:08
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00  -0.7   58    22.6  27.1    2   767.6   -0.7    7.      9.   58     46
+20:00  -2.2   97    19.6  22.5  143   767.6   -2.2    5.      9.   97     68
+21:00  -0.5   99    11.0  12.5  347   768.4   -0.5    4.      9.   99     77
+22:00  -0.2   99    29.2  37.1   84   768.3   -0.2    5.      9.   99     79
+23:00  -0.5   99    22.8  33.4   19   768.5   -0.5    5.      9.   99     79
+00:00  -1.0   99    14.3  16.6  145   768.2   -1.0    4.      9.   99     79
+01:00  -1.2   99    18.3  22.6  148   767.7   -1.2    4.      9.   99     78
+02:00  -1.5   99     8.7  13.8  352   767.3   -1.5    4.      9.   99     79
+03:00  -1.7   99    14.6  18.9  283   766.8   -1.7    4.      8.   99     79
+
+TIME LOST weather           11:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+100% humidity all night, never opened
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 655191 Bias              0:00:00.00 +00:00:00.0  2000.00 18:17 1.000  IDS    0.0    0  Clear+Clear   2.0  59.3 6940.3   
+ 655192 Bias              0:00:00.00 +00:00:00.0  2000.00 18:18 1.000  IDS    0.0    0  Clear+Clear   2.0  59.3 6940.3   
+ 655193 Bias              0:00:00.00 +00:00:00.0  2000.00 18:18 1.000  IDS    0.0    0  Clear+Clear   2.0  59.3 6940.3   
+ 655194 Bias              0:00:00.00 +00:00:00.0  2000.00 18:19 1.000  IDS    0.0    0  Clear+Clear   2.0  59.3 6940.3   

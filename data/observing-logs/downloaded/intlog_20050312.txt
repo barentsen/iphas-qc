@@ -1,0 +1,72 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 03 13 05:18
+
+TELESCOPE             INT
+DATE                  20050312
+OBSERVER/S            James
+PROGRAMME             WIDE FIELD SURVEY OF VIRGO CLUSTER
+PROPOSAL REF          P6
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 44.03
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:25
+EVENING TWILIGHT (UT) 20:36
+MORNING TWILIGHT (UT) 06:05
+SUNRISE (UT)          07:17
+%ILLUM. LUNAR DISK    9
+DARK TIME (HRS)       09:29
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          21:50
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   2.2   16    27.1  32.0  311   765.1    2.2  -6.2     7.8   16     9 
+21:00   0.9   71    35.2  38.4  320   765.1    0.9   7.4     7.4   71    63 
+22:00   1.1   79    27.4  31.4  260   765.4    1.1   4.7    -3.0   79    61 
+23:00   1.0   95    38.2  41.0  329   765.2    1.0   4.3     7.2   95    83 
+00:00   2.2  100    21.1  25.1  223   765.5    2.2   5.0     3.9  100    89 
+01:00   0.8  100    24.1  30.3  301   764.6    0.8   5.1     7.1  100    89 
+02:00   2.2  100    26.0  31.1  299   764.5    2.2  10.2     6.5  100    94 
+03:00   1.9  100    32.7  38.4  292   764.0    1.9   5.5     7.1  100    94 
+04:00   2.9  100    27.7  35.3  347   764.0    2.9   5.7     4.0  100    85 
+05:00   2.5  100    33.5  39.6  299   764.0    2.5   5.9     5.9  100    81 
+
+TIME LOST weather           08:30
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+high humidity nearly all night.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+High humidity meant we had to close dome at 10:50pm and could not reopen for remainder of night.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 442468 Bias frame       23:00:00.00 +65:00:00.2 2000.00  12:27 1.243  WFC    0.0  180  B                                
+ 442469 Bias frame        0:00:00.00 +00:00:00.0 2000.00  12:41 4.437  WFC    0.0  180  i                                
+ 442470 Flat field        5:54:47.99 +02:35:00.0 2000.00  19:33 1.115  WFC    4.3  180  B                                saturated
+ 442471 Flat field        5:54:47.99 +02:35:00.0 2000.00  19:40 1.114  WFC    3.4  180  B                                
+ 442472 Flat field        5:54:48.33 +02:35:04.9 2000.00  19:41 1.114  WFC    3.8  180  B                                
+ 442473 Flat field        5:54:48.66 +02:35:10.0 2000.00  19:42 1.114  WFC    4.4  180  B                                
+ 442474 Flat field        5:54:49.33 +02:35:20.0 2000.00  19:43 1.114  WFC    6.5  180  B                                
+ 442475 Flat field        5:54:49.00 +02:35:15.0 2000.00  19:44 1.114  WFC    7.8  180  B                                
+ 442476 Flat field        5:54:47.66 +02:34:49.9 2000.00  19:46 1.114  WFC   15.1  180  B                                
+ 442477 Flat field        5:54:46.99 +02:34:44.9 2000.00  19:47 1.114  WFC   16.0  180  B                                
+ 442478 Flat field        5:54:47.66 +02:34:50.0 2000.00  19:49 1.114  WFC   22.8  180  B                                
+ 442479 Flat field        5:54:47.33 +02:34:50.0 2000.00  19:51 1.115  WFC   36.6  180  B                                
+ 442480 Flat field        5:54:47.33 +02:34:40.0 2000.00  19:54 1.115  WFC   87.0  180  B                                
+ 442481 Focus run         8:52:34.00 -00:39:49.9 2000.00  20:16 1.434  WFC   10.1  180  B                                
+ 442482 97-345            5:57:33.09 +00:21:15.9 2000.00  20:26 1.153  WFC   20.1  180  B                                
+ 442483 97-75             5:57:55.10 -00:09:29.0 2000.00  20:28 1.161  WFC   19.6  180  B                                
+ 442484 98-978            6:51:33.70 -00:11:29.9 2000.00  20:31 1.144  WFC   10.1  180  B                                
+ 442485 98-193            6:52:03.30 -00:27:17.0 2000.00  20:32 1.146  WFC    9.5  180  B                                
+ 442486 V130             12:28:35.29 +07:30:00.1 2000.00  21:43 2.486  WFC  749.6  180  B                                
+ 442487 V131             12:30:40.30 +07:29:59.7 2000.00  21:58 2.238  WFC  749.6  180  B                                
+ 442488 V132             12:32:45.40 +07:30:00.3 2000.00  22:13 2.040  WFC  749.6  180  B                                
+ 442489 V133             12:34:50.49 +07:30:00.0 2000.00  22:28 1.880  WFC  749.6  180  B                                

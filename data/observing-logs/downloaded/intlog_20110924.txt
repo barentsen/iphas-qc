@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 09 25 08:00
+
+TELESCOPE             INT
+DATE                  20110924
+OBSERVER/S            A del Pino, A. Milone, M. Monelli
+PROGRAMME             An homogeneous databese of galactic open clusters CMD. Clues in the formation and evolution of the g
+PROPOSAL REF          C145               
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Ledo, Hardy
+
+TEL STATION / FOCUS    / 43.57
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:14
+EVENING TWILIGHT (UT) 20:26
+MORNING TWILIGHT (UT) 05:42
+SUNRISE (UT)          06:54
+%ILLUM. LUNAR DISK    9
+DARK TIME (HRS)       09:16
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         04:35
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  11.8   38     1.8   3.1  156   771.1   11.8   13.     16.   38     39
+21:00  10.9   36     3.7   4.3  163   771.3   10.9   13.     16.   36     32
+22:00  10.5   36    13.9  16.8  241   771.6   10.5   12.     15.   36     37
+23:00  10.4   38    11.7  17.0  240   772.0   10.4   12.     15.   38     40
+00:00  10.1   41    12.4  15.9  196   772.0   10.1   11.     15.   41     43
+01:00  10.2   39    12.9  15.3  185   771.7   10.2   11.     14.   39     42
+02:00  10.7   29    16.5  24.4  238   771.5   10.7   11.     14.   29     32
+03:00  10.4   28    27.0  30.2  188   771.1   10.4   11.     14.   28     30
+04:00  10.5   22    23.4  31.8  193   770.7   10.5   11.     14.   22     30
+05:00  10.0   23    24.4  28.8  188   770.5   10.0   11.     13.   23     32
+06:00   9.9   37    23.0  26.6  259   770.5    9.9   11.     13.   37     38
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+good all night long, seeing stable 1.1 to 1.3". Some clouds appeared jst before sunrise
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Everything worked with no problems
+
+

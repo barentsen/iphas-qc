@@ -1,0 +1,105 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 02 19 03:08
+
+TELESCOPE             INT
+DATE                  20090218
+OBSERVER/S            Cardwell
+PROGRAMME             Deep Narrow band imaging of NGC2403.
+PROPOSAL REF          C33      
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Flori
+
+TEL STATION / FOCUS   Prime  / 43.80
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:11
+EVENING TWILIGHT (UT) 20:23
+MORNING TWILIGHT (UT) 06:28
+SUNRISE (UT)          07:39
+%ILLUM. LUNAR DISK    31
+DARK TIME (HRS)       10:05
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         03:50
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -4.3   65    31.3  37.1   83   768.4   -4.3    3.      6.   65     52
+21:00  -3.5   96    26.6  60.7   28   768.2   -3.5    3.      6.   96     63
+22:00  -3.5   99    89.6  90.0   81   768.4   -3.5    4.      6.   99     68
+23:00  -3.2   99    89.4  90.0   93   768.3   -3.2    3.      6.   99     73
+00:00  -3.6   99    89.6  90.0   13   767.8   -3.6    3.      6.   99     71
+01:00  -2.9   99    89.2  90.0  150   767.7   -2.9    3.      6.   99     71
+02:00  -5.0   99    86.2  90.0  207   766.9   -5.0    4.      6.   99     64
+03:00  -4.9   99    89.8  90.0  145   766.5   -4.9    5.      6.   99     60
+
+TIME LOST weather           10:05
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Whole night lost to high humidity (100%) and sub zero conditions.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Whole night lost to high humidity (100%) and sub zero conditions.
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 659963 skyflat HeII      4:10:00.00 +03:50:00.0  2000.00 19:19 1.103  WFC    1.6  180  HeII4686                         
+ 659964 skyflat HeII      4:10:00.66 +03:50:09.7  2000.00 19:20 1.103  WFC    2.6  180  HeII4686                         
+ 659965 skyflat HeII      4:09:59.33 +03:49:50.0  2000.00 19:21 1.103  WFC    3.1  180  HeII4686                         
+ 659966 skyflat HeII      4:10:00.66 +03:49:50.7  2000.00 19:22 1.102  WFC    5.1  180  HeII4686                         
+ 659967 skyflat HeII      4:09:59.33 +03:50:10.2  2000.00 19:23 1.102  WFC    7.1  180  HeII4686                         
+ 659968 Bias              0:00:00.00 +00:00:00.0  2000.00 19:39 4.797  WFC    0.0  180  HeII4686                         
+ 659969 Bias              0:00:00.00 +00:00:00.0  2000.00 19:40 4.797  WFC    0.0  180  HeII4686                         
+ 659970 Bias              0:00:00.00 +00:00:00.0  2000.00 19:41 4.797  WFC    0.0  180  HeII4686                         
+ 659971 Bias              0:00:00.00 +00:00:00.0  2000.00 19:42 4.797  WFC    0.0  180  HeII4686                         
+ 659972 Bias              0:00:00.00 +00:00:00.0  2000.00 19:42 4.797  WFC    0.0  180  HeII4686                         
+ 659973 Bias              0:00:00.00 +00:00:00.0  2000.00 19:43 4.797  WFC    0.0  180  HeII4686                         
+ 659974 Bias              0:00:00.00 +00:00:00.0  2000.00 19:44 4.797  WFC    0.0  180  HeII4686                         
+ 659975 Bias              0:00:00.00 +00:00:00.0  2000.00 19:45 4.797  WFC    0.0  180  HeII4686                         
+ 659976 Bias              0:00:00.00 +00:00:00.0  2000.00 19:45 4.797  WFC    0.0  180  HeII4686                         
+ 659977 Bias              0:00:00.00 +00:00:00.0  2000.00 19:46 4.797  WFC    0.0  180  HeII4686                         
+ 659978 Bias              0:00:00.00 +00:00:00.0  2000.00 19:47 4.797  WFC    0.0  180  HeII4686                         
+ 659979 Bias              0:00:00.00 +00:00:00.0  2000.00 19:48 4.797  WFC    0.0  180  HeII4686                         
+ 659980 Bias              0:00:00.00 +00:00:00.0  2000.00 19:49 4.797  WFC    0.0  180  HeII4686                         
+ 659981 Bias              0:00:00.00 +00:00:00.0  2000.00 19:49 4.797  WFC    0.0  180  HeII4686                         
+ 659982 Bias              0:00:00.00 +00:00:00.0  2000.00 19:50 4.797  WFC    0.0  180  HeII4686                         
+ 659983 Bias              0:00:00.00 +00:00:00.0  2000.00 19:51 4.797  WFC    0.0  180  HeII4686                         
+ 659984 Bias              0:00:00.00 +00:00:00.0  2000.00 19:52 1.455  WFC    0.0  180  HeII4686                         
+ 659985 Bias              0:00:00.00 +00:00:00.0  2000.00 19:52 1.195  WFC    0.0  180  HeII4686                         
+ 659986 Bias              0:00:00.00 +00:00:00.0  2000.00 19:53 1.063  WFC    0.0  180  HeII4686                         
+ 659987 Bias              0:00:00.00 +00:00:00.0  2000.00 19:54 1.221  WFC    0.0  180  HeII4686                         
+ 659988 Bias              6:58:06.41 +68:21:55.3  2000.00 19:55 1.403  WFC    0.0  180  HeII4686                         
+ 659990 Focus run         7:36:50.64 +65:06:09.6  2000.00 20:10 1.399  WFC   10.1  180  Halpha                           
+ 659991 Bias              0:00:00.00 +00:00:00.0  2000.00 20:27 2.448  WFC    0.0  180  Halpha                           
+ 659992 Bias              0:00:00.00 +00:00:00.0  2000.00 20:27 2.448  WFC    0.0  180  Halpha                           
+ 659993 Bias              0:00:00.00 +00:00:00.0  2000.00 20:28 2.448  WFC    0.0  180  Halpha                           
+ 659994 Bias              0:00:00.00 +00:00:00.0  2000.00 20:29 2.448  WFC    0.0  180  Halpha                           
+ 659995 Bias              0:00:00.00 +00:00:00.0  2000.00 20:30 2.448  WFC    0.0  180  Halpha                           
+ 659996 preflash 1        0:00:00.00 +00:00:00.0  2000.00 20:30 2.448  WFC    0.0  180  Halpha                           
+ 659997 preflash 1        0:00:00.00 +00:00:00.0  2000.00 20:31 2.448  WFC    0.0  180  Halpha                           
+ 659998 preflash 2        0:00:00.00 +00:00:00.0  2000.00 20:32 2.448  WFC    0.0  180  Halpha                           
+ 659999 preflash 2        0:00:00.00 +00:00:00.0  2000.00 20:33 2.448  WFC    0.0  180  Halpha                           
+ 660000 preflash 3        0:00:00.00 +00:00:00.0  2000.00 20:34 2.448  WFC    0.0  180  Halpha                           
+ 660001 preflash 3        0:00:00.00 +00:00:00.0  2000.00 20:35 2.448  WFC    0.0  180  Halpha                           
+ 660002 preflash 4        0:00:00.00 +00:00:00.0  2000.00 20:36 2.448  WFC    0.0  180  Halpha                           
+ 660003 preflash 4        0:00:00.00 +00:00:00.0  2000.00 20:37 2.448  WFC    0.0  180  Halpha                           
+ 660004 preflash 5        0:00:00.00 +00:00:00.0  2000.00 20:38 2.448  WFC    0.0  180  Halpha                           
+ 660005 preflash 5        0:00:00.00 +00:00:00.0  2000.00 20:38 2.448  WFC    0.0  180  Halpha                           
+ 660006 preflash 6        0:00:00.00 +00:00:00.0  2000.00 20:39 2.448  WFC    0.0  180  Halpha                           
+ 660007 preflash 6        0:00:00.00 +00:00:00.0  2000.00 20:40 2.448  WFC    0.0  180  Halpha                           
+ 660008 preflash 7        0:00:00.00 +00:00:00.0  2000.00 20:41 2.448  WFC    0.0  180  Halpha                           
+ 660009 preflash 7        0:00:00.00 +00:00:00.0  2000.00 20:42 2.448  WFC    0.0  180  Halpha                           
+ 660010 preflash 8        0:00:00.00 +00:00:00.0  2000.00 20:43 2.448  WFC    0.0  180  Halpha                           
+ 660011 preflash 8        0:00:00.00 +00:00:00.0  2000.00 20:44 2.448  WFC    0.0  180  Halpha                           
+ 660012 Dark frame        0:00:00.00 +00:00:00.0  2000.00 21:06 2.448  WFC 1800.0  180  Halpha                           
+ 660013 Dark frame        0:00:00.00 +00:00:00.0  2000.00 21:37 2.448  WFC 1800.0  180  Halpha                           
+ 660014 Dark frame        0:00:00.00 +00:00:00.0  2000.00 22:08 2.448  WFC 1800.0  180  Halpha                           
+ 660015 Dark frame        0:00:00.00 +00:00:00.0  2000.00 22:39 2.448  WFC 1800.0  180  Halpha                           
+ 660016 Dark frame        0:00:00.00 +00:00:00.0  2000.00 23:09 2.448  WFC 1800.0  180  Ha 6657                          
+ 660018 Dark frame        0:00:00.00 +00:00:00.0  2000.00 23:48 2.448  WFC 1800.0  180  [SII]6725                        
+ 660019 Dark frame        0:00:00.00 +00:00:00.0  2000.00 00:19 2.448  WFC 1800.0  180  [SII]6725                        
+ 660020 Dark frame        0:00:00.00 +00:00:00.0  2000.00 01:41 4.792  WFC 1800.0  180  [SII]6725                        
+ 660021 Dark frame        0:00:00.00 +00:00:00.0  2000.00 02:11 4.792  WFC 1800.0  180  [SII]6725                        

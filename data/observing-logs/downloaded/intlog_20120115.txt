@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 01 16 07:13
+
+TELESCOPE             INT
+DATE                  20120115
+OBSERVER/S            Lindsay Magill
+PROGRAMME             Supernova classification and follow-up
+PROPOSAL REF          ITF10-4
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    Ledo, Fohring
+
+TEL STATION / FOCUS    / 15.97
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:43
+EVENING TWILIGHT (UT) 19:58
+MORNING TWILIGHT (UT) 06:43
+SUNRISE (UT)          07:58
+%ILLUM. LUNAR DISK    54
+DARK TIME (HRS)       10:45
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         01:02
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   3.9   35    21.8  26.1  331   771.3   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   3.5   36    21.2  23.4   28   771.7   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   4.7   29    12.0  14.8   79   772.0   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   4.3   30     8.1  10.9  346   772.1   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   5.9    7    10.9  14.0  298   772.3   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   4.4   26     7.5   9.5  346   772.2   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   5.1   13     8.7  18.1  342   772.0   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   5.1    7    13.0  13.1   10   772.0   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   5.5   11    22.9  22.3  354   771.6   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   5.4   12    23.7  24.9  354   771.6   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   5.0    7    24.0  26.4  349   771.3   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   4.4   10    23.5  24.7  353   771.3   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   4.7   11    28.2  29.1  350   771.7   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:15
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Seeing < 2.0". 
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+1.5" slit, 1x1 binning used all night
+Time lost due to not being able to acquire low elevation target
+

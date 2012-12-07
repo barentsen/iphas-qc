@@ -1,0 +1,55 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 12 19 02:29
+
+TELESCOPE             INT
+DATE                  20091216
+OBSERVER/S            Andrew Cardwell
+PROGRAMME             WR Candidate search in M33 and NGC2403
+PROPOSAL REF          C5
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Prime  / 43.85
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:24
+EVENING TWILIGHT (UT) 19:41
+MORNING TWILIGHT (UT) 06:34
+SUNRISE (UT)          07:50
+%ILLUM. LUNAR DISK    0
+DARK TIME (HRS)       10:53
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          18:26
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   3.4   99    25.9  25.3  182   765.0    3.4    7.      9.   99     89
+20:00   4.2   95    19.3  25.5  191   766.0    4.2    7.      9.   95     85
+21:00   3.7   99    28.6  36.3  177   765.6    3.7    7.      9.   99     89
+22:00   4.1   99    37.9  51.7  167   765.4    4.1    7.      9.   99     90
+23:00   4.0   99    20.6  32.5  165   766.1    4.0    7.      9.   99     90
+00:00   4.0   99    12.3  13.4  173   766.3    4.0    7.      9.   99     86
+01:00   2.5   99    14.5  19.3  164   766.2    2.5    8.      9.   99     83
+02:00   2.3   99    22.5  27.9  177   765.2    2.3    8.      9.   99     81
+03:00   2.4   99    62.0  94.6  167   762.5    2.4    7.      9.   99     83
+04:00   3.2   99    59.3  00.7  168   762.5    3.2    7.      9.   99     84
+05:00   3.6   99    90.2  61.4  170   761.2    3.6    7.      9.   99     86
+06:00   2.5   99    51.2  90.0  163   759.8    2.5    6.      9.   99     87
+07:00   1.2   99    39.6  88.0  137   760.8    1.2    6.      9.   99     84
+
+TIME LOST weather           10:54
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Whole night lost to bad weather.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 712556 Bias              0:00:00.00 +00:00:00.0  2009.96 12:03 1.098  WFC    0.0  180  i                                
+ 712557 Flat field        0:00:00.00 +00:00:00.0  2009.96 12:09 1.098  WFC    6.1  180  Ha 6657                          

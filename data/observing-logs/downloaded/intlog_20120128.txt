@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 01 29 07:53
+
+TELESCOPE             INT
+DATE                  20120128
+OBSERVER/S            P.James
+PROGRAMME             P3
+PROPOSAL REF          P3
+TELESCOPE OPERATOR    --
+SUPPORT ASTRONOMER    NA
+
+TEL STATION / FOCUS   Prime  / 43.52
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:54
+EVENING TWILIGHT (UT) 20:08
+MORNING TWILIGHT (UT) 06:40
+SUNRISE (UT)          07:54
+%ILLUM. LUNAR DISK    30
+DARK TIME (HRS)       10:32
+TWILIGHT TIME (HRS)   02:28
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          23:56
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   2.9   16    14.9  17.6   42   768.7   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   3.5   24    14.5  18.1   56   769.2   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   2.7   34    16.2  27.8   49   769.4   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   3.3   30    12.1  17.3   63   769.4   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   2.3   33     8.2  10.2   34   769.4   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   3.5   25    17.6  19.2   47   769.5   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   3.2   25    15.0  17.2   60   769.5   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   3.0   15    16.4  18.8   70   769.0   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   3.8   17     7.2   9.6   72   768.8   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   3.1   25    10.5  12.5   59   768.6   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   3.4   27    13.8  16.2   35   768.0   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   3.3   28    14.6  16.8   37   767.7   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   3.5   25    17.9  20.2   64   767.9   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Generally clear night though slightly higer seeing: between ~1 - 1.8 arc sec most of night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

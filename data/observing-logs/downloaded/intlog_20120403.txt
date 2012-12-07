@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 04 04 08:18
+
+TELESCOPE             INT
+DATE                  20120403
+OBSERVER/S            D Fohring
+PROGRAMME             D
+PROPOSAL REF          D
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS   Cassegrain  / 15.9
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:38
+EVENING TWILIGHT (UT) 20:51
+MORNING TWILIGHT (UT) 05:38
+SUNRISE (UT)          06:51
+%ILLUM. LUNAR DISK    89
+DARK TIME (HRS)       08:47
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          05:09
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -0.0   86    44.3  50.4  327   765.5   -0.0    6.      9.   86     65
+21:00  -0.6   86    31.8  54.1  328   765.5   -0.6    5.      9.   86     65
+22:00  -0.3   86    26.8  34.2  314   766.2   -0.3    5.      9.   86     68
+23:00  -1.1   91    21.4  24.0  327   766.4   -1.1    5.      9.   91     68
+00:00  -0.9   91    18.9  22.8  290   766.6   -0.9    5.      9.   91     69
+01:00  -0.7   97    17.8  21.8  318   766.6   -0.7    5.      9.   97     72
+02:00  -0.2   98    16.1  18.9  209   766.5   -0.2    5.      9.   98     73
+03:00  -0.0   99    16.1  19.7  230   766.1   -0.0    5.      9.   99     74
+04:00  -0.5   99    14.7  20.0  263   765.7   -0.5    5.      9.   99     71
+05:00   0.3   83    16.8  21.0  293   765.4    0.3    3.      9.   83     74
+06:00  -0.0   98    25.3  28.4  318   764.6   -0.0    4.      9.   98     79
+
+TIME LOST weather           1:00
+TIME LOST Technical         4:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+cloudy, wet
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

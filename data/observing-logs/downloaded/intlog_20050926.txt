@@ -1,0 +1,86 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 09 27 03:18
+
+TELESCOPE             INT
+DATE                  20050926
+OBSERVER/S            Tanvir, Nial
+PROGRAMME             M31 halo imaging survey
+PROPOSAL REF          P18
+TELESCOPE OPERATOR    AC
+SUPPORT ASTRONOMER    IS
+
+TEL STATION / FOCUS   Prime  / 43.56
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:11
+EVENING TWILIGHT (UT) 20:23
+MORNING TWILIGHT (UT) 05:44
+SUNRISE (UT)          06:55
+%ILLUM. LUNAR DISK    34
+DARK TIME (HRS)       09:21
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         01:23
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  12.5   42     0.0   0.1  243   770.6   12.5  14.1    14.7   42    38 
+21:00  11.5   30     0.1   0.3  241   770.5   11.5  13.0    14.4   30    28 
+22:00  11.9   31    11.1  11.6  286   770.9   11.9  12.7    14.0   31    24 
+23:00  11.4   30     1.7   1.9  137   771.3   11.4  12.9    14.1   30    26 
+00:00  11.8   21     4.6   4.9  319   771.2   11.8  12.5    14.3   21    14 
+01:00  10.6   30    15.9  17.9  354   770.8   10.6  10.9    14.0   30    36 
+02:00   6.9  100    24.9  28.7   51   770.5    6.9  12.0    13.8  100    62 
+03:00   7.2  100    18.3  21.8   44   770.3    7.2  12.4    13.9  100    69 
+
+TIME LOST weather           05:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+1 arcsec seeing at start of night, then went off.   Cloud came in about 00:20 UT - no further observing.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 472497 Bias             11:00:00.00 +26:00:00.0 2000.00  12:50 1.029  WFC    0.0  180  U                                
+ 472498 Bias             10:59:59.99 +26:00:00.0 2000.00  12:53 1.033  WFC    0.0  180  U                                
+ 472499 Bias              0:00:00.00 +00:00:00.0 2000.00  18:12 4.317  WFC    0.0  180  U                                
+ 472500 Bias              0:00:00.00 +00:00:00.0 2000.00  19:04 1.000  WFC    0.0  180  U                                
+ 472501 blank4 V         19:21:28.99 +12:27:49.0 2000.00  19:24 1.060  WFC    3.1  180  V                                
+ 472502 blank4 V         19:21:29.68 +12:27:58.9 2000.00  19:25 1.059  WFC    4.1  180  V                                
+ 472503 blank4 V         19:21:30.36 +12:28:09.0 2000.00  19:27 1.058  WFC    4.9  180  V                                
+ 472504 blank4 V         19:21:28.31 +12:27:38.6 2000.00  19:28 1.057  WFC   10.1  180  V                                
+ 472505 blank4 V         19:21:27.62 +12:27:28.8 2000.00  19:30 1.056  WFC   14.5  180  V                                
+ 472506 blank4 i         19:21:27.63 +12:27:28.9 2000.00  19:32 1.054  WFC   25.1  180  i                                
+ 472507 blank4 i         19:21:28.99 +12:27:48.8 2000.00  19:34 1.053  WFC   35.1  180  i                                
+ 472508 blank4 i         19:21:29.67 +12:27:59.6 2000.00  19:35 1.052  WFC   70.0  180  i                                
+ 472509 blank4 i         19:21:30.35 +12:28:09.1 2000.00  19:38 1.050  WFC   90.1  180  i                                
+ 472510 blank4 i         19:21:28.32 +12:27:38.8 2000.00  19:40 1.048  WFC  249.9  180  i                                
+ 472511 Bias             19:21:28.31 +12:27:39.0 2000.00  19:46 1.047  WFC    0.0  180  Halpha                           
+ 472512 Bias             19:21:28.31 +12:27:39.0 2000.00  19:47 1.046  WFC    0.0  180  Halpha                           
+ 472513 Bias             19:21:28.31 +12:27:39.0 2000.00  19:47 1.046  WFC    0.0  180  Halpha                           
+ 472514 Bias             19:21:28.31 +12:27:38.9 2000.00  19:48 1.046  WFC    0.0  180  Halpha                           
+ 472515 Bias             19:21:28.32 +12:27:38.9 2000.00  19:48 1.046  WFC    0.0  180  Halpha                           
+ 472516 Focus run        18:10:00.00 +40:00:00.0 2000.00  20:09 1.052  WFC   10.1  180  V                                
+ 472517 Focus run        18:10:00.00 +40:00:00.0 2000.00  20:20 1.064  WFC   10.1  180  V                                
+ 472518 Focus run        18:10:00.00 +40:00:00.0 2000.00  20:30 1.076  WFC   10.1  180  V                                
+ 472519 Focus run        18:10:00.00 +40:00:00.0 2000.00  20:39 1.089  WFC   10.1  180  i                                
+ 472520 GRB050922C r     21:09:33.39 -08:45:30.9 2000.00  20:53 1.308  WFC  599.8  180  r                                
+ 472521 GRB050922C r     21:09:34.74 -08:45:10.8 2000.00  21:04 1.292  WFC  599.7  180  r                                
+ 472522 GRB050922C r     21:09:32.05 -08:45:50.7 2000.00  21:15 1.279  WFC  599.2  180  r                                
+ 472523 CepOB3 300 i     22:55:43.26 +62:40:13.6 2000.00  21:30 1.306  WFC  299.3  180  i                                
+ 472524 CepOB3 30 i      22:55:43.26 +62:40:13.6 2000.00  21:35 1.300  WFC   30.1  180  i                                
+ 472525 CepOB3 5 i       22:55:43.26 +62:40:13.5 2000.00  21:37 1.298  WFC    5.1  180  i                                
+ 472526 wfsjout_072 i     0:40:18.31 +44:32:41.0 2000.00  21:43 1.426  WFC  899.7  180  i                                
+ 472527 wfsjout_072 V     0:40:18.32 +44:32:41.1 2000.00  21:59 1.359  WFC  899.5  180  V                                
+ 472528 wfsjout_071 i     0:38:13.48 +44:54:21.8 2000.00  22:17 1.287  WFC  899.6  180  i                                
+ 472529 wfsjout_071 V     0:38:13.48 +44:54:22.2 2000.00  22:33 1.240  WFC  899.6  180  V                                
+ 472530 wfsjnex_004 i     0:58:18.37 +44:06:52.6 2000.00  22:53 1.238  WFC  899.6  180  i                                
+ 472531 wfsjnex_004 V     0:58:18.38 +44:06:52.7 2000.00  23:09 1.197  WFC  899.6  180  V                                
+ 472532 wfsjnex_005 i     1:00:14.14 +43:43:53.0 2000.00  23:27 1.161  WFC  899.2  180  i                                
+ 472533 wfsjnex_005 V     1:00:14.13 +43:43:53.2 2000.00  23:43 1.131  WFC  899.5  180  V                                
+ 472534 clusterR OIII     0:38:19.50 +41:47:15.0 2000.00  00:11 1.059  WFC  599.2  180  [OIII]5007                       

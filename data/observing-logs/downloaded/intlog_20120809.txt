@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 08 10 21:04
+
+TELESCOPE             INT
+DATE                  20120809
+OBSERVER/S            Satir
+PROGRAMME             variability in Kepler field
+PROPOSAL REF          P6
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:04
+EVENING TWILIGHT (UT) 21:23
+MORNING TWILIGHT (UT) 05:12
+SUNRISE (UT)          06:30
+%ILLUM. LUNAR DISK    48
+DARK TIME (HRS)       07:49
+TWILIGHT TIME (HRS)   02:37
+MOONRISE (UT)         00:16
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  19.5    9     1.9   2.5  160   775.5   19.5   19.     19.    9     13
+22:00  19.3    8     3.8   7.3  171   776.2   19.3   19.     19.    8     14
+23:00  19.3   10     1.5   2.2  176   776.6   19.3   19.     19.   10     14
+00:00  19.5   10     7.2   9.4  163   776.8   19.5   19.     19.   10     16
+01:00  19.7   10     8.0  21.0  170   776.7   19.7   19.     19.   10     16
+02:00  19.3    9    17.2  21.6  184   776.4   19.3   19.     19.    9     15
+03:00  20.1   15    14.8  12.4  166   776.1   20.1   19.     19.   15     19
+04:00  19.8   13     7.2   9.4  170   775.9   19.8   19.     19.   13     19
+05:00  19.3   24    10.2  23.9  144   775.6   19.3                 24      #
+06:00  19.6   25    18.4  19.3  165   775.7   19.6                 25      #
+
+TIME LOST weather           09:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+It was sometimes partially sometimes totally cloudy but thin clouds were there for all night.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

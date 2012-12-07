@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 07 30 06:43
+
+TELESCOPE             INT
+DATE                  20120729
+OBSERVER/S            Nicola Gentile Fusillo
+PROGRAMME             IPHAS/UVEX/Kepler
+PROPOSAL REF          P7                 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Lee Patrick
+
+TEL STATION / FOCUS   Prime  / 43.40
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           20:13
+EVENING TWILIGHT (UT) 21:34
+MORNING TWILIGHT (UT) 05:03
+SUNRISE (UT)          06:24
+%ILLUM. LUNAR DISK    87
+DARK TIME (HRS)       07:29
+TWILIGHT TIME (HRS)   02:42
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:47
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  13.3   13    10.4  15.5  242   772.8   13.3   14.     16.   13     19
+22:00  12.8   11    21.8  25.9  284   773.2   12.8   13.     16.   11     16
+23:00  13.0    9    18.0  20.0  276   773.7   13.0   13.     16.    9     14
+00:00  12.8   12    20.8  21.5  258   774.0   12.8   13.     16.   12     16
+01:00  12.1   37    21.7  22.8  260   774.0   12.1   12.     15.   37     38
+02:00  12.5   33    17.3  21.3  234   773.7   12.5   12.     15.   33     41
+03:00  12.5   30    21.2  25.2  236   773.3   12.5   12.     15.   30     35
+04:00  12.3   37    30.7  32.8  250   773.0   12.3   12.     15.   37     42
+05:00  12.2   41    11.8  14.8  218   773.2   12.2   12.     15.   41     44
+06:00  11.7   46    11.1  15.2  224   773.3   11.7   12.     14.   46     48
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+1.0-1.7 seeing, clear all night
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+no kepler fields done because of moon 
+
+

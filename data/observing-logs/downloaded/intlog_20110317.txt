@@ -1,0 +1,54 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 03 18 19:39
+
+TELESCOPE             INT
+DATE                  20110317
+OBSERVER/S            Vazdekis
+PROGRAMME             Extension of the MILES Database
+PROPOSAL REF          C196       
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Tyndall
+
+TEL STATION / FOCUS   Cassegrain  / 14.85
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:28
+EVENING TWILIGHT (UT) 20:39
+MORNING TWILIGHT (UT) 06:00
+SUNRISE (UT)          07:11
+%ILLUM. LUNAR DISK    95
+DARK TIME (HRS)       09:21
+TWILIGHT TIME (HRS)   02:22
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          06:12
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   4.5   12    13.7  14.4    9   768.8   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   4.8   14     9.4  10.4   77   769.3   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   5.0   16     7.5   8.2  353   769.6   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   4.9   14     1.7   2.4  347   769.6   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   5.0   10    13.5  13.0    6   769.4   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   5.2   15    13.3  13.8  355   769.2   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   5.2   13     9.1   9.5  329   768.9   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   5.0   13    12.3  13.0  321   768.4   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   5.0   14     9.1   9.4  324   767.9   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   5.0   14     7.6   8.3  322   767.8   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   4.9   13     2.8   3.7  339   767.8   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   5.0   14     2.5   3.5  346   767.9   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           09:20
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Whole night lost
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 788175 test              0:00:00.00 +00:00:00.0  2011.21 14:25 4.526  WFC    0.0  180  B                                
+ 788176 FRED2             0:00:00.00 +00:00:00.0  2011.21 14:22 4.526  WFC   10.1  180  B                                

@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 09 17 07:55
+
+TELESCOPE             INT
+DATE                  20110916
+OBSERVER/S            Greiss
+PROGRAMME             Observing the real-time evolution of non-radial pulsations in a cooling dwarf
+PROPOSAL REF          P11
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Liam, Lee
+
+TEL STATION / FOCUS   Prime  / 43.44
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:24
+EVENING TWILIGHT (UT) 20:36
+MORNING TWILIGHT (UT) 05:38
+SUNRISE (UT)          06:50
+%ILLUM. LUNAR DISK    82
+DARK TIME (HRS)       09:02
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         21:18
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  11.0    5     9.5  14.3  270   771.7   11.0   15.     15.    5     17
+21:00  10.7    5     6.4   8.3  293   772.0   10.7   12.     14.    5     11
+22:00  11.1    5    13.7  15.6  334   772.5   11.1   12.     14.    5     12
+23:00  11.3    5    17.0  19.4  280   772.9   11.3   12.     14.    5     11
+00:00  11.0    6    15.6  17.8  322   772.7   11.0   11.     15.    6     12
+01:00  11.4    4    13.8  16.5  277   772.7   11.4   11.     14.    4     11
+02:00  12.1    3     6.6   7.5  342   772.6   12.1   12.     14.    3      9
+03:00  11.7    3    12.1  13.2  311   772.3   11.7   12.     14.    3      9
+04:00  11.8    5    11.1  12.8  318   772.1   11.8   12.     14.    5     11
+05:00  11.9    4    16.8  18.6  217   771.8   11.9   12.     14.    4     10
+06:00  11.8    4    16.0  17.0  312   771.9   11.8   12.     13.    4      9
+
+TIME LOST weather           00:00
+TIME LOST Technical         01:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Good weather. Very few thin clouds at the start of the night. Seeing went from 1.5" to 0.9" during the night.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+At the start of the night, before the focus run, the TCS disconnected so we had to restart the whole system and that wasted about an hour of the night. After that, the night went well
+
+

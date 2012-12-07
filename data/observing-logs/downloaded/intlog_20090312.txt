@@ -1,0 +1,97 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2009 03 13 07:00
+
+TELESCOPE             INT
+DATE                  20090312
+OBSERVER/S            Copperwheat
+PROGRAMME             Subdwarf-B stars: tracers of binary evolution
+PROPOSAL REF          P15      
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Jones, Jimenez
+
+TEL STATION / FOCUS   Cassegrain  / 14.6
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:25
+EVENING TWILIGHT (UT) 20:36
+MORNING TWILIGHT (UT) 06:05
+SUNRISE (UT)          07:17
+%ILLUM. LUNAR DISK    95
+DARK TIME (HRS)       09:29
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         20:51
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   7.6   49    11.9  17.4  103   769.1    7.6   10.     10.   49     49
+21:00   7.4   49    14.2  13.8   99   769.8    7.4    9.     10.   49     51
+22:00   7.1   49     4.8   5.7  110   770.3    7.1    8.     10.   49     52
+23:00   7.0   51    10.1  11.3   89   770.3    7.0    8.     10.   51     54
+00:00   7.0   51    13.1  13.8   43   770.3    7.0    8.     10.   51     54
+01:00   6.5   55    18.1  20.2   20   769.8    6.5    8.     10.   55     55
+02:00   6.4   41    23.1  25.4   15   769.3    6.4    8.     10.   41     49
+03:00   6.0   42    27.7  29.7   21   769.1    6.0    8.     10.   42     46
+04:00   5.6   41    30.4  32.5   17   769.0    5.6    8.     10.   41     44
+05:00   5.5   39    26.5  29.8   22   768.3    5.5    8.     10.   39     42
+06:00   5.4   37    27.0  25.7   31   768.8    5.4    8.     10.   37     41
+
+TIME LOST weather           07:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Seeing excellent, but forced to close at 11-30 du to very high dust levels. Lost rest of night.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+CCD readout slow, binning 1x1, window [675:1095,1:4200]
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 662702 CuAr Arc          0:00:00.00 +00:00:00.0  2000.00 18:48 1.000  IDS  120.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662703 Bias              0:00:00.00 +00:00:00.0  2000.00 18:59 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662704 Bias              0:00:00.00 +00:00:00.0  2000.00 18:59 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662705 Bias              0:00:00.00 +00:00:00.0  2000.00 18:59 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662706 Bias              0:00:00.00 +00:00:00.0  2000.00 19:00 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662707 Bias              0:00:00.00 +00:00:00.0  2000.00 19:00 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662708 Bias              0:00:00.00 +00:00:00.0  2000.00 19:00 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662709 Bias              0:00:00.00 +00:00:00.0  2000.00 19:00 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662710 Bias              0:00:00.00 +00:00:00.0  2000.00 19:01 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662711 Bias              0:00:00.00 +00:00:00.0  2000.00 19:01 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662712 Bias              0:00:00.00 +00:00:00.0  2000.00 19:01 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662713 Bias              0:00:00.00 +00:00:00.0  2000.00 19:01 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662714 Bias              0:00:00.00 +00:00:00.0  2000.00 19:01 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662715 Bias              0:00:00.00 +00:00:00.0  2000.00 19:02 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662716 Bias              0:00:00.00 +00:00:00.0  2000.00 19:02 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662717 Bias              0:00:00.00 +00:00:00.0  2000.00 19:02 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662718 Bias              0:00:00.00 +00:00:00.0  2000.00 19:02 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662719 Bias              0:00:00.00 +00:00:00.0  2000.00 19:02 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662720 Bias              0:00:00.00 +00:00:00.0  2000.00 19:03 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662721 Bias              0:00:00.00 +00:00:00.0  2000.00 19:03 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662722 Bias              0:00:00.00 +00:00:00.0  2000.00 19:03 1.000  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662723 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:03 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662724 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:04 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662725 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:05 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662726 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:06 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662727 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:06 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662728 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:07 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662729 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:08 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662730 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:08 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662731 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:09 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662732 W Flat            0:00:00.00 +00:00:00.0  2000.00 19:10 1.000  IDS   30.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662733 CuAr Arc          6:44:13.73 +37:34:09.1  1950.00 20:13 1.015  IDS  120.0   -0  Clear+Clear   1.0  55.5 4504.8   Wow - seeing around 1.4"!
+ 662734 SP0644+375        6:44:13.73 +37:34:09.1  1950.00 20:17 1.014  IDS  360.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662735 SP0644+375        6:44:13.73 +37:34:09.1  1950.00 20:23 1.013  IDS  360.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662736 CuAr Arc          6:44:13.73 +37:34:09.1  1950.00 20:30 1.012  IDS  120.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 662737 CuAr Arc          7:24:14.37 -00:33:04.3  2000.00 20:37 1.160  IDS  120.0  350  Clear+Clear   1.0  55.5 4504.8   
+ 662738 KPD0721-0026      7:24:14.37 -00:33:04.1  2000.00 20:40 1.152  IDS 1500.0  350  Clear+Clear   1.0  55.5 4504.8   
+ 662739 KPD0721-0026      7:24:14.37 -00:33:04.2  2000.00 21:05 1.147  IDS 1500.0  350  Clear+Clear   1.0  55.5 4504.8   
+ 662740 CuAr Arc          7:24:14.37 -00:33:04.2  2000.00 21:31 1.151  IDS  120.0  350  Clear+Clear   1.0  55.5 4504.8   
+ 662741 KPD0721-0026      7:24:14.37 -00:33:04.1  2000.00 21:33 1.159  IDS 1500.0  350  Clear+Clear   1.0  55.5 4504.8   
+ 662742 KPD0721-0026      7:24:14.36 -00:33:04.2  2000.00 21:58 1.185  IDS 1500.0  350  Clear+Clear   1.0  55.5 4504.8   
+ 662743 CuAr Arc          7:24:14.37 -00:33:04.1  2000.00 22:24 1.206  IDS  120.0  350  Clear+Clear   1.0  55.5 4504.8   
+ 662744 CuAr Arc          9:22:39.84 +27:02:25.6  2000.00 22:30 1.013  IDS  120.0  290  Clear+Clear   1.0  55.5 4504.8   
+ 662745 PG0919+273        9:22:39.85 +27:02:25.6  2000.00 22:33 1.006  IDS 1500.0  290  Clear+Clear   1.0  55.5 4504.8   
+ 662746 PG0919+273        9:22:39.85 +27:02:25.5  2000.00 22:58 1.001  IDS 1500.0  290  Clear+Clear   1.0  55.5 4504.8   Oh no! despite the excellent seeing, we've got to close because of the dust levels. At the annual maximu, apparently!
+ 662747 CuAr Arc          9:22:39.85 +27:02:25.5  2000.00 23:23 1.002  IDS  120.0  290  Clear+Clear   1.0  55.5 4504.8   

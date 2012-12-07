@@ -1,0 +1,53 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2005 02 10 02:29
+
+TELESCOPE             INT
+DATE                  20050209
+OBSERVER/S            Burleigh/Casewell
+PROGRAMME             PN
+PROPOSAL REF          P8                 
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Furness
+
+TEL STATION / FOCUS   Prime  / 44.0
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:04
+EVENING TWILIGHT (UT) 20:17
+MORNING TWILIGHT (UT) 06:34
+SUNRISE (UT)          07:47
+%ILLUM. LUNAR DISK    2
+DARK TIME (HRS)       10:17
+TWILIGHT TIME (HRS)   02:26
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          19:55
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -4.1   98    17.1  21.3  360   765.0   -4.1   5.9     6.1   98    67 
+21:00  -3.3   98    21.4  24.0   38   765.3   -3.3   5.7     6.1   98    69 
+22:00  -5.3   98     0.0   0.0   44   765.6   -5.3   5.5     6.1   98    66 
+23:00  -4.5   98     0.0   0.0   35   765.6   -4.5   4.8     6.0   98    67 
+00:00  -5.7   97     0.0   0.0   39   765.9   -5.7   4.6     5.9   97    65 
+01:00  -4.7   97     0.0   0.0   52   765.6   -4.7   4.3     5.8   97    68 
+02:00  -4.8   97     0.0   0.0   41   765.0   -4.8   4.5     5.9   97    68 
+
+TIME LOST weather           11:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Bleedin awful. Snow, fog, ice.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 441368 Bias             22:00:00.00 +19:59:59.9 2005.108 14:20 1.018  WFC    0.0  180  g                                
+ 441369 Bias              0:00:00.00 +00:00:00.0 2005.108 15:45 1.000  WFC    0.0  180  Halpha                           
+ 441370 Bias              0:00:00.00 +00:00:00.0 2005.108 15:46 1.000  WFC    0.0  180  Halpha                           
+ 441371 Bias              0:00:00.00 +00:00:00.0 2005.108 15:47 1.000  WFC    0.0  180  Halpha                           
+ 441372 Bias              0:00:00.00 +00:00:00.0 2005.108 15:47 1.000  WFC    0.0  180  Halpha                           
+ 441373 Bias              0:00:00.00 +00:00:00.0 2005.108 15:48 1.000  WFC    0.0  180  Halpha                           

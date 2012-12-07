@@ -1,0 +1,49 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2011 12 15 07:24
+
+TELESCOPE             INT
+DATE                  20111214
+OBSERVER/S            R. Barrena& D. Lopez-Prieto
+PROGRAMME             CAT Service
+PROPOSAL REF          CAT S
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    None
+
+TEL STATION / FOCUS   Prime  / 43.4
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:24
+EVENING TWILIGHT (UT) 19:40
+MORNING TWILIGHT (UT) 06:32
+SUNRISE (UT)          07:49
+%ILLUM. LUNAR DISK    81
+DARK TIME (HRS)       10:52
+TWILIGHT TIME (HRS)   02:33
+MOONRISE (UT)         22:02
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   7.8    4    22.8  23.9   24   775.5   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   7.5    5    22.9  25.1   17   775.9   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   6.5    1    30.7  33.5   26   776.2   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   7.0    5    30.5  35.1   26   776.4   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   6.5    8    34.9  38.6   37   776.6   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   7.5   10    28.8  33.3   45   776.9   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   7.2   11    23.5  33.6   54   776.7   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   7.1   11    14.0  21.8  102   776.7   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   6.9   10    24.6  31.2   90   776.6   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   6.7   10    21.8  26.5  103   776.5   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   6.7   10    27.0  34.2   83   776.3   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   7.0   10    24.3  35.1   55   776.6   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:30
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Good transparency. Seeing in between 1.5 and 2.2 arcsec.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+Comunication lost with TCS. We did shutdownobssys-startobssys. We lost 30min at the begining of the night. We were stuck in the elevator 
+from 18:00 to 18:30, but we did not loose time thanks to Javier Mendez, who poenen the shutter, filled the cryostat and did zeroset for us while
+we were trapped in the elevator. Thanks Javier.

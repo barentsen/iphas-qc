@@ -1,0 +1,50 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 01 13 07:11
+
+TELESCOPE             INT
+DATE                  20120112
+OBSERVER/S            Miriam Aberasturi
+PROGRAMME             Identify M-lates
+PROPOSAL REF          C52
+TELESCOPE OPERATOR    -
+SUPPORT ASTRONOMER    none
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           18:41
+EVENING TWILIGHT (UT) 19:56
+MORNING TWILIGHT (UT) 06:43
+SUNRISE (UT)          07:58
+%ILLUM. LUNAR DISK    85
+DARK TIME (HRS)       10:47
+TWILIGHT TIME (HRS)   02:30
+MOONRISE (UT)         21:55
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   5.6   32     2.5   2.9  265   771.2   n.a.  n.a.    n.a.  n.a.   n.a.
+20:00   5.7   33     1.3   2.8  159   771.6   n.a.  n.a.    n.a.  n.a.   n.a.
+21:00   5.8   24     1.0   1.9  155   771.8   n.a.  n.a.    n.a.  n.a.   n.a.
+22:00   5.5   23     4.3   4.9  145   772.1   n.a.  n.a.    n.a.  n.a.   n.a.
+23:00   5.5   29    10.3  10.5   39   772.1   n.a.  n.a.    n.a.  n.a.   n.a.
+00:00   5.3   28     9.4  10.8   61   772.0   n.a.  n.a.    n.a.  n.a.   n.a.
+01:00   4.9   25     4.1   4.8  115   771.7   n.a.  n.a.    n.a.  n.a.   n.a.
+02:00   4.9   29     0.9   1.8  149   771.5   n.a.  n.a.    n.a.  n.a.   n.a.
+03:00   5.1   23     2.2   6.3  161   771.3   n.a.  n.a.    n.a.  n.a.   n.a.
+04:00   4.7   28     0.7   1.2  165   771.1   n.a.  n.a.    n.a.  n.a.   n.a.
+05:00   4.5   21     1.5   3.2  167   770.9   n.a.  n.a.    n.a.  n.a.   n.a.
+06:00   4.6   21     5.4   8.7  180   770.9   n.a.  n.a.    n.a.  n.a.   n.a.
+07:00   4.6   22     2.5   8.6  180   771.1   n.a.  n.a.    n.a.  n.a.   n.a.
+
+TIME LOST weather           00:00
+TIME LOST Technical         01:30
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+variations during all night. light clouds during 50% of nigh
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+autoguider failure 
+
+

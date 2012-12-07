@@ -1,0 +1,48 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 04 01 07:19
+
+TELESCOPE             INT
+DATE                  20120331
+OBSERVER/S            Lawrie, Scott
+PROGRAMME             Variable Magnetic White Dwarfs
+PROPOSAL REF          P10
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Hassan Fathivarsari
+
+TEL STATION / FOCUS   Prime  / 43.47
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           19:36
+EVENING TWILIGHT (UT) 20:49
+MORNING TWILIGHT (UT) 05:42
+SUNRISE (UT)          06:54
+%ILLUM. LUNAR DISK    62
+DARK TIME (HRS)       08:53
+TWILIGHT TIME (HRS)   02:25
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          03:10
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00   2.7   32    16.3  21.2  291   766.0    2.7    8.      9.   32     37
+21:00   2.1   27    16.0  21.5  269   766.1    2.1    4.      9.   27     31
+22:00   2.3   25    18.2  25.4  273   766.4    2.3    4.      8.   25     29
+23:00   2.3   23    18.3  20.4  229   766.9    2.3    3.      7.   23     27
+00:00   1.7   26    18.2  21.7  203   766.8    1.7    3.      7.   26     30
+01:00   2.0   28    15.0  19.7  270   766.7    2.0    3.      7.   28     31
+02:00   1.5   30    17.4  22.6  286   766.3    1.5    3.      7.   30     32
+03:00   1.6   23    10.9  14.4  304   766.1    1.6    3.      7.   23     28
+04:00   1.5   42    16.6  18.6  220   765.5    1.5    3.      6.   42     48
+05:00   1.3   47    18.2  22.4  313   764.8    1.3    3.      7.   47     50
+06:00   0.7   50    24.9  31.5  287   764.6    0.7    2.      6.   50     52
+
+TIME LOST weather           00:45
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Clear, seeing 1.7" at start. Then seeing improved to 1-1.3" for most of the night. Humidity rapidly increased from 05:00 UT.
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+High humidity at the end of the night meant closing down at 05:30 UT.
+
+

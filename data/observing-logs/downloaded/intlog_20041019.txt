@@ -1,0 +1,66 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2004 10 20 03:16
+
+TELESCOPE             INT
+DATE                  20041019
+OBSERVER/S            M. Jarvis & D.Smith
+PROGRAMME             Lyman-alpha blob survey
+PROPOSAL REF          04A/P17
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Greimel
+
+TEL STATION / FOCUS   Prime  / 
+INSTRUMENT/S          WFC
+
+SUNSET (UT)           18:45
+EVENING TWILIGHT (UT) 19:57
+MORNING TWILIGHT (UT) 05:57
+SUNRISE (UT)          07:08
+%ILLUM. LUNAR DISK    40
+DARK TIME (HRS)       10:00
+TWILIGHT TIME (HRS)   02:23
+MOONRISE (UT)         No moonrise within sunset-sunrise
+MOONSET (UT)          23:23
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+19:00   9.4  100    47.5  54.5  195   768.9    9.4  11.6    12.9  100     # 
+20:00   9.1  100    49.1  56.5  186   769.0    9.1  11.4    12.8  100     # 
+21:00   9.3  100    42.2  58.7  172   769.3    9.3  11.6    12.7  100   100 
+22:00   8.9  100    48.7  55.9  146   769.5    8.9  11.4    12.7  100   100 
+23:00   8.7  100    44.5  52.1  164   770.4    8.7  11.4    12.8  100   100 
+00:00   9.1  100    39.3  48.3  172   770.1    9.1  11.3    12.8  100   100 
+01:00   8.9  100    50.0  60.1  167   769.5    8.9  11.3    12.9  100   100 
+02:00   8.6  100    62.4  71.1  139   768.7    8.6  11.1    12.8  100   100 
+03:00   8.3  100    53.6  60.9  138   768.7    8.3  10.8    12.7  100   100 
+
+TIME LOST weather           12:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+Terrible for the 3rd night running
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 427359 Bias frame        0:00:00.00 +00:00:00.0 J2000.00 13:05 1.000  WFC    0.0  180  g                                
+ 427360 Bias              0:00:00.00 +00:00:00.0 J2000.00 13:07 1.000  WFC    0.0  180  g                                
+ 427361 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:00 4.548  WFC    0.0  180  redshifted                       
+ 427362 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:01 4.548  WFC    0.0  180  redshifted                       
+ 427363 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:01 4.548  WFC    0.0  180  redshifted                       
+ 427364 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:02 4.548  WFC    0.0  180  redshifted                       
+ 427365 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:02 4.548  WFC    0.0  180  redshifted                       
+ 427366 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:03 4.548  WFC    0.0  180  redshifted                       
+ 427367 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:04 4.548  WFC    0.0  180  redshifted                       
+ 427368 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:04 4.548  WFC    0.0  180  redshifted                       
+ 427369 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:05 4.548  WFC    0.0  180  redshifted                       
+ 427370 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:05 4.548  WFC    0.0  180  redshifted                       
+ 427371 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:06 4.548  WFC    0.0  180  redshifted                       
+ 427372 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:07 4.548  WFC    0.0  180  redshifted                       
+ 427373 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:07 4.548  WFC    0.0  180  redshifted                       
+ 427374 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:08 4.548  WFC    0.0  180  redshifted                       
+ 427375 Bias              0:00:00.00 +00:00:00.0 J2000.00 21:08 4.548  WFC    0.0  180  redshifted                       

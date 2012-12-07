@@ -1,0 +1,47 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2012 07 06 12:15
+
+TELESCOPE             INT
+DATE                  20120705
+OBSERVER/S            Ignacio Negueruela
+PROGRAMME             Red supergiants in obscured regions
+PROPOSAL REF          C107
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    SA
+
+TEL STATION / FOCUS    / 
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           20:22
+EVENING TWILIGHT (UT) 21:47
+MORNING TWILIGHT (UT) 04:46
+SUNRISE (UT)          06:11
+%ILLUM. LUNAR DISK    93
+DARK TIME (HRS)       06:59
+TWILIGHT TIME (HRS)   02:50
+MOONRISE (UT)         21:29
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+21:00  15.7   12    30.5  35.9  138   773.6   15.7   18.     19.   12     19
+22:00  15.0   10    28.4  30.9    8   774.0   15.0   15.     19.   10     15
+23:00  15.1    6    33.6  37.0    8   774.3   15.1                  6      #
+00:00  14.6    8    30.7  34.6   14   774.3   14.6                  8      #
+01:00  13.5   16    37.9  39.7   15   774.0   13.5                 16      #
+02:00  13.3   26    34.5  36.8   21   773.7   13.3                 26      #
+03:00  12.8   24    32.1  34.6   22   773.3   12.8                 24      #
+04:00  13.0   24    23.3  24.2   18   773.1   13.0                 24      #
+05:00  14.4   14    25.5  33.2  117   772.7   14.4                 14      #
+06:00  13.3   15    25.1  26.3   22   772.6   13.3                 15      #
+
+TIME LOST weather           00:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+

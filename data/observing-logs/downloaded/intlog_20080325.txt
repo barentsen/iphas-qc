@@ -1,0 +1,56 @@
+INT OBSERVING LOG (ISAAC NEWTON GROUP, LA PALMA) generated 2008 03 28 16:57
+
+TELESCOPE             INT
+DATE                  20080325
+OBSERVER/S            Copperwheat
+PROGRAMME             SUbdwarf-B stars: tracers of binary evolution
+PROPOSAL REF          P11                
+TELESCOPE OPERATOR    none
+SUPPORT ASTRONOMER    Liimets
+
+TEL STATION / FOCUS   Cassegrain  / 14.85
+INSTRUMENT/S          IDS
+
+SUNSET (UT)           19:33
+EVENING TWILIGHT (UT) 20:45
+MORNING TWILIGHT (UT) 05:49
+SUNRISE (UT)          07:01
+%ILLUM. LUNAR DISK    84
+DARK TIME (HRS)       09:04
+TWILIGHT TIME (HRS)   02:24
+MOONRISE (UT)         22:56
+MOONSET (UT)          No moonset within sunset-sunrise
+
+ UT     AirT  Hum   Wspd  Gust  Wdir  Press   LocT  int.T   Mirr  LocRH int.RH
+        degC   %    km/s  km/s  deg   mbar    degC   degC   degC    %     %
+20:00  -1.6  100    15.2  19.5   44   766.4   -1.6    7.     10.  100     61
+21:00  -1.4  100     0.0   0.0   44   767.0   -1.4    7.     10.  100     61
+22:00  -1.3  100     0.0   0.0   44   767.2   -1.3    7.     10.  100     61
+23:00  -1.3  100     0.0   0.0   44   767.3   -1.3    7.     10.  100     61
+00:00  -1.5  100     0.0   0.0   44   767.3   -1.5    7.     10.  100     62
+01:00  -1.4  100     0.0   0.0   44   767.4   -1.4    7.     10.  100     61
+02:00  -1.4  100     0.0   0.0   44   766.8   -1.4    7.     10.  100     62
+03:00  -1.2  100     0.0   0.0   44   766.5   -1.2    7.     10.  100     62
+04:00  -1.8  100     0.0   0.0   44   765.9   -1.8    7.     10.  100     61
+05:00  -1.6  100     0.0   0.0   44   765.8   -1.6    7.     10.  100     61
+06:00  -1.9  100     0.0   0.0   44   766.2   -1.9    7.     10.  100     61
+07:00  -1.2  100     0.0   0.0   44   766.0   -1.2    7.     10.  100     61
+
+TIME LOST weather           10:00
+TIME LOST Technical         00:00
+TIME LOST Other             00:00
+
+WEATHER CONDITIONS (eg transparancy, dust, %cloud cover, seeing):
+The whole night lost due to the bad weather
+
+COMMENTS (causes of time lost, setup information eg CCD windows):
+
+
+
+
+ Run     Object              RA           Dec    Equinox   UT    Airm Instr  Texp  Sky  Filters      Slit  Grat CenwA   Comments
+                                                                              sec  PA   etc. 
+ 611147 Bias              0:00:00.00 +00:00:00.0  2000.00 13:52 1.114  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611148 Bias              0:10:00.00 +00:00:00.0  2000.00 13:55 1.164  IDS    0.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611149 Arc               0:10:00.00 -00:00:00.0  2000.00 13:58 1.168  IDS   10.0   -0  Clear+Clear   1.0  55.5 4504.8   
+ 611150 Arc               0:09:59.99 +00:00:00.0  2000.00 14:00 1.170  IDS   20.0   -0  Clear+Clear   1.0  55.5 4504.8   
