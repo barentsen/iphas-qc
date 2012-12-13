@@ -246,7 +246,7 @@ addcol is_pdr "anchor == 0 || anchor == 1";
 addcol is_offset "field.endsWith(\"o\")";' \
 ocmd='addskycoords -inunit deg -outunit deg fk5 galactic ra dec l b;
 keepcols "id anchor field dir n_stars 
-rmode
+rmode rimode2
 r5sig i5sig h5sig
 n_outliers_10p n_outliers_20p	
 f_outliers_10p f_outliers_20p	
