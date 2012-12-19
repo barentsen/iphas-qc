@@ -125,33 +125,10 @@ i.e. we should be unhappy about %d fields (%.0f%%), but there are decent
 replacements for approx 600 fields, which are detailed below.\n\n""" \
 % (is_pdr.sum(), is_app.sum(), is_ap.sum(), is_a.sum(), is_b.sum(), is_c.sum(), is_d.sum(), (is_pdr & -is_ok).sum(), (100*(is_pdr & -is_ok).sum() / float(is_pdr.sum())) )  )
 
-f.write("""
-2. Examples of the worst fields in FINALSOL3.txt
-------------------------------------------------
-""")
-
-c = is_pdr & (d.field('seeing_max') > 2.5)
-f.write( "* Seeing > 2.5\" (%d fields):\n" % c.sum() )
-for i in np.argwhere(c):
-    f.write( fieldid[i][0] + ", " )
-
-c = is_pdr & (d.field('ellipt_max') > 0.25)
-f.write( "\n\n* Ellipt > 0.25 (%d fields):\n" % c.sum() )
-for i in np.argwhere(c):
-    f.write( fieldid[i][0] +", " )
-
-c = is_pdr & (d.field('f_outliers_20p') > 10.0)
-f.write( "\n\n* Likely lobsters, i.e. f_outliers_20p > 10%% (%d fields):\n" % c.sum() )
-for i in np.argwhere(c):
-    f.write( fieldid[i][0] +", " )
-
-
-
 
 f.write( """
 
-
-3. Replacement fields
+2. Replacement fields
 ---------------------
 Based on the quality information in the master table (iphas-observations.fits),
 the 'best runs' have been selected as follows. 
