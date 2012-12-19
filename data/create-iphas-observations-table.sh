@@ -311,6 +311,9 @@ sort id;' \
 ofmt=fits out=iphas-observations.fits
 
 
+# Copy to Geert's web directory
+cp iphas-observations.fits ~/public_html/iphas
+
 # Recently removed:
 # n_outliers_10p n_outliers_20p 
 # fluxr_5sig fluxi_5sig fluxha_5sig 
