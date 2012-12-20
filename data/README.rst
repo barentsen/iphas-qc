@@ -13,7 +13,8 @@ Contents
 ========
 
 Various scripts to obtain and analyse parts of the meta data can be found in the sub-directories:
-* **fieldpair-crossmatching**: compares photometry between the two pointings that make up each field.
-* **observing-logs**: download, parse and collate information from the INT telescope observing logs.
-* **quality**: assign quality flags to each field.
-* **sdss**: compare IPHAS photometry against SDSS data.
+  * **fieldpair-crossmatching/**
+    compares photometry between the two pointings that make up each field.
+ * **observing-logs/**: download, parse and collate information from the INT telescope observing logs.
+ * **quality/**: assign quality flags to each field.
+ * **sdss/**: compare IPHAS photometry against SDSS data.
