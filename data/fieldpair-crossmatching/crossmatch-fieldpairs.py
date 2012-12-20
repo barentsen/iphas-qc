@@ -11,7 +11,7 @@ obs = pyfits.getdata('../iphas-observations.fits', 1)
 mercat_dir = '/home/gb/tmp/iphas_sep2012_eglez/apm3.ast.cam.ac.uk/~eglez/iphas'
 
 # Define the magnitude limits for photometry comparison
-limits = {'r': [14,18], 'i':[13,17], 'h':[13.5,17.5]}
+limits = {'r': [14,18], 'i':[13,18], 'h':[13,18]}
 
 # Create output file
 out = open('fieldpair-info.csv', 'w')
@@ -25,6 +25,9 @@ out.write("field,dir,n_matched,n_outliers_5p,n_outliers_10p,n_outliers_20p" \
 
 # Run over each observed field, and find same-run partners
 for i, myfield in enumerate(obs['field']):
+	#if myfield not in ["4234", "4275", "4278", "4282", "4285", "4289", "4293", "4313", "4352"]:
+	#	continue
+
 	if not myfield.endswith('o'):
 		# Is there a partner?
 		c_partner = (obs['field'] == myfield+"o") & \
@@ -35,20 +38,27 @@ for i, myfield in enumerate(obs['field']):
 
 		# Concatenate multi-extension catalogues and crossmatch using stilts
 		cmd = []
-		cmd.append("rm /tmp/concat1.fits /tmp/concat2.fits /tmp/xmatch.fits")
-		cmd.append("stilts tcat in=%s/%s multi=true out=/tmp/concat1.fits" 
-					% (mercat_dir, file1))
-		cmd.append("stilts tcat in=%s/%s multi=true out=/tmp/concat2.fits" 
-					% (mercat_dir, file2))
+		cmd.append("rm /tmp/concat1.fits /tmp/concat2.fits /tmp/concat1_deblend.fits /tmp/concat2_deblend.fits /tmp/xmatch.fits")
+		cmd.append("stilts tcat in=%s/%s multi=true ocmd='addcol RAd \"radiansToDegrees(RA)\"; addcol DECd \"radiansToDegrees(DEC)\";' out=/tmp/concat1.fits" 
+					% (mercat_dir, file1) )
+		cmd.append("stilts tcat in=%s/%s multi=true ocmd='addcol RAd \"radiansToDegrees(RA)\"; addcol DECd \"radiansToDegrees(DEC)\";' out=/tmp/concat2.fits" 
+					% (mercat_dir, file2) )
+
+		# Remove blended sources from both concatenated catalogues
+		# It is crucial to remove all objects which have neighbours within 3 arcsec!
+		for number in [1,2]: 
+			cmd.append("stilts tmatch1 matcher=sky values=\"RAd DECd\" params=3 action=keep0 in=/tmp/concat%d.fits out=/tmp/concat%d_deblend.fits" 
+					% (number, number) )
+
 		#cmd.append("stilts tskymatch2"
 		#			  " in1=/tmp/concat1.fits in2=/tmp/concat2.fits" + 
 		#			  " ra1='radiansToDegrees(RA)' dec1='radiansToDegrees(DEC)'" +
 		#			  " ra2='radiansToDegrees(RA)' dec2='radiansToDegrees(DEC)'" +
 		#			  " error=0.1 out=/tmp/xmatch.fits")
 		cmd.append("stilts tskymatch2"
-					  " in1=/tmp/concat1.fits in2=/tmp/concat2.fits" + 
-					  " ra1='radiansToDegrees(RA)' dec1='radiansToDegrees(DEC)'" +
-					  " ra2='radiansToDegrees(RA)' dec2='radiansToDegrees(DEC)'" +
+					  " in1=/tmp/concat1_deblend.fits in2=/tmp/concat2_deblend.fits" + 
+					  " ra1='RAd' dec1='DECd'" +
+					  " ra2='RAd' dec2='DECd'" +
 					  " error=0.1 out=/tmp/xmatch.fits")
 
 		for c in cmd:
@@ -124,12 +134,12 @@ for i, myfield in enumerate(obs['field']):
 		stilts_cond = ("select \"rClass_1 == -1 & iClass_1 == -1 & hClass_1 == -1 " +
 					  " & rClass_2 == -1 & iClass_2 == -1 & hClass_2 == -1 " +
 					  " & rApermag3_1 > 14 & rApermag3_1 < 18 " +
-					  " & iApermag3_1 > 13 & iApermag3_1 < 17 " +
-					  " & hApermag3_1 > 13.5 & hApermag3_1 < 17.5\"")
+					  " & iApermag3_1 > 13 & iApermag3_1 < 18 " +
+					  " & hApermag3_1 > 13 & hApermag3_1 < 18\"")
 
-		stilts_cond2 = ("addcol dr \"rApermag3_1 - rApermag3_2 - %.3f \";" % median_diff['r'] +
-						"addcol di \"iApermag3_1 - iApermag3_2 - %.3f \";" % median_diff['i'] +
-						"addcol dh \"hApermag3_1 - hApermag3_2 - %.3f \";" % median_diff['h'] +
+		stilts_cond2 = ("addcol dr \"abs(rApermag3_1 - rApermag3_2 - %.3f)\";" % median_diff['r'] +
+						"addcol di \"abs(iApermag3_1 - iApermag3_2 - %.3f)\";" % median_diff['i'] +
+						"addcol dh \"abs(hApermag3_1 - hApermag3_2 - %.3f)\";" % median_diff['h'] +
 						"addcol is_outlier_5p \"dr > 0.05 || di > 0.05 || dh > 0.05\"; " +
 						"addcol is_outlier_10p \"dr > 0.1 || di > 0.1 || dh > 0.1\"; " +
 						"addcol is_outlier_20p \"dr > 0.2 || di > 0.2 || dh > 0.2\"; " )
@@ -137,7 +147,7 @@ for i, myfield in enumerate(obs['field']):
 		cmd = ("stilts tcat in=/tmp/xmatch.fits" +
 				   " icmd='%s' " % stilts_cond +
 				   " ocmd='%s' " % stilts_cond2 +
-				   " out=/home/gb/tmp/fieldpairs/%s_%s.fits" % (obs['dir'][i], myfield) )
+				   " out=/home/gb/tmp/fieldpairs2/%s_%s.fits" % (myfield, obs['dir'][i]) )
 		os.system(cmd)
 
 

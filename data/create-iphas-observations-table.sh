@@ -158,7 +158,7 @@ in2=fieldpair-crossmatching/fieldpair-info.csv ifmt2=csv \
 matcher=exact join=all1 find=best \
 values1="mercat" values2="file1" \
 fixcols="all" suffix1="" suffix2="_on" \
-icmd2='keepcols "file1 n_matched n_outliers_10p n_outliers_20p f_outliers_10p f_outliers_20p"' \
+icmd2='keepcols "file1 n_matched n_outliers_10p n_outliers_20p f_outliers_10p f_outliers_20p n_20p_r n_20p_i n_20p_h"' \
 ofmt=fits out=$TMP
 
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
@@ -166,7 +166,7 @@ in2=fieldpair-crossmatching/fieldpair-info.csv ifmt2=csv \
 matcher=exact join=all1 find=best \
 values1="mercat" values2="file2" \
 fixcols="all" suffix1="" suffix2="_off" \
-icmd2='keepcols "file2 n_matched n_outliers_10p n_outliers_20p f_outliers_10p f_outliers_20p"' \
+icmd2='keepcols "file2 n_matched n_outliers_10p n_outliers_20p f_outliers_10p f_outliers_20p n_20p_r n_20p_i n_20p_h"' \
 ofmt=fits out=$TMP
 
 
@@ -239,6 +239,9 @@ addcol n_outliers_10p "NULL_n_outliers_10p_on ? n_outliers_10p_off : n_outliers_
 addcol n_outliers_20p "NULL_n_outliers_20p_on ? n_outliers_20p_off : n_outliers_20p_on";
 addcol f_outliers_10p "NULL_f_outliers_10p_on ? roundDecimal(f_outliers_10p_off, 2) : roundDecimal(f_outliers_10p_on, 2)";
 addcol f_outliers_20p "NULL_f_outliers_20p_on ? roundDecimal(f_outliers_20p_off, 2) : roundDecimal(f_outliers_20p_on, 2)";
+addcol n_20p_r "NULL_n_20p_r_on ? n_20p_r_off : n_20p_r_on";
+addcol n_20p_i "NULL_n_20p_i_on ? n_20p_i_off : n_20p_i_on";
+addcol n_20p_h "NULL_n_20p_h_on ? n_20p_h_off : n_20p_h_on";
 addcol ra "hmsToDegrees(ra_r)";
 addcol dec "dmsToDegrees(dec_r)";
 addcol is_anchor "anchor == 1";
@@ -249,7 +252,8 @@ keepcols "id anchor field dir n_stars
 rmode rimode2
 r5sig i5sig h5sig
 n_outliers_10p n_outliers_20p	
-f_outliers_10p f_outliers_20p	
+f_outliers_10p f_outliers_20p
+n_20p_r n_20p_i n_20p_h
 seeing_max ellipt_max airmass_max sky_max
 seeing_min ellipt_min airmass_min sky_min
 seeing_r seeing_i seeing_ha
