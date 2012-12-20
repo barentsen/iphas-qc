@@ -13,6 +13,7 @@ Contents
 ========
 
 Various scripts to obtain and analyse parts of the meta data can be found in the sub-directories:
+
   * **fieldpair-crossmatching/**
     compares photometry between the two pointings that make up each field.
   * **observing-logs/**
