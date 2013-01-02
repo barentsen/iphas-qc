@@ -25,6 +25,9 @@ out.write("field,dir,n_matched,n_outliers_5p,n_outliers_10p,n_outliers_20p" \
 
 # Run over each observed field, and find same-run partners
 for i, myfield in enumerate(obs['field']):
+	#if not myfield.endswith('o') and int(myfield) < 4000:
+	#	continue
+
 	#if myfield not in ["4234", "4275", "4278", "4282", "4285", "4289", "4293", "4313", "4352"]:
 	#	continue
 

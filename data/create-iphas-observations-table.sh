@@ -208,18 +208,6 @@ fixcols="dups" suffix1="" suffix2="_qual" \
 ofmt=fits out=$TMP
 
 
-# Add eyeballing info
-#echo "============================"
-#echo "Adding in eyeballing comments"
-#echo "============================"
-#$STILTS tmatch2 in1=$TMP ifmt1=fits \
-#in2=eyeballing/concatenated.asc ifmt2=ascii \
-#matcher=exact join=all1 find=best \
-#values1="id" values2="id_christine" \
-#fixcols="all" suffix1="" suffix2="_christine" \
-#icmd2='addcol id_christine "concat(field, \"_\", run)"' \
-#ofmt=fits out=$TMP
-
 # Final arrangement
 echo "============================"
 echo "Gotterdammerung"
@@ -233,7 +221,6 @@ addcol sky_min "round( minimum( array(sky_r, sky_i, sky_ha) ) )";
 addcol airmass_min "minimum( array(air_r, air_i, air_ha) )";
 addcol seeing_min "minimum( array(seeing_r, seeing_i, seeing_ha) )";
 addcol ellipt_min "minimum( array(ellipt_r, ellipt_i, ellipt_ha) )";
-addcol f_stars_faint "roundDecimal(100.0 * n_stars_faint / toFloat(n_stars), 1)";
 addcol n_matched "NULL_n_matched_on ? n_matched_off : n_matched_on";
 addcol n_outliers_10p "NULL_n_outliers_10p_on ? n_outliers_10p_off : n_outliers_10p_on";
 addcol n_outliers_20p "NULL_n_outliers_20p_on ? n_outliers_20p_off : n_outliers_20p_on";
@@ -242,6 +229,7 @@ addcol f_outliers_20p "NULL_f_outliers_20p_on ? roundDecimal(f_outliers_20p_off,
 addcol n_20p_r "NULL_n_20p_r_on ? n_20p_r_off : n_20p_r_on";
 addcol n_20p_i "NULL_n_20p_i_on ? n_20p_i_off : n_20p_i_on";
 addcol n_20p_h "NULL_n_20p_h_on ? n_20p_h_off : n_20p_h_on";
+addcol mjd "isoToMjd(time)";
 addcol ra "hmsToDegrees(ra_r)";
 addcol dec "dmsToDegrees(dec_r)";
 addcol is_anchor "anchor == 1";
@@ -249,7 +237,7 @@ addcol is_pdr "anchor == 0 || anchor == 1";
 addcol is_offset "field.endsWith(\"o\")";' \
 ocmd='addskycoords -inunit deg -outunit deg fk5 galactic ra dec l b;
 keepcols "id anchor field dir n_stars 
-rmode rimode2
+rmode 
 r5sig i5sig h5sig
 n_outliers_10p n_outliers_20p	
 f_outliers_10p f_outliers_20p
@@ -263,7 +251,7 @@ zpr_calib zpi_calib zph_calib
 sdss_stars sdss_r sdss_i
 apass_stars apass_r apass_i
 shift_r_christine shift_i_christine shift_h_christine apass_shift_r_christine apass_shift_i_christine
-time night
+time mjd night
 ext_r_carlsberg hours_phot_carlsberg hours_nonphot_carlsberg
 observer lost_weather lost_technical
 hum_avg 
@@ -290,7 +278,7 @@ colmeta -desc "median(IPHAS_r - APASS_r_transformed)" apass_r;
 colmeta -desc "median(IPHAS_i - APASS_i_transformed)" apass_i;
 colmeta -desc "Anchor column from FINALSOL3.TXT" anchor;
 colmeta -desc "Number of stellar objects (class=-1 in all bands)." n_stars;
-colmeta -desc "Mode of the r magnitude distribution for those objects which are detected and classified as stellar in all three bands. Used as a proxy for completeness." rmode;
+colmeta -desc "Mode of the r magnitude distribution for those objects which are detected and classified as stellar or probably stellar in both the r and i bands. Used as a proxy for completeness." rmode;
 colmeta -desc "Median r magnitude of stars detected at SNR=5, i.e. where the photometric errors are 0.2 mag." r5sig;
 colmeta -desc "Median i magnitude of stars detected at SNR=5, i.e. where the photometric errors are 0.2 mag." i5sig;
 colmeta -desc "Median H-alpha magnitude of stars detected at SNR=5, i.e. where the photometric errors are 0.2 mag." h5sig;
@@ -303,6 +291,7 @@ colmeta -desc "Minimum (best) seeing of the three single-filter exposures." -uni
 colmeta -desc "Minimum (best) ellipticity of the three single-filter exposures." ellipt_min;
 colmeta -desc "Minimum (best) airmass of the three single-filter exposures." airmass_min;
 colmeta -name time_r -desc "Time of the r-band exposure." time;
+colmeta -desc "Modified Julian Date of the r-band exposure." mjd;
 colmeta -desc "Median extinction in r during the night, measured by the Carlsberg Meridian Telescope. : indicates an uncertain value due to the night probably not being photometric. " ext_r_carlsberg;
 colmeta -desc "Number of hours of photometric data taken by the Carlsberg Meridian Telescope that night." hours_phot_carlsberg;
 colmeta -desc "Number of non-photometric hours that night." hours_nonphot_carlsberg;

@@ -1,65 +1,73 @@
 """
-Quality flags A/B/C are assigned to all fields as follows:
+Quality flags A/B/C/D are assigned to all fields as follows.
 
- A++: seeing <= 1.25 & ellipt <= 0.20 
-      & f_outliers_10p < 0.59 & f_outliers_20p < 0.07
-      & {r|i|ha}5sig >= {20.0|19.0|19.0} & rmode >= 18.0
+First, all bad fields are automatically classified 'D':
+
+ D  : ellipt > 0.2 || seeing > 2.5 || rmode < 18 
+      || f_outliers_10p > 11.4 || f_outliers_20p > 0.65
+      || r5sig < 20 || i5sig < 19 || h5sig < 19
+
+Amongst the remaining fields, cuts are applied to seeing and outliers:
+
+ A++: seeing <= 1.25
+      & (n_outliers_10p < 10 || f_outliers_10p < 0.65)
+      & (n_outliers_20p < 5  || f_outliers_20p < 0.04)
       
- A+ : seeing <= 1.5 & ellipt <= 0.20
-      & f_outliers_10p < 1.26 & f_outliers_20p < 0.16
-      & {r|i|ha}5sig >= {20.0|19.0|19.0} & rmode >= 18.0
+ A+ : seeing <= 1.5
+      & (n_outliers_10p < 10 || f_outliers_10p < 1.58)
+      & (n_outliers_20p < 5  || f_outliers_20p < 0.13)
 
- A  : seeing <= 2.0 & ellipt <= 0.20
-      & f_outliers_10p < 4.14 & f_outliers_20p < 0.34
-      & {r|i|ha}5sig >= {20.0|19.0|19.0} & rmode >= 18.0
- 
- B  : seeing <= 2.5 & ellipt <= 0.20 
-      & f_outliers_10p < 4.14 & f_outliers_20p < 0.34
-      & {r|i|ha}5sig >= {20.0|19.0|19.0} & rmode >= 18.0
+ A  : seeing <= 2.0
+      & (n_outliers_10p < 10 || f_outliers_10p < 5.10)
+      & (n_outliers_20p < 5  || f_outliers_20p < 0.28)
 
- C  : seeing <= 2.5 & ellipt <= 0.20 
-      & f_outliers_10p < 11.6 & f_outliers_20p < 1.06
-      & {r|i|ha}5sig >= {20.0|19.0|19.0} & rmode >= 18.0
+ B  : seeing <= 2.5
+      & (n_outliers_10p < 20 || f_outliers_10p < 5.11)
+      & (n_outliers_20p < 10 || f_outliers_20p < 0.28)
 
- D  : all remaining fields (i.e. the worst data.)
+ C  : seeing <= 2.5
+      & (n_outliers_10p < 20 || f_outliers_10p < 11.4)
+      & (n_outliers_20p < 10 || f_outliers_20p < 0.64)
 
 Note: the increasing limits for "f_outliers_10p/20p" are based on the 
-50/75/90/95%% percentiles of these quality indicators.
+percentiles of these quality indicators.
 """
 import pyfits
 import numpy as np
 
+# Fields whose f_outliers measure should be ignored
+#whitelist = []
+whitelist = ['6219_oct2003', '6219o_oct2003'] # E-mail Janet 20121220
 
-def quality_flag(seeing, ellipt, r5sig, i5sig, h5sig, rmode, f10p, f20p):
+
+def quality_flag(fieldid, seeing, ellipt, r5sig, i5sig, h5sig, rmode, f10p, f20p, n10p, n20p):
     """Returns the quality flag"""
-    if (seeing <= 1.25) and (ellipt <= 0.20) \
-    and (np.isnan(f10p) or (f10p < 0.59)) \
-    and (np.isnan(f20p) or (f20p < 0.07)) \
-    and r5sig >= 20.0 and i5sig >= 19.0 and h5sig >= 19.0 and rmode > 17.99:
-        return "A++"
+    if r5sig < 20.0 or i5sig < 19.0 or h5sig < 19.0 or rmode < 18.0 or ellipt > 0.2:
+      return "D"
 
-    if (seeing <= 1.5) and (ellipt <= 0.20) \
-    and (np.isnan(f10p) or (f10p < 1.26)) \
-    and (np.isnan(f20p) or (f20p < 0.16)) \
-    and r5sig >= 20.0 and i5sig >= 19.0 and h5sig >= 19.0 and rmode > 17.99:
+    if (seeing <= 1.25) \
+    and (fieldid in whitelist or np.isnan(f10p) or (f10p < 0.65) or n10p < 10) \
+    and (fieldid in whitelist or np.isnan(f20p) or (f20p < 0.04) or n20p < 5):
+      return "A++"
+
+    if (seeing <= 1.5) \
+    and (fieldid in whitelist or np.isnan(f10p) or (f10p < 1.58) or n10p < 10) \
+    and (fieldid in whitelist or np.isnan(f20p) or (f20p < 0.13) or n20p < 5):
         return "A+"
 
-    if (seeing <= 2.0) and (ellipt <= 0.20) \
-    and (np.isnan(f10p) or (f10p < 4.14)) \
-    and (np.isnan(f20p) or (f20p < 0.34)) \
-    and r5sig >= 20.0 and i5sig >= 19.0 and h5sig >= 19.0 and rmode > 17.99:
+    if (seeing <= 2.0) \
+    and (fieldid in whitelist or np.isnan(f10p) or (f10p < 5.11) or n10p < 10) \
+    and (fieldid in whitelist or np.isnan(f20p) or (f20p < 0.28) or n20p < 5):
         return "A"
 
-    if (seeing <= 2.5) and (ellipt <= 0.20) \
-    and (np.isnan(f10p) or (f10p < 4.14)) \
-    and (np.isnan(f20p) or (f20p < 0.34)) \
-    and r5sig >= 20.0 and i5sig >= 19.0 and h5sig >= 19.0 and rmode > 17.99:
+    if (seeing <= 2.5) \
+    and (fieldid in whitelist or np.isnan(f10p) or (f10p < 5.11) or n10p < 20) \
+    and (fieldid in whitelist or np.isnan(f20p) or (f20p < 0.28) or n20p < 10):
         return "B"
 
-    if (seeing <= 2.5) and (ellipt <= 0.25) \
-    and (np.isnan(f10p) or (f10p < 11.6)) \
-    and (np.isnan(f20p) or (f20p < 1.06)) \
-    and r5sig >= 20.0 and i5sig >= 19.0 and h5sig >= 19.0 and rmode > 17.99:
+    if (seeing <= 2.5) \
+    and (fieldid in whitelist or np.isnan(f10p) or (f10p < 11.4) or n10p < 20) \
+    and (fieldid in whitelist or np.isnan(f20p) or (f20p < 0.64) or n20p < 10):
         return "C"
 
     # else
@@ -79,6 +87,8 @@ h5sig = d.field('h5sig')
 rmode = d.field('rimode2')
 f10p = d.field('f_outliers_10p')
 f20p = d.field('f_outliers_20p')
+n10p = d.field('n_outliers_10p')
+n20p = d.field('n_outliers_20p')
 
 
 # Evaluate all observations and write the flags
@@ -88,7 +98,7 @@ f.write('id,qflag,is_ok\n')
 flagcount = {'A++':0, 'A+':0, 'A':0, 'B':0, 'C':0, 'D':0}
 
 for i in range(d.size):
-    flag = quality_flag(seeing[i], ellipt[i], r5sig[i], i5sig[i], h5sig[i], rmode[i], f10p[i], f20p[i])
+    flag = quality_flag(myid[i], seeing[i], ellipt[i], r5sig[i], i5sig[i], h5sig[i], rmode[i], f10p[i], f20p[i], n10p[i], n20p[i])
     flagcount[flag] += 1
     # Quality acceptable?
     if flag.startswith('A') or flag.startswith('B') or flag.startswith('C'):

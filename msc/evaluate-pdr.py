@@ -25,7 +25,7 @@ f20p = d.field('f_outliers_20p')
 sky = d.field('sky_max')
 iphasdir = d.field('dir')
 
-pct = [10,25,50,75,90,95]
+pct = [10,25,50,75,90,95,99]
 percentiles = np.array([np.percentile( seeing[~np.isnan(seeing)] , pct), 
                         np.percentile( ellipt[~np.isnan(ellipt)] , pct), 
                         np.percentile( r5sig[~np.isnan(r5sig)] , pct), 
@@ -48,65 +48,69 @@ is_c = is_pdr & (qflag == "C")
 is_d = is_pdr & (qflag == "D")
 
 f.write(\
-"""IPHAS Penultimate Release - data quality review (gb, 2012-12-19)
+"""IPHAS Penultimate Release - data quality review (gb, 2012-12-21)
 ================================================================
 
 1. Quality classification
 -------------------------
-Quality flags have been assigned to all fields as follows:
-('A' = good & deep, 'B/C' = good, 'D' = bad.)
+Quality flags A/B/C/D are assigned to all fields as follows.
+First, all bad fields are automatically classified 'D'.
 
- A++: seeing <= 1.25 & ellipt <= 0.20 
-      & f_outliers_10p < 0.59 & f_outliers_20p < 0.07
-      & {r|i|ha}5sig >= {20.0|19.0|19.0} & rmode >= 18.0
+ D  : ellipt > 0.2 || seeing > 2.5 || rmode < 18 
+      || f_outliers_10p > 11.4 || f_outliers_20p > 0.65
+      || r5sig < 20 || i5sig < 19 || h5sig < 19
+
+Amongst the remaining fields, cuts are applied to seeing and outliers:
+
+ A++: seeing <= 1.25
+      & (n_outliers_10p < 10 || f_outliers_10p < 0.65)
+      & (n_outliers_20p < 5  || f_outliers_20p < 0.04)
       
- A+ : seeing <= 1.5 & ellipt <= 0.20
-      & f_outliers_10p < 1.26 & f_outliers_20p < 0.16
-      & {r|i|ha}5sig >= {20.0|19.0|19.0} & rmode >= 18.0
+ A+ : seeing <= 1.5
+      & (n_outliers_10p < 10 || f_outliers_10p < 1.58)
+      & (n_outliers_20p < 5  || f_outliers_20p < 0.13)
 
- A  : seeing <= 2.0 & ellipt <= 0.20
-      & f_outliers_10p < 4.14 & f_outliers_20p < 0.34
-      & {r|i|ha}5sig >= {20.0|19.0|19.0} & rmode >= 18.0
- 
- B  : seeing <= 2.5 & ellipt <= 0.20 
-      & f_outliers_10p < 4.14 & f_outliers_20p < 0.34
-      & {r|i|ha}5sig >= {20.0|19.0|19.0} & rmode >= 18.0
+ A  : seeing <= 2.0
+      & (n_outliers_10p < 10 || f_outliers_10p < 5.10)
+      & (n_outliers_20p < 5  || f_outliers_20p < 0.28)
 
- C  : seeing <= 2.5 & ellipt <= 0.20 
-      & f_outliers_10p < 11.6 & f_outliers_20p < 1.06
-      & {r|i|ha}5sig >= {20.0|19.0|19.0} & rmode >= 18.0
+ B  : seeing <= 2.5
+      & (n_outliers_10p < 20 || f_outliers_10p < 5.11)
+      & (n_outliers_20p < 10 || f_outliers_20p < 0.28)
 
- D  : all remaining fields (i.e. the worst data.)
+ C  : seeing <= 2.5
+      & (n_outliers_10p < 20 || f_outliers_10p < 11.4)
+      & (n_outliers_20p < 10 || f_outliers_20p < 0.64)
 
 
 Definition of quality measures:
-* r5sig/i5sig/h5sig:
-    Detection limits in r/i/Ha where SNR = 5 (i.e. where error = 0.20). 
-    Serves as a proxy for depth.
+* f_outliers_10p/f_outliers_20p:
+    Fraction of stars showing a shift larger than 10/20%% between the 
+    same-month on/off exposures. The increasing limits correspond to 
+    the percentiles of the parameter's distributions.
+    Serves to detect noise, gain variations and fringing.
 * rmode:
     Mode of the r magnitude distribution for those objects which are 
     classified as 'stellar' or 'probably stellar' in both the r/i bands, 
     This measure serves as a proxy for completeness. It is computed using
     a binning of 0.25 mag.
-* f_outliers_10p/f_outliers_20p:
-    Fraction of stars showing a shift larger than 10/20%% between the 
-    same-month on/off exposures. The increasing limits correspond to 
-    the 50/75/90/95%% percentiles of the parameter's distributions.
-    Serves to detect noise, gain variations and fringing.
+* r5sig/i5sig/h5sig:
+    Detection limits in r/i/Ha where SNR = 5 (i.e. where error = 0.20). 
+    Serves as a proxy for depth.
 
 
 Percentiles of quality parameters across all IPHAS observations:
-                 10%%   25%%   50%%   75%%   90%%   95%%
-seeing          %.2f  %.2f  %.2f  %.2f  %.2f  %.2f
-ellipt          %.2f  %.2f  %.2f  %.2f  %.2f  %.2f
-r5sig           %.1f  %.1f  %.1f  %.1f  %.1f  %.1f
-i5sig           %.1f  %.1f  %.1f  %.1f  %.1f  %.1f
-h5sig           %.1f  %.1f  %.1f  %.1f  %.1f  %.1f
-rmode           %.1f  %.1f  %.1f  %.1f  %.1f  %.1f
-n_outliers_10p   %3d   %3d   %3d   %3d   %3d   %3d
-n_outliers_20p   %3d   %3d   %3d   %3d   %3d   %3d
-f_outliers_10p  %.2f  %.2f  %.2f  %.2f  %.2f  %.1f
-f_outliers_20p  %.2f  %.2f  %.2f  %.2f  %.2f  %.2f
+                 10%%   25%%   50%%   75%%   90%%   95%%   99%%
+seeing          %.2f  %.2f  %.2f  %.2f  %.2f  %.2f  %.2f
+ellipt          %.2f  %.2f  %.2f  %.2f  %.2f  %.2f  %.2f
+r5sig           %.1f  %.1f  %.1f  %.1f  %.1f  %.1f  %.1f
+i5sig           %.1f  %.1f  %.1f  %.1f  %.1f  %.1f  %.1f
+h5sig           %.1f  %.1f  %.1f  %.1f  %.1f  %.1f  %.1f
+rmode           %.1f  %.1f  %.1f  %.1f  %.1f  %.1f  %.1f
+n_outliers_10p   %3d   %3d   %3d   %3d   %3d   %3d   %3d
+n_outliers_20p   %3d   %3d   %3d   %3d   %3d   %3d   %3d
+f_outliers_10p  %.2f  %.2f  %.2f  %.2f  %.2f  %.1f  %.1f
+f_outliers_20p  %.2f  %.2f  %.2f  %.2f  %.2f  %.2f  %.1f
 
 """ % tuple(percentiles.reshape(percentiles.size,)) )
 
