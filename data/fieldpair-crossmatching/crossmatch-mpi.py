@@ -1,5 +1,5 @@
 """
-Crossmatch fieldpairs to check the consistency of the photometry
+Crossmatch IPHAS fieldpairs to check the consistency of the photometry
 
 This is an MPI-enabled script, i.e. run using
 mpirun -np 8 python do-mosaic-mpi.py
