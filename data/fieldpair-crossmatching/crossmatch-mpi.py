@@ -74,6 +74,7 @@ class FieldChecker():
                     i_sorted_by_rmode = np.argsort( self.meta.field('rmode')[c2] )
                     partner2 = ids[c2][ i_sorted_by_rmode[-1] ]
                 else:
+                    logging.warning('No partner for %s' % partner1)
                     continue # No good partner available
 
             ids_done.append( partner1 )            
@@ -259,7 +260,7 @@ def mpi_writer():
 
     """
     out = open('pairs.csv', 'w')
-    out.write("field,partner,is_samenightpair,n_matched,n_outliers_5p,n_outliers_10p,n_outliers_20p"
+    out.write("id,id_partner,is_samenightpair,n_matched,n_outliers_5p,n_outliers_10p,n_outliers_20p"
             +",f_outliers_5p,f_outliers_10p,f_outliers_20p"
             +",n_5p_r,n_5p_i,n_5p_h,n_10p_r,n_10p_i,n_10p_h,n_20p_r,n_20p_i,n_20p_h"
             + ",med_dr,med_di,med_dh,std_dr,std_di,std_dh,file1,file2\n")

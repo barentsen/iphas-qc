@@ -15,10 +15,18 @@ Contents
 Various scripts to obtain and analyse parts of the meta data can be found in the sub-directories:
 
   * **fieldpair-crossmatching/**
-    compares photometry between the two pointings that make up each field.
+    compares photometry between overlapping exposures.
+  * **images/**    
+    walk through the IPHAS raw data directory and create a table which links
+    the images and confidence maps to field numbers.
+  * **moon/**
+    computes lunar phase and fraction of illumination for each exposure.
   * **observing-logs/**
     download, parse and collate information from the INT telescope observing logs.
   * **quality/**
     assign quality flags to each field.
   * **sdss/**
     compare IPHAS photometry against SDSS data.
+
+The following directories have a cyclic dependency on iphas-observations.fits:
+fieldpair-crossmatching, moon, quality

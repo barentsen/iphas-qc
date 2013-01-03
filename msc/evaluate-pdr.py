@@ -1,5 +1,6 @@
 import pyfits
 import numpy as np
+import time
 
 d = pyfits.getdata('../data/iphas-observations.fits', 1)
 
@@ -15,8 +16,7 @@ ellipt = d.field('ellipt_max')
 r5sig = d.field('r5sig')
 i5sig = d.field('i5sig')
 h5sig = d.field('h5sig')
-#rmode = d.field('rmode')
-rmode = d.field('rimode2')
+rmode = d.field('rmode')
 starcount = d.field('n_stars')
 n10p = d.field('n_outliers_10p')
 n20p = d.field('n_outliers_20p')
@@ -32,8 +32,8 @@ percentiles = np.array([np.percentile( seeing[~np.isnan(seeing)] , pct),
                         np.percentile( i5sig[~np.isnan(i5sig)] , pct), 
                         np.percentile( h5sig[~np.isnan(h5sig)] , pct), 
                         np.percentile( rmode[~np.isnan(rmode)] , pct), 
-                        np.percentile( n10p[~np.isnan(n10p)] , pct), 
-                        np.percentile( n20p[~np.isnan(n20p)] , pct),
+                        np.percentile( n10p[~np.isnan(f10p)] , pct), 
+                        np.percentile( n20p[~np.isnan(f20p)] , pct),
                         np.percentile( f10p[~np.isnan(f10p)] , pct),
                         np.percentile( f20p[~np.isnan(f20p)] , pct)])
 
@@ -48,7 +48,8 @@ is_c = is_pdr & (qflag == "C")
 is_d = is_pdr & (qflag == "D")
 
 f.write(\
-"""IPHAS Penultimate Release - data quality review (gb, 2012-12-21)
+"""IPHAS Penultimate Release - data quality review (gb, %s)""" % time.strftime('%Y-%m-%d')
++"""
 ================================================================
 
 1. Quality classification
