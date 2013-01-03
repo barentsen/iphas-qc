@@ -3,8 +3,7 @@ Fieldpair crossmatching
 
 The script *crossmatch-mpi.py* compares the photometric catalogues of overlapping exposures. Typically the on- and offset pointings of the same field in the same night are compared. 
 
-The script uses MPI, so run using e.g.
-  mpirun -np 8 python do-mosaic-mpi.py
+The script uses MPI, so run using e.g. 'mpirun -np 8 python do-mosaic-mpi.py'
 
 The output is a table called *pairs.csv* which details the number of objects showing a magnitude shift larger than 5/10/20%.
 
