@@ -83,9 +83,14 @@ def get_qflag(fieldname, run):
     Quality flag of a single field/run combination
 
     """
+    if run == None:
+        return None
     c_dir = qc.field('dir') == run
-    c = c_dir & (qc.field('field') == fieldname) 
-    return qc.field('qflag')[c][0]
+    c = c_dir & (qc.field('field') == fieldname)
+    if c.sum() > 0:
+        return qc.field('qflag')[c][0]
+    else:
+        return None
 
 def get_rmode(fieldname, run):
     """
@@ -158,8 +163,16 @@ def best_ids(fieldname):
         id2 = get_id(fieldname+'o', best)
         return id1, id2
     else:
-        id1 = get_id(fieldname, best_run(fieldname) )
-        id2 = get_id(fieldname+'o', best_run(fieldname+'o') )
+        run1 = best_run(fieldname)
+        id1 = get_id(fieldname, run1)
+
+        # For the partner, give preference to same-epoch if A-quality
+        qflag2 = get_qflag(fieldname+'o', run1)
+        if qflag2 != None and qflag2.startswith('A'):
+            id2 = get_id(fieldname+'o', run1)
+        else:
+            id2 = get_id(fieldname+'o', best_run(fieldname+'o') )
+
         return id1, id2
 
 
