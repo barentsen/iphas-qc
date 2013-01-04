@@ -145,7 +145,7 @@ def quality_problems(fieldid, seeing, ellipt, r5sig, i5sig, h5sig, rmode, f10p, 
 
 
 # Evaluate all observations and write the flags
-f = open('quality-flags.csv', 'w')
+f = open('quality.csv', 'w')
 f.write('id,qflag,is_ok,problems\n')
 
 flagcount = {'A++':0, 'A+':0, 'A':0, 'B':0, 'C':0, 'D':0}

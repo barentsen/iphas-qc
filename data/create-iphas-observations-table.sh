@@ -163,17 +163,17 @@ echo "============================"
 echo "Adding in quality flags (A++, A+, A, B, C)"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
-in2=quality/quality-flags.csv ifmt2=csv \
+in2=quality/quality.csv ifmt2=csv \
 matcher=exact join=all1 find=best \
 values1="id" values2="id" \
 fixcols="dups" suffix1="" suffix2="_qual" \
 ofmt=fits out=$TMP
 
 echo "============================"
-echo "Adding in best field choice"
+echo "Adding in the is_best column"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
-in2=quality/best-fields.csv ifmt2=csv \
+in2=quality/best-runs.csv ifmt2=csv \
 matcher=exact join=all1 find=best \
 values1="id" values2="id" \
 fixcols="dups" suffix1="" suffix2="_qual" \
