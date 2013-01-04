@@ -1,10 +1,12 @@
-Quality classification
-======================
+Quality classification scripts
+==============================
 
-Scripts:
+These scripts assess the quality of all observations, and identify the best data that is available for each field.
 
-* evaluate-quality.py
-  Assigns quality codes A/B/C/D to each observation using the quality measures in iphas-observations.fits.
+Contents:
 
-* best-fields.py
-  Decides on the best 'run' (e.g. sep2010) for each field (e.g. 0001) based on the quality measures in iphas-observations.fits.
+* **evaluate-quality.py**
+  Assigns quality codes A/B/C/D to each observation using the data available in iphas-qc.fits. Writes output to **quality-flags.csv**.
+
+* **best-fields.py**
+  Decides on the best 'run' for each field (i.e. the month identifier) based on the data in iphas-qc.fits. Writes output to TBD.
