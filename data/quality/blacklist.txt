@@ -1,0 +1,6 @@
+4084o_aug2003    # Incorrect declination
+4085o_aug2003    # Incorrect declination
+4086o_aug2003    # Incorrect declination
+4087o_aug2003    # Incorrect declination
+4089o_aug2003    # Incorrect declination
+0977o_dec2003    # Suspect strong scattered light from full moon (added by Geert)

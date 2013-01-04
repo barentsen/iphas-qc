@@ -23,7 +23,7 @@ TAG_FINISHED = 850   # All work is done
 TAG_DONE = 851   # All work is done
 
 # directory containing catalogues
-IPHAS_OBSERVATIONS = '../iphas-observations.fits'
+IPHAS_OBSERVATIONS = '../iphas-qc.fits'
 MERCAT_DIR = '/home/gb/tmp/iphas_sep2012_eglez/apm3.ast.cam.ac.uk/~eglez/iphas'
 # Define the magnitude limits for photometry comparison
 MAG_LIMITS = {'r': [14,18], 'i':[13,18], 'h':[13,18]}
@@ -174,7 +174,10 @@ class FieldChecker():
             total_outliers[plevel] = (idx_outliers[plevel]['r'] \
                                       | idx_outliers[plevel]['i'] \
                                       | idx_outliers[plevel]['h']).sum()
-            fraction_outliers[plevel] = 100*total_outliers[plevel] / float(n_stars)
+            if n_stars > 0:
+                fraction_outliers[plevel] = 100*total_outliers[plevel] / float(n_stars)
+            else:
+                fraction_outliers[plevel] = ''
 
         # Write results
         csv = "%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s\n" % \

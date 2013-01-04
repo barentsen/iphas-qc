@@ -4,7 +4,7 @@
 # and merges them into a single master file using topcat/stilts
 #
 
-TMP="/tmp/iphas-fields-observed-tmp.fits"
+TMP="/tmp/iphas-qc-tmp.fits"
 STILTS="java -Xmx4000m -jar $HOME/bin/topcat-full.jar -stilts "
 
 # Adding in Brent's anchor info
@@ -29,8 +29,6 @@ addcol zph_brent "zph + zph_diff";
 ' \
 ofmt=fits out=$TMP
 
-
-
 # Adding in manually edited anchor zeropoints
 echo "============================"
 echo "Adding in anchor zeropoint shifts"
@@ -51,7 +49,7 @@ ofmt=fits out=$TMP
 
 for FILTER in r i ha; do
 	echo "============================"
-	echo "Adding Mike's DQC data for filter $FILTER"
+	echo "Adding Mike Irwin's DQC data for filter $FILTER"
 	echo "============================"
 	$STILTS tmatch2 in1=$TMP ifmt1=fits \
 	in2=mikes-dqc-files/mikes-dqc-data.fits.gz ifmt2=fits \
@@ -70,10 +68,8 @@ for FILTER in r i ha; do
 	ofmt=fits out=$TMP
 done
 
-
-# Add the observing log info
 echo "============================"
-echo "Adding in the observing logs"
+echo "Adding observing logs"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
 in2=observing-logs/logs_byrun.fits.gz ifmt2=fits \
@@ -83,9 +79,8 @@ icmd2='keepcols "run night observer temp_avg hum_avg lost_weather lost_technical
 ocmd="delcols run;" \
 ofmt=fits out=$TMP
 
-# Add links to the images
 echo "============================"
-echo "Adding in the images     "
+echo "Adding filenames of images     "
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
 in2=images/iphas-images.csv ifmt2=csv \
@@ -111,11 +106,8 @@ values1="run_i" values2="run" \
 ocmd='addcol image_i "image"; delcols "run image";' \
 ofmt=fits out=$TMP
 
-
-
-# Add the Carlsberg Meridian Telescope sky quality data
 echo "============================"
-echo "Adding in Carlsberg Meridian"
+echo "Adding in Carlsberg Meridian Telescope sky quality data"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
 in2=carlsberg-meridian/carlsberg.csv ifmt2=csv \
@@ -124,8 +116,6 @@ values1="night" values2="night" \
 fixcols="all" suffix1="" suffix2="_carlsberg" \
 ofmt=fits out=$TMP
 
-
-# Add the SDSS shifts
 echo "============================"
 echo "Adding in SDSS shifts"
 echo "============================"
@@ -137,7 +127,6 @@ suffix1="" \
 icmd2='addcol id_sdss "concat(field, \"_\", substring(dir,6))"' \
 ofmt=fits out=$TMP
 
-# Add Christine's shifts
 echo "============================"
 echo "Adding in Christine's shifts"
 echo "============================"
@@ -149,7 +138,6 @@ fixcols="all" suffix1="" suffix2="_christine" \
 icmd2='addcol id_christine "concat(field, \"_\", run)"' \
 ofmt=fits out=$TMP
 
-# Add fieldpair crossmatching results
 echo "============================"
 echo "Adding in fieldpair crossmatching data"
 echo "============================"
@@ -161,23 +149,15 @@ fixcols="dups" suffix1="" suffix2="_pairscsv" \
 icmd2='keepcols "id n_matched n_outliers_10p n_outliers_20p f_outliers_10p f_outliers_20p n_20p_r n_20p_i n_20p_h is_samenightpair"' \
 ofmt=fits out=$TMP
 
-
-#echo "============================"
-#echo "Adding in starcount ratios (for detecting double images)"
-#echo "============================"
-#$STILTS tmatch2 in1=$TMP ifmt1=fits \
-#in2=double-image-problem/starcount-ratios.csv ifmt2=csv \
-#matcher=exact join=all1 find=best \
-#values1="id" values2="id" \
-#fixcols="dups" suffix1="" suffix2="_ratio" \
-#ofmt=fits out=$TMP
-
-# Provided cols:
-#n_bright_ha n_bright_r n_bright_i
-#ratio_bright_ha ratio_bright_r ratio_bright_i
-#colmeta -desc "Ratio: n_stars_ha(on-field) / n_stars_ha(off-field); helps to detect images with duplicate stars." ratio_bright_ha;
-#colmeta -desc "Ratio: n_stars_r(on-field) / n_stars_ha(off-field); helps to detect images with duplicate stars." ratio_bright_r;
-#colmeta -desc "Ratio: n_stars_i(on-field) / n_stars_ha(off-field); helps to detect images with duplicate stars." ratio_bright_i;
+echo "============================"
+echo "Adding in moon data"
+echo "============================"
+$STILTS tmatch2 in1=$TMP ifmt1=fits \
+in2=moon/moon.csv ifmt2=csv \
+matcher=exact join=all1 find=best \
+values1="id" values2="id" \
+fixcols="dups" suffix1="" suffix2="_moon" \
+ofmt=fits out=$TMP
 
 echo "============================"
 echo "Adding in quality flags (A++, A+, A, B, C)"
@@ -241,13 +221,14 @@ ext_r_carlsberg hours_phot_carlsberg hours_nonphot_carlsberg
 observer lost_weather lost_technical
 hum_avg 
 comments_weather comments_night comments_exposure 
+moon_altitude moon_separation moon_phase
 ra dec l b
 run_ha run_r run_i
 image_ha image_r image_i
 conf_ha conf_r conf_i
 mercat
 is_anchor is_pdr
-qflag
+problems qflag
 is_ok is_best";
 colmeta -desc "Right Ascension of the r-band exposure." ra;
 colmeta -desc "Declination of the r-band exposure." dec;
@@ -281,17 +262,21 @@ colmeta -desc "Median extinction in r during the night, measured by the Carlsber
 colmeta -desc "Number of hours of photometric data taken by the Carlsberg Meridian Telescope that night." hours_phot_carlsberg;
 colmeta -desc "Number of non-photometric hours that night." hours_nonphot_carlsberg;
 colmeta -desc "Average humidity during the night." -units "percent" hum_avg;
-colmeta -desc "Filename of the H-alpha image." image_ha;
+colmeta -desc "Phase of the moon at the time the r-band exposure was taken." -units "percent" moon_phase;
+colmeta -desc "Altitude of the moon at the time the r-band exposure was taken." -units "degrees" moon_altitude;
+colmeta -desc "Separation of the moon and the r-band exposure." -units "degrees" moon_separation;
+colmeta -desc "INT run number for ha-band image." run_ha;
+colmeta -desc "INT run number for r-band image." run_r;
+colmeta -desc "INT run number for i-band image." run_i;
+colmeta -desc "Filename of the reduced H-alpha image." image_ha;
+colmeta -desc "Filename of the reduced r-band image." image_r;
+colmeta -desc "Filename of the reduced i-band image." image_i;
 colmeta -desc "Filename of the H-alpha confidence map." conf_ha;
 colmeta -desc "Are the various quality indicators (seeing, ellipticity, etc) within spec?" is_ok;
 colmeta -desc "Is it the best data available for the given field?" is_best;
 sort id;' \
-ofmt=fits out=iphas-observations.fits
+ofmt=fits out=iphas-qc.fits
 
 
-# Copy to Geert's web directory
-cp iphas-observations.fits ~/public_html/iphas
-
-# Recently removed:
-# n_outliers_10p n_outliers_20p 
-# fluxr_5sig fluxi_5sig fluxha_5sig 
+# Copy to web directory
+cp iphas-qc.fits ~/public_html/iphas
