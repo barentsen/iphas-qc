@@ -278,6 +278,11 @@ colmeta -desc "Is it the best data available for the given field?" is_best;
 sort id;' \
 ofmt=fits out=iphas-qc.fits
 
+# Run the regression test
+echo "============================"
+echo "Regression tests"
+echo "============================"
+python tests/test.py
 
 # Copy to web directory
 cp iphas-qc.fits ~/public_html/iphas
