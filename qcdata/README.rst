@@ -3,10 +3,10 @@ IPHAS Quality Control Data
 ==========================
 
 This directory contains all the bits and pieces required to create the table
-*iphas-observations.fits*, containing all the essential metadata and quality control 
+*iphas-qc.fits*, containing all the essential metadata and quality control 
 information on observations carried out as part of the IPHAS survey.
 
-This master table is generated using the shell script *create-iphas-observations-table.sh*, 
+This master table is generated using the shell script *create-iphas-qc-table.sh*, 
 which collates data from the different subdirectories using TopCat/stilts.
 
 Contents
@@ -28,5 +28,4 @@ Various scripts to obtain and analyse parts of the meta data can be found in the
 * **sdss/**
   compare IPHAS photometry against SDSS data.
 
-The following directories have a cyclic dependency on iphas-observations.fits:
-fieldpair-crossmatching, moon, quality
+The following directories have a cyclic dependency on iphas-qc.fits (i.e. they both read from, and provide data to, the table): fieldpair-crossmatching, moon, quality.

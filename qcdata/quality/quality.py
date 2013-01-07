@@ -6,6 +6,7 @@ First, all bad fields are automatically classified 'D':
  D  : ellipt > 0.2 || seeing > 2.5 || rmode < 18 
       || f_outliers_10p > 11.4 || f_outliers_20p > 0.65
       || r5sig < 20 || i5sig < 19 || h5sig < 19
+      || n_stars < 1000 || moon_separation < 20
 
 Amongst the remaining fields, cuts are applied to seeing and outliers:
 
@@ -52,20 +53,30 @@ d = pyfits.getdata('../iphas-qc.fits', 1)
 myid = d.field('id')
 seeing = d.field('seeing_max')
 ellipt = d.field('ellipt_max')
+nstars = d.field('n_stars')
+moon_separation = d.field('moon_separation')
 
 # Tricky: we need to take the calibration into account before judging depth
-brent, apass, shift = {}, {}, {}
+brent, apass, sdss, shift = {}, {}, {}, {}
 for band in ['r', 'i', 'h']:
   brent[band] = d.field('zp'+band) - d.field('zp'+band+'_calib')
   if band == 'h':
     apass[band] = d.field('apass_r')
+    sdss[band] = d.field('sdss_r')
   else:
     apass[band] = d.field('apass_'+band)
-  # Can we use Brent or APASS?
+    sdss[band] = d.field('sdss_'+band)
+
+
+  # Use Brent
   shift[band] = brent[band]
-  c_nobrent = np.isnan(brent[band])
-  shift[band][c_nobrent] = apass[band][c_nobrent]
-  # Convert NaN's to zeros
+  # Where Brent not available, use APASS
+  c_nodata = np.isnan(shift[band])
+  shift[band][c_nodata] = apass[band][c_nodata]
+  # Where APASS not available, use SDSS
+  c_nodata = np.isnan(shift[band])
+  shift[band][c_nodata] = sdss[band][c_nodata]
+  # Convert any remaining NaN's to zeros
   shift[band] = np.nan_to_num(shift[band])
 
 # Apply the calibration
@@ -79,6 +90,7 @@ f20p = d.field('f_outliers_20p')
 n10p = d.field('n_outliers_10p')
 n20p = d.field('n_outliers_20p')
 
+
 # Percentiles of crossmatching consistency parameters
 pct = [50,75,90,95]
 f10p_pct = dict( zip( pct, 
@@ -89,12 +101,17 @@ f20p_pct = dict( zip( pct,
                      ) )
 
 
-def quality_flag(fieldid, seeing, ellipt, r5sig, i5sig, h5sig, rmode, f10p, f20p, n10p, n20p):
+def quality_flag(fieldid, seeing, ellipt, 
+                 nstars, moon_separation,
+                 r5sig, i5sig, h5sig, rmode, 
+                 f10p, f20p, n10p, n20p):
     """Returns the quality flag"""
     if fieldid in blacklist:
       return "D"
 
-    if r5sig < 20.0 or i5sig < 19.0 or h5sig < 19.0 or rmode < 18.0 or ellipt > 0.2:
+    if ( r5sig < 20.0 or i5sig < 19.0 or h5sig < 19.0 
+        or rmode < 18.0 or ellipt > 0.2 
+        or nstars < 1000 or moon_separation < 20):
       return "D"
 
     if (seeing <= 1.25) \
@@ -126,6 +143,7 @@ def quality_flag(fieldid, seeing, ellipt, r5sig, i5sig, h5sig, rmode, f10p, f20p
     return "D"
 
 def quality_problems(fieldid, seeing, ellipt, 
+                    nstars, moon_separation,
                     r5sig, i5sig, h5sig, rmode, 
                     f10p, f20p, n10p, n20p,
                     rshift, ishift, hshift):
@@ -150,6 +168,10 @@ def quality_problems(fieldid, seeing, ellipt,
     problems.append( 'rmode<18 (calib %+.1f)' % (-rshift) )
   if ellipt > 0.2:
     problems.append( 'ellipt>0.2' ) 
+  if nstars < 1000:
+    problems.append( 'n_stars<1000' )
+  if moon_separation < 20:
+    problems.append( 'moon_separation<20' )
 
   if seeing > 2.5:
     problems.append( 'seeing>2.5' )
@@ -173,9 +195,11 @@ flagcount = {'A++':0, 'A+':0, 'A':0, 'B':0, 'C':0, 'D':0}
 
 for i in range(d.size):
     flag = quality_flag(myid[i], seeing[i], ellipt[i], 
+                        nstars[i], moon_separation[i],
                         r5sig[i], i5sig[i], h5sig[i], rmode[i], 
                         f10p[i], f20p[i], n10p[i], n20p[i])
     problems = quality_problems(myid[i], seeing[i], ellipt[i], 
+                        nstars[i], moon_separation[i],
                         r5sig[i], i5sig[i], h5sig[i], rmode[i], 
                         f10p[i], f20p[i], n10p[i], n20p[i],
                         shift['r'][i], shift['i'][i], shift['h'][i])
