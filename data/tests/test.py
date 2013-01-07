@@ -1,5 +1,5 @@
 """
-Implements a simply regression test to ensure that problems which have
+Implements a simple regression test to ensure that problems which have
 previously been identified and fixed do no re-occur.
 """
 import pyfits
