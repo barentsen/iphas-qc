@@ -228,6 +228,7 @@ image_ha image_r image_i
 conf_ha conf_r conf_i
 mercat
 is_anchor is_pdr
+r5sig_judged i5sig_judged h5sig_judged rmode_judged
 problems qflag
 is_ok is_best";
 colmeta -desc "Right Ascension of the r-band exposure." ra;

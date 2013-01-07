@@ -52,10 +52,28 @@ d = pyfits.getdata('../iphas-qc.fits', 1)
 myid = d.field('id')
 seeing = d.field('seeing_max')
 ellipt = d.field('ellipt_max')
-r5sig = d.field('r5sig')
-i5sig = d.field('i5sig')
-h5sig = d.field('h5sig')
-rmode = d.field('rmode')
+
+# Tricky: we need to take the calibration into account before judging depth
+brent, apass, shift = {}, {}, {}
+for band in ['r', 'i', 'h']:
+  brent[band] = d.field('zp'+band) - d.field('zp'+band+'_calib')
+  if band == 'h':
+    apass[band] = d.field('apass_r')
+  else:
+    apass[band] = d.field('apass_'+band)
+  # Can we use Brent or APASS?
+  shift[band] = brent[band]
+  c_nobrent = np.isnan(brent[band])
+  shift[band][c_nobrent] = apass[band][c_nobrent]
+  # Convert NaN's to zeros
+  shift[band] = np.nan_to_num(shift[band])
+
+# Apply the calibration
+r5sig = d.field('r5sig') - shift['r']
+i5sig = d.field('i5sig') - shift['i']
+h5sig = d.field('h5sig') - shift['h']
+rmode = d.field('rmode') - shift['r']
+
 f10p = d.field('f_outliers_10p')
 f20p = d.field('f_outliers_20p')
 n10p = d.field('n_outliers_10p')
@@ -107,7 +125,10 @@ def quality_flag(fieldid, seeing, ellipt, r5sig, i5sig, h5sig, rmode, f10p, f20p
     # else
     return "D"
 
-def quality_problems(fieldid, seeing, ellipt, r5sig, i5sig, h5sig, rmode, f10p, f20p, n10p, n20p):
+def quality_problems(fieldid, seeing, ellipt, 
+                    r5sig, i5sig, h5sig, rmode, 
+                    f10p, f20p, n10p, n20p,
+                    rshift, ishift, hshift):
   """
   Returns a string describing the various quality problems.
 
@@ -120,15 +141,15 @@ def quality_problems(fieldid, seeing, ellipt, r5sig, i5sig, h5sig, rmode, f10p, 
     problems.append( 'blacklisted ('+blacklist[fieldid]+')' )
 
   if r5sig < 20.0:
-    problems.append( 'r5sig<20' )
+    problems.append( 'r5sig<20 (calib %+.1f)' % (-rshift) )
   if i5sig < 19.0:
-    problems.append( 'i5sig<19' )
+    problems.append( 'i5sig<19 (calib %+.1f)' % (-ishift) )
   if h5sig < 19.0:
-    problems.append( 'h5sig<19' )
+    problems.append( 'h5sig<19 (calib %+.1f)' % (-hshift) )
   if rmode < 18.0:
-    problems.append( 'rmode<18' )
+    problems.append( 'rmode<18 (calib %+.1f)' % (-rshift) )
   if ellipt > 0.2:
-    problems.append( 'ellipt>0.2' )
+    problems.append( 'ellipt>0.2' ) 
 
   if seeing > 2.5:
     problems.append( 'seeing>2.5' )
@@ -146,7 +167,7 @@ def quality_problems(fieldid, seeing, ellipt, r5sig, i5sig, h5sig, rmode, f10p, 
 
 # Evaluate all observations and write the flags
 f = open('quality.csv', 'w')
-f.write('id,qflag,is_ok,problems\n')
+f.write('id,qflag,is_ok,problems,r5sig_judged,i5sig_judged,h5sig_judged,rmode_judged\n')
 
 flagcount = {'A++':0, 'A+':0, 'A':0, 'B':0, 'C':0, 'D':0}
 
@@ -156,14 +177,16 @@ for i in range(d.size):
                         f10p[i], f20p[i], n10p[i], n20p[i])
     problems = quality_problems(myid[i], seeing[i], ellipt[i], 
                         r5sig[i], i5sig[i], h5sig[i], rmode[i], 
-                        f10p[i], f20p[i], n10p[i], n20p[i])
+                        f10p[i], f20p[i], n10p[i], n20p[i],
+                        shift['r'][i], shift['i'][i], shift['h'][i])
     flagcount[flag] += 1
     # Quality acceptable?
     if flag.startswith('A') or flag.startswith('B') or flag.startswith('C'):
         is_quality_ok = "True"
     else:
         is_quality_ok = "False"
-    f.write( "%s,%s,%s,%s\n" % (myid[i], flag, is_quality_ok, problems) )
+    f.write( "%s,%s,%s,%s,%s,%s,%s,%s\n" % (myid[i], flag, is_quality_ok, problems,
+                              r5sig[i], i5sig[i], h5sig[i], rmode[i]) )
 
 f.close()
 

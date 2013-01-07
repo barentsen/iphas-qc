@@ -99,7 +99,7 @@ def get_rmode(fieldname, run):
     """
     c_dir = qc.field('dir') == run
     c = c_dir & (qc.field('field') == fieldname) 
-    return qc.field('rmode')[c][0]
+    return qc.field('rmode_judged')[c][0]
 
 def worst_grade(fieldname, run):
     """
