@@ -180,7 +180,7 @@ class Quicklook():
             myfits.writeto(filename_fits, clobber=True)
 
             # Montage/mJPEG
-            cmd = '%s -gray %s 20%% 99.9%% log -out %s' % (
+            cmd = '%s -gray %s 25%% 99.9%% log -out %s' % (
                     MJPEG,
                     filename_fits,
                     filename_jpg )
@@ -214,9 +214,9 @@ class Quicklook():
         # Note that we have to ensure that the channels have the same number of pixels
         cmd = '%s %s %s %s -set colorspace RGB -combine -set colorspace sRGB %s' % (
                 CONVERT,
-                self.filename_root + '_ha.jpg[6210x6150+0+0]',
-                self.filename_root + '_r.jpg[6210x6150+0+0]', 
-                self.filename_root + '_i.jpg[6210x6150+0+0]', 
+                self.filename_root + '_ha.jpg[6210x6145+0+0]',
+                self.filename_root + '_r.jpg[6210x6145+0+0]', 
+                self.filename_root + '_i.jpg[6210x6145+0+0]', 
                 self.filename_root + '.jpg'
                 )
         self.execute(cmd)
@@ -245,9 +245,10 @@ if __name__ == '__main__':
     datefmt="%Y-%m-%d %H:%M:%S" )
 
     # Nice examples:
-    # cloud: 7523_sep2005
+    # 7523_sep2005 - cloud 
+    # 0026o_nov2003b - seeing jumped to 5 arcsec in r
+    # 0027_oct2006b - funny big blob?
 
     #converter = FieldConverter('5674o_may2007')
-    quicklook = Quicklook('0009o_aug2010')
+    quicklook = Quicklook('0034o_oct2006b')
     quicklook.run()
-

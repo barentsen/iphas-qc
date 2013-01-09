@@ -2,7 +2,7 @@
 Create quicklook versions of all IPHAS fields
 
 This script is written for MPI, i.e. execute using:
-mpirun -np 8 python do-quicklook-mpi.py
+mpirun -np 4 python do-quicklook-mpi.py
 
 """
 import pyfits
