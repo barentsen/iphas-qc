@@ -33,6 +33,9 @@ if os.uname()[1] == 'uhppc11.herts.ac.uk':
     WORKDIR = '/home/gb/tmp/iphas-quicklook-scratch'
 else: 
     # Cluster
+    MJPEG = '/export/softcluster/Montage_v3.3/bin/mJPEG'
+    MSHRINK = '/export/softcluster/Montage_v3.3/bin/mShrink'
+
     IMAGEPATH = '/car-data/gb/iphas'
     OUTPATH = '/car-data/gb/iphas-quicklook'
     WORKDIR = '/tmp/iphas-quicklook-scratch'

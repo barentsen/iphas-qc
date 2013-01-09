@@ -4,6 +4,8 @@ Create quicklook versions of all IPHAS fields
 This script is written for MPI, i.e. execute using:
 mpirun -np 4 python do-quicklook-mpi.py
 
+or on the cluster
+qsub quicklook-cluster.job
 """
 import pyfits
 import logging
