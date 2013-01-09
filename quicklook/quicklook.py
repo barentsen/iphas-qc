@@ -38,7 +38,7 @@ else:
 
     IMAGEPATH = '/car-data/gb/iphas'
     OUTPATH = '/car-data/gb/iphas-quicklook'
-    WORKDIR = '/tmp/iphas-quicklook-scratch'
+    WORKDIR = '/stri-data/gb/scratch'
 
 
 class Quicklook():
