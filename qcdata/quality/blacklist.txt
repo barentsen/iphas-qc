@@ -6,3 +6,4 @@
 0977o_dec2003    # Suspect strong scattered light from full moon - Geert
 3489_dec2006     # Double image
 3489o_dec2006    # Double image
+0031_nov2003b    # i-band FITS image is corrupt, possibly only in Herts? (iphas_nov2003b/r376022.fit) - Geert

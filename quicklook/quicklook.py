@@ -38,7 +38,8 @@ else:
 
     IMAGEPATH = '/car-data/gb/iphas'
     OUTPATH = '/car-data/gb/iphas-quicklook'
-    WORKDIR = '/stri-data/gb/scratch'
+    #WORKDIR = '/stri-data/gb/scratch'
+    WORKDIR = '/tmp/gb-scratch'
 
 
 class Quicklook():
@@ -82,7 +83,9 @@ class Quicklook():
         conf_i = self.qc.field('conf_i')[c]            
         # Check if we found the filenames, throw an Exception otherwise
         if ( len(img_ha) == 1 & len(img_r) == 1 & len(img_i) == 1
-             & len(conf_ha) == 1 & len(conf_r) == 1 & len(conf_i) == 1 ):
+             & len(conf_ha) == 1 & len(conf_r) == 1 & len(conf_i) == 1 
+             & (img_ha[0] != '') & (img_r[0] != '') & (img_i[0] != '') 
+             & (conf_ha[0] != '') & (conf_r[0] != '') & (conf_i[0] != '') ):
             result = {'img_ha': IMAGEPATH+'/'+img_ha[0],
                     'img_r': IMAGEPATH+'/'+img_r[0], 
                     'img_i': IMAGEPATH+'/'+img_i[0],
@@ -92,7 +95,9 @@ class Quicklook():
             # Test if all the files exist
             for key in result.keys():
                 if not os.path.exists( result[key] ):
-                    raise Exception('Could not find %s' % result[key])
+                    raise Exception('Field %s: file %s does not exist' % (
+                            self.fieldid,
+                            result[key]) )
             return result
         else:
             raise Exception('Could not find fits filenames for %s' % (
@@ -109,9 +114,8 @@ class Quicklook():
         stdout = p.stdout.read().strip()
         stderr = p.stderr.read().strip()
         if stderr:
-            self.log.error("STDERR={%s} STDOUT={%s} CMD={%s}" % (stderr, stdout, cmd))
-            return False
-        
+            raise Exception("Error detected in quicklook.execute: STDERR={%s} STDOUT={%s} CMD={%s}" % (
+                                stderr, stdout, cmd))
         if stdout:
             self.log.debug( stdout )
         return True
@@ -137,7 +141,7 @@ class Quicklook():
             files_to_move.append(self.filename_root + '_' + band + '.fit')
 
         for filename in files_to_move:
-            cmd = 'mv %s %s' % (
+            cmd = '/bin/mv %s %s' % (
                     filename,
                     OUTPATH )
             self.execute(cmd)
@@ -153,7 +157,7 @@ class Quicklook():
 
         # Delete the leftover fits files
         for filename in files_to_remove:
-            cmd = 'rm %s' % (
+            cmd = '/bin/rm %s' % (
                    filename )
             self.execute(cmd)
 
@@ -175,6 +179,8 @@ class Quicklook():
                 filename_fits,
                 filename_conf )
             self.execute(cmd)
+
+            #if not os.path.exists(filename_fits):
 
             # Montage requires the equinox keyword to be '2000.0'
             # but CASUtools sets the value 'J2000.0'
@@ -236,10 +242,16 @@ class Quicklook():
         Main execution loop
 
         """
-        self.setup_workdir()
-        self.compute_jpegs()
-        self.move_jpegs()
-        self.clean_workdir()
+        try:
+            self.setup_workdir()
+            self.compute_jpegs()
+            self.move_jpegs()
+            self.clean_workdir()
+            return True
+        except Exception, e:
+            self.log.error('Quicklook.run() aborted with exception: "%s"' % e)
+            return False
+
 
 
 if __name__ == '__main__':
@@ -253,5 +265,5 @@ if __name__ == '__main__':
     # 0027_oct2006b - funny big blob?
 
     #converter = FieldConverter('5674o_may2007')
-    quicklook = Quicklook('0034o_oct2006b')
+    quicklook = Quicklook('0031_nov2003b')
     quicklook.run()
