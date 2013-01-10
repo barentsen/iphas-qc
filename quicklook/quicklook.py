@@ -171,13 +171,32 @@ class Quicklook():
             filename_jpg = self.filename_root + '_' + band + '.jpg'
             filename_jpg_small = self.filename_root + '_small_' + band + '.jpg'
 
+            # Copy the data and confidence map locally first
+            tmp_fits_filename = self.workdir + '/tmp_' + self.fieldid  + '_' + band + '.fit'
+            cmd = '/bin/cp %s %s' % (
+                fits_filenames['img_' + band],
+                tmp_fits_filename)
+            self.execute(cmd)
+
+            tmp_conf_filename = self.workdir + '/tmp_' + self.fieldid  + '_' + band + '_conf.fit'
+            cmd = '/bin/cp %s %s' % (
+                fits_filenames['conf_' + band],
+                tmp_conf_filename)
+            self.execute(cmd)            
+
             # CASUTools/Mosaic
             cmd = '%s %s %s %s %s --skyflag=0' % (
                 MOSAIC,
-                fits_filenames['img_' + band],
-                fits_filenames['conf_' + band],
+                tmp_fits_filename,
+                tmp_conf_filename,
                 filename_fits,
                 filename_conf )
+            self.execute(cmd)
+
+            # Remove the data copied locally
+            cmd = '/bin/rm %s %s' % (
+                        tmp_fits_filename,
+                        tmp_conf_filename)
             self.execute(cmd)
 
             #if not os.path.exists(filename_fits):
@@ -265,5 +284,5 @@ if __name__ == '__main__':
     # 0027_oct2006b - funny big blob?
 
     #converter = FieldConverter('5674o_may2007')
-    quicklook = Quicklook('0031_nov2003b')
+    quicklook = Quicklook('7523_sep2005')
     quicklook.run()
