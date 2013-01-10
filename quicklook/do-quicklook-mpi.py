@@ -12,6 +12,7 @@ import logging
 import quicklook
 import sys
 import os
+import time
 from mpi4py import MPI
 
 
@@ -73,6 +74,8 @@ def mpi_master():
         logging.info('Field %s sent to worker %s' % (field, rank_done))
         done.write('%s\n' % field)
         done.flush()
+        # Calm down
+        time.sleep(0.5)
 
     done.close()
 
