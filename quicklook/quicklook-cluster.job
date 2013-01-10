@@ -1,10 +1,12 @@
 #!/bin/sh -f                                                                    
 #PBS -N iphas-quicklook                                                                                                                              
+#PBS -m aeb 
+#PBS -M geert.barentsen@gmail.com
 #PSB -l pmem=1gb
-#PBS -l nodes=4:ppn=8                                                          
+#PBS -l nodes=2
 #PBS -k oe                                                                      
-#PBS -q main                                                                
-#PBS -l walltime=128:00:00                                                       
+#PBS -q main
+#PBS -l walltime=168:00:00                                                       
 
 echo ------------------------------------------------------
 echo -n 'Job is running on node '; cat $PBS_NODEFILE
@@ -23,9 +25,10 @@ echo PBS: PATH = $PBS_O_PATH
 echo ------------------------------------------------------
 
 export PYTHONPATH=/home/gb/bin/epd-7.3-1-rh5-x86_64/lib/python2.7/site-packages/
-export PATH=/home/gb/bin/epd-7.3-1-rh5-x86_64/bin
+export PATH=/home/gb/bin/epd-7.3-1-rh5-x86_64/bin:$PATH
 export LD_LIBRARY_PATH=/home/gb/bin/wcslib-4.15/lib:$LD_LIBRARY_PATH
 cd /home/gb/dev/iphas-qc/quicklook
 /usr/local/bin/mpiexec python $PBS_O_WORKDIR/do-quicklook-mpi.py
 echo ------------------------------------------------------
 echo Job ends
+
