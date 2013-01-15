@@ -7,3 +7,4 @@
 3489_dec2006     # Double image
 3489o_dec2006    # Double image
 0031_nov2003b    # i-band FITS image is corrupt, possibly only in Herts? (iphas_nov2003b/r376022.fit) - Geert
+0290_nov2006b    # Poor tracking in one band - Geert
