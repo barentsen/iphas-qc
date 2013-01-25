@@ -84,13 +84,9 @@ def mpi_master():
         # Send the worker the details of the next field
         comm.send(field, dest=rank_done)
         logging.info('Field %s sent to worker %s' % (field, rank_done))
-        done.write('%s\n' % field)
-        done.flush()
         # Calm down
         time.sleep(0.5)
-
-    done.close()
-
+        
     # Tell all workers we're finished
     for worker in range(1, comm.size):
         comm.send("FINISHED", dest=worker)
