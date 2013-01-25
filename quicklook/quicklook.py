@@ -284,5 +284,9 @@ if __name__ == '__main__':
     # 0027_oct2006b - funny big blob?
 
     #converter = FieldConverter('5674o_may2007')
-    quicklook = Quicklook('7523_sep2005')
+    quicklook = Quicklook('4450o_jul2004a')
+    quicklook.run()
+    quicklook = Quicklook('4450_jul2009')
+    quicklook.run()
+    quicklook = Quicklook('4450o_jul2009')
     quicklook.run()

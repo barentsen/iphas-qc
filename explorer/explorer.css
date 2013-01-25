@@ -1,0 +1,63 @@
+body{
+        font: 12px "Trebuchet MS", sans-serif;
+        margin: 50px;
+        background-color: black;
+        color: rgb(217, 217, 217); 
+}
+
+#page-wrap { 
+        width: 960px; 
+        margin: 6px auto 50px; 
+        position: relative; 
+}
+
+a  { 
+    text-decoration: none; 
+    color: #900; 
+    border-bottom: 1px dotted #900; 
+    outline: none; }
+
+h1 { 
+    font-size: 32px; 
+    font-weight: bold;
+    margin: 0 0 8px 0;
+}
+
+
+#field-box {
+    float: left;
+    padding: 2px;
+    vertical-align: middle;
+}
+
+#field {
+    font-size:16px;
+    padding: 5px;
+    font-weight: bold;
+    height: 36px;
+    width:160px;
+}
+
+#toolbar button {
+    width: 36px;
+    height: 36px;
+}
+
+#band-box {
+    font-size:11px;
+}
+
+#image-box {
+    background: #000000; 
+    float: left;
+    width: 620px;
+    height: 615px;
+    text-align:center;
+    vertical-align: middle;
+    color: #ffffff;
+}
+
+#image-box img {
+    padding-top:10px;
+}
+

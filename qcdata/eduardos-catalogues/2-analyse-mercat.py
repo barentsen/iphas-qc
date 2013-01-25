@@ -14,9 +14,10 @@ merdir = "/home/gb/tmp/iphas_sep2012_eglez/apm3.ast.cam.ac.uk/~eglez/iphas/newme
 
 csv = open("mercat-info.csv", "w")
 csv.write("mercat,field,dir,run_r,run_i,run_ha,time" \
-            + ",n_stars_r,n_stars_i,n_stars_ha,n_stars"\
+            + ",n_objects,n_stars_r,n_stars_i,n_stars_ha,n_stars"\
             + ",n_bright_r,n_bright_i,n_bright_ha"\
             + ",rmode,hamode" \
+            + ",rmedian,hamedian" \
             + ",r5sig,i5sig,h5sig" \
             + ",zpr,zpi,zph,e_zpr,e_zpi,e_zpha" \
             + ",fluxr_5sig,fluxi_5sig,fluxha_5sig,exp_r,exp_i,exp_ha" \
@@ -72,6 +73,7 @@ for mydir in os.walk(merdir):
             time = ""
 
         # Count objects classified as strictly stellar (-1)
+        n_objects = 0
         n_stars_r, n_stars_i, n_stars_ha, n_stars = 0, 0, 0, 0
         n_stars_faint = 0
         r_mags = np.array([])
@@ -93,6 +95,7 @@ for mydir in os.walk(merdir):
             c_star = (c_r & c_i & c_ha)
             #rmag = h['MAGZPTR'] - 2.5*log10(p[i].data.field("Ref_core_fluxap")/h['EXPREF']) - (h['AIRMASR']-1.0)*h['EXTINCR']
             #c = logical_and( logical_and(rmag > 13.0, rmag < 19.0), p[i].data.field("Ref_class") == -1)
+            n_objects += len(c_r) 
             n_stars_r += len(c_r[c_r])
             n_stars_i += len(c_i[c_i])
             n_stars_ha += len(c_ha[c_ha])
@@ -124,15 +127,18 @@ for mydir in os.walk(merdir):
             
 
         
-        # Compute magnitude distribution modes
+        # Compute magnitude distribution modes and medians
         modes = {}
+        medians = {}
         for myname in modenames:
             if len(mags[myname]) > 0:
                 # Binning: 0.25
                 mags_binned = (mags[myname]*4).round(0)/4.0
                 modes[myname] = stats.mode( mags_binned )[0][0]
+                medians[myname] = np.median( mags[myname] )
             else:
                 modes[myname] = 0.0
+                medians[myname] = 0.0
 
         # 5 sigma detection limits
         limit5sig = {}
@@ -149,8 +155,9 @@ for mydir in os.walk(merdir):
         # Add a row for this field to the CSV file
         # NOTE: field h['EXTINCR'] is missing from Eduardo's files
         csv.write( ("%s,%s,%s,%s,%s,%s,%s," \
-                    + "%s,%s,%s,%s," \
+                    + "%s,%s,%s,%s,%s," \
                     + "%s,%s,%s," \
+                    + "%.2f,%.2f," \
                     + "%.2f,%.2f," \
                     + "%.2f,%.2f,%.2f," \
                     + "%s,%s,%s,%s,%s,%s," \
@@ -158,9 +165,10 @@ for mydir in os.walk(merdir):
                     + "%s,%s,%s,%s,%s,%s\n") % \
                     (full_filename.partition("eglez/iphas/")[2], \
                     field, rundir, run_r, run_i, run_ha, time, \
-                    n_stars_r, n_stars_i, n_stars_ha, n_stars, \
+                    n_objects, n_stars_r, n_stars_i, n_stars_ha, n_stars, \
                     n_bright_r, n_bright_i, n_bright_ha, \
                     modes['rmode'], modes['hamode'], \
+                    medians['rmode'], medians['hamode'], \
                     limit5sig['r'], limit5sig['i'], limit5sig['h'], \
                     h['MAGZPTR'], h['MAGZPTC1'], h['MAGZPTC2'], \
                     h['MAGZRRR'], h['MAGZRRC1'], h['MAGZRRC2'], \

@@ -1,130 +1,81 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8">
-    <title>IPHAS FieldViewer</title>
-    <link rel="stylesheet" href="style.css" type="text/css" />
-    <link href="jquery-ui/css/smoothness/jquery-ui-1.9.2.custom.css" rel="stylesheet">
+    <title>IPHAS Explorer</title>
+
+    <!-- jQuery style and scripts -->
+    <link href="jquery-ui/css/dot-luv/jquery-ui-1.9.2.custom.css" rel="stylesheet">
     <script src="jquery-ui/js/jquery-1.8.3.js"></script>
     <script src="jquery-ui/js/jquery-ui-1.9.2.custom.js"></script>
 
-    <script src="iphas-qc.json"></script>
-    <script src="fieldviewer.js"></script>
-    <script>
-    $(function() {
-        $( "#bandbox" ).buttonset();
-
-$('#bandbox').change(function() {           
-    change_field('0234_oct2009');
-});
-
-        // Hover states on the static widgets
-        /*
-        $( "#icons li" ).hover(
-            function() {
-                $( this ).addClass( "ui-state-hover" );
-            },
-            function() {
-                $( this ).removeClass( "ui-state-hover" );
-            }
-        );*/
-
-        //Now you definitely have the cars so you can do the autocomplete
-        $('#field').autocomplete({
-            source:iphasqc,
-            minLength: 3,
-            focus: function( event, ui ) {
-                $('#field').val( ui.item.value );
-            },
-            select: function( event, ui ) {
-                $('#field').val( ui.item.value );
-                change_field( ui.item.value );
-                return false;
-            }
-        }); 
-
-    });
-
-    function change_field(id) {
-        debug('Change to '+id);
-        field = $('#field').val();
-        band = $('input:radio[name=band]:checked').val();
-
-        filename = field + band;
-        $('#quicklook-image').html( filename );
-    }
-    </script>
-    <style>
-    #icons {
-        margin: 0;
-        padding: 0;
-    }
-    #icons li {
-        margin: 2px;
-        position: relative;
-        padding: 10px 10px;
-        cursor: pointer;
-        float: left;
-        list-style: none;
-    }
-    #icons span.ui-icon {
-        float: left;
-        margin: 0 4px;
-    }
-
-    #fieldbox {
-        float: left;
-        font-size: 1.2em;
-        padding: 2px;
-    }
-
-    #field {
-        font-size:1.0em;
-        padding: 6px;
-    }
-
-    #quicklook-image {
-        padding: 15px;
-        background: #000000; 
-        float: left;
-    }
-    </style>
+    <!-- Own style and scripts -->
+    <script src="iphas-qc.js"></script>
+    <script src="explorer.js"></script>
+    <link rel="stylesheet" href="explorer.css" type="text/css" />
 </head>
 
 <body>
     <div id='page-wrap'>
-    <h1>IPHAS Explorer</h1>
 
-    <div id='control' style='margin-top:30px;'>
+    <div style='font-size:32px; font-weight:bold;'>
+    <img src='clipart/ship.png' style='float:left; width:120px; margin-left:280px; margin-right:25px;' />
+    <div style='float:left; padding-top:12px;'>
+         IPHAS<br/>Explorer
+    </div>   
+    </div>
+
+    <div id='control' style='clear:both; padding-top:32px; padding-left:240px;'>
         
-        <div id='fieldbox'>
-            <label for='field'>Field:</label>
-            <input type='text' name='field' id='field' />
+        <div id='field-box'>
+            <span id='field-span'>
+                <input type='text' name='field' id='field' value='0001_jul2007' class='ui-widget-content' />
+            </span>
+            <span id="toolbar">
+                  <button id="prev" style='margin-right:-1px;'>prev</button>
+                  <button id="next" style='margin-left:-1px;'>next</button>
+            </span>
+            <span id="best-box">
+                <input type="radio" id="best-true" name="best" value='true' checked="checked" /><label for="best-true">Best</label>
+                <input type="radio" id="best-false" name="best" value='false' /><label for="best-false">All</label>
+            </span>
+
+
+
         </div>
-        <div id="bandbox" style='float:left; margin-left:20px;'>
-            <input type="radio" id="band-col" name="band" value='color' checked="checked" /><label for="band-col">Ha+r+i</label>
+
+    </div>
+
+    <div id='data' style='clear:both; padding-top:40px;'>
+        <div id='image-box'></div>
+        <div id="band-box" style='position: absolute; top: 215px; left: 0;'>
+            <input type="radio" id="band-colour" name="band" value='colour' checked="checked" /><label for="band-colour">Colour</label>
             <input type="radio" id="band-ha" name="band" value='ha' /><label for="band-ha">Ha</label>
             <input type="radio" id="band-r" name="band" value='r' /><label for="band-r">r'</label>
             <input type="radio" id="band-i" name="band" value='i' /><label for="band-i">i'</label>
         </div>
 
-<!--
-        <div id='navigation' style='float:left; margin-left:20px;'>
-            <ul id="icons" class="ui-widget ui-helper-clearfix">
-<li class="ui-state-default ui-corner-all" title=".ui-icon-circle-arrow-e"><span class="ui-icon ui-icon-circle-arrow-w"></span>W</li>
-    <li class="ui-state-default ui-corner-all" title=".ui-icon-circle-arrow-s"><span class="ui-icon ui-icon-circle-arrow-n"></span>N</li>
-    <li class="ui-state-default ui-corner-all" title=".ui-icon-circle-arrow-w"><span class="ui-icon ui-icon-circle-arrow-s"></span>S</li>
-    <li class="ui-state-default ui-corner-all" title=".ui-icon-circle-arrow-n"><span class="ui-icon ui-icon-circle-arrow-e"></span>E</li>
+        <div id='field-info' style='float:left;'>  
 
-</ul>
+            <div id="accordion" style='clear:left; float:left; margin-left:15px; margin-right:0px; margin-top:10px; padding:0px; width:310px; height:580px;'>
+              <h3>Details</h3>
+              <div>
+                <p>
+                    <ul>
+                    <li>RA=<span id='ra'></span> / DEC=<span id='dec'></span></li>
+                    <li>L=<span id='l'></span> / B=<span id='b'></span></li>
+                    <li>Quality: <span id='qflag'></span></li>
+                    <li>Known problems: <span id='problems'></span></li>
+                    </ul>
+                </p>
+              </div>
+              <h3>Diagrams</h3>
+              <div>
+                TBD
+             </div>
+            </div>
+    
         </div>
--->
-    </div>
-
-    <div id='data' style='clear:both; padding-top:30px;'>
-        <div id='quicklook-image'>
-        <img src='http://stri-cluster.herts.ac.uk/~gb/0003_oct2006_small.jpg'/>
-        </div>
-    </div>
-
+</div>
+</div>
 </body>
 </html>

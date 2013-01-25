@@ -46,6 +46,24 @@ logfile.setFormatter(fmt)
 log.addHandler(logfile)
 """
 
+def is_done(field):
+    """Returns true if the given field has already been processed"""
+    basename = quicklook.OUTPATH+'/'+field
+    if os.path.exists(basename+'.jpg'):
+        return True
+    else:
+        return False
+
+
+"""
+    if os.path.exists('quicklook.done'):
+        fields_done = [field.strip() for field in open('quicklook.done', 'r').readlines()]
+    else:
+        fields_done = []
+
+    done = open('quicklook.done', 'a')  
+"""
+
 def mpi_master():
     """
     Distributes the work
@@ -56,15 +74,9 @@ def mpi_master():
     qc = pyfits.getdata(IPHASQC, 1)
     fields = qc.field('id')
 
-    if os.path.exists('quicklook.done'):
-        fields_done = [field.strip() for field in open('quicklook.done', 'r').readlines()]
-    else:
-        fields_done = []
-
-    done = open('quicklook.done', 'a')
-
     for field in fields:
-        if field in fields_done:
+        if is_done(field):
+            logging.info('Field %s previously done' % (field))
             continue
 
         # Wait for a worker to report for duty

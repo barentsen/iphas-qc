@@ -40,9 +40,9 @@ values1=id_brent values2=id \
 suffix1="" \
 icmd2='keepcols "id zpr_preferred zpi_preferred zph_preferred";' \
 ocmd='delcols "id_brent";
-addcol zpr_calib "(NULL_zpr_preferred || anchor == 0) ? zpr_brent : zpr_preferred";
-addcol zpi_calib "(NULL_zpi_preferred || anchor == 0) ? zpi_brent : zpi_preferred";
-addcol zph_calib "(NULL_zph_preferred || anchor == 0) ? zph_brent : zph_preferred";
+addcol zpr_finalsol3 "(NULL_zpr_preferred || anchor == 0) ? zpr_brent : zpr_preferred";
+addcol zpi_finalsol3 "(NULL_zpi_preferred || anchor == 0) ? zpi_brent : zpi_preferred";
+addcol zph_finalsol3 "(NULL_zph_preferred || anchor == 0) ? zph_brent : zph_preferred";
 ' \
 ofmt=fits out=$TMP
 
@@ -197,7 +197,7 @@ addcol mjd "isoToMjd(time)";
 addcol ra "hmsToDegrees(ra_r)";
 addcol dec "dmsToDegrees(dec_r)";
 addcol is_anchor "anchor == 1";
-addcol is_pdr "anchor == 0 || anchor == 1";
+addcol is_finalsol3 "anchor == 0 || anchor == 1";
 addcol is_offset "field.endsWith(\"o\")";' \
 ocmd='addskycoords -inunit deg -outunit deg fk5 galactic ra dec l b;
 keepcols "id anchor field dir n_stars 
@@ -210,9 +210,10 @@ is_samenightpair
 seeing_max ellipt_max airmass_max sky_max
 seeing_min ellipt_min airmass_min sky_min
 seeing_r seeing_i seeing_ha
+ellipt_r ellipt_i ellipt_ha
 zpr zpi zph 
 e_zpr e_zpi e_zpha
-zpr_calib zpi_calib zph_calib
+zpr_finalsol3 zpi_finalsol3 zph_finalsol3
 sdss_stars sdss_r sdss_i
 apass_stars apass_r apass_i
 shift_r_christine shift_i_christine shift_h_christine apass_shift_r_christine apass_shift_i_christine
@@ -227,7 +228,7 @@ run_ha run_r run_i
 image_ha image_r image_i
 conf_ha conf_r conf_i
 mercat
-is_anchor is_pdr
+is_anchor is_finalsol3
 rmode_judged r5sig_judged i5sig_judged h5sig_judged 
 problems qflag
 is_ok is_best";
@@ -236,9 +237,9 @@ colmeta -desc "Declination of the r-band exposure." dec;
 colmeta -desc "r-band zeropoint from Eduardo''s mercat header." zpr;
 colmeta -desc "i-band zeropoint from Eduardo''s mercat header." zpi;
 colmeta -desc "ha-band zeropoint from Eduardo''s mercat header." zph;
-colmeta -desc "r-band zeropoint from FINALSOL3 (or anchor-zp-shifts.asc if given!)" zpr_calib;
-colmeta -desc "i-band zeropoint from FINALSOL3 (or anchor-zp-shifts.asc if given!)" zpi_calib;
-colmeta -desc "ha-band zeropoint from FINALSOL3 (or anchor-zp-shifts.asc if given!)" zph_calib;
+colmeta -desc "r-band zeropoint from FINALSOL3 (or anchor-zp-shifts.asc if given!)" zpr_finalsol3;
+colmeta -desc "i-band zeropoint from FINALSOL3 (or anchor-zp-shifts.asc if given!)" zpi_finalsol3;
+colmeta -desc "ha-band zeropoint from FINALSOL3 (or anchor-zp-shifts.asc if given!)" zph_finalsol3;
 colmeta -desc "median(IPHAS_r - SDSS_DR9_r_transformed)" sdss_r;
 colmeta -desc "median(IPHAS_i - SDSS_DR9_i_transformed)" sdss_i;
 colmeta -desc "median(IPHAS_r - APASS_r_transformed)" apass_r;
