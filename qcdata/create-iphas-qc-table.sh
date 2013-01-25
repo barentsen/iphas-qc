@@ -9,7 +9,7 @@ STILTS="java -Xmx4000m -jar $HOME/bin/topcat-full.jar -stilts "
 
 # Adding in Brent's anchor info
 echo "============================"
-echo "Adding in Brent's FINALSOL3"
+echo "Start from catalogue summaries and add in Brent's FINALSOL3"
 echo "============================"
 $STILTS tmatch2 in1=eduardos-catalogues/mercat-info.csv ifmt1=csv \
 in2=brent-calibration/FINALSOL3.txt ifmt2=ascii \
@@ -200,8 +200,8 @@ addcol is_anchor "anchor == 1";
 addcol is_finalsol3 "anchor == 0 || anchor == 1";
 addcol is_offset "field.endsWith(\"o\")";' \
 ocmd='addskycoords -inunit deg -outunit deg fk5 galactic ra dec l b;
-keepcols "id anchor field dir n_stars 
-rmode 
+keepcols "id anchor field dir n_stars n_objects
+rmode rmedian
 r5sig i5sig h5sig
 n_outliers_10p n_outliers_20p	
 f_outliers_10p f_outliers_20p
@@ -246,6 +246,7 @@ colmeta -desc "median(IPHAS_r - APASS_r_transformed)" apass_r;
 colmeta -desc "median(IPHAS_i - APASS_i_transformed)" apass_i;
 colmeta -desc "Anchor column from FINALSOL3.TXT" anchor;
 colmeta -desc "Number of stellar objects (class=-1 in all bands)." n_stars;
+colmeta -desc "Number of objects in the r band (any class)." n_objects;
 colmeta -desc "Mode of the r magnitude distribution for those objects which are detected and classified as stellar or probably stellar in both the r and i bands. Used as a proxy for completeness." rmode;
 colmeta -desc "Median r magnitude of stars detected at SNR=5, i.e. where the photometric errors are 0.2 mag." r5sig;
 colmeta -desc "Median i magnitude of stars detected at SNR=5, i.e. where the photometric errors are 0.2 mag." i5sig;
