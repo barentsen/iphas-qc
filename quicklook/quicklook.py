@@ -16,6 +16,7 @@ import pyfits
 import logging
 import subprocess
 import shlex
+import glob
 
 """ CONFIGURATION CONSTANTS """
 IPHASQC = '/home/gb/dev/iphas-qc/qcdata/iphas-qc.fits'
@@ -148,12 +149,12 @@ class Quicklook():
 
     def clean_workdir(self):
         """
-        Remove the working directory.
+        Clean the working directory.
 
         """
         files_to_remove = []
-        for band in ['ha', 'r', 'i']:
-            files_to_remove.append(self.filename_root + '_' + band + '_conf.fit')
+        for filename in glob.iglob(self.workdir + '/*' + self.fieldid + '*'):
+            files_to_remove.append(filename)
 
         # Delete the leftover fits files
         for filename in files_to_remove:
@@ -269,6 +270,7 @@ class Quicklook():
             return True
         except Exception, e:
             self.log.error('Quicklook.run() aborted with exception: "%s"' % e)
+            self.clean_workdir()
             return False
 
 
