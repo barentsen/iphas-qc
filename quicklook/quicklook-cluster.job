@@ -3,7 +3,7 @@
 #PBS -m aeb 
 #PBS -M geert.barentsen@gmail.com
 #PSB -l pmem=1gb
-#PBS -l nodes=2
+#PBS -l nodes=8
 #PBS -k oe                                                                      
 #PBS -q main
 #PBS -l walltime=168:00:00                                                       
