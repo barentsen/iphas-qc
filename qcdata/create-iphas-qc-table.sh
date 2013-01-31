@@ -179,6 +179,15 @@ values1="id" values2="id" \
 fixcols="dups" suffix1="" suffix2="_qual" \
 ofmt=fits out=$TMP
 
+echo "============================"
+echo "Adding in FINALSOL4"
+echo "============================"
+$STILTS tmatch2 in1=$TMP ifmt1=fits \
+in2=../releases/pdr/finalsol4/finalsol4.csv ifmt2=csv \
+matcher=exact join=all1 find=best \
+values1="id" values2="id" \
+fixcols="dups" suffix1="" suffix2="_finalsol4" \
+ofmt=fits out=$TMP
 
 # Final arrangement
 echo "============================"
@@ -209,11 +218,13 @@ n_20p_r n_20p_i n_20p_h
 is_samenightpair
 seeing_max ellipt_max airmass_max sky_max
 seeing_min ellipt_min airmass_min sky_min
+n_stars_r n_stars_i n_stars_ha
 seeing_r seeing_i seeing_ha
 ellipt_r ellipt_i ellipt_ha
 zpr zpi zph 
 e_zpr e_zpi e_zpha
 zpr_finalsol3 zpi_finalsol3 zph_finalsol3
+zpr_pdr zpi_pdr zph_pdr
 sdss_stars sdss_r sdss_i
 apass_stars apass_r apass_i
 shift_r_christine shift_i_christine shift_h_christine apass_shift_r_christine apass_shift_i_christine
@@ -228,8 +239,8 @@ run_ha run_r run_i
 image_ha image_r image_i
 conf_ha conf_r conf_i
 mercat
-is_anchor is_finalsol3
-rmode_judged r5sig_judged i5sig_judged h5sig_judged 
+is_anchor is_finalsol3 is_pdr
+rmode_judged rmedian_judged r5sig_judged i5sig_judged h5sig_judged 
 problems qflag
 is_ok is_best";
 colmeta -desc "Right Ascension of the r-band exposure." ra;

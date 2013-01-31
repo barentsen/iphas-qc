@@ -3,7 +3,7 @@ Quality flags A/B/C/D are assigned to all fields as follows.
 
 First, all bad fields are automatically classified 'D':
 
- D  : ellipt > 0.2 || seeing > 2.5 || rmode < 18 
+ D  : ellipt > 0.3 || seeing > 2.5 || rmode < 18 
       || f_outliers_10p > 11.4 || f_outliers_20p > 0.65
       || r5sig < 20 || i5sig < 19 || h5sig < 19
       || n_stars < 1000 || moon_separation < 20
@@ -59,14 +59,13 @@ moon_separation = d.field('moon_separation')
 # Tricky: we need to take the calibration into account before judging depth
 brent, apass, sdss, shift = {}, {}, {}, {}
 for band in ['r', 'i', 'h']:
-  brent[band] = d.field('zp'+band) - d.field('zp'+band+'_calib')
+  brent[band] = d.field('zp'+band) - d.field('zp'+band+'_finalsol3')
   if band == 'h':
     apass[band] = d.field('apass_r')
     sdss[band] = d.field('sdss_r')
   else:
     apass[band] = d.field('apass_'+band)
     sdss[band] = d.field('sdss_'+band)
-
 
   # Use Brent
   shift[band] = brent[band]
@@ -84,6 +83,7 @@ r5sig = d.field('r5sig') - shift['r']
 i5sig = d.field('i5sig') - shift['i']
 h5sig = d.field('h5sig') - shift['h']
 rmode = d.field('rmode') - shift['r']
+rmedian = d.field('rmedian') - shift['r']
 
 f10p = d.field('f_outliers_10p')
 f20p = d.field('f_outliers_20p')
@@ -110,7 +110,7 @@ def quality_flag(fieldid, seeing, ellipt,
       return "D"
 
     if ( r5sig < 20.0 or i5sig < 19.0 or h5sig < 19.0 
-        or rmode < 18.0 or ellipt > 0.2 
+        or rmode < 18.0 or ellipt > 0.3 
         or nstars < 1000 or moon_separation < 20):
       return "D"
 
@@ -166,8 +166,8 @@ def quality_problems(fieldid, seeing, ellipt,
     problems.append( 'h5sig<19 (calib %+.1f)' % (-hshift) )
   if rmode < 18.0:
     problems.append( 'rmode<18 (calib %+.1f)' % (-rshift) )
-  if ellipt > 0.2:
-    problems.append( 'ellipt>0.2' ) 
+  if ellipt > 0.3:
+    problems.append( 'ellipt>0.3' ) 
   if nstars < 1000:
     problems.append( 'n_stars<1000' )
   if moon_separation < 20:
@@ -189,7 +189,7 @@ def quality_problems(fieldid, seeing, ellipt,
 
 # Evaluate all observations and write the flags
 f = open('quality.csv', 'w')
-f.write('id,qflag,is_ok,problems,r5sig_judged,i5sig_judged,h5sig_judged,rmode_judged\n')
+f.write('id,qflag,is_ok,problems,r5sig_judged,i5sig_judged,h5sig_judged,rmode_judged,rmedian_judged\n')
 
 flagcount = {'A++':0, 'A+':0, 'A':0, 'B':0, 'C':0, 'D':0}
 
@@ -209,8 +209,11 @@ for i in range(d.size):
         is_quality_ok = "True"
     else:
         is_quality_ok = "False"
-    f.write( "%s,%s,%s,%s,%s,%s,%s,%s\n" % (myid[i], flag, is_quality_ok, problems,
-                              r5sig[i], i5sig[i], h5sig[i], rmode[i]) )
+    f.write( "%s,%s,%s,%s,%s,%s,%s,%s,%s\n" % (
+                myid[i], flag, 
+                is_quality_ok, problems,
+                r5sig[i], i5sig[i], h5sig[i], 
+                rmode[i], rmedian[i]) )
 
 f.close()
 

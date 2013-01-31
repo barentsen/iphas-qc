@@ -92,14 +92,14 @@ def get_qflag(fieldname, run):
     else:
         return None
 
-def get_rmode(fieldname, run):
+def get_rmedian(fieldname, run):
     """
-    Get the rmode (proxy for completeness) for a given field/run combination
+    Get the rmedian (proxy for completeness) for a given field/run combination
 
     """
     c_dir = qc.field('dir') == run
     c = c_dir & (qc.field('field') == fieldname) 
-    return qc.field('rmode_judged')[c][0]
+    return qc.field('rmedian_judged')[c][0]
 
 def worst_grade(fieldname, run):
     """
@@ -128,24 +128,24 @@ def best_run_fieldpair(fieldname):
         return grades['A'][0]
     else:
         # We have multiple good candidates, 
-        #choose the one with the best mean rmode
-        meanmodes = []
+        #choose the one with the best mean rmedian
+        means = []
         for run in grades['A']:
-            rmode_mean = ( get_rmode(fieldname, run) 
-                           + get_rmode(fieldname+'o', run) ) / 2.0
-            meanmodes.append( rmode_mean )
-        return grades['A'][ np.argmax(meanmodes) ]
+            rmedian_mean = ( get_rmedian(fieldname, run) 
+                           + get_rmedian(fieldname+'o', run) ) / 2.0
+            means.append( rmedian_mean )
+        return grades['A'][ np.argmax(means) ]
 
 def deepest_amongst_runs(fieldname, runs):
     """
     Amongst a set of runs for a given field,
-    choose the one with the best rmode
+    choose the one with the best rmedian
 
     """
-    modes = []
+    medians = []
     for run in runs:
-        modes.append( get_rmode(fieldname, run) )
-    return runs[ np.argmax(modes) ]
+        medians.append( get_rmedian(fieldname, run) )
+    return runs[ np.argmax(medians) ]
 
 
 def best_run(fieldname):

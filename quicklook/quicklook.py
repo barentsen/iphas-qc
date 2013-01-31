@@ -9,6 +9,11 @@ mJPEG -gray hamos.fit 20% 99.9% log -out hamos.jpg
 mJPEG -gray rmos.fit 20% 99.9% log -out rmos.jpg
 mJPEG -gray imos.fit 20% 99.9% log -out imos.jpg
 convert hamos.jpg rmos.jpg imos.jpg -set colorspace RGB -combine -set colorspace sRGB rgbmos.jpg
+
+To convert the result into a silly movie, use
+ffmpeg -f image2 -pattern_type glob -r 4 -i 'iphas-quicklook/*small.jpg' -c:v libx264 iphas.avi
+or given a list of images
+cat $(cat list.txt) | ffmpeg -r 4 -f image2pipe -vcodec mjpeg -i - -c:v libx264 iphas.avi
 """
 
 import os

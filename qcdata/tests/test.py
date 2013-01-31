@@ -49,6 +49,16 @@ def assert_is_ok(fieldid, reason):
     else:
         test_failed( fieldid +': '+ reason )
 
+def assert_is_best(fieldid, reason):
+    """
+    Asserts whether a field is_best
+
+    """
+    c = qc.field('id') == fieldid
+    if qc.field('is_best')[c]:
+        test_passed( fieldid +': '+ reason )
+    else:
+        test_failed( fieldid +': '+ reason )
 
 if __name__ == '__main__':
 
@@ -68,6 +78,8 @@ if __name__ == '__main__':
     for fieldid in ids:
         assert_is_ok(fieldid, 'Crowded field which should not fail outlier check')
 
-
+    ids = ['4450_jul2009'] # cf e-mail Hywel 24 Jan 2013
+    for fieldid in ids:
+            assert_is_best(fieldid, 'Expected is_best')
     test_report()
 
