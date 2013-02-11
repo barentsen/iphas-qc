@@ -18,13 +18,14 @@ def is_local():
 """CONFIGURATION"""
 
 # Initialize logging
-logging.basicConfig( level=logging.WARNING )
+logging.basicConfig( level=logging.INFO )
 
 # Where are the images?
 if is_local():
     datadir = '/media/0133d764-0bfe-4007-a9cc-a7b1f61c4d1d/iphas/'
 else:
     datadir = '/car-data/gb/iphas/'
+logging.info('Datadir assumed to be at '+datadir)
 
 # Initialize output table
 out = open('iphas-images.csv', 'w')
@@ -115,7 +116,8 @@ def get_confmap(mydir, band):
 directories_to_ignore = ['junk', 'badones', 'crap', '9thoct', \
                          'Uband', 'gband', 'slow']
 
-for mydir in os.walk(datadir):
+for mydir in os.walk(datadir, followlinks=True):
+    logging.info('Entering '+mydir[0])
     # We're ignoring certain directories
     if mydir[0].split('/')[-1] in directories_to_ignore:
         continue
