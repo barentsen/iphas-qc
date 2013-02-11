@@ -1,0 +1,2 @@
+- Mike has separate directories for "oct2004" and "oct2004_extra" , the combined contents of which are called "iphas_oct2004" under ~eglez/newmerges.
+- Mysterious "extra/" under ~mike?
