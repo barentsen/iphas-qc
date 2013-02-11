@@ -6,60 +6,38 @@ import pyfits
 import logging
 import numpy as np
 from scipy import stats
-logging.basicConfig(level=logging.INFO)
-
-merdir = "/home/gb/tmp/iphas_sep2012_eglez/apm3.ast.cam.ac.uk/~eglez/iphas/newmerges/"
-#merdir = "/home/gb/tmp/iphas_nov2012/apm3.ast.cam.ac.uk/~eglez/iphas/newmerges/"
-
-
-csv = open("mercat-info.csv", "w")
-csv.write("mercat,field,dir,run_r,run_i,run_ha,time" \
-            + ",n_objects,n_stars_r,n_stars_i,n_stars_ha,n_stars"\
-            + ",n_bright_r,n_bright_i,n_bright_ha"\
-            + ",rmode,hamode" \
-            + ",rmedian,hamedian" \
-            + ",r5sig,i5sig,h5sig" \
-            + ",zpr,zpi,zph,e_zpr,e_zpi,e_zpha" \
-            + ",fluxr_5sig,fluxi_5sig,fluxha_5sig,exp_r,exp_i,exp_ha" \
-            + ",ext_r,ext_i,ext_ha,air_r,air_i,air_ha\n")
-
-csv_errors = open("corrupt-mercats.csv", "w")
-
-
-# Function to flag and save info on *.mer files which seem corrupt!
-def flag_problem(filename, message):
-    logging.warning("%s : %s" % (filename, message))
-    csv_errors.write("%s,%s\n" % (filename, message))
-    csv_errors.flush()
+import multiprocessing
+from multiprocessing import Pool
 
 
 
-for mydir in os.walk(merdir):
-    for filename in mydir[2]:
-        logging.info("%s/%s" % (mydir[0],filename))
-        full_filename = os.path.join(mydir[0], filename)
+class CatalogueStats():
+    """Class to open a MerCat catalogue and analyze the contents"""
 
-        # Only consider files of the form intphas_xxxxx.mer
-        if (not filename.startswith("intphas_")) or (not filename.endswith("_mercat.fits")):
-                continue
+    def __init__(self, filename):
+        """Give the full filename of the mercat file to be analyzed"""
+        logging.debug('Now analyzing %s' % filename)
+        self.filename = filename
+
+    def run(self):
+        """Run the analysis and returns a csv summary line as a string"""
         
         # Get dir and field number from filename
-        rundir = full_filename.split("/")[-2]
-        field = full_filename.split("/")[-1].split("_")[1]
+        rundir = self.filename.split("/")[-2]
+        field = self.filename.split("/")[-1].split("_")[1]
 
         # Open file and header
-        p = pyfits.open(full_filename)
+        p = pyfits.open(self.filename)
         h = p[1].header
 
         # Check if the file is valid
         if len(p) != 5:
-            flag_problem(full_filename, "NO_FIVE_EXTENSIONS")
-            continue
+            raise Exception("NO_FIVE_EXTENSIONS")
+        
         # Note: keyword FILTCOM1 is missing from Eduardo's files
         if not ( h.has_key("FILTREF") and h.has_key("FILTCOM2") \
             and h["FILTREF"] == "r" and h["FILTCOM2"] == "Halpha" ):
-            flag_problem(full_filename, "INCORRECT_FILTER_COMPARISON")
-            continue
+            raise Exception("INCORRECT_FILTER_COMPARISON")
 
         # Run numbers
         run_r = h['REFFILE'].split("r")[1].split("_")[0]
@@ -151,10 +129,9 @@ for mydir in os.walk(merdir):
                 limit5sig[myband] = 0.0
 
 
-
         # Add a row for this field to the CSV file
         # NOTE: field h['EXTINCR'] is missing from Eduardo's files
-        csv.write( ("%s,%s,%s,%s,%s,%s,%s," \
+        csv = ("%s,%s,%s,%s,%s,%s,%s," \
                     + "%s,%s,%s,%s,%s," \
                     + "%s,%s,%s," \
                     + "%.2f,%.2f," \
@@ -162,8 +139,8 @@ for mydir in os.walk(merdir):
                     + "%.2f,%.2f,%.2f," \
                     + "%s,%s,%s,%s,%s,%s," \
                     + "%s,%s,%s,%s,%s,%s," \
-                    + "%s,%s,%s,%s,%s,%s\n") % \
-                    (full_filename.partition("eglez/iphas/")[2], \
+                    + "%s,%s,%s,%s,%s,%s") % \
+                    (self.filename.partition("eglez/iphas/")[2], \
                     field, rundir, run_r, run_i, run_ha, time, \
                     n_objects, n_stars_r, n_stars_i, n_stars_ha, n_stars, \
                     n_bright_r, n_bright_i, n_bright_ha, \
@@ -175,12 +152,66 @@ for mydir in os.walk(merdir):
                     h['FLIMREF'], h['FLIMCOM1'], h['FLIMCOM2'], \
                     h['EXPREF'], h['EXPCOM1'], h['EXPCOM2'], \
                     "", h['EXTINCC1'], h['EXTINCC2'], \
-                    h['AIRMASR'], h['AIRMASC1'], h['AIRMASC2']) )
- 
-        csv.flush() # Sync CSV file to disk
-        p.close() # Close FITS
+                    h['AIRMASR'], h['AIRMASC1'], h['AIRMASC2'])
+        
+        p.close()
+        return csv
         
 
-# Important: sync CSV files to disk
-csv.close()
-csv_errors.close()
+
+def run():
+    # Empty the error log
+    csv_errors = open("corrupt-mercats.csv", "w")
+    csv_errors.close()
+
+    # Make a list of filenames
+    merdir = "/home/gb/tmp/iphas_sep2012_eglez/apm3.ast.cam.ac.uk/~eglez/iphas/newmerges/"
+    logging.info('Searching for mercat files in %s' % merdir)
+    filenames = []
+    for mydir in os.walk(merdir):
+        logging.debug('Entering %s' % mydir[0])
+        for filename in mydir[2]:
+            # Only consider files of the form intphas_xxxxx.mer
+            if (not filename.startswith("intphas_")) or (not filename.endswith("_mercat.fits")):
+                    continue
+            filenames.append( os.path.join(mydir[0], filename) )
+    logging.info('Found %d mercat files to analyze' % len(filenames))
+
+    # Execute our analysis for each mercat
+    p = Pool(processes=6)
+    results = p.imap(run_one, filenames) # returns an iterator
+
+    # Write the results
+    out = open("mercat-info.csv", "w")
+    out.write("mercat,field,dir,run_r,run_i,run_ha,time" \
+                + ",n_objects,n_stars_r,n_stars_i,n_stars_ha,n_stars"\
+                + ",n_bright_r,n_bright_i,n_bright_ha"\
+                + ",rmode,hamode" \
+                + ",rmedian,hamedian" \
+                + ",r5sig,i5sig,h5sig" \
+                + ",zpr,zpi,zph,e_zpr,e_zpi,e_zpha" \
+                + ",fluxr_5sig,fluxi_5sig,fluxha_5sig,exp_r,exp_i,exp_ha" \
+                + ",ext_r,ext_i,ext_ha,air_r,air_i,air_ha\n")
+    for r in results:
+        if r == None:
+            continue
+        out.write(r+'\n')
+        out.flush()
+    out.close()
+
+
+def run_one(filename):
+    try:
+        cs = CatalogueStats(filename)
+        result = cs.run()
+        return result
+    except Exception as e:
+        logging.error(e)
+        csv_errors = open("corrupt-mercats.csv", "a")
+        csv_errors.write( '%s,%s\n' % (filename, e) ) 
+        csv_errors.close()
+
+if __name__ == '__main__':
+    logging.basicConfig(level=logging.DEBUG)
+    run()
+    #print run_one('/local/home/gb/tmp/iphas_sep2012_eglez/apm3.ast.cam.ac.uk/~eglez/iphas/newmerges/iphas_oct2012/intphas_7596o_mercat.fits')
