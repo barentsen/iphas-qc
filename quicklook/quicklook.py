@@ -163,8 +163,9 @@ class Quicklook():
 
         # Delete the leftover fits files
         for filename in files_to_remove:
-            cmd = '/bin/rm %s' % (
-                   filename )
+            cmd = '/bin/chmod +w %s' % filename
+            self.execute(cmd)
+            cmd = '/bin/rm %s' % filename
             self.execute(cmd)
 
     def compute_jpegs(self):
@@ -200,6 +201,10 @@ class Quicklook():
             self.execute(cmd)
 
             # Remove the data copied locally
+            cmd = '/bin/chmod +w %s %s' % (
+                        tmp_fits_filename,
+                        tmp_conf_filename)
+            self.execute(cmd)
             cmd = '/bin/rm %s %s' % (
                         tmp_fits_filename,
                         tmp_conf_filename)
@@ -245,7 +250,7 @@ class Quicklook():
             
 
         # Final color mosaic
-        # Note that we have to ensure that the channels have the same number of pixels
+        # We have to ensure that the channels have the same number of pixels
         cmd = '%s %s %s %s -set colorspace RGB -combine -set colorspace sRGB %s' % (
                 CONVERT,
                 self.filename_root + '_ha.jpg[6210x6145+0+0]',
@@ -275,7 +280,7 @@ class Quicklook():
             return True
         except Exception, e:
             self.log.error('Quicklook.run() aborted with exception: "%s"' % e)
-            self.clean_workdir()
+            #self.clean_workdir()
             return False
 
 
@@ -291,9 +296,9 @@ if __name__ == '__main__':
     # 0027_oct2006b - funny big blob?
 
     #converter = FieldConverter('5674o_may2007')
-    quicklook = Quicklook('4450o_jul2004a')
-    quicklook.run()
-    quicklook = Quicklook('4450_jul2009')
-    quicklook.run()
-    quicklook = Quicklook('4450o_jul2009')
+    #quicklook = Quicklook('4450o_jul2004a')
+    #quicklook.run()
+    #quicklook = Quicklook('4450_jul2009')
+    #quicklook.run()
+    quicklook = Quicklook('0031_nov2003b')
     quicklook.run()

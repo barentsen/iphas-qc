@@ -6,7 +6,7 @@ These scripts assess the quality of all observations and assign quality flags (c
 Usage
 -----
 
-    ./update-quality-evaluation.sh
+    ./1-update-quality-evaluation.sh
 
 Contents
 --------

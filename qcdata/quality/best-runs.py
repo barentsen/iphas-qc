@@ -178,7 +178,8 @@ def best_ids(fieldname):
 
 if __name__ == '__main__':
     # The algorithm can be overriden by specifying winners manually
-    override = {'0003': ['0003_oct2009', '0003o_oct2009'] } # Good field, but mercat missing
+    #override = {'0003': ['0003_oct2009', '0003o_oct2009'] } # Good field, but mercat missing
+    override = {}
 
     # First, figure out the best run for each field
     winners = []
