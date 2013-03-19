@@ -1,2 +1,38 @@
 6219_oct2003    # see e-mail Janet 20121220
 6219o_oct2003   # see e-mail Janet 20121220
+0296_nov2006b   # Bright star (gam Cas - mag 2)
+0296o_nov2006b  # Bright star (gam Cas - mag 2)
+2275_nov2005    # Bright star (Capella - mag 1)
+2275o_nov2005   # Bright star (Capella - mag 1)
+2298_nov2009    # Bright star (Capella - mag 1)
+2298o_nov2009   # Bright star (Capella - mag 1)
+3854_jan2008    # Bright star (mag 3)
+3854o_jan2008   # Bright star (mag 3)
+4483_jun2004    # Bright star
+4483o_jun2004   # Bright star
+5013_aug2004b   # Bright star
+5013o_aug2004b  # Bright star
+5296_jul2009    # Bright star
+5296o_jul2009   # Bright star
+5868_aug2004a   # Bright star
+5868o_aug2004a  # Bright star
+6116_oct2003    # Bright star
+6116o_oct2003   # Bright star
+1819_nov2012    # Bright star
+1819o_nov2012   # Bright star
+2106_nov2005    # Bright star
+2106o_nov2005   # Bright star
+3263_oct2010    # Bright star
+3263o_oct2010   # Bright star
+3413_dec2006    # Bright star
+3413o_dec2006   # Bright star
+3720_nov2008    # Bright star
+3720o_nov2008   # Bright star
+5001_oct2012    # Bright star
+5001o_oct2012   # Bright star
+6726_nov2005    # Bright star
+6726o_nov2005   # Bright star
+6963_oct2004    # Bright star
+6963o_oct2004   # Bright star
+5255o_oct2012   # Bright star
+5296o_oct2012   # Bright star

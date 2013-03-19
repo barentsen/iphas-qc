@@ -41,11 +41,16 @@ import numpy as np
 def load_fieldlist(filename):
   """Load a list of fields into a dictionary"""
   fields = [line.split('#')[0].strip() for line in open(filename, 'r').readlines()]
-  comments = [line.split('#')[1].strip() for line in open(filename, 'r').readlines()]
-  return dict(zip(fields, comments))
+  try:
+    comments = [line.split('#')[1].strip() for line in open(filename, 'r').readlines()]
+    return dict(zip(fields, comments))
+  except IndexError:
+    return dict(zip(fields, fields))
+ 
  
 whitelist = load_fieldlist('whitelist.txt')
 blacklist = load_fieldlist('blacklist.txt')
+backgroundlist = load_fieldlist('uneven-background.txt')
 
 
 # Load QC data
@@ -108,6 +113,10 @@ def quality_flag(fieldid, seeing, ellipt,
     """Returns the quality flag"""
     if fieldid in blacklist:
       return "D"
+    if fieldid in backgroundlist:
+      return "D"
+    if fieldid in whitelist:
+      return "A++"
 
     if ( r5sig < 20.0 or i5sig < 19.0 or h5sig < 19.0 
         or rmode < 18.0 or ellipt > 0.3 
@@ -152,44 +161,60 @@ def quality_problems(fieldid, seeing, ellipt,
 
   """
   problems = []
+  problems_simple = []
 
   if fieldid in whitelist:
     problems.append( 'whitelisted ('+whitelist[fieldid]+')' )
+    problems_simple.append( 'Whitelisted ('+whitelist[fieldid]+')' )
   if fieldid in blacklist:
-    problems.append( 'blacklisted ('+blacklist[fieldid]+')' )
+    problems.append( blacklist[fieldid] )
+    problems_simple.append( blacklist[fieldid] )
+  if fieldid in backgroundlist:
+    problems.append( 'Background gradient' )
+    problems_simple.append( 'Background' )
 
   if r5sig < 20.0:
-    problems.append( 'r5sig<20 (calib %+.1f)' % (-rshift) )
+    problems.append( 'r5sig<20' )
+    problems_simple.append('Clouds')
   if i5sig < 19.0:
-    problems.append( 'i5sig<19 (calib %+.1f)' % (-ishift) )
+    problems.append( 'i5sig<19' )
+    problems_simple.append('Clouds')
   if h5sig < 19.0:
-    problems.append( 'h5sig<19 (calib %+.1f)' % (-hshift) )
+    problems.append( 'h5sig<19' )
+    problems_simple.append('Clouds')
   if rmode < 18.0:
-    problems.append( 'rmode<18 (calib %+.1f)' % (-rshift) )
+    problems.append( 'rmode<18' )
+    problems_simple.append('Clouds')
   if ellipt > 0.3:
     problems.append( 'ellipt>0.3' ) 
+    problems_simple.append('Ellipticity')
   if nstars < 1000:
     problems.append( 'n_stars<1000' )
+    problems_simple.append('Clouds')
   if moon_separation < 20:
     problems.append( 'moon_separation<20' )
+    problems_simple.append('Moon separation')
 
   if seeing > 2.5:
     problems.append( 'seeing>2.5' )
+    problems_simple.append('Seeing')
   elif seeing > 2.0:
     problems.append( 'seeing>2' )
+    problems_simple.append('Seeing')
 
   if not np.isnan(f10p) and not np.isnan(f20p):
     if ( (f10p >= f10p_pct[90] and n10p >= 20) 
           or (f20p >= f20p_pct[90] and n20p >= 10) ):
-      problems.append( 'outliers' )
+      problems.append( 'Noise' )
+      problems_simple.append('Inconsistent photometry')
 
-  return ' & '.join(problems)
+  return ' & '.join(problems), ' / '.join(np.unique(problems_simple))
 
 
 
 # Evaluate all observations and write the flags
 f = open('quality.csv', 'w')
-f.write('id,qflag,is_ok,problems,r5sig_judged,i5sig_judged,h5sig_judged,rmode_judged,rmedian_judged\n')
+f.write('id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,rmode_judged,rmedian_judged\n')
 
 flagcount = {'A++':0, 'A+':0, 'A':0, 'B':0, 'C':0, 'D':0}
 
@@ -198,7 +223,7 @@ for i in range(d.size):
                         nstars[i], moon_separation[i],
                         r5sig[i], i5sig[i], h5sig[i], rmode[i], 
                         f10p[i], f20p[i], n10p[i], n20p[i])
-    problems = quality_problems(myid[i], seeing[i], ellipt[i], 
+    problems, problems_simple = quality_problems(myid[i], seeing[i], ellipt[i], 
                         nstars[i], moon_separation[i],
                         r5sig[i], i5sig[i], h5sig[i], rmode[i], 
                         f10p[i], f20p[i], n10p[i], n20p[i],
@@ -209,9 +234,9 @@ for i in range(d.size):
         is_quality_ok = "True"
     else:
         is_quality_ok = "False"
-    f.write( "%s,%s,%s,%s,%s,%s,%s,%s,%s\n" % (
+    f.write( "%s,%s,%s,%s,%s,%s,%s,%s,%s,%s\n" % (
                 myid[i], flag, 
-                is_quality_ok, problems,
+                is_quality_ok, problems, problems_simple,
                 r5sig[i], i5sig[i], h5sig[i], 
                 rmode[i], rmedian[i]) )
 

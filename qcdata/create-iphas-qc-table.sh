@@ -4,6 +4,8 @@
 # and merges them into a single master file using topcat/stilts
 #
 
+java -version
+
 TMP="/tmp/iphas-qc-tmp.fits"
 STILTS="java -Xmx4000m -jar $HOME/bin/topcat-full.jar -stilts "
 
@@ -183,7 +185,7 @@ echo "============================"
 echo "Adding in FINALSOL4"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
-in2=../releases/pdr/finalsol4/finalsol4.csv ifmt2=csv \
+in2=../releases/pdr/pdr.csv ifmt2=csv \
 matcher=exact join=all1 find=best \
 values1="id" values2="id" \
 fixcols="dups" suffix1="" suffix2="_finalsol4" \
@@ -241,7 +243,7 @@ conf_ha conf_r conf_i
 mercat
 is_anchor is_finalsol3 is_pdr
 rmode_judged rmedian_judged r5sig_judged i5sig_judged h5sig_judged 
-problems qflag
+problems problems_simple qflag
 is_ok is_best";
 colmeta -desc "Right Ascension of the r-band exposure." ra;
 colmeta -desc "Declination of the r-band exposure." dec;
@@ -298,4 +300,4 @@ echo "============================"
 python tests/test.py
 
 # Copy to web directory
-cp iphas-qc.fits ~/public_html/iphas
+cp iphas-qc.fits ~/public_html/iphas-qc

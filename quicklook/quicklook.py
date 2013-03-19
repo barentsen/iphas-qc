@@ -36,7 +36,8 @@ if os.uname()[1] == 'uhppc11.herts.ac.uk':
     # Local
     IMAGEPATH = '/media/0133d764-0bfe-4007-a9cc-a7b1f61c4d1d/iphas'
     OUTPATH = '/home/gb/tmp/iphas-quicklook'
-    WORKDIR = '/home/gb/tmp/iphas-quicklook-scratch'
+    #WORKDIR = '/home/gb/tmp/iphas-quicklook-scratch'
+    WORKDIR = '/dev/shm'
 else: 
     # Cluster
     MJPEG = '/soft/Montage_v3.3/bin/mJPEG'
@@ -300,5 +301,5 @@ if __name__ == '__main__':
     #quicklook.run()
     #quicklook = Quicklook('4450_jul2009')
     #quicklook.run()
-    quicklook = Quicklook('0031_nov2003b')
+    quicklook = Quicklook('0972_nov2012')
     quicklook.run()

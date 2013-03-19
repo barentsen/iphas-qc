@@ -1,10 +1,17 @@
-4084o_aug2003    # Incorrect declination - Geert
-4085o_aug2003    # Incorrect declination - Geert
-4086o_aug2003    # Incorrect declination - Geert
-4087o_aug2003    # Incorrect declination - Geert
-4089o_aug2003    # Incorrect declination - Geert
-0977o_dec2003    # Suspect strong scattered light from full moon - Geert
+4084o_aug2003    # Incorrect declination
+4085o_aug2003    # Incorrect declination
+4086o_aug2003    # Incorrect declination
+4087o_aug2003    # Incorrect declination
+4089o_aug2003    # Incorrect declination
+0977o_dec2003    # Clouds
 3489_dec2006     # Double image
 3489o_dec2006    # Double image
-0031_nov2003b    # i-band FITS image corrupt? (iphas_nov2003b/r376022.fit) - Geert
-0290_nov2006b    # Poor tracking in one band - Geert
+0290_nov2006b    # Poor tracking
+0326o_oct2006b   # Faulty H-alpha image
+1114_oct2006b    # Oil drop
+1114o_oct2006b   # Oil drop
+1115_oct2006b    # Oil drop
+1115o_oct2006b   # Oil drop
+1157_oct2006b    # Oil drop
+1157o_oct2006b   # Oil drop
+1231_aug2009     # Faulty astrometry

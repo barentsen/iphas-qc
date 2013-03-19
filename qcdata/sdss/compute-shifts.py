@@ -197,8 +197,15 @@ for mydir in os.walk(merdir):
                                             sdss_i_match[n]) )
 
                 # Transform SDSS to IPHAS system using Gonzalez-Solares2011
-                comp_r = sdss_r_match - 0.144 + 0.006*(sdss_g_match - sdss_r_match)
-                comp_i = sdss_i_match - 0.411 - 0.073*(sdss_r_match - sdss_i_match)
+                #comp_r = sdss_r_match - 0.144 + 0.006*(sdss_g_match - sdss_r_match)
+                #comp_i = sdss_i_match - 0.411 - 0.073*(sdss_r_match - sdss_i_match)
+
+                # Transform SDSS to IPHAS using Geert's equations
+                #r_{IPHAS}[Vega] = r_{SDSS} -0.089 -0.021 (g_{SDSS} - r_{SDSS})
+                #i_{IPHAS}[Vega] = i_{SDSS} -0.318 -0.079 (r_{SDSS} - i_{SDSS})
+                comp_r = sdss_r_match - 0.089 - 0.021*(sdss_g_match - sdss_r_match)
+                comp_i = sdss_i_match - 0.318 - 0.079*(sdss_r_match - sdss_i_match)
+
                 # Compute shifts
                 r_diff = iphas_r_match - comp_r
                 i_diff = iphas_i_match - comp_i
@@ -258,6 +265,7 @@ for mydir in os.walk(merdir):
                 # Transform SDSS to APASS using Christine's transforms
                 comp_r = apass_r_match - 0.134 + 0.034*(apass_g_match - apass_r_match)
                 comp_i = apass_i_match - 0.360 - 0.019*(apass_r_match - apass_i_match)
+
                 # Compute shifts
                 r_diff_apass = iphas_r_match - comp_r
                 i_diff_apass = iphas_i_match - comp_i
