@@ -7,7 +7,7 @@
 java -version
 
 TMP="/tmp/iphas-qc-tmp.fits"
-STILTS="java -Xmx4000m -jar $HOME/bin/topcat-full.jar -stilts "
+STILTS="java -Xmx2000m -XX:+UseConcMarkSweepGC -jar $HOME/bin/topcat-full.jar -stilts "
 
 # Adding in Brent's anchor info
 echo "============================"
@@ -113,7 +113,7 @@ echo "Adding in Carlsberg Meridian Telescope sky quality data"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
 in2=carlsberg-meridian/carlsberg.csv ifmt2=csv \
-matcher=exact join=all1 find=best \
+matcher=exact join=all1 find=all \
 values1="night" values2="night" \
 fixcols="all" suffix1="" suffix2="_carlsberg" \
 ofmt=fits out=$TMP
@@ -127,17 +127,6 @@ matcher=exact join=all1 find=best \
 values1="id" values2="id_sdss" \
 suffix1="" \
 icmd2='addcol id_sdss "concat(field, \"_\", substring(dir,6))"' \
-ofmt=fits out=$TMP
-
-echo "============================"
-echo "Adding in Christine's shifts"
-echo "============================"
-$STILTS tmatch2 in1=$TMP ifmt1=fits \
-in2=christine-apass/apass_calibration.fits ifmt2=fits \
-matcher=exact join=all1 find=best \
-values1="id" values2="id_christine" \
-fixcols="all" suffix1="" suffix2="_christine" \
-icmd2='addcol id_christine "concat(field, \"_\", run)"' \
 ofmt=fits out=$TMP
 
 echo "============================"
@@ -229,7 +218,6 @@ zpr_finalsol3 zpi_finalsol3 zph_finalsol3
 zpr_pdr zpi_pdr zph_pdr
 sdss_stars sdss_r sdss_i
 apass_stars apass_r apass_i
-shift_r_christine shift_i_christine shift_h_christine apass_shift_r_christine apass_shift_i_christine
 time mjd night
 ext_r_carlsberg hours_phot_carlsberg hours_nonphot_carlsberg
 observer lost_weather lost_technical
