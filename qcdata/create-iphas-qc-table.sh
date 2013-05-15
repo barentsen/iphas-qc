@@ -180,6 +180,16 @@ values1="id" values2="id" \
 fixcols="dups" suffix1="" suffix2="_finalsol4" \
 ofmt=fits out=$TMP
 
+echo "============================"
+echo "Adding in new APASS shifts"
+echo "============================"
+$STILTS tmatch2 in1=$TMP ifmt1=fits \
+in2=apass/20130515-uncalibrated.fits ifmt2=fits \
+matcher=exact join=all1 find=best \
+values1="id" values2="Field" \
+fixcols="all" suffix1="" suffix2="_apassdr7" \
+ofmt=fits out=$TMP
+
 # Final arrangement
 echo "============================"
 echo "Gotterdammerung"
@@ -232,7 +242,9 @@ mercat
 is_anchor is_finalsol3 is_pdr
 rmode_judged rmedian_judged r5sig_judged i5sig_judged h5sig_judged 
 problems problems_simple qflag
-is_ok is_best";
+is_ok is_best
+rshift_apassdr7 ishift_apassdr7
+";
 colmeta -desc "Right Ascension of the r-band exposure." ra;
 colmeta -desc "Declination of the r-band exposure." dec;
 colmeta -desc "r-band zeropoint from Eduardo''s mercat header." zpr;
