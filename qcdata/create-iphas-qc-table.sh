@@ -171,16 +171,6 @@ fixcols="dups" suffix1="" suffix2="_qual" \
 ofmt=fits out=$TMP
 
 echo "============================"
-echo "Adding in FINALSOL4"
-echo "============================"
-$STILTS tmatch2 in1=$TMP ifmt1=fits \
-in2=../releases/pdr/pdr.csv ifmt2=csv \
-matcher=exact join=all1 find=best \
-values1="id" values2="id" \
-fixcols="dups" suffix1="" suffix2="_finalsol4" \
-ofmt=fits out=$TMP
-
-echo "============================"
 echo "Adding in new APASS shifts"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
@@ -225,7 +215,6 @@ ellipt_r ellipt_i ellipt_ha
 zpr zpi zph 
 e_zpr e_zpi e_zpha
 zpr_finalsol3 zpi_finalsol3 zph_finalsol3
-zpr_pdr zpi_pdr zph_pdr
 sdss_stars sdss_r sdss_i
 apass_stars apass_r apass_i
 time mjd night
@@ -239,11 +228,11 @@ run_ha run_r run_i
 image_ha image_r image_i
 conf_ha conf_r conf_i
 mercat
-is_anchor is_finalsol3 is_pdr
+is_anchor is_finalsol3 
 rmode_judged rmedian_judged r5sig_judged i5sig_judged h5sig_judged 
 problems problems_simple qflag
 is_ok is_best
-rshift_apassdr7 ishift_apassdr7
+rshift_apassdr7 ishift_apassdr7 rmatch_apassdr7 imatch_apassdr7
 ";
 colmeta -desc "Right Ascension of the r-band exposure." ra;
 colmeta -desc "Declination of the r-band exposure." dec;
