@@ -14,4 +14,3 @@
 1115o_oct2006b   # Oil drop
 1157_oct2006b    # Oil drop
 1157o_oct2006b   # Oil drop
-1231_aug2009     # Faulty astrometry
