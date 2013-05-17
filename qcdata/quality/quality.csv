@@ -6097,9 +6097,9 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 2165_oct2005b,D,False,Background gradient & r5sig<20,Background / Clouds,19.729,19.401,19.604,19.409,17.939
 2165o_oct2005b,D,False,Background gradient,Background,21.099,19.385,19.855,19.199,18.759
 2166_dec2007,A+,True,,,21.61,20.15,20.308,19.54,19.16
-2166_nov2005,A+,True,,,21.16,19.936,20.11,19.55,19.13
+2166_nov2005,D,False,Bad astrometry - prefer 2166_dec2007,Bad astrometry - prefer 2166_dec2007,21.16,19.936,20.11,19.55,19.13
 2166o_dec2007,A+,True,,,21.641,20.004,20.557,19.541,18.991
-2166o_nov2005,A+,True,,,21.179,19.951,20.129,19.549,19.099
+2166o_nov2005,D,False,Bad astrometry - prefer 2166o_dec2007,Bad astrometry - prefer 2166o_dec2007,21.179,19.951,20.129,19.549,19.099
 2167_oct2005b,A+,True,,,20.933,19.593,19.629,19.083,18.633
 2167o_oct2005b,A,True,,,21.349,19.952,20.452,19.689,18.859
 2168_aug2008,A,True,,,21.557,20.099,20.437,20.007,18.927
@@ -11662,9 +11662,9 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 4373o_jun2005,D,False,r5sig<20 & i5sig<19 & n_stars<1000 & seeing>2,Clouds / Seeing,0.0,0.0,19.24,18.0,17.88
 4373o_jun2007,A++,True,,,21.2,19.958,20.239,21.24,20.19
 4373o_may2007,B,True,seeing>2,Seeing,20.15,19.24,19.07,19.75,18.96
-4374_jul2004a,A+,True,,,21.59,20.34,20.7,21.25,19.62
+4374_jul2004a,D,False,Telescope moved between filters?,Telescope moved between filters?,21.59,20.34,20.7,21.25,19.62
 4374_jun2007,A++,True,,,21.49,20.15,20.43,19.25,19.67
-4374o_jul2004a,A++,True,,,21.56,20.21,20.69,21.25,19.69
+4374o_jul2004a,D,False,Telescope moved between filters?,Telescope moved between filters?,21.56,20.21,20.69,21.25,19.69
 4374o_jun2007,A++,True,,,21.49,20.12,20.43,18.75,19.6
 4375_jul2004a,A,True,,,21.34,20.29,20.73,21.0,19.62
 4375_jul2008,D,False,i5sig<19 & Noise,Clouds / Inconsistent photometry,20.15,18.85,19.13,19.25,18.64
@@ -11715,8 +11715,8 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 4385_oct2005b,A+,True,,,21.548,20.028,20.382,21.188,20.488
 4385o_jul2004a,A,True,,,21.35,20.13,20.47,21.0,20.14
 4385o_oct2005b,A,True,,,21.578,20.024,20.415,21.438,20.578
-4386_jul2004a,A,True,,,21.324,20.061,20.512,21.224,19.924
-4386o_jul2004a,A,True,,,21.299,20.238,20.413,20.969,19.879
+4386_jul2004a,D,False,Telescope moved between filters?,Telescope moved between filters?,21.324,20.061,20.512,21.224,19.924
+4386o_jul2004a,D,False,Telescope moved between filters?,Telescope moved between filters?,21.299,20.238,20.413,20.969,19.879
 4387_jul2004a,A+,True,,,21.705,20.147,20.657,21.755,20.375
 4387o_jul2004a,A,True,,,21.616,19.984,20.403,21.506,20.146
 4388_jul2004a,A,True,,,21.593,20.022,20.524,21.513,20.473
@@ -16647,7 +16647,7 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 5812o_oct2006b,A++,True,,,21.701,20.183,20.442,21.481,19.871
 5813_jun2005,A+,True,,,20.825,19.84,19.828,20.255,19.265
 5813o_jun2005,A+,True,,,20.786,19.853,19.895,20.236,19.136
-5814_jun2005,A,True,,,20.767,19.79,19.874,19.997,18.917
+5814_jun2005,D,False,WCS corrupt - did not manage to fix,WCS corrupt - did not manage to fix,20.767,19.79,19.874,19.997,18.917
 5814o_jun2005,A,True,,,20.715,19.814,19.875,20.005,18.805
 5815_jul2007,A++,True,,,20.95,19.961,19.982,20.95,19.76
 5815_jun2005,A,True,,,20.59,19.54,19.75,19.5,18.77

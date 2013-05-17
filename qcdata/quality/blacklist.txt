@@ -14,3 +14,10 @@
 1115o_oct2006b   # Oil drop
 1157_oct2006b    # Oil drop
 1157o_oct2006b   # Oil drop
+2166_nov2005     # Bad astrometry - prefer 2166_dec2007
+2166o_nov2005    # Bad astrometry - prefer 2166o_dec2007
+4374_jul2004a    # Telescope moved between filters?
+4374o_jul2004a   # Telescope moved between filters?
+4386_jul2004a    # Telescope moved between filters?
+4386o_jul2004a   # Telescope moved between filters?
+5814_jun2005     # WCS corrupt - did not manage to fix
