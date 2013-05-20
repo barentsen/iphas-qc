@@ -113,7 +113,7 @@ echo "Adding in Carlsberg Meridian Telescope sky quality data"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
 in2=carlsberg-meridian/carlsberg.csv ifmt2=csv \
-matcher=exact join=all1 find=all \
+matcher=exact join=all1 find=best1 \
 values1="night" values2="night" \
 fixcols="all" suffix1="" suffix2="_carlsberg" \
 ofmt=fits out=$TMP
@@ -123,7 +123,7 @@ echo "Adding in SDSS shifts"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
 in2=sdss/shifts.csv.gz ifmt2=csv \
-matcher=exact join=all1 find=best \
+matcher=exact join=all1 find=best1 \
 values1="id" values2="id_sdss" \
 suffix1="" \
 icmd2='addcol id_sdss "concat(field, \"_\", substring(dir,6))"' \
@@ -134,7 +134,7 @@ echo "Adding in fieldpair crossmatching data"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
 in2=fieldpair-crossmatching/pairs.csv ifmt2=csv \
-matcher=exact join=all1 find=best \
+matcher=exact join=all1 find=best1 \
 values1="id" values2="id" \
 fixcols="dups" suffix1="" suffix2="_pairscsv" \
 icmd2='keepcols "id n_matched n_outliers_10p n_outliers_20p f_outliers_10p f_outliers_20p n_20p_r n_20p_i n_20p_h is_samenightpair"' \
@@ -145,7 +145,7 @@ echo "Adding in moon data"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
 in2=moon/moon.csv ifmt2=csv \
-matcher=exact join=all1 find=best \
+matcher=exact join=all1 find=best1 \
 values1="id" values2="id" \
 fixcols="dups" suffix1="" suffix2="_moon" \
 ofmt=fits out=$TMP
@@ -155,7 +155,7 @@ echo "Adding in quality flags (A++, A+, A, B, C)"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
 in2=quality/quality.csv ifmt2=csv \
-matcher=exact join=all1 find=best \
+matcher=exact join=all1 find=best1 \
 values1="id" values2="id" \
 fixcols="dups" suffix1="" suffix2="_qual" \
 ofmt=fits out=$TMP
@@ -165,7 +165,7 @@ echo "Adding in the is_best column"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
 in2=quality/best-runs.csv ifmt2=csv \
-matcher=exact join=all1 find=best \
+matcher=exact join=all1 find=best1 \
 values1="id" values2="id" \
 fixcols="dups" suffix1="" suffix2="_qual" \
 ofmt=fits out=$TMP
@@ -174,8 +174,8 @@ echo "============================"
 echo "Adding in new APASS shifts"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
-in2=apass/20130515-uncalibrated.fits ifmt2=fits \
-matcher=exact join=all1 find=best \
+in2=apass/20130520-shifts.fits ifmt2=fits \
+matcher=exact join=all1 find=best1 \
 values1="id" values2="Field" \
 fixcols="all" suffix1="" suffix2="_apassdr7" \
 ofmt=fits out=$TMP
