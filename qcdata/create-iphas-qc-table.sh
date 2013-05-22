@@ -174,7 +174,7 @@ echo "============================"
 echo "Adding in new APASS shifts"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
-in2=apass/20130520-shifts.fits ifmt2=fits \
+in2=apass/20130521-shifts-nobs3.fits ifmt2=fits \
 matcher=exact join=all1 find=best1 \
 values1="id" values2="Field" \
 fixcols="all" suffix1="" suffix2="_apassdr7" \
