@@ -180,6 +180,16 @@ values1="id" values2="Field" \
 fixcols="all" suffix1="" suffix2="_apassdr7" \
 ofmt=fits out=$TMP
 
+echo "============================"
+echo "Photometric stability"
+echo "============================"
+$STILTS tmatch2 in1=$TMP ifmt1=fits \
+in2=r-ha-offsets/photometric-stability.fits ifmt2=fits \
+matcher=exact join=all1 find=best1 \
+values1="run_ha" values2="run_ha" \
+fixcols="dups" suffix1="" suffix2="_stab" \
+ofmt=fits out=$TMP
+
 # Final arrangement
 echo "============================"
 echo "Gotterdammerung"
@@ -217,6 +227,7 @@ e_zpr e_zpi e_zpha
 zpr_finalsol3 zpi_finalsol3 zph_finalsol3
 sdss_stars sdss_r sdss_i
 apass_stars apass_r apass_i
+rdiff hadiff
 time mjd night
 ext_r_carlsberg hours_phot_carlsberg hours_nonphot_carlsberg
 observer lost_weather lost_technical

@@ -1,13 +1,11 @@
 = IPHAS repeat observation priorities =
 
-The script 'assign-repeat-priorities.py' selects IPHAS fields which need to be re-observed, based on the quality control information that has been collected in the table 'iphas-observations.fits'.
+The script 'assign-repeat-priorities.py' selects IPHAS fields which need to be re-observed, based on the quality control information that has been collected in the table 'iphas-qc.fits'.
 
 
 == QUALITY CONTROL DATA ==
 
-Quality information for all fields reduced by CASU was collated in a table called "iphas-observations.fits":
-
-http://star.herts.ac.uk/~gb/iphas/iphas-observations.fits
+Quality information for all fields reduced by CASU was collated in a table called "iphas-qc.fits".
 
 Apart from the traditional quality control information (seeing/ellipt/sky/airmass), the table includes new quality indicators which have been generated from the catalogues.
 The most useful indicators are:
