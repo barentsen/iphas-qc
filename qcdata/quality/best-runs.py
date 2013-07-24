@@ -9,11 +9,11 @@ Terminology
 * field: a pointing in the sky;
 * run: epoch at which a certain field was observed.
 """
-import pyfits
+from astropy.io import fits
 import numpy as np
 
 # Collated quality information
-qc = pyfits.getdata('../iphas-qc.fits', 1)
+qc = fits.getdata('../iphas-qc.fits', 1)
 
 
 """ HELPER FUNCTIONS """

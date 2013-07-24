@@ -2,11 +2,11 @@
 Implements a simple regression test to ensure that problems which have
 previously been identified and fixed do no re-occur.
 """
-import pyfits
+from astropy.io import fits
 import os
 
 qc_filename = os.path.abspath(os.path.dirname(__file__)) + '/../iphas-qc.fits'
-qc = pyfits.getdata(qc_filename, 1)
+qc = fits.getdata(qc_filename, 1)
 
 tests_failed = []
 tests_passed = []

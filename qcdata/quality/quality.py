@@ -34,7 +34,7 @@ Note: the increasing limits for "f_outliers_10p/20p" are based on the
 percentiles of these quality indicators.
 """
 
-import pyfits
+from astropy.io import fits
 import numpy as np
 
 
@@ -54,7 +54,7 @@ backgroundlist = load_fieldlist('uneven-background.txt')
 
 
 # Load QC data
-d = pyfits.getdata('../iphas-qc.fits', 1)
+d = fits.getdata('../iphas-qc.fits', 1)
 myid = d.field('id')
 seeing = d.field('seeing_max')
 ellipt = d.field('ellipt_max')
@@ -66,11 +66,11 @@ brent, apass, sdss, shift = {}, {}, {}, {}
 for band in ['r', 'i', 'h']:
   brent[band] = d.field('zp'+band) - d.field('zp'+band+'_finalsol3')
   if band == 'h':
-    apass[band] = d.field('apass_r')
-    sdss[band] = d.field('sdss_r')
+    apass[band] = d.field('rshift_apassdr7')
+    sdss[band] = d.field('rshift_sdss')
   else:
-    apass[band] = d.field('apass_'+band)
-    sdss[band] = d.field('sdss_'+band)
+    apass[band] = d.field(band+'shift_apassdr7')
+    sdss[band] = d.field(band+'shift_sdss')
 
   # Use Brent
   shift[band] = brent[band]

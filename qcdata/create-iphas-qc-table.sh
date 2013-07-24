@@ -119,17 +119,6 @@ fixcols="all" suffix1="" suffix2="_carlsberg" \
 ofmt=fits out=$TMP
 
 echo "============================"
-echo "Adding in SDSS shifts"
-echo "============================"
-$STILTS tmatch2 in1=$TMP ifmt1=fits \
-in2=sdss/shifts.csv.gz ifmt2=csv \
-matcher=exact join=all1 find=best1 \
-values1="id" values2="id_sdss" \
-suffix1="" \
-icmd2='addcol id_sdss "concat(field, \"_\", substring(dir,6))"' \
-ofmt=fits out=$TMP
-
-echo "============================"
 echo "Adding in fieldpair crossmatching data"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
@@ -174,10 +163,20 @@ echo "============================"
 echo "Adding in new APASS shifts"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
-in2=apass/20130521-shifts-nobs3.fits ifmt2=fits \
+in2=apass/APASS_precalibration_allfields.fits ifmt2=fits \
 matcher=exact join=all1 find=best1 \
 values1="id" values2="Field" \
 fixcols="all" suffix1="" suffix2="_apassdr7" \
+ofmt=fits out=$TMP
+
+echo "============================"
+echo "Adding in new SDSS shifts"
+echo "============================"
+$STILTS tmatch2 in1=$TMP ifmt1=fits \
+in2=apass/SDSS_precalibration.fits ifmt2=fits \
+matcher=exact join=all1 find=best1 \
+values1="id" values2="Field" \
+fixcols="all" suffix1="" suffix2="_sdss" \
 ofmt=fits out=$TMP
 
 echo "============================"
@@ -225,8 +224,6 @@ ellipt_r ellipt_i ellipt_ha
 zpr zpi zph 
 e_zpr e_zpi e_zpha
 zpr_finalsol3 zpi_finalsol3 zph_finalsol3
-sdss_stars sdss_r sdss_i
-apass_stars apass_r apass_i
 rdiff hadiff
 time mjd night
 ext_r_carlsberg hours_phot_carlsberg hours_nonphot_carlsberg
@@ -244,6 +241,7 @@ rmode_judged rmedian_judged r5sig_judged i5sig_judged h5sig_judged
 problems problems_simple qflag
 is_ok is_best
 rshift_apassdr7 ishift_apassdr7 rmatch_apassdr7 imatch_apassdr7
+rshift_sdss ishift_sdss rmatch_sdss imatch_sdss
 ";
 colmeta -desc "Right Ascension of the r-band exposure." ra;
 colmeta -desc "Declination of the r-band exposure." dec;
@@ -253,10 +251,6 @@ colmeta -desc "ha-band zeropoint from Eduardo''s mercat header." zph;
 colmeta -desc "r-band zeropoint from FINALSOL3 (or anchor-zp-shifts.asc if given!)" zpr_finalsol3;
 colmeta -desc "i-band zeropoint from FINALSOL3 (or anchor-zp-shifts.asc if given!)" zpi_finalsol3;
 colmeta -desc "ha-band zeropoint from FINALSOL3 (or anchor-zp-shifts.asc if given!)" zph_finalsol3;
-colmeta -desc "median(IPHAS_r - SDSS_DR9_r_transformed)" sdss_r;
-colmeta -desc "median(IPHAS_i - SDSS_DR9_i_transformed)" sdss_i;
-colmeta -desc "median(IPHAS_r - APASS_r_transformed)" apass_r;
-colmeta -desc "median(IPHAS_i - APASS_i_transformed)" apass_i;
 colmeta -desc "Anchor column from FINALSOL3.TXT" anchor;
 colmeta -desc "Number of stellar objects (class=-1 in all bands)." n_stars;
 colmeta -desc "Number of objects in the r band (any class)." n_objects;

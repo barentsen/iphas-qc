@@ -21,3 +21,5 @@
 4386_jul2004a    # Telescope moved between filters?
 4386o_jul2004a   # Telescope moved between filters?
 5814_jun2005     # WCS corrupt - did not manage to fix
+3183o_dec2007    # Stars show long trails
+6154_oct2003     # Double image (H-alpha)
