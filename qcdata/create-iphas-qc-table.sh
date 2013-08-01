@@ -173,7 +173,7 @@ echo "============================"
 echo "Adding in new SDSS shifts"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
-in2=apass/SDSS_precalibration.fits ifmt2=fits \
+in2=apass/SDSS_precalibration_allfields.fits ifmt2=fits \
 matcher=exact join=all1 find=best1 \
 values1="id" values2="Field" \
 fixcols="all" suffix1="" suffix2="_sdss" \

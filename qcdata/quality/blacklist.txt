@@ -23,3 +23,6 @@
 5814_jun2005     # WCS corrupt - did not manage to fix
 3183o_dec2007    # Stars show long trails
 6154_oct2003     # Double image (H-alpha)
+4259o_jun2004    # Telescope moved after H-alpha exposure
+5495_oct2005b    # Failed to improve poor astrometry
+5495o_oct2005b   # Failed to improve poor astrometry
