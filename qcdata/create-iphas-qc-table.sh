@@ -189,6 +189,30 @@ values1="run_ha" values2="run_ha" \
 fixcols="dups" suffix1="" suffix2="_stab" \
 ofmt=fits out=$TMP
 
+echo "============================"
+echo "Anchors"
+echo "============================"
+$STILTS tmatch2 in1=$TMP ifmt1=fits \
+in2=calibration/anchors-r.csv ifmt2=csv \
+matcher=exact join=all1 find=best1 \
+values1="run_r" values2="run" \
+fixcols="dups" suffix1="" suffix2="_anchors_r" \
+ofmt=fits out=$TMP
+
+echo "============================"
+echo "Calibration"
+echo "============================"
+for FILTER in r i ha; do
+    $STILTS tmatch2 in1=$TMP ifmt1=fits \
+    in2=calibration/calibration-$FILTER.csv ifmt2=csv \
+    matcher=exact join=all1 find=best1 \
+    values1="run_$FILTER" values2="run" \
+    fixcols="dups" suffix1="" suffix2="_calibration_$FILTER" \
+    icmd2="addcol calib_$FILTER shift" \
+    ofmt=fits out=$TMP
+done
+
+
 # Final arrangement
 echo "============================"
 echo "Gotterdammerung"
@@ -205,7 +229,6 @@ addcol ellipt_min "minimum( array(ellipt_r, ellipt_i, ellipt_ha) )";
 addcol mjd "isoToMjd(time)";
 addcol ra "hmsToDegrees(ra_r)";
 addcol dec "dmsToDegrees(dec_r)";
-addcol is_anchor "anchor == 1";
 addcol is_finalsol3 "anchor == 0 || anchor == 1";
 addcol is_offset "field.endsWith(\"o\")";' \
 ocmd='addskycoords -inunit deg -outunit deg fk5 galactic ra dec l b;
@@ -236,12 +259,13 @@ run_ha run_r run_i
 image_ha image_r image_i
 conf_ha conf_r conf_i
 mercat
-is_anchor is_finalsol3 
+is_finalsol3 
 rmode_judged rmedian_judged r5sig_judged i5sig_judged h5sig_judged 
 problems problems_simple qflag
 is_ok is_best
 rshift_apassdr7 ishift_apassdr7 rmatch_apassdr7 imatch_apassdr7
 rshift_sdss ishift_sdss rmatch_sdss imatch_sdss
+is_anchor calib_r calib_i calib_ha
 ";
 colmeta -desc "Right Ascension of the r-band exposure." ra;
 colmeta -desc "Declination of the r-band exposure." dec;
