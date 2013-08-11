@@ -139,15 +139,24 @@ def priority_b():
     log.info('Identified {0} priority B fields'.format(len(fields)))
     return fields
 
+def scattered_light():
+    """Returns a list of fields badly affected by scattered light."""
+    with open('dr2-scattered-light.txt', 'r') as myfile:
+        fields = [row.strip().split('_')[0] for row in myfile.readlines()]
+        return fields
+
 
 ########
 # MAIN
 ########
 if __name__ == "__main__": 
+    
     todo = IPHASToDo()
     todo.add_fields(priority_a())
-    todo.add_fields(priority_b())
+    todo.add_fields(scattered_light())
+    #todo.add_fields(priority_b())
     todo.print_stats()
     todo.write_todo_files()
     todo.write_done_file()
     todo.test_output()
+    
