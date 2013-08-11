@@ -230,6 +230,7 @@ addcol mjd "isoToMjd(time)";
 addcol ra "hmsToDegrees(ra_r)";
 addcol dec "dmsToDegrees(dec_r)";
 addcol is_finalsol3 "anchor == 0 || anchor == 1";
+addcol is_dr2 "is_best & qflag != \"D\"";
 addcol is_offset "field.endsWith(\"o\")";' \
 ocmd='addskycoords -inunit deg -outunit deg fk5 galactic ra dec l b;
 keepcols "id anchor field dir n_stars n_objects
@@ -262,7 +263,7 @@ mercat
 is_finalsol3 
 rmode_judged rmedian_judged r5sig_judged i5sig_judged h5sig_judged 
 problems problems_simple qflag
-is_ok is_best
+is_ok is_best is_dr2
 rshift_apassdr7 ishift_apassdr7 rmatch_apassdr7 imatch_apassdr7
 rshift_sdss ishift_sdss rmatch_sdss imatch_sdss
 is_anchor calib_r calib_i calib_ha

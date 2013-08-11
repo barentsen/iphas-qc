@@ -26,3 +26,6 @@
 4259o_jun2004    # Telescope moved after H-alpha exposure
 5495_oct2005b    # Failed to improve poor astrometry
 5495o_oct2005b   # Failed to improve poor astrometry
+4663o_aug2004a   # Nasty stripes in H-alpha image
+4771_oct2006     # Clouds
+4771o_oct2006    # Clouds
