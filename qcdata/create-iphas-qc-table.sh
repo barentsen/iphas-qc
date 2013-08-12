@@ -122,11 +122,11 @@ echo "============================"
 echo "Adding in fieldpair crossmatching data"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
-in2=fieldpair-crossmatching/pairs.csv ifmt2=csv \
+in2=fieldpair-crossmatching/pairs-new.csv ifmt2=csv \
 matcher=exact join=all1 find=best1 \
 values1="id" values2="id" \
 fixcols="dups" suffix1="" suffix2="_pairscsv" \
-icmd2='keepcols "id n_matched n_outliers_10p n_outliers_20p f_outliers_10p f_outliers_20p n_20p_r n_20p_i n_20p_h is_samenightpair"' \
+icmd2='keepcols "id n_matched n_outliers_10p n_outliers_20p f_outliers_10p f_outliers_20p n_20p_r n_20p_i n_20p_h is_samenightpair med_dr med_di med_dh std_dr std_di std_dh"' \
 ofmt=fits out=$TMP
 
 echo "============================"
@@ -240,6 +240,7 @@ n_outliers_10p n_outliers_20p
 f_outliers_10p f_outliers_20p
 n_20p_r n_20p_i n_20p_h
 is_samenightpair
+med_dr med_di med_dh std_dr std_di std_dh
 seeing_max ellipt_max airmass_max sky_max
 seeing_min ellipt_min airmass_min sky_min
 n_stars_r n_stars_i n_stars_ha
