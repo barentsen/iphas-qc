@@ -6,7 +6,7 @@ mpirun -np 8 nice python crossmatch-mpi.py
 """
 from mpi4py import MPI
 import logging
-import pyfits
+from astropy.io import fits as pyfits
 import numpy as np
 import os
 from matplotlib import pyplot as plt
@@ -30,6 +30,7 @@ PLOT_DIR = '/home/gb/tmp/iphas-quickphot'
 # Define the magnitude limits for photometry comparison
 MAG_LIMITS = {'r': [14,18], 'i':[13,18], 'h':[13,18]}
 
+STILTS = 'nice java -Xmx2000M -XX:+UseConcMarkSweepGC -jar /home/gb/dev/iphas-dr2/lib/stilts.jar'
 
 class FieldChecker():
     
@@ -104,21 +105,21 @@ class FieldChecker():
         """
         # Concatenate multi-extension catalogues and crossmatch using stilts
         cmd = []
-        cmd.append("stilts tcat in=%s multi=true ocmd='addcol RAd \"radiansToDegrees(RA)\"; addcol DECd \"radiansToDegrees(DEC)\";' out=/tmp/%s_concat1.fits > /dev/null" 
-                    % (file1, self.field) )
-        cmd.append("stilts tcat in=%s multi=true ocmd='addcol RAd \"radiansToDegrees(RA)\"; addcol DECd \"radiansToDegrees(DEC)\";' out=/tmp/%s_concat2.fits > /dev/null" 
-                    % (file2, self.field) )
+        cmd.append("%s tcat in=%s multi=true ocmd='addcol RAd \"radiansToDegrees(RA)\"; addcol DECd \"radiansToDegrees(DEC)\";' out=/tmp/%s_concat1.fits > /dev/null" 
+                    % (STILTS, file1, self.field) )
+        cmd.append("%s tcat in=%s multi=true ocmd='addcol RAd \"radiansToDegrees(RA)\"; addcol DECd \"radiansToDegrees(DEC)\";' out=/tmp/%s_concat2.fits > /dev/null" 
+                    % (STILTS, file2, self.field) )
 
         # Remove blended sources from both concatenated catalogues
         # It is crucial to remove all objects which have neighbours within 3 arcsec!
         for number in [1,2]: 
-            cmd.append("stilts tmatch1 progress=none matcher=sky "
+            cmd.append("%s tmatch1 progress=none matcher=sky "
                        + "values=\"RAd DECd\" params=3 action=keep0 "
-                       + "in=/tmp/%s_concat%d.fits out=/tmp/%s_concat%d_deblend.fits > /dev/null" % (self.field, number, self.field, number) )
+                       + "in=/tmp/%s_concat%d.fits out=/tmp/%s_concat%d_deblend.fits > /dev/null" % (STILTS, self.field, number, self.field, number) )
 
         # Crossmatch
-        cmd.append("stilts tskymatch2 "
-                      " in1=/tmp/%s_concat1_deblend.fits in2=/tmp/%s_concat2_deblend.fits" % (self.field, self.field) + 
+        cmd.append("%s tskymatch2 "
+                      " in1=/tmp/%s_concat1_deblend.fits in2=/tmp/%s_concat2_deblend.fits" % (STILTS, self.field, self.field) + 
                       " ra1='RAd' dec1='DECd'" +
                       " ra2='RAd' dec2='DECd'" +
                       " error=0.1 out=/tmp/%s_xmatch.fits 2> /dev/null" % (self.field) )
