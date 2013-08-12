@@ -25,7 +25,7 @@ TAG_DONE = 851   # All work is done
 
 # directory containing catalogues
 IPHAS_OBSERVATIONS = '../iphas-qc.fits'
-MERCAT_DIR = '/home/gb/tmp/iphas_sep2012_eglez/apm3.ast.cam.ac.uk/~eglez/iphas'
+MERCAT_DIR = '/car-data/gb/iphas-dr2-rc2/bandmerged'
 PLOT_DIR = '/home/gb/tmp/iphas-quickphot'
 # Define the magnitude limits for photometry comparison
 MAG_LIMITS = {'r': [14,18], 'i':[13,18], 'h':[13,18]}
@@ -104,9 +104,9 @@ class FieldChecker():
         """
         # Concatenate multi-extension catalogues and crossmatch using stilts
         cmd = []
-        cmd.append("stilts tcat in=%s multi=true ocmd='addcol RAd \"radiansToDegrees(RA)\"; addcol DECd \"radiansToDegrees(DEC)\";' out=/dev/shm/%s_concat1.fits > /dev/null" 
+        cmd.append("stilts tcat in=%s multi=true ocmd='addcol RAd \"radiansToDegrees(RA)\"; addcol DECd \"radiansToDegrees(DEC)\";' out=/tmp/%s_concat1.fits > /dev/null" 
                     % (file1, self.field) )
-        cmd.append("stilts tcat in=%s multi=true ocmd='addcol RAd \"radiansToDegrees(RA)\"; addcol DECd \"radiansToDegrees(DEC)\";' out=/dev/shm/%s_concat2.fits > /dev/null" 
+        cmd.append("stilts tcat in=%s multi=true ocmd='addcol RAd \"radiansToDegrees(RA)\"; addcol DECd \"radiansToDegrees(DEC)\";' out=/tmp/%s_concat2.fits > /dev/null" 
                     % (file2, self.field) )
 
         # Remove blended sources from both concatenated catalogues
@@ -114,14 +114,14 @@ class FieldChecker():
         for number in [1,2]: 
             cmd.append("stilts tmatch1 progress=none matcher=sky "
                        + "values=\"RAd DECd\" params=3 action=keep0 "
-                       + "in=/dev/shm/%s_concat%d.fits out=/dev/shm/%s_concat%d_deblend.fits > /dev/null" % (self.field, number, self.field, number) )
+                       + "in=/tmp/%s_concat%d.fits out=/tmp/%s_concat%d_deblend.fits > /dev/null" % (self.field, number, self.field, number) )
 
         # Crossmatch
         cmd.append("stilts tskymatch2 "
-                      " in1=/dev/shm/%s_concat1_deblend.fits in2=/dev/shm/%s_concat2_deblend.fits" % (self.field, self.field) + 
+                      " in1=/tmp/%s_concat1_deblend.fits in2=/tmp/%s_concat2_deblend.fits" % (self.field, self.field) + 
                       " ra1='RAd' dec1='DECd'" +
                       " ra2='RAd' dec2='DECd'" +
-                      " error=0.1 out=/dev/shm/%s_xmatch.fits 2> /dev/null" % (self.field) )
+                      " error=0.1 out=/tmp/%s_xmatch.fits 2> /dev/null" % (self.field) )
 
         for c in cmd:
             os.system(c)
@@ -137,7 +137,7 @@ class FieldChecker():
         labels = ['Ha', "r", "i"]
 
         # Count number of crossmatched stars
-        d = pyfits.getdata('/dev/shm/%s_xmatch.fits' % self.field, 1)
+        d = pyfits.getdata('/tmp/%s_xmatch.fits' % self.field, 1)
         c_star = ((d['rClass_1'] == -1) & (d['rClass_2'] == -1)
                     & (d['iClass_1'] == -1) & (d['iClass_2'] == -1)
                     & (d['hClass_1'] == -1) & (d['hClass_2'] == -1) )        
@@ -176,7 +176,7 @@ class FieldChecker():
 
         """
         # Count number of crossmatched stars
-        d = pyfits.getdata('/dev/shm/%s_xmatch.fits' % self.field, 1)
+        d = pyfits.getdata('/tmp/%s_xmatch.fits' % self.field, 1)
         c_star = ((d['rClass_1'] == -1) & (d['rClass_2'] == -1)
                     & (d['iClass_1'] == -1) & (d['iClass_2'] == -1)
                     & (d['hClass_1'] == -1) & (d['hClass_2'] == -1) )
@@ -241,11 +241,11 @@ class FieldChecker():
     def clean(self):
         # Clean
         cmd = []
-        cmd.append("rm /dev/shm/%s_concat1.fits" % self.field)
-        cmd.append("rm /dev/shm/%s_concat2.fits" % self.field)
-        cmd.append("rm /dev/shm/%s_concat1_deblend.fits" % self.field)
-        cmd.append("rm /dev/shm/%s_concat2_deblend.fits" % self.field)
-        cmd.append("rm /dev/shm/%s_xmatch.fits" % self.field)
+        cmd.append("rm /tmp/%s_concat1.fits" % self.field)
+        cmd.append("rm /tmp/%s_concat2.fits" % self.field)
+        cmd.append("rm /tmp/%s_concat1_deblend.fits" % self.field)
+        cmd.append("rm /tmp/%s_concat2_deblend.fits" % self.field)
+        cmd.append("rm /tmp/%s_xmatch.fits" % self.field)
         for c in cmd:
             os.system(c)
 
@@ -269,13 +269,13 @@ class FieldChecker():
             out.append( '%s,%s,%s,%s' % 
                                 (pair['partner1'], pair['partner2'], 
                                  pair['is_samenight'], csv) )
-            self.plot(pair['partner1'], pair['partner2'])
+            #self.plot(pair['partner1'], pair['partner2'])
 
             if pair['is_samenight']:
                 out.append( '%s,%s,%s,%s' % 
                                     (pair['partner2'], pair['partner1'], 
                                      pair['is_samenight'], csv) )
-                self.plot(pair['partner2'], pair['partner1'])
+                #self.plot(pair['partner2'], pair['partner1'])
 
             self.clean()
 
@@ -290,8 +290,9 @@ def mpi_master():
     """
     logging.info("Running on %d cores" % comm.size)
 
-    iphas_largest_fieldnumber = 7635
-    for fieldnumber in np.arange(1000, iphas_largest_fieldnumber+1):
+    #iphas_largest_fieldnumber = 7635
+    iphas_largest_fieldnumber = 5
+    for fieldnumber in np.arange(1, iphas_largest_fieldnumber+1):
         myfield = '%04d' % fieldnumber
          # Wait for a worker to report for duty
         rank_done = comm.recv(source=MPI.ANY_SOURCE, tag=TAG_GIVE_WORK)
@@ -373,26 +374,25 @@ def mpi_run():
     return
 
 
-def do(field):
-    checker = FieldChecker(field)
-    checker.run()   
 
 """ MAIN EXECUTION """
 if __name__ == "__main__":
-    #mpi_run()
+    mpi_run()
     """
     checker = FieldChecker('7000')
     csv = checker.run()
     print csv
     """
+    """
     from multiprocessing import Pool
 
     qc = pyfits.getdata(IPHAS_OBSERVATIONS, 1)
-    c = qc.field('is_best') & (qc.field('qflag') == "D")
+    #c = qc.field('is_best') & (qc.field('qflag') == "D")
+    c = qc.field('is_dr2') & qc.field('is_anchor')
     fields = set([f[0:4] for f in qc.field('field')[c]])
-    fields = ['7000', '7001', '7002']
     p = Pool(processes=8)
     p.map(do, fields)
+    """
 
     
 

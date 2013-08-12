@@ -128,7 +128,7 @@ def priority_b():
     """Returns a list of field to be repeated with the second highest priority"""
     fields = []
     mask_priority_b = ( IPHASQC['is_dr2'] & 
-                        (IPHASQC['l'] < 60) &
+                        (IPHASQC['l'] < 90) &
                            (
                                 (IPHASQC['seeing_max'] >= 1.8) |
                                 (IPHASQC['r5sig_judged'] < 20.2)
