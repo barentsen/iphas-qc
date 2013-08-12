@@ -30,7 +30,7 @@ PLOT_DIR = '/home/gb/tmp/iphas-quickphot'
 # Define the magnitude limits for photometry comparison
 MAG_LIMITS = {'r': [14,18], 'i':[13,18], 'h':[13,18]}
 
-STILTS = 'nice java -Xmx2000M -XX:+UseConcMarkSweepGC -jar /home/gb/dev/iphas-dr2/lib/stilts.jar'
+STILTS = 'nice java -Xmx2000M -XX:+UseConcMarkSweepGC -jar /home/gb/dev/iphas-dr2/dr2/lib/stilts.jar'
 
 class FieldChecker():
     
@@ -92,39 +92,30 @@ class FieldChecker():
         Returns the location of the catalogue for a given field id
 
         """
-        result = self.meta.field('mercat')[ self.meta.field('id') == fieldid ]
-        if len(result) == 1:
-            return MERCAT_DIR+'/'+result[0]
-        else:
-            raise Exception('Could not find mercat filename for %s in metadata table' % fieldid)
+        return os.path.join(MERCAT_DIR, fieldid+'.fits')
+        #result = self.meta.field('mercat')[ self.meta.field('id') == fieldid ]
+        #if len(result) == 1:
+        #    return MERCAT_DIR+'/'+result[0]
+        #else:
+        #    raise Exception('Could not find mercat filename for %s in metadata table' % fieldid)
 
     def crossmatch(self, file1, file2):
         """
         Crossmatch two catalogues
 
         """
-        # Concatenate multi-extension catalogues and crossmatch using stilts
         cmd = []
-        cmd.append("%s tcat in=%s multi=true ocmd='addcol RAd \"radiansToDegrees(RA)\"; addcol DECd \"radiansToDegrees(DEC)\";' out=/tmp/%s_concat1.fits > /dev/null" 
-                    % (STILTS, file1, self.field) )
-        cmd.append("%s tcat in=%s multi=true ocmd='addcol RAd \"radiansToDegrees(RA)\"; addcol DECd \"radiansToDegrees(DEC)\";' out=/tmp/%s_concat2.fits > /dev/null" 
-                    % (STILTS, file2, self.field) )
-
-        # Remove blended sources from both concatenated catalogues
-        # It is crucial to remove all objects which have neighbours within 3 arcsec!
-        for number in [1,2]: 
-            cmd.append("%s tmatch1 progress=none matcher=sky "
-                       + "values=\"RAd DECd\" params=3 action=keep0 "
-                       + "in=/tmp/%s_concat%d.fits out=/tmp/%s_concat%d_deblend.fits > /dev/null" % (STILTS, self.field, number, self.field, number) )
-
         # Crossmatch
-        cmd.append("%s tskymatch2 "
-                      " in1=/tmp/%s_concat1_deblend.fits in2=/tmp/%s_concat2_deblend.fits" % (STILTS, self.field, self.field) + 
-                      " ra1='RAd' dec1='DECd'" +
-                      " ra2='RAd' dec2='DECd'" +
-                      " error=0.1 out=/tmp/%s_xmatch.fits 2> /dev/null" % (self.field) )
+        cmd.append("%s tmatch2 matcher=sky " % STILTS +
+                      " in1=%s in2=%s" % (file1, file2) + 
+                      " icmd1='select \"(errBits == 0) & (pStar > 0.2) & (r < 19) & (i < 19) & (ha < 19)\";' " +
+                      " icmd2='select \"(errBits == 0) & (pStar > 0.2) & (r < 19) & (i < 19) & (ha < 19)\";' " +
+                      " values1='ra dec'" +
+                      " values2='ra dec'" +
+                      " params=0.5 out=/tmp/%s_xmatch.fits 2> /dev/null" % (self.field) )
 
         for c in cmd:
+            # print c
             os.system(c)
 
     def plot(self, partner1, partner2):
@@ -178,16 +169,15 @@ class FieldChecker():
         """
         # Count number of crossmatched stars
         d = pyfits.getdata('/tmp/%s_xmatch.fits' % self.field, 1)
-        c_star = ((d['rClass_1'] == -1) & (d['rClass_2'] == -1)
-                    & (d['iClass_1'] == -1) & (d['iClass_2'] == -1)
-                    & (d['hClass_1'] == -1) & (d['hClass_2'] == -1) )
-        c_bright_star = ( c_star 
-                          & (d['rApermag3_1'] > MAG_LIMITS['r'][0]) 
-                          & (d['rApermag3_1'] < MAG_LIMITS['r'][1])
-                          & (d['iApermag3_1'] > MAG_LIMITS['i'][0]) 
-                          & (d['iApermag3_1'] < MAG_LIMITS['i'][1])
-                          & (d['hApermag3_1'] > MAG_LIMITS['h'][0]) 
-                          & (d['hApermag3_1'] < MAG_LIMITS['h'][1]) )
+        #c_star = ((d['rClass_1'] == -1) & (d['rClass_2'] == -1)
+        #            & (d['iClass_1'] == -1) & (d['iClass_2'] == -1)
+        #            & (d['hClass_1'] == -1) & (d['hClass_2'] == -1) )
+        c_bright_star = (   (d['r_1'] > MAG_LIMITS['r'][0]) 
+                          & (d['r_1'] < MAG_LIMITS['r'][1])
+                          & (d['i_1'] > MAG_LIMITS['i'][0]) 
+                          & (d['i_1'] < MAG_LIMITS['i'][1])
+                          & (d['ha_1'] > MAG_LIMITS['h'][0]) 
+                          & (d['ha_1'] < MAG_LIMITS['h'][1]) )
         n_stars = c_bright_star.sum()
 
         # Data structures to store comparison results per band
@@ -196,10 +186,10 @@ class FieldChecker():
         idx_outliers, n_outliers = {}, {}
 
         # Compare photometric offsets per band
-        for band in ['r', 'i', 'h']:
+        for band in ['r', 'i', 'ha']:
             # diff: array with magnitude differences
-            diff = ( d[band+'Apermag3_1'][c_bright_star] 
-                     - d[band+'Apermag3_2'][c_bright_star] )
+            diff = ( d[band+'_1'][c_bright_star] 
+                     - d[band+'_2'][c_bright_star] )
 
             # Compute median and standard deviation
             median_diff[band] = np.median(diff)
@@ -220,7 +210,7 @@ class FieldChecker():
         for plevel in [5, 10, 20]:
             total_outliers[plevel] = (idx_outliers[plevel]['r'] \
                                       | idx_outliers[plevel]['i'] \
-                                      | idx_outliers[plevel]['h']).sum()
+                                      | idx_outliers[plevel]['ha']).sum()
             if n_stars > 0:
                 fraction_outliers[plevel] = 100*total_outliers[plevel] / float(n_stars)
             else:
@@ -231,21 +221,17 @@ class FieldChecker():
             (n_stars, \
                 total_outliers[5], total_outliers[10], total_outliers[20], \
                 fraction_outliers[5], fraction_outliers[10], fraction_outliers[20], \
-                n_outliers[5]['r'], n_outliers[5]['i'], n_outliers[5]['h'], \
-                n_outliers[10]['r'], n_outliers[10]['i'], n_outliers[10]['h'], \
-                n_outliers[20]['r'], n_outliers[20]['i'], n_outliers[20]['h'], \
-                median_diff['r'], median_diff['i'], median_diff['h'], \
-                std_diff['r'], std_diff['i'], std_diff['h'], \
+                n_outliers[5]['r'], n_outliers[5]['i'], n_outliers[5]['ha'], \
+                n_outliers[10]['r'], n_outliers[10]['i'], n_outliers[10]['ha'], \
+                n_outliers[20]['r'], n_outliers[20]['i'], n_outliers[20]['ha'], \
+                median_diff['r'], median_diff['i'], median_diff['ha'], \
+                std_diff['r'], std_diff['i'], std_diff['ha'], \
                 file1, file2)
         return csv
 
     def clean(self):
         # Clean
         cmd = []
-        cmd.append("rm /tmp/%s_concat1.fits" % self.field)
-        cmd.append("rm /tmp/%s_concat2.fits" % self.field)
-        cmd.append("rm /tmp/%s_concat1_deblend.fits" % self.field)
-        cmd.append("rm /tmp/%s_concat2_deblend.fits" % self.field)
         cmd.append("rm /tmp/%s_xmatch.fits" % self.field)
         for c in cmd:
             os.system(c)
@@ -291,8 +277,8 @@ def mpi_master():
     """
     logging.info("Running on %d cores" % comm.size)
 
-    #iphas_largest_fieldnumber = 7635
-    iphas_largest_fieldnumber = 5
+    iphas_largest_fieldnumber = 7635
+    #iphas_largest_fieldnumber = 5
     for fieldnumber in np.arange(1, iphas_largest_fieldnumber+1):
         myfield = '%04d' % fieldnumber
          # Wait for a worker to report for duty
@@ -318,7 +304,7 @@ def mpi_writer():
     Writes results.
 
     """
-    out = open('pairs-new.csv', 'w')
+    out = open('/home/gb/dev/iphas-qc/qcdata/fieldpair-crossmatching/pairs-new.csv', 'w')
     out.write("id,id_partner,is_samenightpair,n_matched,n_outliers_5p,n_outliers_10p,n_outliers_20p"
             +",f_outliers_5p,f_outliers_10p,f_outliers_20p"
             +",n_5p_r,n_5p_i,n_5p_h,n_10p_r,n_10p_i,n_10p_h,n_20p_r,n_20p_i,n_20p_h"
