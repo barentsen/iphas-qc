@@ -171,9 +171,9 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 0039_dec2003,A+,True,,,20.266,19.892,19.701,19.926,18.716
 0039o_dec2003,A++,True,,,20.279,19.894,20.024,19.439,18.719
 0040_dec2003,D,False,Noise,Inconsistent photometry,20.33,19.94,20.01,20.0,18.69
-0040_oct2009,A++,True,,,20.467,19.427,19.784,19.747,18.907
+0040_oct2009,D,False,Background gradient,Background,20.467,19.427,19.784,19.747,18.907
 0040o_dec2003,D,False,r5sig<20 & i5sig<19 & Noise,Clouds / Inconsistent photometry,19.62,18.97,19.77,19.5,18.12
-0040o_oct2009,A++,True,,,20.482,19.442,19.78,19.742,18.942
+0040o_oct2009,D,False,Background gradient,Background,20.482,19.442,19.78,19.742,18.942
 0041_dec2003,D,False,n_stars<1000 & Noise,Clouds / Inconsistent photometry,21.0544,20.1046,21.1744,20.6544,20.0744
 0041_oct2006b,A++,True,,,21.371,20.076,20.291,21.221,20.021
 0041o_dec2003,D,False,Noise,Inconsistent photometry,20.3549,20.0195,19.9449,20.0749,19.1749
@@ -3446,9 +3446,9 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 1255o_dec2007,A++,True,,,21.791,20.202,20.602,20.271,19.981
 1255o_oct2005a,A,True,,,21.5009,19.997,20.0309,20.9909,20.1609
 1256_oct2005a,D,False,Noise,Inconsistent photometry,21.3886,19.8987,20.7086,20.6186,19.6886
-1256_oct2006b,A++,True,,,21.018,19.775,19.997,19.978,19.358
+1256_oct2006b,D,False,Background gradient,Background,21.018,19.775,19.997,19.978,19.358
 1256o_oct2005a,D,False,Noise,Inconsistent photometry,21.4878,20.1528,20.1878,20.5478,19.6878
-1256o_oct2006b,A++,True,,,21.003,19.77,19.993,19.983,19.303
+1256o_oct2006b,D,False,Background gradient,Background,21.003,19.77,19.993,19.983,19.303
 1257_dec2007,A++,True,,,21.788,20.186,20.624,21.258,20.428
 1257_oct2005a,D,False,n_stars<1000,Clouds,21.4348,19.9761,19.8348,21.1348,20.4048
 1257o_dec2007,A++,True,,,21.655,20.032,20.569,22.015,20.305
@@ -3891,8 +3891,8 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 1406o_oct2004,A,True,,,21.1455,19.774,20.0155,20.9555,19.4355
 1407_oct2004,A+,True,,,21.0982,19.7967,20.0582,20.1482,19.3082
 1407o_oct2004,A+,True,,,21.0994,19.7589,20.0294,20.1394,19.2794
-1408_oct2005b,A++,True,,,21.085,19.854,20.1,19.785,19.325
-1408o_oct2005b,A++,True,,,21.072,19.809,20.039,20.282,19.202
+1408_oct2005b,D,False,Background gradient,Background,21.085,19.854,20.1,19.785,19.325
+1408o_oct2005b,D,False,Background gradient,Background,21.072,19.809,20.039,20.282,19.202
 1409_oct2004,A,True,,,20.944,19.7033,20.004,19.684,18.814
 1409_sep2010,A,True,,,20.7414,19.6399,19.7714,18.7414,18.7514
 1409o_sep2010,A,True,,,20.7452,19.6513,19.7452,18.9952,18.7852
@@ -4153,14 +4153,14 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 1502o_oct2005b,A+,True,,,21.004,19.712,20.037,20.724,19.304
 1503_oct2005b,A++,True,,,21.065,19.814,20.068,19.005,18.985
 1503o_oct2005b,A,True,,,20.907,19.76,19.998,19.747,18.857
-1504_oct2005b,A+,True,,,20.998,19.771,20.007,20.228,19.438
-1504o_oct2005b,A+,True,,,21.012,19.743,20.005,20.482,19.382
+1504_oct2005b,D,False,Background gradient,Background,20.998,19.771,20.007,20.228,19.438
+1504o_oct2005b,D,False,Background gradient,Background,21.012,19.743,20.005,20.482,19.382
 1505_oct2005b,A+,True,,,20.997,19.794,20.016,20.477,19.147
 1505o_oct2005b,A+,True,,,20.957,19.774,20.007,20.477,19.157
 1506_oct2005b,A+,True,,,20.989,19.768,19.972,20.749,19.339
 1506o_oct2005b,A+,True,,,20.988,19.778,19.951,20.748,19.388
-1507_oct2005b,A+,True,,,20.973,19.747,19.944,20.743,19.203
-1507o_oct2005b,A++,True,,,20.957,19.703,19.94,20.737,19.137
+1507_oct2005b,D,False,Background gradient,Background,20.973,19.747,19.944,20.743,19.203
+1507o_oct2005b,D,False,Background gradient,Background,20.957,19.703,19.94,20.737,19.137
 1508_oct2005b,A++,True,,,21.45,20.11,20.4,18.96,19.3
 1508o_oct2005b,A++,True,,,21.45,20.12,20.4,18.96,19.3
 1509_oct2005b,A++,True,,,21.44,20.1,20.38,19.71,19.25
@@ -4719,9 +4719,9 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 1697o_nov2005,A,True,,,20.51,19.043,19.337,19.97,18.92
 1697o_oct2010,A,True,,,21.4555,20.5894,20.4255,21.5055,19.9255
 1698_nov2005,A,True,,,20.667,19.154,19.451,19.817,18.677
-1698_oct2012,A++,True,,,20.9241,20.0957,20.0441,20.8441,19.4941
+1698_oct2012,D,False,Clouds,Clouds,20.9241,20.0957,20.0441,20.8441,19.4941
 1698o_nov2005,A,True,,,20.942,19.437,19.537,20.032,19.012
-1698o_oct2012,A++,True,,,20.9281,20.1517,19.9281,20.8181,19.4781
+1698o_oct2012,D,False,Clouds,Clouds,20.9281,20.1517,19.9281,20.8181,19.4781
 1699_oct2004,A+,True,,,21.67,20.18,20.45,20.77,19.53
 1699o_oct2004,A+,True,,,21.7,20.26,20.45,20.77,19.71
 1700_oct2004,A+,True,,,21.67,20.22,20.42,20.77,19.14
@@ -4822,9 +4822,9 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 1737o_nov2006b,D,False,Noise,Inconsistent photometry,20.982,19.724,20.01,19.972,19.422
 1737o_nov2012,B,True,seeing>2,Seeing,21.6638,20.7355,20.4638,21.1138,20.0038
 1738_nov2006b,D,False,Background gradient,Background,20.941,19.732,19.995,19.441,19.381
-1738_nov2009,A++,True,,,20.7689,19.6436,19.7189,19.5189,19.3989
+1738_nov2009,D,False,Background gradient,Background,20.7689,19.6436,19.7189,19.5189,19.3989
 1738o_nov2006b,D,False,Background gradient,Background,20.897,19.696,19.954,19.427,19.337
-1738o_nov2009,A++,True,,,20.7179,19.6445,19.7579,20.2779,19.2879
+1738o_nov2009,D,False,Background gradient,Background,20.7179,19.6445,19.7579,20.2779,19.2879
 1739_dec2005,A++,True,,,21.827,20.216,20.6,20.387,19.807
 1739o_dec2005,A++,True,,,21.811,20.193,20.614,20.381,19.691
 1740_nov2006b,D,False,Background gradient & Noise,Background / Inconsistent photometry,20.978,19.717,19.971,18.988,18.908
@@ -5054,8 +5054,8 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 1808_nov2006d,A++,True,,,21.664,20.116,20.513,20.224,19.764
 1808o_nov2006d,A++,True,,,21.662,20.106,20.524,20.722,19.632
 1809_oct2004,A,True,,,20.99,19.72,19.92,20.5,19.26
-1809_oct2012,A++,True,,,21.18,20.18,20.16,19.5,19.51
-1809o_oct2012,A++,True,,,20.91,19.9,19.91,19.75,19.44
+1809_oct2012,D,False,Clouds,Clouds,21.18,20.18,20.16,19.5,19.51
+1809o_oct2012,D,False,Clouds,Clouds,20.91,19.9,19.91,19.75,19.44
 1810_oct2012,A++,True,,,21.4087,20.4239,20.3787,20.1987,19.7787
 1810o_oct2012,A++,True,,,21.3779,20.4269,20.3179,20.1679,19.6779
 1811_oct2012,A++,True,,,21.4024,20.4506,20.3124,20.1724,19.6824
@@ -5100,18 +5100,18 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 1822o_oct2010,A+,True,,,21.4363,20.5493,20.4063,20.2163,19.3463
 1823_nov2006d,A++,True,,,21.577,20.0,20.425,19.707,19.457
 1823o_nov2006d,A++,True,,,21.593,19.936,20.398,19.963,19.453
-1824_oct2004,A+,True,,,20.596,19.468,19.627,20.076,18.846
-1824o_oct2004,A+,True,,,20.6,19.512,19.651,19.82,18.88
+1824_oct2004,D,False,Clouds,Clouds,20.596,19.468,19.627,20.076,18.846
+1824o_oct2004,D,False,Clouds,Clouds,20.6,19.512,19.651,19.82,18.88
 1825_nov2006d,A++,True,,,21.566,19.915,20.495,20.736,19.586
 1825o_nov2006d,A++,True,,,21.541,19.916,20.404,20.201,19.661
 1826_oct2004,A,True,,,20.646,19.505,19.6,20.116,18.616
 1826o_oct2004,A,True,,,20.653,19.572,19.695,20.113,18.623
 1827_dec2007,A++,True,,,21.809,20.235,20.564,19.499,19.649
 1827o_dec2007,A++,True,,,21.803,20.229,20.553,19.503,19.573
-1828_oct2004,A++,True,,,20.769,19.67,19.78,20.109,19.469
-1828o_oct2004,A++,True,,,20.746,19.644,19.791,20.336,19.386
-1829_oct2004,A++,True,,,20.802,19.674,19.832,19.872,19.372
-1829o_oct2004,A++,True,,,20.8,19.65,19.834,20.12,19.39
+1828_oct2004,D,False,Clouds,Clouds,20.769,19.67,19.78,20.109,19.469
+1828o_oct2004,D,False,Clouds,Clouds,20.746,19.644,19.791,20.336,19.386
+1829_oct2004,D,False,Clouds,Clouds,20.802,19.674,19.832,19.872,19.372
+1829o_oct2004,D,False,Clouds,Clouds,20.8,19.65,19.834,20.12,19.39
 1830_oct2004,A++,True,,,20.79,19.703,19.844,20.62,19.36
 1830o_oct2004,A++,True,,,20.806,19.658,19.832,20.616,19.376
 1831_oct2004,A++,True,,,20.81,19.701,19.857,19.38,19.07
@@ -5161,8 +5161,8 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 1852o_oct2006,A++,True,,,21.638,20.13,20.543,20.918,19.898
 1853_oct2004,A++,True,,,21.58,20.124,20.511,19.67,19.23
 1853o_oct2004,A++,True,,,21.59,20.101,20.516,18.92,19.18
-1854_oct2004,A+,True,,,20.575,19.522,19.575,19.775,19.055
-1854o_oct2004,A+,True,,,20.745,19.456,19.708,20.585,19.095
+1854_oct2004,D,False,Clouds,Clouds,20.575,19.522,19.575,19.775,19.055
+1854o_oct2004,D,False,Clouds,Clouds,20.745,19.456,19.708,20.585,19.095
 1855_oct2004,A+,True,,,20.646,19.517,19.636,20.076,18.906
 1855o_oct2004,A+,True,,,20.656,19.61,19.661,20.346,18.806
 1856_oct2004,A+,True,,,20.72,19.412,19.759,20.34,19.11
@@ -5474,8 +5474,8 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 1967o_nov2006b,A,True,,,21.1,19.79,20.048,19.93,19.08
 1968_nov2006b,A+,True,,,21.074,19.762,20.078,19.914,19.274
 1968o_nov2006b,A+,True,,,21.065,19.735,20.045,19.665,19.205
-1969_oct2004,A,True,,,20.595,19.315,19.589,18.745,18.725
-1969o_oct2004,A,True,,,20.538,19.292,19.562,18.988,18.628
+1969_oct2004,D,False,Background gradient,Background,20.595,19.315,19.589,18.745,18.725
+1969o_oct2004,D,False,Background gradient,Background,20.538,19.292,19.562,18.988,18.628
 1970_nov2006b,D,False,Noise,Inconsistent photometry,21.097,19.794,20.076,19.187,18.967
 1970o_nov2006c,D,False,Noise,Inconsistent photometry,21.318,19.382,20.233,19.228,18.768
 1971_dec2007,A++,True,,,21.739,20.275,20.607,20.269,19.689
@@ -5514,7 +5514,7 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 1980o_nov2005,A++,True,,,21.8286,20.1317,20.7086,20.2786,19.4886
 1980o_nov2009,A,True,,,20.8539,19.7277,19.9239,20.2739,18.7739
 1981_oct2004,D,False,Background gradient & r5sig<20 & i5sig<19 & h5sig<19 & Noise,Background / Clouds / Inconsistent photometry,19.231,17.884,18.339,18.261,17.961
-1981o_oct2004,A++,True,,,20.802,19.558,19.868,19.302,19.012
+1981o_oct2004,D,False,Background gradient,Background,20.802,19.558,19.868,19.302,19.012
 1982_dec2007,A++,True,,,21.728,20.169,20.472,20.508,19.378
 1982_nov2005,A++,True,,,21.8706,20.2816,20.7006,20.2406,19.6606
 1982o_dec2007,A+,True,,,21.51,20.153,20.508,20.25,19.21
@@ -5536,8 +5536,8 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 1986o_dec2008,A,True,,,21.459,19.965,20.363,19.259,18.849
 1986o_nov2005,A++,True,,,21.9329,20.3376,20.7329,21.0329,19.5729
 1986o_nov2009,A,True,,,20.9063,19.715,19.9363,19.3063,18.7263
-1987_oct2004,A++,True,,,20.807,19.523,19.834,19.097,19.107
-1987o_oct2004,A++,True,,,20.82,19.559,19.814,19.85,19.19
+1987_oct2004,D,False,Background gradient,Background,20.807,19.523,19.834,19.097,19.107
+1987o_oct2004,D,False,Background gradient,Background,20.82,19.559,19.814,19.85,19.19
 1988_dec2007,A+,True,,,21.712,20.258,20.451,19.752,19.202
 1988_nov2005,A++,True,,,21.9437,20.3944,20.7137,20.7937,19.5737
 1988o_dec2007,A+,True,,,21.754,20.294,20.494,20.774,19.364
@@ -5550,8 +5550,8 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 1989o_nov2009,A+,True,,,20.9219,19.7408,19.8819,20.5019,18.9219
 1990_nov2005,A++,True,,,21.886,20.341,20.688,20.226,19.696
 1990o_nov2005,A++,True,,,21.908,20.366,20.686,20.228,19.728
-1991_oct2004,A++,True,,,20.84,19.539,19.839,18.83,18.96
-1991o_oct2004,A++,True,,,20.612,19.267,19.8,18.452,18.632
+1991_oct2004,D,False,Background gradient,Background,20.84,19.539,19.839,18.83,18.96
+1991o_oct2004,D,False,Background gradient,Background,20.612,19.267,19.8,18.452,18.632
 1992_dec2008,A,True,,,21.161,19.832,20.24,19.701,18.671
 1992_nov2005,A+,True,,,21.8937,20.3524,20.7137,19.7537,19.4237
 1992_nov2009,A++,True,,,20.8854,19.7358,19.8954,19.2454,18.8354
@@ -5637,7 +5637,7 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 2022_nov2009,A,True,,,21.2094,20.0568,20.1694,20.1894,19.0994
 2022_oct2010,A++,True,,,21.4599,20.5992,20.4199,20.3399,19.4899
 2022o_nov2009,A+,True,,,21.239,20.0575,20.229,19.439,19.059
-2022o_oct2010,A++,True,,,21.5338,20.9587,20.7238,20.5638,19.7838
+2022o_oct2010,D,False,Clouds,Clouds,21.5338,20.9587,20.7238,20.5638,19.7838
 2023_nov2005,C,True,Noise,Inconsistent photometry,21.579,19.976,20.388,19.979,19.419
 2023o_nov2005,C,True,Noise,Inconsistent photometry,21.514,20.022,20.467,20.484,19.564
 2024_nov2005,A,True,,,21.6,20.086,20.361,20.2,19.08
@@ -7464,7 +7464,7 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 2701_dec2003,D,False,r5sig<20 & h5sig<19 & seeing>2.5,Clouds / Seeing,19.7679,19.4859,18.8879,18.5679,17.7979
 2701_dec2008,D,False,r5sig<20 & i5sig<19 & h5sig<19 & Noise,Clouds / Inconsistent photometry,19.572,18.702,18.458,18.892,17.822
 2701o_dec2003,D,False,r5sig<20 & seeing>2,Clouds / Seeing,19.5872,19.4128,19.4572,18.8072,17.6472
-2701o_dec2008,C,True,Noise,Inconsistent photometry,20.139,19.27,19.1,19.799,18.389
+2701o_dec2008,D,False,Clouds & Noise,Clouds / Inconsistent photometry,20.139,19.27,19.1,19.799,18.389
 2702_dec2003,A,True,,,20.418,19.913,19.928,19.158,18.228
 2702o_dec2003,A,True,,,20.385,19.839,19.898,19.655,18.235
 2703_dec2003,B,True,seeing>2,Seeing,20.293,19.895,19.906,19.693,18.483
@@ -7498,7 +7498,7 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 2712_dec2003,A,True,,,20.315,19.988,20.023,19.415,18.375
 2712o_dec2003,A,True,,,20.431,19.864,20.095,19.151,18.481
 2713_dec2003,D,False,r5sig<20 & seeing>2,Clouds / Seeing,19.7422,19.3994,19.5822,18.8122,17.8122
-2713_dec2008,C,True,Noise,Inconsistent photometry,20.077,19.071,19.21,19.767,18.427
+2713_dec2008,D,False,Clouds & Noise,Clouds / Inconsistent photometry,20.077,19.071,19.21,19.767,18.427
 2713_oct2009,D,False,Background gradient,Background,20.5212,19.5664,19.6612,19.2112,18.8312
 2713o_dec2003,D,False,r5sig<20 & seeing>2,Clouds / Seeing,19.8483,19.3228,19.4983,18.8083,17.9083
 2713o_dec2008,D,False,r5sig<20 & i5sig<19 & Noise,Clouds / Inconsistent photometry,19.189,18.319,19.046,18.729,17.469
@@ -7570,12 +7570,12 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 2735o_dec2008,A+,True,,,20.951,19.712,19.992,20.301,18.941
 2735o_oct2009,A,True,,,20.3237,19.3329,19.4937,19.9737,18.4137
 2736_dec2003,D,False,r5sig<20 & seeing>2.5,Clouds / Seeing,19.519,19.427,19.339,18.609,17.639
-2736_dec2008,A,True,,,20.5588,19.5343,19.6088,19.9488,18.6488
+2736_dec2008,D,False,Clouds,Clouds,20.5588,19.5343,19.6088,19.9488,18.6488
 2736_oct2009,D,False,Background gradient,Background,20.374,19.312,19.591,20.044,18.384
 2736o_dec2003,D,False,r5sig<20 & seeing>2.5,Clouds / Seeing,19.6003,19.347,19.2703,18.6803,17.7003
 2736o_oct2009,D,False,Background gradient,Background,20.392,19.316,19.47,19.542,18.432
 2737_dec2003,D,False,r5sig<20,Clouds,19.9244,19.5575,19.6344,19.0544,18.0844
-2737_dec2008,A,True,,,20.143,19.132,19.229,19.543,18.503
+2737_dec2008,D,False,Clouds,Clouds,20.143,19.132,19.229,19.543,18.503
 2737_oct2009,D,False,Background gradient,Background,20.0311,19.09,19.2411,19.4711,18.2711
 2737o_dec2003,B,True,seeing>2,Seeing,20.0905,19.5614,19.6605,19.3105,18.2205
 2737o_dec2008,D,False,i5sig<19,Clouds,20.047,18.806,19.13,19.437,18.387
@@ -7589,7 +7589,7 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 2739_dec2003,A,True,,,20.161,19.64,19.69,19.501,18.101
 2739o_dec2003,A,True,,,20.062,19.707,19.717,19.432,17.982
 2740_dec2003,D,False,r5sig<20 & seeing>2 & Noise,Clouds / Inconsistent photometry / Seeing,19.8756,19.5023,19.8056,19.0356,17.9656
-2740_dec2008,C,True,Noise,Inconsistent photometry,21.4401,19.8771,20.3501,19.7701,18.9201
+2740_dec2008,D,False,Clouds & Noise,Clouds / Inconsistent photometry,21.4401,19.8771,20.3501,19.7701,18.9201
 2740_oct2009,D,False,i5sig<19 & Noise,Clouds / Inconsistent photometry,20.071,18.982,19.2,19.311,18.161
 2740o_dec2003,D,False,r5sig<20 & i5sig<19 & seeing>2 & Noise,Clouds / Inconsistent photometry / Seeing,19.9043,18.9571,19.8043,18.3643,17.4643
 2740o_dec2008,A,True,,,20.5572,19.4848,19.4572,19.5272,18.7672
@@ -9247,10 +9247,10 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 3482o_dec2006,A+,True,,,21.527,20.124,20.427,20.757,19.517
 3483_jan2007,A+,True,,,20.514,19.452,19.523,18.744,18.624
 3483o_jan2007,A+,True,,,20.546,19.466,19.575,18.996,18.626
-3484_jan2007,A+,True,,,20.528,19.421,19.602,18.998,18.578
-3484o_jan2007,A+,True,,,20.477,19.348,19.56,18.747,18.407
-3485_jan2007,A++,True,,,20.47,19.38,19.5,18.75,18.5
-3485o_jan2007,A++,True,,,20.416,19.334,19.488,18.996,18.516
+3484_jan2007,D,False,Background gradient,Background,20.528,19.421,19.602,18.998,18.578
+3484o_jan2007,D,False,Background gradient,Background,20.477,19.348,19.56,18.747,18.407
+3485_jan2007,D,False,Background gradient,Background,20.47,19.38,19.5,18.75,18.5
+3485o_jan2007,D,False,Background gradient,Background,20.416,19.334,19.488,18.996,18.516
 3486_dec2007,A,True,,,21.416,20.039,20.32,19.986,18.746
 3486o_dec2007,A,True,,,21.136,19.946,20.324,18.976,18.516
 3487_nov2003,A+,True,,,20.251,19.85,19.938,19.781,18.611
@@ -10226,7 +10226,7 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 3912o_nov2007,A++,True,,,20.908,19.833,19.918,19.038,18.608
 3913_nov2007,A+,True,,,20.781,19.722,19.715,20.281,18.721
 3913o_nov2007,A++,True,,,20.874,19.797,19.89,20.284,18.844
-3914_nov2007,A,True,,,20.318,19.664,19.363,18.668,18.288
+3914_nov2007,D,False,Clouds,Clouds,20.318,19.664,19.363,18.668,18.288
 3914o_nov2007,A,True,,,20.707,19.585,19.734,19.757,18.637
 3915_nov2007,D,False,i5sig<19,Clouds,20.132,18.729,19.379,18.902,17.762
 3915o_nov2007,A,True,,,20.743,19.757,19.599,18.523,18.373
@@ -10343,7 +10343,7 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 3964o_dec2008,D,False,Background gradient & r5sig<20 & i5sig<19 & h5sig<19 & Noise,Background / Clouds / Inconsistent photometry,19.411,18.507,17.291,19.131,17.711
 3965_dec2008,D,False,Background gradient & r5sig<20 & i5sig<19 & h5sig<19 & Noise,Background / Clouds / Inconsistent photometry,19.764,18.996,18.44,18.994,17.684
 3965o_dec2008,D,False,Background gradient & Noise,Background / Inconsistent photometry,20.477,19.202,19.0,19.187,18.027
-3966_dec2008,A,True,,,20.682,19.514,19.353,19.502,18.192
+3966_dec2008,D,False,Clouds,Clouds,20.682,19.514,19.353,19.502,18.192
 3966o_dec2008,A,True,,,20.745,19.878,19.753,19.525,18.485
 3966o_jan2008,B,True,seeing>2,Seeing,20.239,19.1692,19.309,18.719,17.649
 3967_dec2008,A+,True,,,20.72,19.74,19.75,20.5,18.87
