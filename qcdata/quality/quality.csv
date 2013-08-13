@@ -170,17 +170,17 @@ id,qflag,is_ok,problems,problems_simple,r5sig_judged,i5sig_judged,h5sig_judged,r
 0038o_dec2003,A++,True,,,20.233,19.798,19.936,19.703,18.603
 0039_dec2003,A+,True,,,20.266,19.892,19.701,19.926,18.716
 0039o_dec2003,A++,True,,,20.279,19.894,20.024,19.439,18.719
-0040_dec2003,C,True,Noise,Inconsistent photometry,20.33,19.94,20.01,20.0,18.69
+0040_dec2003,D,False,Clouds & Noise,Clouds / Inconsistent photometry,20.33,19.94,20.01,20.0,18.69
 0040_oct2009,D,False,Background gradient,Background,20.467,19.427,19.784,19.747,18.907
-0040o_dec2003,D,False,r5sig<20 & i5sig<19 & Noise,Clouds / Inconsistent photometry,19.62,18.97,19.77,19.5,18.12
+0040o_dec2003,D,False,Clouds & r5sig<20 & i5sig<19 & Noise,Clouds / Inconsistent photometry,19.62,18.97,19.77,19.5,18.12
 0040o_oct2009,D,False,Background gradient,Background,20.482,19.442,19.78,19.742,18.942
 0041_dec2003,D,False,n_stars<1000 & Noise,Clouds / Inconsistent photometry,21.0544,20.1046,21.1744,20.6544,20.0744
 0041_oct2006b,A++,True,,,21.371,20.076,20.291,21.221,20.021
 0041o_dec2003,D,False,Noise,Inconsistent photometry,20.3549,20.0195,19.9449,20.0749,19.1749
 0041o_oct2006b,A++,True,,,21.361,20.094,20.31,21.471,20.091
-0042_dec2003,A,True,,,21.2171,20.0049,20.6571,21.2971,20.2071
+0042_dec2003,D,False,Background gradient,Background,21.2171,20.0049,20.6571,21.2971,20.2071
 0042_oct2006b,A++,True,,,21.42,20.147,20.329,19.97,19.41
-0042o_dec2003,A,True,,,20.4306,19.7559,20.6706,20.1406,19.1706
+0042o_dec2003,D,False,Background gradient,Background,20.4306,19.7559,20.6706,20.1406,19.1706
 0042o_oct2006b,A++,True,,,21.365,20.145,20.349,19.965,19.375
 0043_dec2003,C,True,Noise,Inconsistent photometry,20.629,20.5957,20.699,20.359,19.109
 0043_oct2006b,A++,True,,,21.297,20.052,20.335,19.507,19.447

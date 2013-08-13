@@ -57,7 +57,7 @@ for FILTER in r i ha; do
 	in2=mikes-dqc-files/mikes-dqc-data.fits.gz ifmt2=fits \
 	matcher=exact join=all1 find=best \
 	values1="run_$FILTER" values2=runno \
-	icmd2='keepcols "runno ra dec seeing sky noise ellipt apcor";' \
+	icmd2='keepcols "runno ra dec seeing sky noise ellipt apcor exptime";' \
 	ocmd="delcols runno;
 	colmeta -name ra_$FILTER ra;
 	colmeta -name dec_$FILTER dec;
@@ -66,6 +66,7 @@ for FILTER in r i ha; do
 	colmeta -name noise_$FILTER noise;
 	colmeta -name ellipt_$FILTER ellipt; 
 	colmeta -name apcor_$FILTER apcor;
+    colmeta -name exptime_$FILTER exptime;
 	" \
 	ofmt=fits out=$TMP
 done
@@ -246,6 +247,7 @@ seeing_min ellipt_min airmass_min sky_min
 n_stars_r n_stars_i n_stars_ha
 seeing_r seeing_i seeing_ha
 ellipt_r ellipt_i ellipt_ha
+exptime_r exptime_i exptime_ha
 zpr zpi zph 
 e_zpr e_zpi e_zpha
 zpr_finalsol3 zpi_finalsol3 zph_finalsol3

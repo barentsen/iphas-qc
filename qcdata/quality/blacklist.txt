@@ -91,3 +91,9 @@
 1829o_oct2004    # Clouds
 1854_oct2004     # Clouds
 1854o_oct2004    # Clouds
+0039_dec2003     # Clouds
+0039o_dec2003    # Clouds
+0040_dec2003     # Clouds
+0040o_dec2003    # Clouds
+0042_dec2003     # Clouds
+0042o_dec2003    # Clouds
