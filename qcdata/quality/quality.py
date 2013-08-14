@@ -62,31 +62,31 @@ nstars = d.field('n_stars')
 moon_separation = d.field('moon_separation')
 
 # Tricky: we need to take the calibration into account before judging depth
-brent, apass, sdss, shift = {}, {}, {}, {}
-for band in ['r', 'i', 'h']:
-  brent[band] = d.field('zp'+band) - d.field('zp'+band+'_finalsol3')
-  if band == 'h':
+calib, apass, sdss, shift = {}, {}, {}, {}
+for band in ['r', 'i', 'ha']:
+  calib[band] = d.field('calib_'+band)
+  if band == 'ha':
     apass[band] = d.field('rshift_apassdr7')
     sdss[band] = d.field('rshift_sdss')
   else:
     apass[band] = d.field(band+'shift_apassdr7')
     sdss[band] = d.field(band+'shift_sdss')
 
-  # Use Brent
-  shift[band] = brent[band]
-  # Where Brent not available, use APASS
-  c_nodata = np.isnan(shift[band])
-  shift[band][c_nodata] = apass[band][c_nodata]
+  # Use APASS
+  shift[band] = apass[band]
   # Where APASS not available, use SDSS
   c_nodata = np.isnan(shift[band])
   shift[band][c_nodata] = sdss[band][c_nodata]
+  # Where SDSS not available, use calibration result
+  c_nodata = np.isnan(shift[band])
+  shift[band][c_nodata] = calib[band][c_nodata]
   # Convert any remaining NaN's to zeros
   shift[band] = np.nan_to_num(shift[band])
 
 # Apply the calibration
 r5sig = d.field('r5sig') + shift['r']
 i5sig = d.field('i5sig') + shift['i']
-h5sig = d.field('h5sig') + shift['h']
+h5sig = d.field('h5sig') + shift['ha']
 rmode = d.field('rmode') + shift['r']
 rmedian = d.field('rmedian') + shift['r']
 
@@ -227,7 +227,7 @@ for i in range(d.size):
                         nstars[i], moon_separation[i],
                         r5sig[i], i5sig[i], h5sig[i], rmode[i], 
                         f10p[i], f20p[i], n10p[i], n20p[i],
-                        shift['r'][i], shift['i'][i], shift['h'][i])
+                        shift['r'][i], shift['i'][i], shift['ha'][i])
     flagcount[flag] += 1
     # Quality acceptable?
     if flag.startswith('A') or flag.startswith('B') or flag.startswith('C'):

@@ -99,3 +99,62 @@
 0042o_dec2003    # Clouds
 0021_nov2003b    # Clouds
 0021o_nov2003b   # Clouds
+0401_oct2003     # Clouds
+0401o_oct2003    # Clouds
+0399_oct2003     # Clouds
+0399o_oct2003    # Clouds
+0488_oct2003     # Clouds
+0525o_oct2003    # Clouds
+0706_oct2006     # Clouds
+0706o_oct2006    # Clouds
+0707_oct2006     # Clouds
+0707o_oct2006    # Clouds
+0734_oct2006     # Clouds
+0734o_oct2006    # Clouds
+0784_oct2003     # Clouds
+0784o_oct2003    # Clouds
+0866_nov2003     # Clouds
+0866o_nov2003    # Clouds
+0946_oct2006b    # Oil drop
+0946o_oct2006b   # Oil drop
+0955o_dec2003
+0956_dec2003
+0956o_dec2003
+0957_dec2003
+0957o_dec2003
+0958_dec2003
+0958o_dec2003
+0959_dec2003
+0959o_dec2003
+0960_dec2003
+0960o_dec2003
+0961_dec2003
+0961o_dec2003
+0962_dec2003
+0962o_dec2003
+0963_dec2003
+0963o_dec2003
+0965_dec2003
+0965o_dec2003
+0966_dec2003
+0966o_dec2003
+0967_dec2003
+0967o_dec2003
+0968_dec2003
+0968o_dec2003
+1206_oct2012
+1206o_oct2012
+1266_oct2006
+1266o_oct2003
+1269o_oct2006
+1275_oct2006
+1275o_oct2006
+1276_oct2006
+1276o_oct2006
+1277_oct2006
+1277o_oct2006
+1343_oct2004
+1343o_oct2004
+1349_oct2012
+1349o_oct2012
+1350_oct2004
