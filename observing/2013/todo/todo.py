@@ -131,7 +131,7 @@ def priority_b():
                         (IPHASQC['l'] < 90) &
                            (
                                 (IPHASQC['seeing_max'] >= 1.8) |
-                                (IPHASQC['r5sig_judged'] < 20.2)
+                                (IPHASQC['r5sig_judged'] < 20.0)
                             )
                       )
     for idx in np.where(mask_priority_b)[0]:
