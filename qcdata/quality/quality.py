@@ -84,11 +84,11 @@ for band in ['r', 'i', 'h']:
   shift[band] = np.nan_to_num(shift[band])
 
 # Apply the calibration
-r5sig = d.field('r5sig') - shift['r']
-i5sig = d.field('i5sig') - shift['i']
-h5sig = d.field('h5sig') - shift['h']
-rmode = d.field('rmode') - shift['r']
-rmedian = d.field('rmedian') - shift['r']
+r5sig = d.field('r5sig') + shift['r']
+i5sig = d.field('i5sig') + shift['i']
+h5sig = d.field('h5sig') + shift['h']
+rmode = d.field('rmode') + shift['r']
+rmedian = d.field('rmedian') + shift['r']
 
 f10p = d.field('f_outliers_10p')
 f20p = d.field('f_outliers_20p')

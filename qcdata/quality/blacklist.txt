@@ -97,3 +97,5 @@
 0040o_dec2003    # Clouds
 0042_dec2003     # Clouds
 0042o_dec2003    # Clouds
+0021_nov2003b    # Clouds
+0021o_nov2003b   # Clouds
