@@ -117,44 +117,158 @@
 0866o_nov2003    # Clouds
 0946_oct2006b    # Oil drop
 0946o_oct2006b   # Oil drop
-0955o_dec2003
-0956_dec2003
-0956o_dec2003
-0957_dec2003
-0957o_dec2003
-0958_dec2003
-0958o_dec2003
-0959_dec2003
-0959o_dec2003
-0960_dec2003
-0960o_dec2003
-0961_dec2003
-0961o_dec2003
-0962_dec2003
-0962o_dec2003
-0963_dec2003
-0963o_dec2003
-0965_dec2003
-0965o_dec2003
-0966_dec2003
-0966o_dec2003
-0967_dec2003
-0967o_dec2003
-0968_dec2003
-0968o_dec2003
-1206_oct2012
-1206o_oct2012
-1266_oct2006
-1266o_oct2003
-1269o_oct2006
-1275_oct2006
-1275o_oct2006
-1276_oct2006
-1276o_oct2006
-1277_oct2006
-1277o_oct2006
-1343_oct2004
-1343o_oct2004
-1349_oct2012
-1349o_oct2012
-1350_oct2004
+0955o_dec2003    # Clouds
+0956_dec2003     # Clouds
+0956o_dec2003    # Clouds
+0957_dec2003     # Clouds
+0957o_dec2003    # Clouds
+0958_dec2003     # Clouds
+0958o_dec2003    # Clouds
+0959_dec2003     # Clouds
+0959o_dec2003    # Clouds
+0960_dec2003     # Clouds
+0960o_dec2003    # Clouds
+0961_dec2003     # Clouds
+0961o_dec2003    # Clouds
+0962_dec2003     # Clouds
+0962o_dec2003    # Clouds
+0963_dec2003     # Clouds
+0963o_dec2003    # Clouds
+0965_dec2003     # Clouds
+0965o_dec2003    # Clouds
+0966_dec2003     # Clouds
+0966o_dec2003    # Clouds
+0967_dec2003     # Clouds
+0967o_dec2003    # Clouds
+0968_dec2003     # Clouds
+0968o_dec2003    # Clouds
+1206_oct2012     # Clouds
+1206o_oct2012    # Clouds
+1266_oct2006     # Clouds
+1266o_oct2003    # Clouds
+1269o_oct2006    # Clouds
+1275_oct2006     # Clouds
+1275o_oct2006    # Clouds
+1276_oct2006     # Clouds
+1276o_oct2006    # Clouds
+1277_oct2006     # Clouds
+1277o_oct2006    # Clouds
+1343_oct2004     # Clouds
+1343o_oct2004    # Clouds
+1349_oct2012     # Clouds
+1349o_oct2012    # Clouds
+1350_oct2004     # Clouds
+0290_aug2004b    # Artefact
+0290o_aug2004b   # Artefact
+0315_oct2006b    # Artefact
+0315o_oct2006b   # Artefact
+0339_oct2006b    # Artefact
+0339o_oct2006b   # Artefact
+0349_nov2012     # Artefact
+0413_oct2006     # Clouds
+0413o_oct2006    # Clouds
+0422_oct2012     # Clouds
+0457_oct2009
+0457o_oct2009
+0874_nov2003
+1266o_oct2006
+1349_oct2004
+1349o_oct2004
+1357_oct2012
+1357o_oct2012
+1369_oct2004
+1369o_oct2004
+1374_oct2012
+1374o_oct2012
+1377_oct2012
+1377o_oct2012
+1391_oct2004
+1391o_oct2004
+1591_nov2005
+1591o_nov2005
+1620_oct2006
+1620o_oct2006
+1756_nov2006b
+1756o_nov2006b
+1757_nov2006b
+1757o_nov2006b
+1910_sep2005
+2147_oct2009
+2147o_oct2009
+2321_oct2009
+2321o_oct2009
+2330_jan2007
+2330o_jan2007
+2472o_oct2006
+2480_oct2006
+2480o_oct2006
+2490_oct2006
+2490o_oct2006
+2517_nov2006
+2517o_nov2006
+2632_oct2006
+2632o_oct2006
+2634o_dec2008
+2640_oct2010
+2640o_oct2010
+2733_dec2008
+2733o_dec2008
+2738o_dec2008
+2740_oct2009
+3079_oct2009
+3079o_oct2009
+3730o_jan2008
+4068_dec2008
+4084_jun2007
+4084o_jun2007
+4085_jul2009
+4085o_jul2009
+4513_jul2007
+4513o_jul2007
+4618o_may2007
+4764_oct2006
+4765_oct2006
+4765o_oct2006
+4802_oct2006
+4828_aug2009
+4828o_aug2009
+4862_jul2004b
+4862o_jul2004b
+5154_jun2005
+5154o_jun2005
+5161o_oct2006
+5839o_oct2005b
+5842_oct2006
+5846_oct2006
+5846o_oct2006
+6135_oct2003
+6135o_oct2003
+6527o_jun2005
+6752o_sep2005
+6757_sep2005
+6777_aug2004b
+6782_aug2004b
+6782o_aug2004b
+6828_aug2004b
+7036_nov2003
+7036o_nov2003
+7054_nov2003
+7054o_nov2003
+7081_nov2003
+7081o_nov2003
+7101_oct2012
+7101o_oct2012
+7107_oct2012
+7107o_oct2012
+7175_nov2012
+7293_oct2004
+7293o_oct2004
+7294_oct2004
+7294o_oct2004
+7297_oct2004
+7297o_oct2004
+7298_oct2004
+7298o_oct2004
+7302_oct2004
+7302o_oct2004
+7584_oct2005b
