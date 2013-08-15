@@ -25,7 +25,7 @@ TAG_DONE = 851   # All work is done
 
 # directory containing catalogues
 IPHAS_OBSERVATIONS = '../iphas-qc.fits'
-MERCAT_DIR = '/car-data/gb/iphas-dr2-rc2/bandmerged'
+MERCAT_DIR = '/car-data/gb/iphas-dr2-rc3/bandmerged'
 PLOT_DIR = '/home/gb/tmp/iphas-quickphot'
 # Define the magnitude limits for photometry comparison
 MAG_LIMITS = {'r': [14,18], 'i':[13,18], 'h':[13,18]}
@@ -93,11 +93,6 @@ class FieldChecker():
 
         """
         return os.path.join(MERCAT_DIR, fieldid+'.fits')
-        #result = self.meta.field('mercat')[ self.meta.field('id') == fieldid ]
-        #if len(result) == 1:
-        #    return MERCAT_DIR+'/'+result[0]
-        #else:
-        #    raise Exception('Could not find mercat filename for %s in metadata table' % fieldid)
 
     def crossmatch(self, file1, file2):
         """
@@ -115,7 +110,6 @@ class FieldChecker():
                       " params=0.5 out=/tmp/%s_xmatch.fits 2> /dev/null" % (self.field) )
 
         for c in cmd:
-            # print c
             os.system(c)
 
     def plot(self, partner1, partner2):
@@ -129,10 +123,7 @@ class FieldChecker():
         labels = ['Ha', "r", "i"]
 
         # Count number of crossmatched stars
-        d = pyfits.getdata('/tmp/%s_xmatch.fits' % self.field, 1)
-        c_star = ((d['rClass_1'] == -1) & (d['rClass_2'] == -1)
-                    & (d['iClass_1'] == -1) & (d['iClass_2'] == -1)
-                    & (d['hClass_1'] == -1) & (d['hClass_2'] == -1) )        
+        d = pyfits.getdata('/tmp/%s_xmatch.fits' % self.field, 1)   
         for idx, band in enumerate(['h', 'r', 'i']):
             ax = fig.add_subplot(3, 1, idx+1)
 
