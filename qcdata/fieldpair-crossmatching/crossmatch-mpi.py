@@ -160,9 +160,6 @@ class FieldChecker():
         """
         # Count number of crossmatched stars
         d = pyfits.getdata('/tmp/%s_xmatch.fits' % self.field, 1)
-        #c_star = ((d['rClass_1'] == -1) & (d['rClass_2'] == -1)
-        #            & (d['iClass_1'] == -1) & (d['iClass_2'] == -1)
-        #            & (d['hClass_1'] == -1) & (d['hClass_2'] == -1) )
         c_bright_star = (   (d['r_1'] > MAG_LIMITS['r'][0]) 
                           & (d['r_1'] < MAG_LIMITS['r'][1])
                           & (d['i_1'] > MAG_LIMITS['i'][0]) 
