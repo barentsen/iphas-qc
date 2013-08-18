@@ -338,3 +338,89 @@
 7292_oct2004     # Clouds
 7292o_oct2004     # Clouds
 4085o_jul2008     # Clouds
+0348_oct2004     # Calibration failure
+0348o_oct2004    # Calibration failure
+0530o_nov2006c   # Gain variation too strong
+0531_nov2006c    # Gain var
+0531o_nov2006c   # Gain var
+0531o_oct2003    # Poor alternative
+0988_oct2005b    # Calibration trouble
+0988o_oct2005b   # Calibration trouble
+0992_oct2005b    # Calibration trouble
+0992o_oct2005b   # Calibration trouble
+0992o_nov2003b   # Poor alternative
+1393_oct2004     # Calibration trouble
+1393o_oct2004     # Calibration trouble
+1395_oct2004     # Calibration trouble
+1395o_oct2004     # Calibration trouble
+1396_oct2004     # Calibration trouble
+1396o_oct2004     # Calibration trouble
+1398_oct2004     # Calibration trouble
+1398o_oct2004     # Calibration trouble
+1399_oct2004     # Calibration trouble
+1399o_oct2004     # Calibration trouble
+1400_oct2004     # Calibration trouble
+1400o_oct2004     # Calibration trouble
+1401_oct2004     # Calibration trouble
+1401o_oct2004     # Calibration trouble
+1403_oct2004     # Calibration trouble
+1403o_oct2004     # Calibration trouble
+1404_oct2004     # Calibration trouble
+1404o_oct2004     # Calibration trouble
+1406_oct2004     # Calibration trouble
+1406o_oct2004     # Calibration trouble
+1407_oct2004     # Calibration trouble
+1407o_oct2004     # Calibration trouble
+1410_oct2004     # Calibration trouble
+1410o_oct2004     # Calibration trouble
+1411_oct2004     # Calibration trouble
+1411o_oct2004     # Calibration trouble
+1412_oct2004     # Calibration trouble
+1412o_oct2004     # Calibration trouble
+1413_oct2004     # Calibration trouble
+1413o_oct2004     # Calibration trouble
+1416_oct2004     # Calibration trouble
+1416o_oct2004     # Calibration trouble
+1448_nov2006d   # Gain var
+1448o_nov2006d   # Gain var
+1443_nov2006d   # Gain var
+1443o_nov2006d   # Gain var
+1449o_nov2006d   # Gain var
+1564_dec2006   # Clouds
+1564o_dec2006  # Clouds
+1564_nov2005   # Poor alternative
+1564o_nov2005  # Poor alternative
+2547o_nov2006d # Gain var
+2667_nov2006d # Gain var
+2667o_nov2006d # Gain var
+2987_dec2005 # Clouds
+3011_oct2005b # Calib
+3206o_dec2005 # Clouds
+3280o_nov2005 # Clouds
+3331_dec2008 # Astrometry
+3401o_dec2006 # Gain
+3403_dec2006 # Gain
+3403o_dec2006 # Gain
+3431_dec2006 # Gain
+3431o_dec2006 # Gain
+3436_dec2006 # Gain
+3436o_dec2006 # Gain
+3454_dec2006 # Gain
+3454o_dec2006 # Gain
+3515_nov2007 # Clouds
+3515o_nov2007 # Clouds
+3812_nov2006c # Gain
+3812o_nov2006c # Gain
+3878_nov2006c # Gain
+3878o_nov2006c # Gain
+3878o_oct2005b # Poor alternative
+4008_jan2008 # Clouds
+4231_jul2007 # bah
+4231o_jul2007 # bah
+4231_jun2004 # Poor alternative
+4231_jun2005 # Poor alternative
+4231o_jun2004 # Poor alternative
+4231o_jun2005 # Poor alternative
+6628_nov2006d # Gain
+7577o_nov2006c # Gain
+7577o_oct2005b # Poor alternative
