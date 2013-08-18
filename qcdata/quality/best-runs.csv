@@ -4848,8 +4848,8 @@ id,is_best
 1746o_nov2006b,False
 1746o_oct2004,False
 1746o_oct2012,True
-1747_nov2006b,False
-1747_oct2004,True
+1747_nov2006b,True
+1747_oct2004,False
 1747o_nov2006b,True
 1748_dec2005,True
 1748o_dec2005,True
@@ -9001,8 +9001,8 @@ id,is_best
 3366o_nov2012,True
 3367_oct2006,True
 3367o_oct2006,True
-3368_dec2005,False
-3368_dec2006,True
+3368_dec2005,True
+3368_dec2006,False
 3368o_dec2006,True
 3369_dec2006,True
 3369o_dec2006,True
@@ -10147,8 +10147,8 @@ id,is_best
 3878_dec2003,False
 3878_nov2006c,True
 3878o_dec2003,False
-3878o_nov2006c,True
-3878o_oct2005b,False
+3878o_nov2006c,False
+3878o_oct2005b,True
 3879_dec2007,False
 3879_dec2008,True
 3879o_dec2007,False
@@ -10466,8 +10466,8 @@ id,is_best
 4006o_dec2008,True
 4007_dec2008,True
 4007o_dec2008,True
-4008_dec2008,False
-4008_jan2008,True
+4008_dec2008,True
+4008_jan2008,False
 4008o_dec2008,True
 4009_dec2008,True
 4009o_dec2008,True
@@ -11150,9 +11150,9 @@ id,is_best
 4231_jul2007,True
 4231_jun2004,False
 4231_jun2005,False
-4231o_jul2007,True
+4231o_jul2007,False
 4231o_jun2004,False
-4231o_jun2005,False
+4231o_jun2005,True
 4232_jun2004,True
 4232o_jun2004,True
 4233_jun2004,True
