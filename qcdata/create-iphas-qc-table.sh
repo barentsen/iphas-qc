@@ -194,7 +194,7 @@ echo "============================"
 echo "Anchors"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
-in2=calibration/anchors-r.csv ifmt2=csv \
+in2=calibration/anchors-r-initial.csv ifmt2=csv \
 matcher=exact join=all1 find=best1 \
 values1="run_r" values2="run" \
 fixcols="dups" suffix1="" suffix2="_anchors_r" \
