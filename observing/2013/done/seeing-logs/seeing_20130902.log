@@ -1,0 +1,270 @@
+r1011857.fit is not a target (FLAT)
+r1011858.fit is not a target (FLAT)
+r1011859.fit is not a target (FLAT)
+r1011860.fit is not a target (FLAT)
+r1011861.fit is not a target (FLAT)
+r1011862.fit is not a target (FLAT)
+r1011863.fit is not a target (FLAT)
+r1011864.fit is not a target (BIAS)
+r1011865.fit is not a target (BIAS)
+r1011866.fit is not a target (BIAS)
+r1011867.fit is not a target (BIAS)
+r1011868.fit is not a target (BIAS)
+r1011869.fit is not a target (BIAS)
+r1011870.fit is not a target (BIAS)
+r1011871.fit is not a target (SKY)
+r1011872.fit is not a target (SKY)
+r1011873.fit is not a target (SKY)
+r1011874.fit is not a target (SKY)
+r1011875.fit is not a target (SKY)
+r1011876.fit is not a target (SKY)
+r1011877.fit is not a target (SKY)
+r1011878.fit is not a target (SKY)
+r1011879.fit is not a target (SKY)
+r1011880.fit is not a target (SKY)
+r1011881.fit is not a target (SKY)
+r1011882.fit is not a target (FOCUS)
+r1011883.fit  4.06  1.34 0.070    38.1 from  62 sources of SA110-246 i
+r1011884.fit  4.49  1.48 0.054    26.7 from  18 sources of SA110-246 g
+r1011885.fit  5.12  1.69 0.085    21.8 from  14 sources of SA110-246 U
+r1011886.fit  4.25  1.40 0.079    31.6 from  24 sources of SA110-246 r
+r1011887.fit  4.61  1.52 0.035    26.6 from  29 sources of SA110-246 Ha
+r1011888.fit  3.73  1.23 0.072    33.1 from 204 sources of kepler_0129 Ha
+r1011889.fit  3.50  1.16 0.089    61.4 from 565 sources of kepler_0129 r
+r1011890.fit  4.75  1.57 0.072    32.3 from  80 sources of kepler_0129 U
+r1011891.fit  3.92  1.29 0.055    43.1 from 379 sources of kepler_0129 g
+r1011892.fit  4.24  1.40 0.072   103.6 from 368 sources of kepler_0129 i
+r1011893.fit  4.45  1.47 0.039    34.2 from 155 sources of kepler_0129o Ha
+r1011894.fit  4.45  1.47 0.077   103.4 from 413 sources of kepler_0129o r
+r1011895.fit  5.54  1.83 0.077    34.5 from  57 sources of kepler_0129o U
+r1011896.fit  5.00  1.65 0.049    49.2 from 287 sources of kepler_0129o g
+r1011897.fit  4.24  1.40 0.044   117.5 from 367 sources of kepler_0129o i
+r1011898.fit  4.57  1.51 0.115    32.7 from 199 sources of kepler_0130 Ha
+r1011899.fit  4.04  1.33 0.066    89.4 from 454 sources of kepler_0130 r
+r1011900.fit  4.86  1.60 0.053    25.0 from  83 sources of kepler_0130 U
+r1011901.fit  4.09  1.35 0.066    35.4 from 389 sources of kepler_0130 g
+r1011902.fit  3.57  1.18 0.066    99.3 from 466 sources of kepler_0130 i
+r1011903.fit  3.71  1.22 0.086    25.6 from 191 sources of kepler_0130o Ha
+r1011904.fit  3.61  1.19 0.053    68.5 from 458 sources of kepler_0130o r
+r1011905.fit  4.66  1.54 0.042    29.1 from  67 sources of kepler_0130o U
+r1011906.fit  3.75  1.24 0.044    35.2 from 385 sources of kepler_0130o g
+r1011907.fit  3.45  1.14 0.067   103.9 from 463 sources of kepler_0130o i
+r1011908.fit  3.70  1.22 0.055    25.7 from 200 sources of kepler_0131 Ha
+r1011909.fit  4.09  1.35 0.075    79.6 from 399 sources of kepler_0131 r
+r1011910.fit  4.32  1.43 0.041    22.7 from  88 sources of kepler_0131 U
+r1011911.fit  3.46  1.14 0.070    33.7 from 430 sources of kepler_0131 g
+r1011912.fit  2.81  0.93 0.062    97.8 from 572 sources of kepler_0131 i
+r1011913.fit  3.46  1.14 0.079    24.0 from 206 sources of kepler_0131o Ha
+r1011914.fit  3.78  1.25 0.067    75.5 from 446 sources of kepler_0131o r
+r1011915.fit  4.05  1.34 0.066    26.0 from  93 sources of kepler_0131o U
+r1011916.fit  3.50  1.16 0.043    32.3 from 403 sources of kepler_0131o g
+r1011917.fit  3.58  1.18 0.099   108.4 from 416 sources of kepler_0131o i
+r1011918.fit  3.77  1.24 0.080    27.2 from 195 sources of kepler_0132 Ha
+r1011919.fit  3.30  1.09 0.085    77.1 from 541 sources of kepler_0132 r
+r1011920.fit  4.38  1.45 0.078    32.8 from  87 sources of kepler_0132 U
+r1011921.fit  4.01  1.32 0.055    30.7 from 354 sources of kepler_0132 g
+r1011922.fit  3.25  1.07 0.080   110.6 from 488 sources of kepler_0132 i
+r1011923.fit  3.41  1.13 0.049    25.6 from 215 sources of kepler_0132o Ha
+r1011924.fit  3.48  1.15 0.061    61.9 from 498 sources of kepler_0132o r
+r1011925.fit  4.51  1.49 0.064    20.8 from  87 sources of kepler_0132o U
+r1011926.fit  3.80  1.25 0.048    35.0 from 389 sources of kepler_0132o g
+r1011927.fit  4.29  1.42 0.047    87.0 from 343 sources of kepler_0132o i
+r1011928.fit  4.00  1.32 0.067    24.5 from 151 sources of kepler_0134 Ha
+r1011929.fit  3.45  1.14 0.052    84.6 from 438 sources of kepler_0134 r
+r1011930.fit  4.74  1.56 0.036    28.0 from  67 sources of kepler_0134 U
+r1011931.fit  3.94  1.30 0.039    42.4 from 307 sources of kepler_0134 g
+r1011932.fit  3.21  1.06 0.059   104.5 from 446 sources of kepler_0134 i
+r1011933.fit  3.83  1.26 0.050    34.9 from 147 sources of kepler_0134o Ha
+r1011934.fit  3.39  1.12 0.036    81.7 from 450 sources of kepler_0134o r
+r1011935.fit  4.76  1.57 0.095    30.9 from  68 sources of kepler_0134o U
+r1011936.fit  4.01  1.32 0.033    47.3 from 296 sources of kepler_0134o g
+r1011937.fit  3.38  1.12 0.055   102.9 from 415 sources of kepler_0134o i
+r1011938.fit  4.17  1.38 0.041    62.2 from 153 sources of PTFS1118M
+r1011939.fit  5.49  1.81 0.087    60.3 from  53 sources of PTFS1122S
+r1011940.fit  5.50  1.82 0.041    74.4 from 102 sources of SA112-250 i
+r1011941.fit  5.09  1.68 0.074    26.1 from  24 sources of SA112-250 g
+r1011942.fit  5.27  1.74 0.354    52.0 from  10 sources of SA112-250 U
+r1011943.fit  4.61  1.52 0.046    46.0 from  38 sources of SA112-250 r
+r1011944.fit  4.26  1.41 0.079    56.1 from  88 sources of SA112-250 Ha
+r1011945.fit  4.48  1.48 0.071    70.5 from 396 sources of intphas_5569 Ha
+r1011946.fit  4.67  1.54 0.093    77.1 from 1184 sources of intphas_5569 r
+r1011947.fit  3.03  1.00 0.092    73.6 from 1972 sources of intphas_5569 i
+r1011948.fit  3.60  1.19 0.070    72.3 from 668 sources of intphas_5569o Ha
+r1011949.fit  3.59  1.18 0.089    91.0 from 1868 sources of intphas_5569o r
+r1011950.fit  4.04  1.33 0.100    94.8 from 1263 sources of intphas_5569o i
+r1011951.fit  3.93  1.30 0.114    77.5 from 603 sources of intphas_5609 Ha
+r1011952.fit  3.37  1.11 0.092    85.9 from 2249 sources of intphas_5609 r
+r1011953.fit  3.24  1.07 0.094    73.8 from 1905 sources of intphas_5609 i
+r1011954.fit  3.83  1.26 0.071    75.2 from 592 sources of intphas_5609o Ha
+r1011955.fit  4.54  1.50 0.079   100.4 from 1253 sources of intphas_5609o r
+r1011956.fit  4.02  1.33 0.083    95.2 from 1254 sources of intphas_5609o i
+r1011957.fit  4.14  1.37 0.053    67.5 from 513 sources of intphas_5774 Ha
+r1011958.fit  4.21  1.39 0.072   121.9 from 1409 sources of intphas_5774 r
+r1011959.fit  3.75  1.24 0.074    94.3 from 1338 sources of intphas_5774 i
+r1011960.fit  4.00  1.32 0.054    68.7 from 578 sources of intphas_5784 Ha
+r1011961.fit  5.50  1.82 0.104   114.9 from 1000 sources of intphas_5784 r
+r1011962.fit  4.05  1.34 0.086    95.8 from 1215 sources of intphas_5784 i
+r1011963.fit  4.70  1.55 0.100    62.7 from 194 sources of intphas_5811 Ha
+r1011964.fit  3.58  1.18 0.051   115.7 from 530 sources of intphas_5811 r
+r1011965.fit  3.03  1.00 0.061    99.5 from 699 sources of intphas_5811 i
+r1011966.fit  3.53  1.16 0.059    63.2 from 270 sources of intphas_5811o Ha
+r1011967.fit  3.99  1.32 0.117   102.2 from 517 sources of intphas_5811o r
+r1011968.fit  2.92  0.96 0.065   101.3 from 714 sources of intphas_5811o i
+r1011969.fit  3.81  1.26 0.130    68.3 from 295 sources of intphas_5835o Ha
+r1011970.fit  4.34  1.43 0.068    85.1 from 535 sources of intphas_5835o r
+r1011971.fit  4.38  1.45 0.058    75.6 from 482 sources of intphas_5835o i
+r1011972.fit  4.83  1.59 0.036    61.8 from 100 sources of intphas_6123 Ha
+r1011973.fit  4.83  1.59 0.026   105.3 from 175 sources of intphas_6123 r
+r1011974.fit  4.85  1.60 0.038    98.9 from 157 sources of intphas_6123 i
+r1011975.fit  4.15  1.37 0.037    54.0 from 129 sources of intphas_6123o Ha
+r1011976.fit  4.11  1.36 0.028    90.5 from 192 sources of intphas_6123o r
+r1011977.fit  4.67  1.54 0.036   101.5 from 156 sources of intphas_6123o i
+r1011978.fit  5.64  1.86 0.064    54.4 from 223 sources of intphas_6135 Ha
+r1011979.fit  4.57  1.51 0.069   110.9 from 792 sources of intphas_6135 r
+r1011980.fit  4.32  1.43 0.067    99.3 from 659 sources of intphas_6135 i
+r1011981.fit  5.05  1.67 0.064    63.3 from 278 sources of intphas_6135o Ha
+r1011982.fit  5.34  1.76 0.076    42.8 from 644 sources of intphas_6135o r
+r1011983.fit  4.15  1.37 0.076    55.0 from 723 sources of intphas_6135o i
+r1011984.fit  4.80  1.58 0.085    47.1 from 304 sources of intphas_5532o Ha
+r1011985.fit  5.15  1.70 0.086   106.0 from 723 sources of intphas_5532o r
+r1011986.fit  3.89  1.28 0.083   103.7 from 941 sources of intphas_5532o i
+r1011987.fit  5.58  1.84 0.087    57.1 from 221 sources of intphas_5532 Ha
+r1011988.fit  5.13  1.69 0.094    78.6 from 788 sources of intphas_5532 r
+r1011989.fit  4.19  1.38 0.084    81.8 from 878 sources of intphas_5532 i
+r1011990.fit  3.76  1.24 0.042    66.7 from 109 sources of intphas_6088o Ha
+r1011991.fit  4.78  1.58 0.030   107.5 from 147 sources of intphas_6088o r
+r1011992.fit  4.28  1.41 0.056   109.6 from 168 sources of intphas_6088o i
+r1011993.fit  5.75  1.90 0.039    64.0 from  61 sources of intphas_6088 Ha
+r1011994.fit  4.55  1.50 0.049   111.2 from 148 sources of intphas_6088 r
+r1011995.fit  3.87  1.28 0.036   111.2 from 188 sources of intphas_6088 i
+r1011996.fit  3.91  1.29 0.049   215.6 from 199 sources of intphas_6777 Ha
+r1011997.fit  4.85  1.60 0.061   255.0 from 337 sources of intphas_6777 r
+r1011998.fit  3.40  1.12 0.060   243.2 from 556 sources of intphas_6777 i
+r1011999.fit  3.81  1.26 0.046   213.1 from 180 sources of intphas_6777o Ha
+r1012000.fit  3.63  1.20 0.074   236.1 from 484 sources of intphas_6777o r
+r1012001.fit  3.70  1.22 0.051   248.2 from 479 sources of intphas_6777o i
+r1012002.fit  4.75  1.57 0.043    35.6 from  17 sources of Feige110 Ha
+r1012003.fit  5.06  1.67 0.046    29.6 from   9 sources of Feige110 r
+r1012004.fit  5.25  1.73 0.095    28.5 from   7 sources of Feige110 i
+r1012005.fit  4.02  1.33 0.053    44.3 from 667 sources of intphas_6949o Ha
+r1012006.fit  4.14  1.37 0.066    92.4 from 1599 sources of intphas_6949o r
+r1012007.fit  3.16  1.04 0.063    91.3 from 1568 sources of intphas_6949o i
+r1012008.fit  3.31  1.09 0.064    34.5 from 839 sources of intphas_6952 Ha
+r1012009.fit  4.28  1.41 0.068    85.1 from 1550 sources of intphas_6952 r
+r1012010.fit  3.43  1.13 0.074    85.9 from 1460 sources of intphas_6952 i
+r1012011.fit  4.12  1.36 0.069    40.6 from 623 sources of intphas_6952o Ha
+r1012012.fit  4.51  1.49 0.076    74.4 from 1555 sources of intphas_6952o r
+r1012013.fit  3.81  1.26 0.072    92.0 from 1253 sources of intphas_6952o i
+r1012014.fit  3.90  1.29 0.072    46.5 from 563 sources of intphas_6953 Ha
+r1012015.fit  3.89  1.28 0.069    88.2 from 1429 sources of intphas_6953 r
+r1012016.fit  3.01  0.99 0.063    87.5 from 1454 sources of intphas_6953 i
+r1012017.fit  3.80  1.25 0.066    35.4 from 535 sources of intphas_6953o Ha
+r1012018.fit  4.04  1.33 0.058    35.4 from 1297 sources of intphas_6953o r
+r1012019.fit  4.43  1.46 0.098    88.4 from 800 sources of intphas_6953o i
+r1012020.fit  4.01  1.32 0.045    45.5 from 170 sources of intphas_6954 Ha
+r1012021.fit  3.71  1.22 0.047   102.5 from 523 sources of intphas_6954 r
+r1012022.fit  3.46  1.14 0.053    89.0 from 536 sources of intphas_6954 i
+r1012023.fit  4.38  1.45 0.053    44.3 from 157 sources of intphas_6954o Ha
+r1012024.fit  3.84  1.27 0.053    96.6 from 495 sources of intphas_6954o r
+r1012025.fit  3.50  1.16 0.084    90.6 from 561 sources of intphas_6954o i
+r1012026.fit  3.83  1.26 0.062    38.5 from 542 sources of intphas_6955 Ha
+r1012027.fit  3.73  1.23 0.067    74.6 from 1617 sources of intphas_6955 r
+r1012028.fit  3.66  1.21 0.067    88.9 from 1084 sources of intphas_6955 i
+r1012029.fit  3.84  1.27 0.072    45.2 from 591 sources of intphas_6955o Ha
+r1012030.fit  3.00  0.99 0.073    88.8 from 2157 sources of intphas_6955o r
+r1012031.fit  2.98  0.98 0.082    93.0 from 1430 sources of intphas_6955o i
+r1012032.fit  3.66  1.21 0.095    43.7 from 332 sources of intphas_0039 Ha
+r1012033.fit  3.67  1.21 0.062    80.7 from 754 sources of intphas_0039 r
+r1012034.fit  3.40  1.12 0.067    81.0 from 642 sources of intphas_0039 i
+r1012035.fit  3.79  1.25 0.049    41.4 from 308 sources of intphas_0039o Ha
+r1012036.fit  3.49  1.15 0.055    79.3 from 776 sources of intphas_0039o r
+r1012037.fit  2.98  0.98 0.067    79.0 from 764 sources of intphas_0039o i
+r1012038.fit  3.97  1.31 0.101    47.0 from 362 sources of intphas_0186 Ha
+r1012039.fit  3.27  1.08 0.080    81.5 from 1187 sources of intphas_0186 r
+r1012040.fit  3.07  1.01 0.073   246.1 from 1016 sources of intphas_0186 i
+r1012041.fit  3.50  1.16 0.053   218.5 from 397 sources of intphas_0186o Ha
+r1012042.fit  3.63  1.20 0.070   246.5 from 872 sources of intphas_0186o r
+r1012043.fit  3.19  1.05 0.096   240.2 from 871 sources of intphas_0186o i
+r1012044.fit  3.33  1.10 0.066   205.0 from 174 sources of intphas_0187 Ha
+r1012045.fit  3.64  1.20 0.063   242.2 from 336 sources of intphas_0187 r
+r1012046.fit  3.40  1.12 0.061   224.3 from 357 sources of intphas_0187 i
+r1012047.fit  3.54  1.17 0.047   198.6 from 144 sources of intphas_0187o Ha
+r1012048.fit  3.64  1.20 0.057   242.1 from 291 sources of intphas_0187o r
+r1012049.fit  3.56  1.17 0.059   242.4 from 320 sources of intphas_0187o i
+r1012050.fit  3.78  1.25 0.078   205.6 from 386 sources of intphas_0188 Ha
+r1012051.fit  3.39  1.12 0.068    55.4 from 1082 sources of intphas_0188 r
+r1012052.fit  3.03  1.00 0.083    36.9 from 972 sources of intphas_0188 i
+r1012053.fit  3.74  1.23 0.099    28.1 from 403 sources of intphas_0188o Ha
+r1012054.fit  4.77  1.57 0.149    83.1 from 806 sources of intphas_0188o r
+r1012055.fit  3.20  1.06 0.102    77.3 from 933 sources of intphas_0188o i
+r1012056.fit  4.36  1.44 0.130    22.3 from  24 sources of Feige22 Ha
+r1012057.fit  3.26  1.08 0.075    20.5 from  18 sources of Feige22 r
+r1012058.fit  3.24  1.07 0.093    25.5 from  21 sources of Feige22 i
+r1012059.fit  3.66  1.21 0.064    28.8 from  22 sources of Feige22 r
+r1012060.fit  5.10  1.68 0.057    25.0 from  11 sources of Feige22 U
+r1012061.fit  4.05  1.34 0.031    25.8 from  11 sources of Feige22 g
+r1012062.fit  3.74  1.23 0.114    87.2 from 433 sources of uvex_1729 r
+r1012063.fit  4.60  1.52 0.138    28.6 from  48 sources of uvex_1729 U
+r1012064.fit  4.26  1.41 0.132    41.7 from 221 sources of uvex_1729 g
+r1012065.fit  4.26  1.41 0.130    83.5 from 407 sources of uvex_1729o r
+r1012066.fit  4.91  1.62 0.143    31.1 from  47 sources of uvex_1729o U
+r1012067.fit  4.20  1.39 0.117    51.6 from 230 sources of uvex_1729o g
+r1012068.fit  4.73  1.56 0.184    69.8 from 465 sources of uvex_1732 r
+r1012069.fit  4.92  1.62 0.165    26.8 from  45 sources of uvex_1732 U
+r1012070.fit  4.15  1.37 0.105    51.2 from 327 sources of uvex_1732 g
+r1012071.fit  4.00  1.32 0.109    68.6 from 537 sources of uvex_1732o r
+r1012072.fit  4.77  1.57 0.134    36.0 from  59 sources of uvex_1732o U
+r1012073.fit  4.25  1.40 0.080    39.8 from 314 sources of uvex_1732o g
+r1012074.fit  4.04  1.33 0.108    62.1 from 602 sources of uvex_1734 r
+r1012075.fit  4.80  1.58 0.117    28.6 from  72 sources of uvex_1734 U
+r1012076.fit  4.40  1.45 0.098    53.9 from 336 sources of uvex_1734 g
+r1012077.fit  4.67  1.54 0.070    82.4 from 459 sources of uvex_1734o r
+r1012078.fit  4.93  1.63 0.098    28.3 from  78 sources of uvex_1734o U
+r1012079.fit  4.29  1.42 0.087    35.2 from 371 sources of uvex_1734o g
+r1012080.fit  4.11  1.36 0.095    84.3 from 279 sources of uvex_1736 r
+r1012081.fit  4.62  1.52 0.107    35.4 from  24 sources of uvex_1736 U
+r1012082.fit  4.28  1.41 0.095    46.6 from 127 sources of uvex_1736 g
+r1012083.fit  4.28  1.41 0.066    84.4 from 227 sources of uvex_1736o r
+r1012084.fit  5.21  1.72 0.085    25.6 from  28 sources of uvex_1736o U
+r1012085.fit  4.58  1.51 0.095    51.7 from 107 sources of uvex_1736o g
+r1012086.fit  3.95  1.30 0.107    89.4 from 311 sources of uvex_1737 r
+r1012087.fit  4.82  1.59 0.144    34.1 from  23 sources of uvex_1737 U
+r1012088.fit  4.11  1.36 0.108    45.6 from 132 sources of uvex_1737 g
+r1012089.fit  4.11  1.36 0.080    84.5 from 260 sources of uvex_1737o r
+r1012090.fit  4.42  1.46 0.128    26.6 from  28 sources of uvex_1737o U
+r1012091.fit  4.07  1.34 0.097    47.1 from 134 sources of uvex_1737o g
+r1012092.fit  3.70  1.22 0.105    84.6 from 358 sources of uvex_1738 r
+r1012093.fit  4.71  1.55 0.128    33.1 from  46 sources of uvex_1738 U
+r1012094.fit  3.77  1.24 0.085    52.9 from 189 sources of uvex_1738 g
+r1012095.fit  4.24  1.40 0.090    79.0 from 333 sources of uvex_1738o r
+r1012096.fit  5.81  1.92 0.077    36.7 from  15 sources of uvex_1738o U
+r1012097.fit  3.63  1.20 0.109    45.6 from 229 sources of uvex_1738o g
+r1012098.fit  3.64  1.20 0.095    21.6 from 620 sources of uvex_1740 r
+r1012099.fit  4.28  1.41 0.118    20.9 from  67 sources of uvex_1740 U
+r1012100.fit  3.79  1.25 0.072    33.5 from 348 sources of uvex_1740 g
+r1012101.fit  3.94  1.30 0.114    71.8 from 573 sources of uvex_1740o r
+r1012102.fit  4.64  1.53 0.119    15.5 from  57 sources of uvex_1740o U
+r1012103.fit  3.89  1.28 0.098    32.8 from 384 sources of uvex_1740o g
+r1012104.fit  3.92  1.29 0.130    54.3 from 614 sources of uvex_1742 r
+r1012105.fit  4.61  1.52 0.132    11.4 from  79 sources of uvex_1742 U
+r1012106.fit  3.95  1.30 0.094    23.7 from 393 sources of uvex_1742 g
+r1012107.fit  3.57  1.18 0.091    34.6 from 629 sources of uvex_1742o r
+r1012108.fit  4.55  1.50 0.122    15.4 from  68 sources of uvex_1742o U
+r1012109.fit  3.79  1.25 0.101    37.9 from 383 sources of uvex_1742o g
+r1012110.fit  3.59  1.18 0.122    72.2 from 668 sources of uvex_1744 r
+r1012111.fit  4.42  1.46 0.108    27.7 from  78 sources of uvex_1744 U
+r1012112.fit  3.35  1.11 0.091    38.0 from 523 sources of uvex_1744 g
+r1012113.fit  3.33  1.10 0.097    29.5 from 747 sources of uvex_1744o r
+r1012114.fit  4.18  1.38 0.117    33.9 from 107 sources of uvex_1744o U
+r1012115.fit  3.39  1.12 0.101   116.0 from 511 sources of uvex_1744o g
+r1012116.fit  3.35  1.11 0.095   125.8 from 447 sources of uvex_1746 r
+r1012117.fit  4.44  1.47 0.106   115.6 from  40 sources of uvex_1746 U
+r1012118.fit  3.41  1.13 0.084   305.3 from 252 sources of uvex_1746 g
+r1012119.fit  3.15  1.04 0.081   286.4 from 559 sources of uvex_1746o r
+r1012120.fit  4.41  1.46 0.091   330.4 from  45 sources of uvex_1746o U
+r1012121.fit  4.08  1.35 0.108   944.5 from 218 sources of uvex_1746o g
+r1012122.fit  3.82  1.26 0.107   712.0 from  63 sources of SA95-271 i
+r1012123.fit  3.71  1.22 0.079   914.4 from  42 sources of SA95-271 g
+r1012124.fit  4.18  1.38 0.069  1554.0 from  24 sources of SA95-271 U
+r1012125.fit  4.21  1.39 0.041   706.7 from  31 sources of SA95-271 r
+r1012126.fit  3.96  1.31 0.044  1056.3 from  32 sources of SA95-271 Ha

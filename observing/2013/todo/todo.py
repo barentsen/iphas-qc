@@ -130,8 +130,7 @@ def priority_b():
     mask_priority_b = ( IPHASQC['is_dr2'] & 
                         (IPHASQC['l'] < 90) &
                            (
-                                (IPHASQC['seeing_max'] >= 1.8) |
-                                (IPHASQC['r5sig_judged'] < 20.0)
+                                (IPHASQC['seeing_max'] >= 1.8)
                             )
                       )
     for idx in np.where(mask_priority_b)[0]:
@@ -154,7 +153,7 @@ if __name__ == "__main__":
     todo = IPHASToDo()
     todo.add_fields(priority_a())
     todo.add_fields(scattered_light())
-    todo.add_fields(priority_b())
+    #todo.add_fields(priority_b())
     todo.print_stats()
     todo.write_todo_files()
     todo.write_done_file()
