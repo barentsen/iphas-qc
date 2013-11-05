@@ -67,10 +67,10 @@ def interpret_logs(csv_filename):
 
             if len(l_filters) == 3 and l_filters == ['Ha', 'r', 'i']:
                 # Does the observation statisfy the quality constraints?
-                if ( np.all(np.array(l_seeing) < 3.)
-                        and np.all(np.array(l_ellipt) < 0.4)
-                        and np.all(np.array(l_sky) < 20000)
-                        and np.all(np.array(l_sources) > 1) ):
+                if ( np.all(np.array(l_seeing) < 2.5)
+                        and np.all(np.array(l_ellipt) < 0.3)
+                        and np.all(np.array(l_sky) < 2000)
+                        and np.all(np.array(l_sources) > 5) ):
                     fields_done.append(myfield)
     return fields_done
 
