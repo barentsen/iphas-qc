@@ -115,9 +115,9 @@ def priority_a():
     for fieldnumber in np.arange(1, 7635+0.1, 1, dtype=int):
         fieldnumber = '{0:04d}'.format(fieldnumber)
         for field in [fieldnumber, fieldnumber+'o']:
-            idx_field = np.where(IPHASQC['is_dr2'] & (IPHASQC['field'] == field))
+            idx_field = np.where(IPHASQC['is_dr2'] & (IPHASQC['field'] == field))[0]
             if (len(idx_field) > 0) and IPHASQC['qflag'][idx_field].startswith('A'):
-                # Pass
+                #if (len(idx_field) > 0):
                 pass
             else:
                 fields.append(field)
@@ -153,7 +153,7 @@ if __name__ == "__main__":
     todo = IPHASToDo()
     todo.add_fields(priority_a())
     todo.add_fields(scattered_light())
-    todo.add_fields(priority_b())
+    #todo.add_fields(priority_b())
     todo.print_stats()
     todo.write_todo_files()
     todo.write_done_file()

@@ -1,0 +1,368 @@
+r1025685.fit is not a target (BIAS)
+r1025686.fit is not a target (SKY)
+r1025687.fit is not a target (SKY)
+r1025689.fit is not a target (SKY)
+r1025690.fit is not a target (SKY)
+r1025691.fit is not a target (SKY)
+r1025692.fit is not a target (SKY)
+r1025693.fit is not a target (SKY)
+r1025694.fit is not a target (SKY)
+r1025696.fit is not a target (SKY)
+r1025697.fit is not a target (SKY)
+r1025698.fit is not a target (SKY)
+r1025699.fit is not a target (SKY)
+r1025700.fit is not a target (SKY)
+r1025701.fit is not a target (SKY)
+r1025702.fit is not a target (SKY)
+r1025703.fit is not a target (SKY)
+r1025704.fit is not a target (SKY)
+r1025705.fit is not a target (SKY)
+r1025706.fit is not a target (SKY)
+r1025707.fit is not a target (FOCUS)
+r1025708.fit is not a target (FOCUS)
+r1025709.fit 13.27  4.38 0.086   109.8 from  30 sources of ceph
+r1025710.fit  9.92  3.27 0.083   107.9 from  49 sources of ceph
+r1025711.fit 10.57  3.49 0.076   107.5 from  50 sources of ceph
+r1025712.fit 13.35  4.41 0.098   110.3 from  28 sources of ceph
+r1025713.fit  9.04  2.98 0.058   214.3 from 122 sources of ceph
+r1025714.fit  9.07  2.99 0.057   211.3 from 124 sources of ceph
+r1025715.fit  7.10  2.34 0.063   209.0 from 181 sources of ceph
+r1025716.fit  9.33  3.08 0.055   208.6 from 118 sources of ceph
+r1025717.fit 10.09  3.33 0.075   209.2 from  98 sources of ceph
+r1025718.fit  7.03  2.32 0.071   207.5 from 193 sources of ceph
+r1025719.fit  6.96  2.30 0.085   207.0 from 204 sources of ceph
+r1025720.fit  8.31  2.74 0.069   206.1 from 145 sources of ceph
+r1025721.fit  8.10  2.67 0.066   199.7 from 147 sources of ceph
+r1025722.fit  6.30  2.08 0.073   195.8 from 232 sources of ceph
+r1025723.fit  7.36  2.43 0.057   201.8 from 181 sources of ceph
+r1025724.fit  8.49  2.80 0.059   202.3 from 143 sources of ceph
+r1025725.fit  9.52  3.14 0.062   203.9 from 113 sources of ceph
+r1025726.fit  7.69  2.54 0.059    80.0 from  94 sources of intphas_0677 Ha
+r1025727.fit  8.32  2.75 0.066   177.5 from 225 sources of intphas_0677 r
+r1025728.fit  8.79  2.90 0.084   131.6 from 156 sources of intphas_0677 i
+r1025729.fit  7.98  2.63 0.067    81.1 from  87 sources of intphas_0677o Ha
+r1025730.fit 11.02  3.64 0.052   186.9 from 131 sources of intphas_0677o r
+r1025731.fit  8.45  2.79 0.053   138.3 from 168 sources of intphas_0677o i
+r1025732.fit  7.66  2.53 0.069    37.0 from 100 sources of intphas_0678 Ha
+r1025733.fit  6.47  2.14 0.070   160.7 from 417 sources of intphas_0678 r
+r1025734.fit  7.53  2.48 0.095   128.4 from 247 sources of intphas_0678 i
+r1025735.fit  7.01  2.31 0.088    76.5 from 123 sources of intphas_0678o Ha
+r1025736.fit  6.34  2.09 0.080   157.3 from 453 sources of intphas_0678o r
+r1025737.fit  5.81  1.92 0.082    45.8 from 401 sources of intphas_0678o i
+r1025738.fit  6.13  2.02 0.086    65.2 from 178 sources of intphas_0679 Ha
+r1025739.fit  5.71  1.88 0.092   152.9 from 517 sources of intphas_0679 r
+r1025740.fit  5.78  1.91 0.118   117.3 from 445 sources of intphas_0679 i
+r1025741.fit  6.42  2.12 0.103    70.5 from 162 sources of intphas_0679o Ha
+r1025742.fit  6.14  2.03 0.125   145.1 from 564 sources of intphas_0679o r
+r1025743.fit  5.91  1.95 0.122   120.7 from 418 sources of intphas_0679o i
+r1025744.fit  5.56  1.83 0.074    65.1 from 222 sources of intphas_0695 Ha
+r1025745.fit  5.76  1.90 0.104   148.3 from 515 sources of intphas_0695 r
+r1025746.fit  5.63  1.86 0.081   101.9 from 380 sources of intphas_0695 i
+r1025747.fit  6.47  2.14 0.083    68.1 from 134 sources of intphas_0695o Ha
+r1025748.fit  6.13  2.02 0.078   147.6 from 474 sources of intphas_0695o r
+r1025749.fit  6.15  2.03 0.084   117.6 from 340 sources of intphas_0695o i
+r1025750.fit  6.12  2.02 0.069   191.7 from 244 sources of cephOB3
+r1025751.fit  7.30  2.41 0.055   190.3 from 169 sources of cephOB3
+r1025752.fit  6.32  2.09 0.079   193.5 from 231 sources of cephOB3
+r1025753.fit  6.04  1.99 0.068   190.3 from 248 sources of cephOB3
+r1025754.fit  7.35  2.43 0.065   193.3 from 170 sources of cephOB3
+r1025755.fit  7.54  2.49 0.071   194.1 from 167 sources of cephOB3
+r1025756.fit  7.90  2.61 0.200    38.5 from 191 sources of cephOB3
+r1025757.fit  6.72  2.22 0.055   196.1 from 210 sources of cephOB3
+r1025758.fit  7.36  2.43 0.062   196.1 from 175 sources of cephOB3
+r1025759.fit  6.77  2.23 0.056   196.7 from 210 sources of cephOB3
+r1025760.fit  6.68  2.20 0.091   199.0 from 204 sources of cephOB3
+r1025761.fit  5.94  1.96 0.079   185.0 from 271 sources of cephOB3
+r1025762.fit  8.63  2.85 0.088   201.0 from 144 sources of cephOB3
+r1025763.fit  8.59  2.83 0.049   200.9 from 142 sources of cephOB3
+r1025764.fit  7.05  2.33 0.058   201.4 from 185 sources of cephOB3
+r1025765.fit  6.71  2.21 0.060   199.7 from 210 sources of cephOB3
+r1025766.fit  7.12  2.35 0.080   198.8 from 189 sources of cephOB3
+r1025767.fit  6.85  2.26 0.085   196.9 from 205 sources of cephOB3
+r1025768.fit  6.58  2.17 0.069   196.2 from 209 sources of cephOB3
+r1025769.fit  6.32  2.09 0.084   193.7 from 245 sources of cephOB3
+r1025770.fit  6.18  2.04 0.069   193.2 from 249 sources of cephOB3
+r1025771.fit  6.89  2.27 0.081   195.4 from 199 sources of cephOB3
+r1025772.fit  6.33  2.09 0.063   194.1 from 233 sources of cephOB3
+r1025773.fit  7.50  2.48 0.054   194.0 from 172 sources of cephOB3
+r1025774.fit  6.31  2.08 0.071   194.3 from 236 sources of cephOB3
+r1025775.fit  6.76  2.23 0.090   194.9 from 204 sources of cephOB3
+r1025776.fit  6.20  2.05 0.059   192.7 from 247 sources of cephOB3
+r1025777.fit  6.06  2.00 0.064   193.1 from 252 sources of cephOB3
+r1025778.fit  7.26  2.40 0.110   195.2 from 187 sources of cephOB3
+r1025779.fit  7.69  2.54 0.066   194.4 from 170 sources of cephOB3
+r1025780.fit  7.90  2.61 0.054   193.4 from 157 sources of cephOB3
+r1025781.fit  6.53  2.15 0.066   191.4 from 211 sources of cephOB3
+r1025782.fit  8.08  2.67 0.067   191.7 from 149 sources of cephOB3
+r1025783.fit  7.04  2.32 0.059   195.1 from 189 sources of cephOB3
+r1025784.fit  8.93  2.95 0.062   193.3 from 127 sources of cephOB3
+r1025785.fit  6.91  2.28 0.052   188.6 from 199 sources of cephOB3
+r1025786.fit  7.43  2.45 0.080   190.3 from 182 sources of cephOB3
+r1025787.fit  6.06  2.00 0.081   190.0 from 242 sources of cephOB3
+r1025788.fit  5.30  1.75 0.070   178.2 from 323 sources of cephOB3
+r1025789.fit  6.78  2.24 0.066   189.9 from 202 sources of cephOB3
+r1025790.fit  6.49  2.14 0.119   186.9 from 233 sources of cephOB3
+r1025791.fit  7.13  2.35 0.048   189.0 from 184 sources of cephOB3
+r1025792.fit  6.19  2.04 0.056   183.9 from 248 sources of cephOB3
+r1025793.fit  5.87  1.94 0.063   182.5 from 255 sources of cephOB3
+r1025794.fit  6.50  2.15 0.099   185.4 from 238 sources of cephOB3
+r1025795.fit  6.44  2.13 0.059   184.2 from 232 sources of cephOB3
+r1025796.fit  5.87  1.94 0.052   181.8 from 258 sources of cephOB3
+r1025797.fit  6.63  2.19 0.077   188.4 from 204 sources of cephOB3
+r1025798.fit  5.73  1.89 0.069   173.4 from 255 sources of cephOB3
+r1025799.fit  5.79  1.91 0.066   182.1 from 264 sources of cephOB3
+r1025800.fit  5.90  1.95 0.055   181.1 from 257 sources of cephOB3
+r1025801.fit  6.57  2.17 0.071   183.3 from 211 sources of cephOB3
+r1025802.fit  6.32  2.09 0.051   182.2 from 221 sources of cephOB3
+r1025803.fit  6.50  2.15 0.055   182.2 from 210 sources of cephOB3
+r1025804.fit  6.19  2.04 0.047   179.8 from 237 sources of cephOB3
+r1025805.fit  6.62  2.18 0.049   183.0 from 209 sources of cephOB3
+r1025806.fit  6.04  1.99 0.062   181.1 from 251 sources of cephOB3
+r1025807.fit  6.46  2.13 0.072   185.2 from 214 sources of cephOB3
+r1025808.fit  6.06  2.00 0.067   185.1 from 244 sources of cephOB3
+r1025809.fit  5.78  1.91 0.068   183.0 from 256 sources of cephOB3
+r1025810.fit  6.07  2.00 0.099   182.3 from 255 sources of cephOB3
+r1025811.fit  5.67  1.87 0.050   178.5 from 274 sources of cephOB3
+r1025812.fit  5.43  1.79 0.062   169.0 from 288 sources of cephOB3
+r1025813.fit  5.41  1.79 0.056   168.9 from 297 sources of cephOB3
+r1025814.fit  5.39  1.78 0.069   169.3 from 297 sources of cephOB3
+r1025815.fit  5.40  1.78 0.066   183.0 from 257 sources of cephOB3
+r1025816.fit  5.64  1.86 0.069   188.0 from 225 sources of cephOB3
+r1025817.fit  5.82  1.92 0.054   187.0 from 207 sources of cephOB3
+r1025818.fit  5.92  1.95 0.079   186.0 from 195 sources of cephOB3
+r1025819.fit  5.06  1.67 0.062   181.2 from 245 sources of cephOB3
+r1025820.fit  6.39  2.11 0.052   185.8 from 159 sources of cephOB3
+r1025821.fit  6.06  2.00 0.046   183.1 from 198 sources of cephOB3
+r1025822.fit  5.35  1.77 0.057   180.3 from 230 sources of cephOB3
+r1025823.fit  5.71  1.88 0.058   185.2 from 197 sources of cephOB3
+r1025824.fit  6.21  2.05 0.050   186.6 from 136 sources of cephOB3
+r1025825.fit  5.24  1.73 0.058   188.0 from 179 sources of cephOB3
+r1025826.fit  5.61  1.85 0.087   183.1 from 200 sources of cephOB3
+r1025827.fit  6.24  2.06 0.078   181.0 from 204 sources of cephOB3
+r1025828.fit  5.50  1.82 0.063   165.2 from 279 sources of cephOB3
+r1025829.fit  6.10  2.01 0.058   175.9 from 235 sources of cephOB3
+r1025830.fit  6.42  2.12 0.051   178.7 from 202 sources of cephOB3
+r1025831.fit  6.58  2.17 0.052   178.7 from 205 sources of cephOB3
+r1025832.fit  5.68  1.87 0.073   176.9 from 252 sources of cephOB3
+r1025833.fit  5.97  1.97 0.065   179.2 from 209 sources of cephOB3
+r1025834.fit  5.91  1.95 0.068   175.5 from 227 sources of cephOB3
+r1025835.fit  6.54  2.16 0.047   178.3 from 191 sources of cephOB3
+r1025836.fit  6.33  2.09 0.059   178.8 from 178 sources of cephOB3
+r1025837.fit  6.11  2.02 0.047   178.9 from 195 sources of cephOB3
+r1025838.fit  5.03  1.66 0.054   165.6 from 259 sources of cephOB3
+r1025839.fit  5.13  1.69 0.056   178.1 from 240 sources of cephOB3
+r1025840.fit is not a target (FOCUS)
+r1025841.fit is not a target (FOCUS)
+r1025842.fit  6.07  2.00 0.071    16.8 from  21 sources of f1
+r1025843.fit  5.49  1.81 0.091    43.4 from  71 sources of f1
+r1025844.fit  7.52  2.48 0.101    20.8 from  12 sources of f1
+r1025845.fit  6.27  2.07 0.100   112.3 from  27 sources of f1
+r1025846.fit  5.01  1.65 0.065    27.8 from  24 sources of f1
+r1025847.fit  6.22  2.05 0.072   114.3 from  67 sources of f1
+r1025848.fit  5.65  1.86 0.066    22.1 from  25 sources of f1
+r1025849.fit  6.13  2.02 0.075    91.6 from  54 sources of f1
+r1025850.fit  7.17  2.37 0.055    20.0 from  20 sources of f1
+r1025851.fit  6.34  2.09 0.056    63.4 from  74 sources of f1
+r1025852.fit  4.99  1.65 0.101    26.5 from  42 sources of f1
+r1025853.fit  5.53  1.82 0.078    65.0 from  70 sources of f1
+r1025854.fit  4.60  1.52 0.110    20.1 from  40 sources of f1
+r1025855.fit  5.89  1.94 0.068    48.5 from  67 sources of f1
+r1025856.fit  6.94  2.29 0.070    17.6 from  24 sources of f2
+r1025857.fit  5.74  1.89 0.099    46.3 from  81 sources of f2
+r1025858.fit  6.65  2.19 0.066    37.6 from  14 sources of f2
+r1025859.fit  7.82  2.58 0.037    85.7 from  24 sources of f2
+r1025860.fit  8.12  2.68 0.028    73.4 from  12 sources of f2
+r1025861.fit  6.49  2.14 0.098   128.0 from  70 sources of f2
+r1025862.fit  5.82  1.92 0.069    30.1 from  27 sources of f2
+r1025863.fit  6.43  2.12 0.059    83.9 from  49 sources of f2
+r1025864.fit  9.35  3.09 0.082    29.4 from   8 sources of f2
+r1025865.fit  6.35  2.10 0.053    66.3 from  89 sources of f2
+r1025866.fit  6.84  2.26 0.058    34.0 from  34 sources of f2
+r1025867.fit  5.22  1.72 0.059    76.0 from  80 sources of f2
+r1025868.fit  4.94  1.63 0.065    37.1 from  38 sources of f2
+r1025869.fit  5.40  1.78 0.098    66.5 from  83 sources of f2
+r1025870.fit  5.67  1.87 0.067    41.4 from  26 sources of f3
+r1025871.fit  7.30  2.41 0.064    73.3 from  65 sources of f3
+r1025872.fit  8.03  2.65 0.099    54.5 from  11 sources of f3
+r1025873.fit  6.54  2.16 0.065   139.8 from  32 sources of f3
+r1025874.fit  5.27  1.74 0.088    60.1 from  30 sources of f3
+r1025875.fit  6.04  1.99 0.103   155.3 from  83 sources of f3
+r1025876.fit 10.20  3.37 0.196    51.9 from  19 sources of f3
+r1025877.fit 14.14  4.67 0.053   110.7 from  35 sources of f3
+r1025878.fit  5.94  1.96 0.074    52.1 from  31 sources of f3
+r1025879.fit  6.40  2.11 0.082    88.7 from  75 sources of f3
+r1025880.fit  5.16  1.70 0.083    53.3 from  46 sources of f3
+r1025881.fit  4.26  1.41 0.079    95.7 from 105 sources of f3
+r1025882.fit  5.47  1.81 0.045    40.9 from  30 sources of f3
+r1025883.fit  5.85  1.93 0.039    69.3 from  79 sources of f3
+r1025884.fit  4.62  1.52 0.073    41.3 from  35 sources of f1
+r1025885.fit  6.58  2.17 0.050    71.9 from  68 sources of f1
+r1025886.fit  6.62  2.18 0.080    51.8 from  13 sources of f1
+r1025887.fit  8.47  2.80 0.042   124.2 from  26 sources of f1
+r1025888.fit  5.68  1.87 0.067    59.5 from  22 sources of f1
+r1025889.fit  6.52  2.15 0.140   142.1 from  82 sources of f1
+r1025890.fit  5.95  1.96 0.079    41.1 from  22 sources of f1
+r1025891.fit  5.70  1.88 0.063   103.3 from  58 sources of f1
+r1025892.fit  5.34  1.76 0.062    42.3 from  35 sources of f1
+r1025893.fit  5.10  1.68 0.051    85.8 from 103 sources of f1
+r1025894.fit  5.18  1.71 0.093    52.7 from  44 sources of f1
+r1025895.fit  5.44  1.80 0.044    87.3 from  69 sources of f1
+r1025896.fit  7.57  2.50 0.043    41.8 from  18 sources of f1
+r1025897.fit  6.44  2.13 0.080    66.4 from  66 sources of f1
+r1025898.fit  5.05  1.67 0.122    39.9 from  37 sources of f2
+r1025899.fit  5.99  1.98 0.043    71.0 from  70 sources of f2
+r1025900.fit  6.67  2.20 0.043    74.1 from   9 sources of f2
+r1025901.fit  7.24  2.39 0.042   148.8 from  23 sources of f2
+r1025902.fit  4.84  1.60 0.043    58.8 from  30 sources of f2
+r1025903.fit  5.01  1.65 0.125   162.3 from  76 sources of f2
+r1025904.fit 37.49 12.37 0.143    45.1 from  19 sources of f2
+r1025905.fit  5.11  1.69 0.081    98.9 from  64 sources of f2
+r1025906.fit  5.05  1.67 0.090    41.5 from  37 sources of f2
+r1025907.fit  4.33  1.43 0.090    84.4 from 137 sources of f2
+r1025908.fit  5.89  1.94 0.062    49.8 from  38 sources of f2
+r1025909.fit  4.33  1.43 0.081    89.3 from  90 sources of f2
+r1025910.fit  5.58  1.84 0.113    41.3 from  32 sources of f2
+r1025911.fit  5.63  1.86 0.076    69.3 from  72 sources of f2
+r1025912.fit  8.12  2.68 0.055    45.8 from  17 sources of f3
+r1025913.fit  5.40  1.78 0.104    67.7 from  82 sources of f3
+r1025914.fit  8.41  2.78 0.103    56.3 from  11 sources of f3
+r1025915.fit  6.69  2.21 0.073   141.2 from  36 sources of f3
+r1025916.fit  5.83  1.92 0.045    59.2 from  24 sources of f3
+r1025917.fit  6.75  2.23 0.105   155.7 from  73 sources of f3
+r1025918.fit  5.44  1.80 0.074    44.2 from  29 sources of f3
+r1025919.fit  6.26  2.07 0.068   100.9 from  64 sources of f3
+r1025920.fit  5.15  1.70 0.073    40.8 from  37 sources of f3
+r1025921.fit  5.02  1.66 0.075    86.0 from 119 sources of f3
+r1025922.fit  4.85  1.60 0.063    53.4 from  50 sources of f3
+r1025923.fit  5.37  1.77 0.083    96.6 from  84 sources of f3
+r1025924.fit  5.07  1.67 0.120    38.7 from  39 sources of f3
+r1025925.fit  5.84  1.93 0.083    69.4 from  83 sources of f3
+r1025926.fit  6.54  2.16 0.046    45.7 from  22 sources of f1
+r1025927.fit  5.85  1.93 0.079    71.4 from  78 sources of f1
+r1025928.fit  7.03  2.32 0.073    54.4 from  13 sources of f1
+r1025929.fit  7.57  2.50 0.072   156.9 from  26 sources of f1
+r1025930.fit  5.40  1.78 0.078    56.6 from  27 sources of f1
+r1025931.fit  6.07  2.00 0.070   133.0 from  68 sources of f1
+r1025932.fit  9.58  3.16 0.042    52.6 from  15 sources of f1
+r1025933.fit  9.46  3.12 0.066   119.5 from  39 sources of f1
+r1025934.fit  7.10  2.34 0.055    48.5 from  17 sources of f1
+r1025935.fit  5.11  1.69 0.069    92.8 from  89 sources of f1
+r1025936.fit  7.01  2.31 0.061    56.4 from  25 sources of f1
+r1025937.fit  5.69  1.88 0.053    94.5 from  65 sources of f1
+r1025938.fit  6.03  1.99 0.035    46.9 from  17 sources of f1
+r1025939.fit  6.43  2.12 0.042    74.9 from  59 sources of f1
+r1025940.fit  7.71  2.54 0.079    49.6 from  12 sources of f2
+r1025941.fit  6.42  2.12 0.072    71.4 from  63 sources of f2
+r1025942.fit  9.23  3.05 0.153    64.3 from   9 sources of f2
+r1025943.fit  8.87  2.93 0.056   140.9 from  21 sources of f2
+r1025944.fit  5.49  1.81 0.122    98.4 from  10 sources of f2
+r1025945.fit  6.49  2.14 0.060   194.0 from  64 sources of f2
+r1025946.fit  6.12  2.02 0.092    52.2 from  18 sources of f2
+r1025947.fit  8.81  2.91 0.045   108.1 from  42 sources of f2
+r1025948.fit  6.05  2.00 0.059    43.9 from  17 sources of f2
+r1025949.fit  7.50  2.48 0.048    87.7 from  60 sources of f2
+r1025950.fit  6.13  2.02 0.070    56.5 from  23 sources of f2
+r1025951.fit  6.40  2.11 0.060   103.6 from  54 sources of f2
+r1025952.fit  6.38  2.11 0.080    42.3 from  14 sources of f2
+r1025953.fit  7.50  2.48 0.054    77.2 from  56 sources of f2
+r1025954.fit  8.75  2.89 0.133    44.1 from  12 sources of f3
+r1025955.fit  6.66  2.20 0.052    78.3 from  59 sources of f3
+r1025956.fit  6.94  2.29 0.134    57.6 from  13 sources of f3
+r1025957.fit  6.64  2.19 0.057   144.5 from  29 sources of f3
+r1025958.fit  4.71  1.55 0.049    61.6 from  22 sources of f3
+r1025959.fit  6.56  2.16 0.110   174.5 from  62 sources of f3
+r1025960.fit  4.84  1.60 0.102    52.7 from  29 sources of f3
+r1025961.fit  5.84  1.93 0.067   132.4 from  58 sources of f3
+r1025962.fit  7.96  2.63 0.086    51.7 from  17 sources of f3
+r1025963.fit  6.67  2.20 0.081    93.0 from  80 sources of f3
+r1025964.fit  7.12  2.35 0.055    56.4 from  28 sources of f3
+r1025965.fit  5.66  1.87 0.054    42.7 from  73 sources of f3
+r1025966.fit  7.25  2.39 0.066    50.0 from  19 sources of f3
+r1025967.fit  6.40  2.11 0.079    73.6 from  75 sources of f3
+r1025968.fit  6.57  2.17 0.054    48.7 from  20 sources of f1
+r1025969.fit  5.73  1.89 0.072    75.1 from  72 sources of f1
+r1025970.fit  6.95  2.29 0.077    57.1 from  11 sources of f1
+r1025971.fit  7.42  2.45 0.077   155.8 from  27 sources of f1
+r1025972.fit  5.42  1.79 0.091    59.5 from  24 sources of f1
+r1025973.fit  6.38  2.11 0.076   129.4 from  64 sources of f1
+r1025974.fit  6.23  2.06 0.025    45.5 from  22 sources of f1
+r1025975.fit  6.30  2.08 0.059   115.8 from  47 sources of f1
+r1025976.fit  4.69  1.55 0.081    49.2 from  42 sources of f1
+r1025977.fit  5.56  1.83 0.050    95.5 from  89 sources of f1
+r1025978.fit 10.96  3.62 0.122    59.5 from  19 sources of f1
+r1025979.fit  6.21  2.05 0.055    90.2 from  61 sources of f1
+r1025980.fit  5.19  1.71 0.055    42.4 from  27 sources of f1
+r1025981.fit  6.66  2.20 0.114    75.1 from  69 sources of f1
+r1025982.fit  6.57  2.17 0.045    49.3 from  21 sources of f2
+r1025983.fit  6.37  2.10 0.060    77.7 from  71 sources of f2
+r1025984.fit  7.99  2.64 0.111    76.0 from   8 sources of f2
+r1025985.fit  7.38  2.44 0.033   126.4 from  26 sources of f2
+r1025986.fit  6.27  2.07 0.036    80.2 from  21 sources of f2
+r1025987.fit  5.88  1.94 0.089   159.0 from  77 sources of f2
+r1025988.fit  8.97  2.96 0.073    49.7 from  19 sources of f2
+r1025989.fit  7.24  2.39 0.079   109.6 from  53 sources of f2
+r1025990.fit  6.42  2.12 0.051    54.3 from  29 sources of f2
+r1025991.fit  4.09  1.35 0.043    90.4 from 142 sources of f2
+r1025992.fit  6.81  2.25 0.060    60.7 from  32 sources of f2
+r1025993.fit  6.62  2.18 0.054   101.9 from  54 sources of f2
+r1025994.fit  4.71  1.55 0.052    47.8 from  34 sources of f2
+r1025995.fit  5.70  1.88 0.062    78.8 from  70 sources of f2
+r1025996.fit  4.70  1.55 0.050    39.9 from  35 sources of f3
+r1025997.fit  5.80  1.91 0.077    74.5 from  78 sources of f3
+r1025998.fit  5.53  1.82 0.059    78.4 from  10 sources of f3
+r1025999.fit  5.48  1.81 0.052   149.9 from  25 sources of f3
+r1026000.fit  5.39  1.78 0.050    59.8 from  19 sources of f3
+r1026001.fit  5.95  1.96 0.079   200.9 from  66 sources of f3
+r1026002.fit  9.33  3.08 0.038    60.4 from  11 sources of f3
+r1026003.fit  8.41  2.78 0.076   130.6 from  47 sources of f3
+r1026004.fit  5.28  1.74 0.079    50.6 from  23 sources of f3
+r1026005.fit  5.83  1.92 0.090    98.5 from  86 sources of f3
+r1026006.fit  6.45  2.13 0.053    59.4 from  28 sources of f3
+r1026007.fit  6.52  2.15 0.055   123.0 from  64 sources of f3
+r1026008.fit  4.92  1.62 0.051    42.8 from  23 sources of f3
+r1026009.fit  6.82  2.25 0.089    83.3 from  66 sources of f3
+r1026010.fit  4.92  1.62 0.050    44.5 from  21 sources of f1
+r1026011.fit  6.13  2.02 0.056    81.6 from  60 sources of f1
+r1026012.fit  7.72  2.55 0.104    58.6 from  13 sources of f1
+r1026013.fit  8.41  2.78 0.063   140.7 from  27 sources of f1
+r1026014.fit  7.97  2.63 0.066    65.8 from  10 sources of f1
+r1026015.fit  7.84  2.59 0.094   133.4 from  60 sources of f1
+r1026016.fit  5.48  1.81 0.041    49.2 from  24 sources of f1
+r1026017.fit  5.92  1.95 0.059   126.1 from  52 sources of f1
+r1026018.fit  4.85  1.60 0.029    48.3 from  36 sources of f1
+r1026019.fit  5.82  1.92 0.079   103.2 from  79 sources of f1
+r1026020.fit  5.12  1.69 0.054    58.7 from  36 sources of f1
+r1026021.fit  5.34  1.76 0.061   107.0 from  62 sources of f1
+r1026022.fit  4.55  1.50 0.069    43.0 from  28 sources of f1
+r1026023.fit  5.97  1.97 0.052    81.8 from  65 sources of f1
+r1026024.fit  4.06  1.34 0.060    47.5 from  34 sources of f2
+r1026025.fit  6.28  2.07 0.060    81.4 from  65 sources of f2
+r1026026.fit  6.08  2.01 0.083    62.1 from  11 sources of f2
+r1026027.fit  6.43  2.12 0.063   136.0 from  17 sources of f2
+r1026028.fit  4.54  1.50 0.163    63.5 from   5 sources of f2
+r1026029.fit  6.77  2.23 0.068   185.0 from  20 sources of f2
+r1026030.fit 11.62  3.83 0.028    55.1 from   7 sources of f2
+r1026031.fit  6.05  2.00 0.141   110.3 from  19 sources of f2
+r1026032.fit  6.51  2.15 0.034    55.3 from   7 sources of f2
+r1026033.fit  5.67  1.87 0.094   104.0 from  10 sources of f2
+r1026034.fit  4.53  1.49 0.032    62.0 from  11 sources of f2
+r1026035.fit  5.66  1.87 0.044   119.2 from  30 sources of f2
+r1026036.fit  6.33  2.09 0.166    48.6 from   8 sources of f2
+r1026037.fit  6.30  2.08 0.041    83.3 from  21 sources of f2
+r1026038.fit  7.03  2.32 0.103    41.2 from  11 sources of f3
+r1026039.fit  5.69  1.88 0.053    83.4 from  41 sources of f3
+r1026040.fit  8.92  2.94 0.143    64.8 from  12 sources of f3
+r1026041.fit  4.24  1.40 0.057   180.4 from  16 sources of f3
+r1026042.fit  4.81  1.59 0.062    66.2 from  12 sources of f3
+r1026043.fit  6.74  2.22 0.139   173.4 from  29 sources of f3
+r1026044.fit  5.35  1.77 0.080    56.1 from  13 sources of f3
+r1026045.fit 15.54  5.13 0.086   161.4 from  19 sources of f3
+r1026046.fit  9.86  3.25 0.061    52.8 from   7 sources of f3
+r1026047.fit  6.49  2.14 0.060   143.8 from  31 sources of f3
+r1026048.fit  4.68  1.54 0.045    69.6 from   9 sources of f3
+r1026049.fit  4.87  1.61 0.028   156.4 from  32 sources of f3
+r1026050.fit  5.86  1.93 0.074    57.0 from  16 sources of f3
+r1026051.fit  6.14  2.03 0.075   162.3 from  55 sources of f3
+r1026052.fit  6.90  2.28 0.052    82.2 from  17 sources of BD+750325 Ha
+r1026053.fit  5.94  1.96 0.036   147.5 from  37 sources of BD+750325 r
+r1026054.fit  5.52  1.82 0.042   100.6 from  12 sources of BD+750325 i
