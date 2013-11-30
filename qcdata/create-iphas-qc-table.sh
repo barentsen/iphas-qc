@@ -144,7 +144,7 @@ echo "============================"
 echo "Adding in quality flags (A++, A+, A, B, C)"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
-in2=quality/quality.csv ifmt2=csv \
+in2=quality/quality-dr2.csv ifmt2=csv \
 matcher=exact join=all1 find=best1 \
 values1="id" values2="id" \
 fixcols="dups" suffix1="" suffix2="_qual" \
@@ -164,7 +164,7 @@ echo "============================"
 echo "Adding in new APASS shifts"
 echo "============================"
 $STILTS tmatch2 in1=$TMP ifmt1=fits \
-in2=apass/APASS_precalibration_allfields.fits ifmt2=fits \
+in2=apass/APASS_precalibration_rc4.fits ifmt2=fits \
 matcher=exact join=all1 find=best1 \
 values1="id" values2="Field" \
 fixcols="all" suffix1="" suffix2="_apassdr7" \

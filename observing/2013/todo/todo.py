@@ -115,9 +115,9 @@ def priority_a():
     for fieldnumber in np.arange(1, 7635+0.1, 1, dtype=int):
         fieldnumber = '{0:04d}'.format(fieldnumber)
         for field in [fieldnumber, fieldnumber+'o']:
-            idx_field = np.where(IPHASQC['is_dr2'] & (IPHASQC['field'] == field))
+            idx_field = np.where(IPHASQC['is_dr2'] & (IPHASQC['field'] == field))[0]
             if (len(idx_field) > 0) and IPHASQC['qflag'][idx_field].startswith('A'):
-                # Pass
+                #if (len(idx_field) > 0):
                 pass
             else:
                 fields.append(field)
@@ -128,10 +128,9 @@ def priority_b():
     """Returns a list of field to be repeated with the second highest priority"""
     fields = []
     mask_priority_b = ( IPHASQC['is_dr2'] & 
-                        (IPHASQC['l'] < 90) &
+                        (IPHASQC['l'] < 120) &
                            (
-                                (IPHASQC['seeing_max'] >= 1.8) |
-                                (IPHASQC['r5sig_judged'] < 20.0)
+                                (IPHASQC['seeing_max'] > 1.8)
                             )
                       )
     for idx in np.where(mask_priority_b)[0]:
