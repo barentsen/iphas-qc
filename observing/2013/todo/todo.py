@@ -128,9 +128,9 @@ def priority_b():
     """Returns a list of field to be repeated with the second highest priority"""
     fields = []
     mask_priority_b = ( IPHASQC['is_dr2'] & 
-                        (IPHASQC['l'] < 100) &
+                        (IPHASQC['l'] < 120) &
                            (
-                                (IPHASQC['seeing_max'] >= 1.7)
+                                (IPHASQC['seeing_max'] > 1.8)
                             )
                       )
     for idx in np.where(mask_priority_b)[0]:
@@ -153,7 +153,7 @@ if __name__ == "__main__":
     todo = IPHASToDo()
     todo.add_fields(priority_a())
     todo.add_fields(scattered_light())
-    #todo.add_fields(priority_b())
+    todo.add_fields(priority_b())
     todo.print_stats()
     todo.write_todo_files()
     todo.write_done_file()
