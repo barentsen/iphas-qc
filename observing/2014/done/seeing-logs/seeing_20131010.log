@@ -1,0 +1,77 @@
+r1018370.fit is not a target (BIAS)
+r1018371.fit is not a target (BIAS)
+r1018372.fit is not a target (BIAS)
+r1018373.fit is not a target (BIAS)
+r1018374.fit is not a target (BIAS)
+r1018375.fit is not a target (BIAS)
+r1018376.fit is not a target (BIAS)
+r1018377.fit is not a target (BIAS)
+r1018378.fit is not a target (BIAS)
+r1018379.fit is not a target (BIAS)
+r1018380.fit is not a target (BIAS)
+r1018381.fit is not a target (BIAS)
+r1018382.fit is not a target (BIAS)
+r1018383.fit 70.19 23.16 0.238  2265.6 from   1 sources of BLANK4
+r1018384.fit is not a target (SKY)
+r1018385.fit is not a target (FLAT)
+r1018386.fit is not a target (FLAT)
+r1018387.fit is not a target (FLAT)
+r1018388.fit is not a target (FLAT)
+r1018389.fit is not a target (FLAT)
+r1018390.fit is not a target (FLAT)
+r1018391.fit is not a target (FLAT)
+r1018392.fit is not a target (FLAT)
+r1018393.fit is not a target (FLAT)
+r1018394.fit is not a target (FLAT)
+r1018395.fit is not a target (FLAT)
+r1018396.fit is not a target (FLAT)
+r1018397.fit is not a target (FLAT)
+r1018398.fit is not a target (FOCUS)
+r1018399.fit  3.13  1.03 0.104    69.2 from 150 sources of intphas_6330 Ha
+r1018400.fit  2.86  0.94 0.116   125.8 from 398 sources of intphas_6330 r
+r1018401.fit  2.64  0.87 0.106   130.9 from 542 sources of intphas_6330 i
+r1018402.fit  3.10  1.02 0.131    63.9 from 131 sources of intphas_6362 Ha
+r1018403.fit  2.90  0.96 0.101    84.6 from 299 sources of intphas_6362 r
+r1018404.fit  2.62  0.86 0.103   123.8 from 449 sources of intphas_6362 i
+r1018405.fit  4.05  1.34 0.142   929.3 from 4763 sources of V1494AQL Ha 1200s
+r1018406.fit  4.52  1.49 0.129   729.1 from 317 sources of M33o18 03 20m
+r1018407.fit  4.78  1.58 0.104   721.5 from 305 sources of M33o18 03 20m
+r1018408.fit  4.45  1.47 0.106   669.4 from 328 sources of M33o18 03 20m
+r1018409.fit  4.32  1.43 0.141   617.0 from 334 sources of M33o20 Ha 20m
+r1018410.fit  4.41  1.46 0.132   374.1 from 324 sources of M33o20 Ha 20m
+r1018411.fit  4.43  1.46 0.106   521.7 from 324 sources of M33o20 Ha 20m
+r1018412.fit  4.61  1.52 0.104  1683.7 from 382 sources of M33o20 r 400s
+r1018413.fit  4.37  1.44 0.131  1674.4 from 408 sources of M33o20 r 400s
+r1018414.fit  4.10  1.35 0.133  1677.5 from 438 sources of M33o20 r 400s
+r1018415.fit  4.17  1.38 0.115   431.7 from 289 sources of M33o20 O3 1200s
+r1018416.fit  4.14  1.37 0.097   428.6 from 298 sources of M33o20 O3 1200s
+r1018417.fit  4.10  1.35 0.088   387.9 from 297 sources of M33o20 O3 1200s
+r1018418.fit  3.96  1.31 0.101  1149.6 from 316 sources of M33o20 g 400s
+r1018419.fit  3.89  1.28 0.099  1165.8 from 322 sources of M33o20 g 400s
+r1018420.fit  3.90  1.29 0.107  1185.9 from 327 sources of M33o20 g 400s
+r1018421.fit  4.11  1.36 0.107   457.5 from 279 sources of M33o14 O3 1200s
+r1018422.fit  3.98  1.31 0.092   460.7 from 291 sources of M33o14 O3 1200s
+r1018423.fit  3.55  1.17 0.056   463.6 from 305 sources of M33o14 O3 1200s
+r1018424.fit  3.88  1.28 0.072  1317.1 from 332 sources of M33o14 g 400s
+r1018425.fit  3.83  1.26 0.054  1321.2 from 331 sources of M33o14 g 400s
+r1018426.fit  3.84  1.27 0.056  1331.4 from 332 sources of M33o14 g 400s
+r1018427.fit  3.61  1.19 0.063   505.4 from 360 sources of M33o14 Ha 1200s
+r1018428.fit  3.30  1.09 0.066   510.1 from 393 sources of M33o14 Ha 1200s
+r1018429.fit  3.10  1.02 0.062   509.1 from 386 sources of M33o14 Ha 1200s
+r1018430.fit  3.01  0.99 0.062  2440.5 from 482 sources of M33o14 r 400s
+r1018431.fit  3.42  1.13 0.091  2474.5 from 455 sources of M33o14 r 400s
+r1018432.fit  3.29  1.09 0.064  2516.9 from 463 sources of M33o14 r 400s
+r1018433.fit  3.43  1.13 0.096  2384.0 from 822 sources of M33o11 r 400s
+r1018435.fit  3.56  1.17 0.103  2338.8 from 473 sources of M33o11 r 400s
+r1018436.fit  3.62  1.19 0.095  2729.0 from 469 sources of M33o11 r 400s
+r1018437.fit  3.73  1.23 0.080  2685.6 from 463 sources of M33o11 r 400s
+r1018438.fit  3.16  1.04 0.043   390.6 from 117 sources of SP0501+527 Ha 20s
+r1018439.fit  2.94  0.97 0.082   486.4 from 119 sources of SP0501+527 Ha 20s
+r1018440.fit  3.19  1.05 0.047   489.4 from  54 sources of SP0501+527 O3 10s
+r1018441.fit  2.99  0.99 0.067   497.8 from 124 sources of SP0501+527 g 3s
+r1018442.fit  7.55  2.49 0.060   506.7 from  60 sources of SP0501+527 g 3s de
+r1018443.fit  5.49  1.81 0.061   511.3 from  85 sources of SP0501+527 g 3s de
+r1018444.fit  3.81  1.26 0.071   506.5 from 157 sources of SP0501+527 r 3s
+r1018445.fit  3.85  1.27 0.178   502.4 from 160 sources of SP0501+527 r 3s_2
+r1018446.fit  3.19  1.05 0.089   531.7 from 113 sources of SP0501+527 Ha 20s_
+r1018447.fit  2.96  0.98 0.063   514.8 from  53 sources of SP0501+527 O3 10s_
