@@ -46,7 +46,7 @@ if __name__ == '__main__':
 
 
     out = open('moon.csv', 'w')
-    out.write('id,time,moon_altitude,moon_separation,moon_phase\n')
+    out.write('id,time,moon_altitude,moon_azimuth,moon_separation,moon_phase,moon_ra,moon_dec\n')
 
     # Loop over all fields
     d = pyfits.getdata('../iphas-qc.fits', 1)
@@ -64,11 +64,14 @@ if __name__ == '__main__':
         moon_equ = [m.degrees(moon.ra), m.degrees(moon.dec)]
         moon_separation = sphere_distance(field_equ, moon_equ)
 
-        out.write('%s,%s,%.1f,%.1f,%.1f\n' % ( d.field('id')[i],
+        out.write('%s,%s,%.1f,%.1f,%.1f,%.1f,%.3f,%.3f\n' % ( d.field('id')[i],
                                            mytime,
                                            m.degrees(moon.alt),
+                                           m.degrees(moon.az),
                                            moon_separation,
-                                           moon.phase
+                                           moon.phase,
+                                           m.degrees(moon.ra),
+                                           m.degrees(moon.dec)
                                             ))
 
     out.close()
