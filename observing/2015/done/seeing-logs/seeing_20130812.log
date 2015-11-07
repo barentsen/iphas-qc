@@ -1,0 +1,113 @@
+r1004712.fit is not a target (BIAS)
+r1004713.fit is not a target (FLAT)
+r1004714.fit is not a target (FLASH)
+r1004715.fit is not a target (BIAS)
+r1004716.fit is not a target (BIAS)
+r1004717.fit is not a target (BIAS)
+r1004718.fit is not a target (FLASH)
+r1004719.fit is not a target (BIAS)
+r1004720.fit is not a target (SKY)
+r1004721.fit is not a target (SKY)
+r1004722.fit is not a target (SKY)
+r1004723.fit is not a target (SKY)
+r1004724.fit is not a target (SKY)
+r1004725.fit is not a target (SKY)
+r1004726.fit is not a target (SKY)
+r1004727.fit is not a target (SKY)
+r1004728.fit is not a target (SKY)
+r1004729.fit is not a target (SKY)
+r1004730.fit is not a target (SKY)
+r1004731.fit is not a target (SKY)
+r1004732.fit is not a target (SKY)
+r1004733.fit is not a target (SKY)
+r1004734.fit is not a target (SKY)
+r1004735.fit is not a target (SKY)
+r1004736.fit is not a target (SKY)
+r1004737.fit is not a target (SKY)
+r1004738.fit is not a target (SKY)
+r1004739.fit is not a target (SKY)
+r1004740.fit is not a target (FOCUS)
+r1004741.fit  4.37  1.44 0.062   117.3 from  14 sources of ST_PG1657 Ha
+r1004742.fit  4.83  1.59 0.148   280.6 from   9 sources of ST_PG1657 r
+r1004743.fit  4.57  1.51 0.162   136.0 from   2 sources of ST_PG1657 i
+r1004744.fit  4.96  1.64 0.260    56.4 from  10 sources of SA110-246 Ha
+r1004745.fit  5.94  1.96 0.112    44.7 from   4 sources of SA110-246 r
+r1004746.fit  5.26  1.74 0.332    67.9 from   3 sources of SA110-246 i
+r1004747.fit  6.13  2.02 0.215    23.6 from  12 sources of WOLF1346 Ha
+r1004748.fit  7.98  2.63 0.102    21.6 from  13 sources of WOLF1346 r
+r1004749.fit  7.74  2.55 0.141    23.4 from  10 sources of WOLF1346 i
+r1004750.fit is not a target (FOCUS)
+r1004751.fit is not a target (FOCUS)
+r1004752.fit is not a target (FOCUS)
+r1004753.fit  4.34  1.43 0.232    55.2 from   7 sources of WOLF1346 Ha
+r1004754.fit  0.30  0.10 0.483    59.4 from   2 sources of WOLF1346 r
+r1004755.fit no objects found
+r1004756.fit  2.24  0.74 0.280    56.8 from  10 sources of intphas_6404 Ha
+r1004757.fit  4.17  1.38 0.168   243.1 from   9 sources of intphas_6404 r
+r1004758.fit  4.29  1.42 0.168   140.9 from   9 sources of intphas_6404 i
+r1004759.fit  4.44  1.47 0.210    55.8 from  12 sources of intphas_6404 Ha
+r1004760.fit  5.42  1.79 0.090   135.6 from  60 sources of intphas_6404 r
+r1004761.fit  5.16  1.70 0.101   114.5 from  23 sources of intphas_6404 i
+r1004762.fit  4.42  1.46 0.144    71.6 from   9 sources of intphas_6404o Ha
+r1004763.fit  0.84  0.28 0.177   204.6 from   9 sources of intphas_6404o r
+r1004764.fit  2.85  0.94 0.180   112.8 from  10 sources of intphas_6404o i
+r1004765.fit  4.25  1.40 0.323    59.5 from   8 sources of intphas_6408 Ha
+r1004766.fit  4.60  1.52 0.160   173.8 from  10 sources of intphas_6408 r
+r1004767.fit  4.20  1.39 0.168   124.9 from   8 sources of intphas_6408 i
+r1004768.fit  4.72  1.56 0.109    58.9 from  52 sources of intphas_6408o Ha
+r1004769.fit  5.98  1.97 0.134   166.4 from  18 sources of intphas_6408o r
+r1004770.fit  4.47  1.48 0.141   115.0 from   9 sources of intphas_6408o i
+r1004771.fit  4.25  1.40 0.107    51.3 from  12 sources of intphas_6418 Ha
+r1004772.fit  4.30  1.42 0.170   190.8 from  10 sources of intphas_6418 r
+r1004773.fit -3.03 -1.00 0.130   110.9 from   9 sources of intphas_6418 i
+r1004774.fit  4.46  1.47 0.105    72.8 from  12 sources of intphas_6418o Ha
+r1004775.fit  4.38  1.45 0.125   158.5 from  15 sources of intphas_6418o r
+r1004776.fit  6.20  2.05 0.107   103.0 from  56 sources of intphas_6418o i
+r1004777.fit  4.26  1.41 0.103    64.8 from  14 sources of intphas_6404 Ha
+r1004778.fit  4.46  1.47 0.105   146.5 from  43 sources of intphas_6404 r
+r1004779.fit  4.44  1.47 0.108   111.2 from  40 sources of intphas_6404 i
+r1004780.fit  5.15  1.70 0.182    62.1 from  18 sources of intphas_6404o Ha
+r1004781.fit  4.42  1.46 0.097   167.9 from  15 sources of intphas_6404o r
+r1004782.fit  4.28  1.41 0.093   127.5 from  18 sources of intphas_6404o i
+r1004783.fit  4.01  1.32 0.077    63.5 from  51 sources of intphas_6408 Ha
+r1004784.fit  4.03  1.33 0.083   147.5 from  54 sources of intphas_6408 r
+r1004785.fit  4.54  1.50 0.135   108.0 from  97 sources of intphas_6408 i
+r1004786.fit  4.17  1.38 0.103    66.0 from  39 sources of intphas_6408o Ha
+r1004787.fit  4.30  1.42 0.104   148.4 from  73 sources of intphas_6408o r
+r1004788.fit  4.06  1.34 0.105   125.8 from  38 sources of intphas_6408o i
+r1004789.fit  4.51  1.49 0.119    67.3 from  12 sources of intphas_6418 Ha
+r1004790.fit  4.61  1.52 0.106   157.9 from  12 sources of intphas_6418 r
+r1004791.fit  4.73  1.56 0.201   132.8 from   8 sources of intphas_6418 i
+r1004792.fit  4.45  1.47 0.131    66.0 from  11 sources of intphas_6418o Ha
+r1004793.fit  4.61  1.52 0.114   169.5 from  11 sources of intphas_6418o r
+r1004794.fit  4.29  1.42 0.162   132.3 from   8 sources of intphas_6418o i
+r1004795.fit  4.23  1.40 0.291    66.3 from   8 sources of intphas_6419 Ha
+r1004796.fit  4.77  1.57 0.058   170.2 from  18 sources of intphas_6419 r
+r1004797.fit  4.63  1.53 0.178   132.8 from   8 sources of intphas_6419 i
+r1004798.fit  4.40  1.45 0.152    75.6 from   8 sources of intphas_6404 Ha
+r1004799.fit  4.33  1.43 0.066   311.8 from  15 sources of intphas_6404 r
+r1004800.fit  4.87  1.61 0.040   279.7 from  15 sources of intphas_6404 i
+r1004801.fit  4.48  1.48 0.088   216.8 from  17 sources of intphas_6404o Ha
+r1004802.fit  4.32  1.43 0.061   306.8 from  15 sources of intphas_6404o r
+r1004803.fit  4.23  1.40 0.166   277.4 from  10 sources of intphas_6404o i
+r1004804.fit  4.44  1.47 0.237    67.3 from  10 sources of kepler_0033 Ha
+r1004805.fit  3.98  1.31 0.077   150.5 from  17 sources of kepler_0033 r
+r1004806.fit  2.23  0.74 0.251    65.2 from  10 sources of kepler_0033 U
+r1004807.fit  4.74  1.56 0.164    97.2 from  17 sources of kepler_0033 g
+r1004808.fit  4.03  1.33 0.077   155.1 from  81 sources of kepler_0033 i
+r1004809.fit  1.41  0.47 0.231   112.2 from   9 sources of ST_NGC7006 Ha
+r1004810.fit  4.63  1.53 0.181   206.0 from  10 sources of ST_NGC7006 r
+r1004811.fit  3.14  1.04 0.069   121.9 from  11 sources of ST_NGC7006 i
+r1004812.fit  4.32  1.43 0.235   143.6 from  10 sources of ST_NGC7006 He1
+r1004813.fit  4.58  1.51 0.164    90.0 from   5 sources of ST_NGC7006 r
+r1004814.fit  2.23  0.74 0.189    76.2 from  10 sources of ST_NGC7006 U
+r1004815.fit  4.60  1.52 0.170    73.4 from   4 sources of ST_NGC7006 g
+r1004816.fit  2.18  0.72 0.170    62.0 from  11 sources of intphas_6404 Ha
+r1004817.fit  4.18  1.38 0.106   154.7 from  11 sources of intphas_6404 r
+r1004818.fit  4.65  1.53 0.161   137.6 from   8 sources of intphas_6404 i
+r1004819.fit  2.17  0.72 0.119    77.6 from   7 sources of intphas_6404o Ha
+r1004820.fit  4.30  1.42 0.182   155.6 from  10 sources of intphas_6404o r
+r1004821.fit  3.57  1.18 0.032   131.9 from  15 sources of intphas_6404o i
+r1004822.fit  4.35  1.44 0.149    63.4 from  14 sources of intphas_6404 Ha
+r1004823.fit  4.30  1.42 0.103   168.1 from  15 sources of intphas_6404 r
+r1004824.fit  4.65  1.53 0.175   126.0 from   9 sources of intphas_6404 i
