@@ -66,11 +66,17 @@ def interpret_logs(csv_filename):
             l_sources.append(row['sources'])
 
             if len(l_filters) == 3 and l_filters == ['Ha', 'r', 'i']:
+                # Fields with RA >= 5h have numbers between 2070 and 4083
+                is_late_plane = (int(myfield[0:4]) >= 2070) and (int(myfield[0:4]) <= 4083)
                 # Does the observation statisfy the quality constraints?
-                if ( np.all(np.array(l_seeing) < 3.0)
+                if ( is_late_plane or
+                      ( np.all(np.array(l_seeing) < 2.5)
+                        and abs(l_seeing[1] - l_seeing[0]) < 10.5
+                        and abs(l_seeing[1] - l_seeing[2]) < 10.5
                         and np.all(np.array(l_ellipt) < 0.3)
-                        and np.all(np.array(l_sky) < 2000)
-                        and np.all(np.array(l_sources) > 5) ):
+                        and np.all(np.array(l_sky) < 10000)
+                        and np.all(np.array(l_sources) > 10) )
+                    ):
                     fields_done.append(myfield)
     return fields_done
 
@@ -80,7 +86,7 @@ if __name__ == "__main__":
     # Config
     SEEINGLOGS = "seeing-logs/"
     SEEINGLOGS_CSV = 'seeing-logs.csv'
-    DONEFILE = 'iphas-fields-done-in-2013.txt'
+    DONEFILE = 'iphas-fields-done-since-2013.txt'
 
     # First, parse all the seeing log files
     with open(SEEINGLOGS_CSV, 'w') as output:
@@ -93,7 +99,7 @@ if __name__ == "__main__":
 
     # Using the parsed data, figure out which fields have been completed
     fields_done = interpret_logs(SEEINGLOGS_CSV)
-    log.info('Observed {0} IPHAS fields successfully in 2013.'.format(len(fields_done)))
+    log.info('Observed {0} IPHAS fields successfully since 2013.'.format(len(fields_done)))
     with open(DONEFILE, 'w') as output:
         output.write('field\n')
         [output.write(myfield+'\n') for myfield in fields_done]
